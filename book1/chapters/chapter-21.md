@@ -632,11 +632,187 @@ She kisses me again.
 
 ---
 
-Later, my room smells like lamp oil, salt and Sella.
+By the time my door shuts behind us, neither of us is pretending the wine mattered.
 
-The explicit part belongs somewhere I am not writing down.
+Sella puts the bottle on the table. I catch the front of her tunic before she can straighten.
 
-What remains is her lying on her back with one arm over her eyes while I try not to smile at the ceiling.
+“Ankle,” she says against my mouth.
+
+“Attached.”
+
+“Maya.”
+
+“I’m standing on the other one.”
+
+She gives me the look.
+
+I sit on the bed.
+
+“Happy?”
+
+“No.”
+
+She kisses me anyway.
+
+There is less hesitation this time. Not less care. I know the difference now.
+
+I know the shape of her body under my hands and the places that are still new. I know she likes being kissed just below her ear and that if I drag my nails lightly down her back she goes very still before she moves closer. I know better than to grab her ribs.
+
+She knows I am ticklish behind one knee, which is information she should never have been allowed to acquire.
+
+Her hand slides beneath my tunic.
+
+I catch her wrist.
+
+“Your side.”
+
+Her bruises are yellowing at the edges. I saw them when the mender checked her, but seeing them then was different. Professional. Practical. Proof that she had taken a hit and stayed standing.
+
+Now I touch one with two fingers.
+
+She watches my face.
+
+“Does it hurt?”
+
+“Not like that.”
+
+I leave my hand there anyway.
+
+She covers it with hers.
+
+For a moment neither of us moves.
+
+Then she lifts my fingers and kisses my palm.
+
+The tenderness lands somewhere dangerous.
+
+I pull her down with me.
+
+She braces one knee on the mattress, keeps her weight off my ankle, and kisses me until my head is empty enough to stop planning tomorrow. Her mouth moves to my throat. My hands find her waist, then lower.
+
+She makes a quiet sound when I squeeze.
+
+“There,” I say.
+
+“Smug already.”
+
+“Research.”
+
+“Terrible methodology.”
+
+I slide my hand beneath her waistband.
+
+Her next breath catches hard enough to make my own stop.
+
+“Repeatable result,” I whisper.
+
+“Shut up.”
+
+I kiss her before she can say anything else.
+
+She is already wet. Knowing that she wants me still hits with absurd force, as if this is new information every time.
+
+My fingers move over her clit.
+
+Sella’s forehead drops to my shoulder.
+
+“Careful,” I murmur.
+
+“With what?”
+
+“My shoulder.”
+
+She lifts her head and stares at me.
+
+I grin.
+
+Her eyes narrow.
+
+Then she takes my hand away, pushes me gently onto the pillows, and kisses down my stomach.
+
+“Oh,” I say.
+
+“That was a mistake.”
+
+“What was?”
+
+“Giving me ideas.”
+
+Her mouth reaches the inside of my thigh.
+
+I stop smiling.
+
+She takes her time with me because she knows exactly what that does now. Her tongue moves over my clit, slow enough that I feel the anticipation before every stroke. I try to keep quiet. I fail. She presses my good leg farther open with one hand and slips two fingers inside me with the other.
+
+The room narrows.
+
+The lamp.
+
+Her hair against my thigh.
+
+The sheet twisted in my fist.
+
+The pressure building until my body stops belonging to language.
+
+I come hard enough that my heel knocks the wall.
+
+Somebody in the next room thumps back.
+
+Sella starts laughing against my thigh.
+
+I cover my face.
+
+“I hate this building.”
+
+“No, you don’t.”
+
+“I hate that wall.”
+
+“That seems fair.”
+
+She crawls up beside me, still smiling.
+
+I roll toward her.
+
+“Your turn.”
+
+“You should rest.”
+
+“I have been resting smugly for nearly five seconds.”
+
+“That is not what resting is.”
+
+I kiss her.
+
+This time I do not have to guess as much.
+
+I know how she likes my hand between her thighs. I know the rhythm that makes her stop teasing me. I know she wants pressure, then less, then more again, and that the quickest way to make her swear is to slow down when she is close.
+
+She discovers I know this.
+
+Her eyes open.
+
+“Don’t you dare.”
+
+I absolutely dare.
+
+She grabs my wrist, laughing and furious, and pulls me closer.
+
+“Fine,” I say. “Ask nicely.”
+
+“Maya.”
+
+It is one word.
+
+It is enough.
+
+I give her what she wants.
+
+Her body tightens under my hand. Her mouth opens against my neck. When she comes, she says my name like an accusation and holds on until the shaking stops.
+
+Afterward my room smells like lamp oil, salt and Sella.
+
+She lies on her back with one arm over her eyes while I try not to smile at the ceiling.
 
 “You are smug,” she says.
 
