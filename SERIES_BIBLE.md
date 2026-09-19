@@ -16,7 +16,23 @@ The durable story mechanism is a small, independent expedition company working a
 
 Introduce the company through people choosing and paying for their first shared undertaking. A founding charter can be summarized. Readers need to see who turns up, who owns the gear, who disagrees, and whether they can make the job work.
 
-**Positioning:** adult portal LitRPG adventure with substantial romantic development. The source of serial momentum is her life here. Do not advertise a conventional exclusive-couple romance or a settled multiple-partner structure before the manuscript delivers that promise. Earned sexual encounters stay on page. Preserve explicit physical continuity, active consent, character-specific desire, and the emotional aftermath instead of fading after the decision is made.
+**Positioning and governing engine:** **LitRPG plot + romantasy emotional engine + explicit payoff.** The source of serial momentum is Maya's life here: progression, dungeon-scale expeditions, routes, rescue, party tactics, gear, system discovery, and the relationships that increasingly shape her choices. Do not advertise a conventional exclusive-couple romance or a settled multiple-partner structure before the manuscript delivers that promise. Earned sexual encounters stay on page. Preserve explicit physical continuity, active consent, character-specific desire, and the emotional aftermath instead of fading after the decision is made.
+
+## Dungeon and expedition engine
+
+Dungeons are now a recurring LitRPG delivery mechanism for the series. They should grow out of this world's existing infrastructure and ecology: damaged transit stations, sealed maintenance complexes, drowned works, abandoned routes, monster-held ruins, fractured gate clusters, cisterns, quarries, and other System-active sites.
+
+A dungeon is a bounded expedition problem, not a detached video-game instance. It should have a concrete reason to enter, a governing environmental/System mechanic, party roles, escalating zones or phases, finite resources, a meaningful encounter, a progression payoff, a cost, and an exit that matters.
+
+Use dungeons to deliver both LitRPG and relationship progression:
+
+- Maya's build changes through levels, techniques, gear, tactical mastery, or System knowledge.
+- Other party members remain indispensable.
+- Competence attraction, forced proximity, watches, safe rooms, wound care, and adrenaline aftermath can deepen romance.
+- Explicit intimacy belongs only in genuinely secured pauses or aftermaths and must change the relationship afterward.
+- Do not make every dungeon end in sex or every dungeon reward a level.
+
+Book One introduces one true recovery delve before the rescue, then treats Fallow Reach as the larger dungeon-scale climax. Future books should usually contain at least one substantial delve or equivalent bounded expedition when appropriate. See [book1/LITRPG_ROMANTASY_DUNGEON_PLAN.md](book1/LITRPG_ROMANTASY_DUNGEON_PLAN.md) for the detailed framework and Book One cadence.
 
 ## Permanent settlement and Earth
 
@@ -34,7 +50,7 @@ Titles below are functional arc labels, not selected or clearance-checked public
 
 | Book | Central adventure and opposition | Complete payoff in this book | Change that makes the next book possible |
 |---|---|---|---|
-| 1 — Rook | Rescue Iven through the damaged sluice while a salvage claimant seeks control of the opening and the fields still need drainage. | Iven returns alive; the immediate seizure is defeated; an actual drainage remedy works; Maya earns useful Warder growth and chooses a local future. | A recovered station record gives a specific regional route to investigate. Maya and willing companions accept their first independent expedition. |
+| 1 — Rook | Rescue Iven through the damaged sluice while a salvage claimant seeks control of the opening and the fields still need drainage. A recovery delve supplies needed progression/equipment before Fallow Reach becomes the dungeon-scale climax. | Iven returns alive; the immediate seizure is defeated; an actual drainage remedy works; Maya earns useful Warder growth and chooses a local future. | A recovered station record gives a specific regional route to investigate. Maya and willing companions accept their first independent expedition. |
 | 2 — The ridge road | Escort a vulnerable caravan to a second gate station. Its passage is being exploited by people who profit from diverted travelers and recoveries. | Get the contracted people through; break that local operation; meet Elena alive and resolve why she left Rook. Establish permanent separation from Earth. | Maya chooses a base and a continuing company. Elena's practical knowledge opens a map of local routes, not a succession of clues to her whereabouts. |
 | 3 — The coast | Take a recovery commission in a drowned coastal station whose doors change the reach of the tide. A rival expedition competes for the same objective. | Deliver or deliberately refuse a specific recovery with consequences; bring the team out; Sella finally reaches the coast and makes a choice there. | The company has a reputation, equipment, and enemies who know its methods. One regional gate cluster becomes usable. |
 | 4 — The holding | Defend the base and its neighbors when opening the cluster redirects creatures, water, and trade through their region. An opponent exploits the disruption. | Save the named settlement and correct this failure. Maya must live with a mistake her earlier success helped create. | Command and delegation become necessary; her companions take responsibility she cannot personally carry. |
