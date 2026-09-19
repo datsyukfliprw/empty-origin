@@ -4,13 +4,14 @@
 
 - Build a **longer ongoing series**, not a trilogy. Give each volume a complete adventure, progression and relationship payoffs, and consequences that sustain later books. See the [series bible](../SERIES_BIBLE.md) and [Book One completion plan](BOOK_ONE_PLAN.md); unwritten events in those files are provisional plans, not canon.
 - **Maya never returns to Earth. This world is her new life.** Preserve the early manuscript's homesickness as her starting emotional state, then develop chosen work, relationships, adventures, and a home here. Do not sustain the series with repeated possible routes back, an Earth visit, or an eventual homecoming. The Earth objects and arrival mystery remain meaningful without promising her return. This supersedes the former open-ended return-home direction.
-- Continue the existing adult romance × LitRPG novel with editorial ownership and room for discovery.
+- Governing story architecture: **LitRPG plot + romantasy emotional engine + explicit payoff.** The external engine remains progression, dungeons, rescue, exploration, party tactics, gear, and System discovery; the emotional engine increasingly comes from relationship choices that affect trust, travel, risk, loyalty, and Maya's future; earned sexual payoff stays on page with aftermath.
 - The former 200,000-word target is explicitly superseded. Do not pad the story toward it.
 - Include a female romantic/sexual partner for Maya in this book. Develop mutual attraction and an emotionally consequential relationship on the page; preserve the close-age requirement and keep earned sexual encounters on page. Sella is a mutually interested romantic partner: first kisses occur in Chapter Fifteen, with consensual sexual encounters in Chapters Eighteen and Twenty-One. The final relationship structure remains open.
 - Write romantic tension and earned open-door sex in the manuscript itself. Do not fade to black or leave author-insert placeholders once a freely chosen sexual encounter begins. Preserve consent, embodied continuity, character-specific desire, and the emotional aftermath.
 - Maya's sexual partners must be near her age. Maya is nineteen; use nineteen to twenty-three as the current working range and establish actual ages before intimacy. Tolliver is explicitly twenty-two. Eiran Hale, in his thirties, and Master Vey, estimated around forty, are not sexual partners. Do not evade this preference with an old character who only looks young.
 
 - Keep the book centered on LitRPG adventure, the Earth/sluice mystery, and character-driven romance. Working interpretation of the author's latest preference: Maya's attraction to women belongs within that story, without shifting the book into a coming-out narrative, identity instruction, or political messaging. This does not cancel the requested female relationship.
+- Add **faster meaningful progression and recurring dungeon-scale adventures** from Chapter Twenty-Three onward. Dungeons should arise from damaged transit infrastructure, old works, sealed stations, monster-held ruins, and other System-active sites rather than disconnected game instances. Book One uses one recovery delve plus the Fallow Reach rescue as a larger dungeon-scale climax. Most future books should contain at least one substantial delve or equivalent bounded expedition when the story supports it. See [LITRPG_ROMANTASY_DUNGEON_PLAN.md](LITRPG_ROMANTASY_DUNGEON_PLAN.md).
 
 ## Binding Maya–Tolliver relationship direction
 
@@ -77,6 +78,7 @@ Counts use whitespace-separated tokens across individual chapter files, includin
 - `EDITORIAL_DIRECTION.md`: flexible development plan, romance constraints, and next-scene obligations. Distinguish proposed future events from established facts.
 - `../SERIES_BIBLE.md`: binding series/no-return instructions plus clearly labeled future architecture and private mystery solutions.
 - `BOOK_ONE_PLAN.md`: causal completion plan for the unwritten second half, including antagonist, rescue, progression, romance and settlement payoffs.
+- `LITRPG_ROMANTASY_DUNGEON_PLAN.md`: governing integration plan for faster progression, dungeons, romantasy emotional structure, explicit payoff cadence, and the Maya–Sella–Tolliver relationship architecture.
 - `DEVELOPMENTAL_REVIEW.md`: historical assessment and revision through Fifteen; publication work still relevant.
 - `CONTINUATION_REVIEW_16_19.md`: latest repo review, continuation audit and verification.
 - `RESCUE_MECHANICS.md`: writer's physical model and ability limits; unwritten mechanism explanations remain provisional.
