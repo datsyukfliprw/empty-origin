@@ -38,9 +38,7 @@ Vey takes a slow breath.
 
 “I agreed with him.”
 
-The answer makes his face harder to look at. I can imagine him standing on the bank in a dry coat, saying something reasonable while Elena tears skin off her hands trying to get past him.
-
-I can also imagine the reed-jack coming over the cart and everyone deciding that the best way to help is to climb in beside me.
+The answer makes his face harder to look at. I can imagine him on the bank saying something reasonable while Elena tears skin off her hands trying to get past him.
 
 I catch myself watching his sleeve again and turn back to the tracing.
 
@@ -68,7 +66,7 @@ My thumb catches the edge of the table. A splinter lifts without breaking off. I
 
 For a moment I have nothing to say.
 
-The common room carries on around us. Someone asks for salt. The fire spits. I had been ready to drag the admission out of him. He sits there waiting for me, and I have to unclench my teeth before I can speak.
+The common room carries on around us. I had been ready to drag the admission out of him. Instead he sits there waiting while I unclench my teeth.
 
 “You don't get credit for saying that now.”
 
@@ -180,11 +178,9 @@ She could fix this sack in five minutes. She'd turn it inside out first and ask 
 
 I put my wrapped hand over my mouth.
 
-On Earth someone may be trying to find me. Liam heard me fall. I keep returning to that fact as if I can make it a window by polishing it enough. He knows my first and last name. He knows Kansas City. I cannot remember whether I ever gave him my apartment number.
+On Earth someone may be trying to find me. Liam heard me fall. He knows my first and last name. He knows Kansas City. I cannot remember whether I ever gave him my apartment number.
 
-For a while I try to reconstruct every conversation we've had about food delivery.
-
-Then I stop, because the attempt is doing something ugly to my breathing.
+I try to reconstruct every conversation we've had about food delivery until it does something ugly to my breathing.
 
 Beside me, Sella turns over without waking. I count her breaths until I can match them. When I finally sleep, there is no forest in it. I dream of my phone ringing in a room I can't enter.
 
@@ -204,7 +200,7 @@ The marsh opens into fields. Narrow watercourses divide strips of beans and some
 
 The man lifts a hand in thanks and heads back along the bank. Near midday, the road rises. I see Rook House from the top.
 
-There is a large house, technically. Most of what surrounds it appears to have been built by people who would find the name misleading. Long sheds. A mill. Three yards, two chimneys, a row of narrow dwellings with washing strung between them. Water shines along a raised channel before dropping out of sight beneath a wheel. Beyond the buildings, a low wall cuts across a shallow valley.
+There is a large house, technically. Most of what surrounds it makes the name misleading. Long sheds. A mill. Three yards, two chimneys, narrow dwellings with washing strung between them. Water shines along a raised channel before dropping beneath a wheel. Beyond the buildings, a low wall cuts across a shallow valley.
 
 I look for a forbidding tower and get a man chasing a pig away from stacked timber.
 
@@ -212,7 +208,7 @@ I look for a forbidding tower and get a man chasing a pig away from stacked timb
 
 Vey points beyond the mill to the low wall. From here it looks about as sinister as a parking barrier.
 
-A cart of empty barrels passes us going out. The driver complains to Nessa about the lower road being soft. She asks whether anyone has finally filled the hole near the lime shed. Apparently they have not. We roll into the yard while their professional disappointment follows us through the gate.
+A cart of empty barrels passes us going out. The driver and Nessa trade complaints about the lower road and an unfilled hole near the lime shed. We roll into the yard while their professional disappointment follows us through the gate.
 
 A clerk checks names against a slate. I expose mine when asked. He looks from my level to my face, then to Vey.
 
@@ -244,7 +240,7 @@ Then she sets the agreement aside and opens the first book.
 
 “Elena's entry. Here.”
 
-The script takes a moment to become meaning. I follow her finger down the page.
+The script takes a moment to become meaning beneath her finger.
 
 Elena Mercer. Adult. Level one. Origin unrecorded. Found on the western towpath after heavy rain. Admitted on paid survey trial. Place of birth declared as Missouri; attestation unavailable.
 
@@ -252,7 +248,7 @@ There is a signature in English beneath it.
 
 Elena R. Mercer.
 
-The looping M is ridiculous. Big enough to be showing off. I love it immediately and feel foolish for loving it.
+The looping M is ridiculous, big enough to be showing off. I love it immediately.
 
 “She wrote that herself?”
 
@@ -314,7 +310,7 @@ Mara's stained finger rests on the page.
 
 “Yes.”
 
-I want her to explain until it becomes acceptable. She doesn't try.
+I want an explanation that makes it acceptable. She doesn't offer one.
 
 “The dispute is still open?”
 
@@ -404,8 +400,6 @@ Mara reaches across the table, then stops before touching me.
 
 “What does it say?”
 
-I look from her hand to the line of writing.
-
-Her hand is still between us. I look down at the six words once more, searching for another way to say them. There isn’t one.
+I look from her hand to the six words, searching for another way to say them. There isn’t one.
 
 I read the words aloud.
