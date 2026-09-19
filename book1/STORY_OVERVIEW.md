@@ -1,6 +1,6 @@
 # Story overview
 
-This cumulative synopsis records the revised manuscript through Chapter Nineteen. The September 19 cold-review revision changed the prose throughout and materially changed Chapters Twelve–Nineteen. Written chapter text governs canon; older editorial reviews describe earlier versions. Character reports, deductions and untested mechanisms remain distinguished from observed facts. Maya never returns to Earth under the author's series direction; her early desire to do so remains part of the story.
+This cumulative synopsis records the revised manuscript through Chapter Twenty-Six. The September 19 cold-review revision changed the prose throughout and materially changed Chapters Twelve–Nineteen. Written chapter text governs canon; older editorial reviews describe earlier versions. Character reports, deductions and untested mechanisms remain distinguished from observed facts. Maya never returns to Earth under the author's series direction; her early desire to do so remains part of the story.
 
 ## Chapter 01
 
@@ -292,3 +292,12 @@ Maya's ankle worsens and she admits it. In a genuinely secured foreman's office,
 
 The party also recovers a maintenance specification describing resonance faults: repeated load cycling can wake dormant isolation sections and damaged pressure lines may transmit false activation through connected stone. This may explain why the rescue chamber vibrated before the failed frame caught. To carry the more important rescue materials, the party leaves spare salvage behind. They exit through the spill gallery with the return shoe and specification. Maya ends at Level 4, progress 9/22, reserve 1/6, with a newly recognized technique label: RELEASE UNDER LOAD. It is recognition of practiced judgment, not a new activated ability.
 
+## Chapter 26
+
+The morning after the East Relief Works delve, Maya woke with a substantially worsened left ankle and finally accepted that she could not walk the ridge back to Rook. Tolliver offered to carry her without assuming permission; Maya explicitly chose his help, reinforcing the developing distinction between his old habit of taking control and the trust he is now earning by waiting for her choice. The party returned with the tempered return shoe and resonance-fault specification, negotiating one final unstable trail section through ordinary route judgment rather than magic.
+
+At Rook, Mara reassessed Maya and imposed three days without stairs, rough ground, shield work, Stepguard or powered loading. Harra and the others used the recovered geometry and specification to rethink the next rescue frame. Instead of making the span simply stronger, they designed a short-pin far shoe with bounded spring travel so that receiving-side pitch or motion could unload without levering force through the whole structure. A table-scale prototype developed stored twist under crooked load; Maya recognized the danger and correctly called for the far latch to be released before the external weight was removed. The sequence worked and established a practical release-before-unload order for further testing.
+
+Sella received an eastbound route-guard and scouting offer leaving in four days. Maya urged her to accept rather than sacrifice another opportunity to an uncertain rescue timetable. Their relationship remained affectionate but unresolved: Sella made clear that Tolliver's growing place in Maya's emotional future is still a real problem, while refusing to reduce that problem to a theatrical immediate choice.
+
+After the successful prototype sequence, Maya's measure reached 22/22 and advanced her to Level 5. Her reserve capacity rose from six to seven while current reserve remained three; she received no heal, refill or new activated ability. Harra estimated two days to build the full rescue frame, followed by dry load testing and chamber vibration measurement before another span is attempted. Iven remained trapped but informed. The chapter closes with Maya resting under restriction, Sella four days from departure, and the rescue technically closer without being rushed.
