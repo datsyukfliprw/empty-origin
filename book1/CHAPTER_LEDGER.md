@@ -562,7 +562,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 **Character / relationship changes:**
 - Sella says rescue and Maya influenced her decision, refuses reimbursement, retains need to find work east.
-- First Maya/Sella sexual encounter implied by fade and aftermath; optional author-expansion comment present. Maya nineteen, Sella twenty-one. No coercion, exchanged service or new exclusivity promise. Tolliver's discomfort remains unresolved.
+- First Maya/Sella sexual encounter occurs on page with explicit physical and emotional continuity. Maya nineteen, Sella twenty-one. Consent is checked directly; Maya's sore shoulder is accommodated. No exchanged service or new exclusivity promise. Tolliver's discomfort remains unresolved.
 - Sella returns to bed after leaving briefly for the toilet. Maya asks to be awakened before departure rather than demanding a future commitment.
 
 **System / progression / resources:**
@@ -657,7 +657,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 - Iven's tank is measured without converting uncertain volume/use into a false survival countdown.
 - Tolliver discloses a past tracking job: after learning a nineteen-year-old client had fled her father voluntarily, he still reported her location. He links that failure to his refusal to take Rusk's unnamed-wagon job.
 - Maya and Sella discuss future movement honestly. Maya says that after Iven's rescue she wants a moving job and wants to go with Sella if the opportunity remains, while not promising east at any cost or resolving Tolliver.
-- Maya/Sella share another consensual fade-to-black encounter and actual aftermath.
+- Maya/Sella share a second consensual on-page sexual encounter and actual aftermath, with Maya's ankle and Sella's bruising kept in continuity.
 
 **Character / relationship changes:**
 - Sella refuses indefinite waiting and asks Maya for an actionable answer rather than exclusivity. Maya gives one limited by the unfinished rescue.
