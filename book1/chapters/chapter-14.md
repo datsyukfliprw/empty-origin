@@ -6,7 +6,7 @@ She is across the workshop with a slate against her chest. Three fingers raised.
 
 “One,” I say.
 
-The image is small, but I can see her broken nose and the dark edge of one braid. I bend closer. Harra catches my sleeve before I hit the frame.
+The image is small, but I can see her broken nose and the dark edge of one braid. I bend closer until Harra catches my sleeve.
 
 “Stay back. I'll move the glass.”
 
@@ -34,7 +34,7 @@ The thin white line beneath it is real.
 
 I stop in the doorway.
 
-A knife of light across dusty stone. I have seen brighter cracks under bathroom doors. This one makes the back of my eyes hurt before I have even tried to identify why.
+A knife of light across dusty stone. I have seen brighter cracks under bathroom doors. This one hurts before I have even tried to identify why.
 
 Sella touches the doorframe beside my shoulder.
 
@@ -44,11 +44,11 @@ Sella touches the doorframe beside my shoulder.
 
 “Stand here.”
 
-She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought a clump of drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn't turn away.
+She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn't turn away.
 
 Four days until the crew, yesterday. Three now.
 
-Something in me had expected the light to stop that count.
+Some part of me had expected the light to stop that count.
 
 Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena's measurements while Harra comes down to collect a smaller wrench.
 
@@ -80,7 +80,7 @@ Harra feeds the caged mirror through the sleeve until a mark on the rod reaches 
 
 I bend to the hood.
 
-For a second all I get is white, and I think of cameras trying to expose for a window while the room around it disappears. Then Dain shifts the angle, the glare leaves, and the chamber settles into view.
+For a second all I get is white. Then Dain shifts the angle, the glare leaves, and the chamber settles into view.
 
 Stone floor. Water in a shallow dark fan below us. The far wall curves into an arch wider than my arms could reach. Most of the space inside it looks like wet black rock.
 
@@ -122,7 +122,7 @@ Dain looks toward the sleeve. “A way out?”
 
 “That's what the sign says.”
 
-I look at the bar on the door. My college has bars like that. Every store, every back corridor I have ever hurried through with a bag against my hip and a phone under my chin. A boring door that nobody photographs because its whole job is being there when you need to leave.
+I look at the bar on the door. My college has bars like that. Every store, every back corridor. A boring door whose whole job is being there when you need to leave.
 
 “Can you read anything else?” Mara asks.
 
@@ -134,7 +134,7 @@ He stops.
 
 “Leave it there,” I say, quieter. “Please.”
 
-My eyes water. I can't tell whether it's strain or something I will have to deal with later. I blink and the door swims back into focus.
+My eyes water. I blink and the door swims back into focus.
 
 Dain asks about the stair. I make myself look below the sign.
 
@@ -176,7 +176,7 @@ I pick a bit of barley out of the stew with the spoon, then put it back.
 
 “Yes.”
 
-She doesn't tell me it will be. I am grateful, and angry that she doesn't, and tired of having both reactions to everything.
+She doesn't tell me it will be. I am grateful and angry at once, tired of carrying both.
 
 “Was Elena right?”
 
@@ -202,7 +202,7 @@ She nudges my boot with hers. “Eat.”
 
 She eats her own bread while I watch the gallery.
 
-I take a spoonful. Warm grain, onion, a piece of something green that has spent too long being cooked. I try to picture Mom opening the gray door and seeing me at the mirror. Would she recognize the clothes? Would I have to say my name first?
+I take a spoonful. Warm grain, onion, something green cooked too long. I try to picture Mom opening the gray door and seeing me at the mirror. Would she recognize me before I said my name?
 
 Sella lets me finish without asking why I have gone quiet.
 
@@ -216,7 +216,7 @@ I tell him.
 
 For a moment he looks at the gallery as though it has become farther away. Then he sits on my other side and asks me to describe the door.
 
-I give him every unimportant bit of it I can remember.
+I give him every useless detail I can remember.
 
 ---
 
@@ -248,7 +248,7 @@ Sella fetches the washer. Harra fits it, tests the screw with two fingers, and n
 
 I spend one.
 
-The shape closes cleanly. No mouth full of teeth beyond a shield, no panicked search through my body while something tries to get in. The cradle becomes steady under my forearms.
+The shape closes cleanly. No panic, no teeth beyond a shield. The cradle becomes steady under my forearms.
 
 One breath. Harra turns the screw.
 
@@ -262,7 +262,7 @@ Sella notices me noticing.
 
 “Better.”
 
-I had checked a full four this morning. Three now. I keep the number without opening the measure in front of them, pleased in a way I can't make casual.
+I had checked a full four this morning. Three now. I keep the number to myself, pleased in a way I can't make casual.
 
 Harra carries the assembly out. Sella stays long enough to tap the place on the pier where my forearms were.
 
@@ -298,7 +298,7 @@ I can't see the whole person. A sleeve, dark at the cuff. The side of a head, mo
 
 “I don't know.”
 
-I want to shout. There is a hole through the wall, there is a person beyond it, and my whole body has already begun the breath.
+I want to shout. There is a person beyond the wall, and my whole body has already begun the breath.
 
 Dain touches my sleeve.
 
@@ -328,7 +328,7 @@ I watch the rectangle tilt. The person pauses, moves it back, then holds.
 
 My mouth has gone dry.
 
-There are two mirrors between my face and the sleeve. Another beyond the arch. I can't work out what they see or whether they can see any of me. I put my hand beside the viewing glass and raise two fingers where the reflection should catch them.
+There are two mirrors between my face and the sleeve, another beyond the arch. I can't work out what they see, so I put my hand beside the viewing glass and raise two fingers.
 
 Nothing.
 
@@ -360,7 +360,7 @@ Mara says my name from the door. She has said it once already; I hear the second
 
 “Not enough.”
 
-I change to four fingers, because two could have been coincidence and one could have been a gesture and I cannot bear going to bed tonight with only that.
+I change to four fingers. Two could be coincidence. One could be a gesture. I cannot bear going to bed with only that.
 
 Four come back.
 
@@ -370,7 +370,7 @@ Then the person lowers the mirror and leaves the strip of light.
 
 The rail stands empty.
 
-I keep my hand beside the glass until my arm begins to shake. I want the person back with such naked greed that if Dain offered me the wheel now I might touch it before remembering anything we had agreed.
+I keep my hand beside the glass until my arm shakes. I want the person back badly enough that if Dain offered me the wheel now, I might forget every agreement we made.
 
 He doesn't offer.
 
