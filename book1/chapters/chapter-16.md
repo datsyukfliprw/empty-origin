@@ -94,6 +94,8 @@ He looks down at my hand, still halfway between us.
 
 I lower it. I had imagined him being angry. I had imagined apologizing for the way I told him. I had not spent much time imagining him simply deciding he didn't want what I was offering.
 
+He does not tell me to choose. He does not make my wanting his permission to give. He just keeps his own boundary, which is somehow harder to argue with than anger.
+
 “Tell me when you know.”
 
 He gives a short nod and walks north with the survey cord knocking against his hip.
