@@ -172,3 +172,18 @@ The marked early elapsed-time issue is resolved: Day 1 clearing/forest night; Da
 - Maya/Tolliver's first fully realized sexual encounter is on page and built around active consent, repeated check-ins, Maya's ability to stop or redirect, Tolliver's physical advantage, and his focus on breaking her composure rather than diminishing her competence.
 - After sex, both state practical relationship boundaries. Maya does not renounce Sella or promise exclusivity; Tolliver does not demand it. He agrees not to make decisions for Maya under the guise of protection. Maya agrees to state anger and future control preferences directly.
 - Immediate next work is Chapter Thirty-Two: wages, claims, equipment ownership, records/copies, training arrangements, a concrete next paid objective, visible final Book One build state, and ordinary-daylight relationship proof.
+
+## Chapter Thirty-Two endpoint
+
+- Book One is complete through Chapter Thirty-Two.
+- Final compiled manuscript length: **101,030 words** across thirty-two chapters.
+- Maya's post-Day-18 employment is reconciled explicitly at the same eight-bits/day rate for twelve retained workdays, including medically restricted days in which she remained assigned and was consulted. She receives 96 bits / 12 pieces before new spending.
+- Maya converts the unused return-cart value into a four-week Rook room arrangement, pays 28 bits, and secures a locked storage chest with explicit property protections while traveling. This gives her a concrete place to return to without entering Rook service.
+- Elena's Missouri identification card is classified as personal property retained in error with survey-associated materials. The original remains in Mara's recorded custody for Elena; Maya keeps a full copy and English transcription.
+- Rusk's claim survives only as a later claim on disputed inner iron. It gives her no custody of Iven, no exclusive access, and no control over copies of testimony, measurements, or plans.
+- Iven identifies a route mark from the receiving station that matches an old Rook register for a second receiving house on the ridge service road. The information seeds the next expedition without reopening the Book One rescue.
+- A six-wagon ridge-road caravan needs escort after its regular guards withdraw. The offer includes a separately paid station-approach inspection. Maya negotiates the terms rather than accepting on presentation and then signs after deciding she wants the work.
+- Tolliver agrees to join only if Maya chooses the job. Harra is willing to hire on subject to equipment terms. Iven explicitly declines to join and remains with his family.
+- Maya and Tolliver establish ordinary-daylight relationship language: boyfriend is accepted, no exclusivity is promised, neither controls the other's work, and Sella's possible return remains something to discuss openly rather than pre-solve.
+- Final visible build state remains **LV. 6, Warder, RESERVE 8/8**, with Brace, Stepguard, and the recognized technique Controlled Release. No new ability or level is invented in the ending.
+- The book ends with Maya leaving Rook by choice for paid work, not because of ownership, rescue debt, or a route home. Rook is now a chosen place to return to.
