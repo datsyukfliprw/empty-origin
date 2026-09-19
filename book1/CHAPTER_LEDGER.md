@@ -857,3 +857,50 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 **Ending state:** External Book One rescue question is answered yes. The next chapter must give room to medical aftermath, family reunion consequences, Sella's imminent departure/reckoning and the unresolved Tolliver relationship rather than rushing straight into sexual payoff.
 
+
+
+## Chapter 30
+
+**Opening state:**
+- Iven has been rescued and reunited with Teren and Lio. Maya is LV. 6, reserve 5/8, and her left ankle has worsened again. Sella's eastbound crew leaves within the hour.
+
+**Major movement:**
+- Mara keeps Maya off the ankle while Rook begins medical, drainage, evidence, and salvage-claim aftermath.
+- Maya and Sella finally discuss the future without an active rescue crisis. Maya admits she nearly asked Sella to stay but deliberately refused to ask while circumstances could pressure the answer.
+- Sella departs east as planned.
+- Iven thanks Maya for prioritizing his life over disputed iron and possible Earth answers. Rusk's claim remains pending.
+- Mara imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard.
+
+**Character / relationship changes:**
+- Maya and Sella remain in love but do not promise exclusivity, indefinite waiting, or a false clean breakup.
+- Sella names her boundary: she cannot build a life around waiting while Maya remains emotionally suspended.
+- Tolliver stays out of Sella's goodbye and does not exploit the departure.
+
+**Ending state:**
+- Nine days after Sella leaves, Maya is medically cleared and approaches Tolliver by choice, asking him to change his evening plans.
+
+## Chapter 31
+
+**Opening state:**
+- Nine days after Sella's departure. Maya is physically recovered enough that injury is not the basis of intimacy; Stepguard has been medically cleared.
+
+**Major movement:**
+- Maya explicitly tells Tolliver she wants him and wants to explore chosen physical surrender while retaining control of her choices.
+- Tolliver confirms consent, stop/slow conditions, Maya's physical capacity, and medical readiness.
+- They have their first fully realized sexual encounter. Tolliver's physical advantage is real; Maya repeatedly and actively chooses to yield and can stop or redirect at any point.
+- Erotic focus remains on Tolliver undoing Maya's composure rather than humiliating or diminishing her.
+- The encounter continues into relationship aftermath rather than ending at climax.
+
+**Character / relationship changes:**
+- Maya states she wants Tolliver without using Sella's departure as justification and without renouncing her love for Sella.
+- Tolliver does not demand exclusivity or a settled multi-partner structure.
+- Tolliver agrees not to make decisions for Maya under the guise of protection.
+- Maya agrees to communicate anger and future dominance preferences directly.
+- Future control play requires fresh consent rather than assuming tonight establishes permanent permission.
+
+**System / progression / resources:**
+- No new level, ability, reserve change, or System reward occurs.
+- Maya remains LV. 6 with reserve continuity unchanged from the rescue aftermath unless later ordinary recovery is explicitly established.
+
+**Ending state:**
+- Maya and Tolliver have a mutually chosen, explicitly negotiated relationship/sexual connection without pretending future complications are solved. Chapter Thirty-Two must return to practical settlement, final Book One build state, and the next paid objective.
