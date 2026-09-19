@@ -42,9 +42,9 @@ Her mouth moves.
 
 “Liar.”
 
-“I contain multitudes.”
+“I was thinking tactically.”
 
-“You contain terrible timing.”
+“You were thinking with terrible timing.”
 
 That hurts because it is funny.
 
