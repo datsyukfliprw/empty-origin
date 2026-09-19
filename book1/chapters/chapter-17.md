@@ -2,7 +2,7 @@ CHAPTER SEVENTEEN
 
 The captain arrives holding a horse's face.
 
-One hand on its cheek, the other curled into the head strap. Behind it, a cart leans in a rut with two long timber legs lashed above the load. Every time the horse backs, a timber swings toward the gatepost.
+One hand on its cheek, the other curled into the head strap. Behind it, a cart leans in a rut with two long timber legs lashed above the load. Each time the horse backs, a timber swings toward the gatepost.
 
 “Brake,” she says.
 
@@ -20,7 +20,7 @@ Dain comes out of the workshop carrying his drawing. The captain takes it and wa
 
 I follow them until Mara calls my name.
 
-The notebook is waiting. My last reading day, and the people deciding what happens to the door are going up the steps without me.
+The notebook is waiting. My last reading day, while the people deciding what happens to the door go up the steps without me.
 
 ---
 
@@ -36,7 +36,7 @@ We finish before midday. Thirty-six written pages, the associated labels, a shee
 
 I keep a finger under the pears while Mara sands the copy. Then she closes the notebook and lays Elena's card beside it.
 
-Pell still hasn't ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide that a woman owns her own face. Instead I watch her write another reminder and put it with the claim.
+Pell still hasn't ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide a woman owns her own face. Instead I watch her write another reminder and file it with the claim.
 
 Outside the records room, two young men are waiting.
 
@@ -60,7 +60,7 @@ I spend most of the contact outside.
 
 Dain has checked the washer again. Harra has examined the wet cord. There is no visible damage, but the water stained it gray. The little dish sits beside the frame while Teren takes his turn at the glass.
 
-Lio waits with me on the wall. He has his brother's coat across his knees.
+Lio waits with me on the wall. His brother's coat lies across his knees.
 
 “Does he look old?”
 
@@ -92,7 +92,7 @@ Two timber legs stand spread on packing boards. Chain runs through the casing at
 
 The operator lets go. The sling stays in the air.
 
-I see Iven in it. His boots clearing the broken stair. Mara on our side, reaching before the sling has stopped moving. The image is so immediate that I have to look away.
+I see Iven in it, boots clearing the broken stair, Mara reaching before the sling stops. I have to look away.
 
 Rusk lays her terms on an upturned crate.
 
@@ -136,7 +136,7 @@ Rusk holds out her hand for the paper. Mara doesn't give it back. Pell takes it 
 
 “You found a valuable road.” Rusk points toward the gallery. “Don't ask me to pretend you haven't.”
 
-There is a smear of grease on her cuff. One of her workers is trying to catch her eye from beside the rig. She raises a finger to make him wait.
+A worker tries to catch her eye from beside the rig. She raises a finger to make him wait.
 
 “Master Vey?” she says.
 
@@ -160,7 +160,7 @@ Rusk gathers her copy. “Three days on the redirected work. Those are paid. Aft
 
 “I haven't seen a place to put the feet yet.”
 
-She goes to her waiting worker. Within minutes they have moved the tackle into a fenced corner of the yard. Her apprentice starts fastening a chain across the entrance.
+She goes to her waiting worker. Within minutes the tackle is in a fenced corner of the yard, her apprentice chaining the entrance.
 
 ---
 
@@ -184,13 +184,13 @@ Dain pushes his drawing across the table, hard enough to knock Vey's sleeve.
 
 “Put that in the letter,” Pell says. “I've run out of ways to say it.”
 
-For a moment nobody moves. Then Vey takes three pieces from his purse and puts them beside the drawing.
+For a moment nobody moves. Then Vey puts three pieces beside the drawing.
 
 “For the survey and a small trial. That I can pay now.”
 
 Pell takes the coins before he can change his mind.
 
-The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace. It misses the old junction entirely. Tolliver's levels suggest it will fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the remaining money.
+The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace, missing the old junction entirely. Tolliver's levels say it should fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the rest.
 
 He needs guards. A fitter. Someone at the movable screen while Harra opens the notch.
 
@@ -208,7 +208,7 @@ She comes to the table and studies the drawing. “There's no place to stand.”
 
 I wait for her to look at me. She keeps talking to Dain.
 
-They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without making everyone read the rest aloud again.
+They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without another full reading.
 
 Sella's pen stops over the last date. It is the day she was meant to leave east.
 
@@ -216,7 +216,7 @@ She signs anyway.
 
 ---
 
-Tolliver is beside Rusk's cart when I come out with my last reading wage. Six pieces earned, plus the coins I brought from Greyward. Enough to buy something useful if I stop counting it all as nights in a bed.
+Tolliver is beside Rusk's cart when I come out with my last reading wage. Six pieces earned, plus the Greyward coins. Enough to buy something useful if I stop counting everything as nights in a bed.
 
 Rusk gives him a folded paper. He reads it, asks a question I can't hear, and puts it inside his coat.
 
@@ -254,7 +254,7 @@ I step closer. “Because I read the paper.”
 
 He takes it out and offers it. I don't reach for it.
 
-For several seconds we stand with the folded sheet between us. Then he puts it away.
+We stand with the folded sheet between us until he puts it away.
 
 “I'm here for these three days,” he says. “I'll do the work I agreed to.”
 
@@ -262,7 +262,7 @@ For several seconds we stand with the folded sheet between us. Then he puts it a
 
 “I haven't signed hers.”
 
-I want him to say he won't. Behind him a crew member tests the tackle chain, link by link, and Rusk kneels to show the apprentice a flaw near the hook.
+I want him to say he won't. Behind him, a crew member tests the tackle chain while Rusk shows the apprentice a flaw near the hook.
 
 “Be careful,” I say.
 
