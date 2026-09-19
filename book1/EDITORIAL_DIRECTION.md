@@ -47,7 +47,7 @@ Give the romance an emotionally satisfying chosen commitment by the ending. If l
 
 End with a specific undertaking Maya wants in this world and enough aftermath to feel what she has gained. The series grows through her company, new places, local gate mysteries, combat, relationships, and the home she builds. Answer major mysteries on schedule rather than preserving every question for an indefinitely postponed final volume.
 
-## Romance direction and author insertion points
+## Romance direction and on-page intimacy
 
 ### Maya and Tolliver: binding romantic direction
 
@@ -66,15 +66,15 @@ The author wants Maya to have a female romantic/sexual partner in this book. Bui
 
 Sella is now an established romantic interest: she explicitly gives her age as twenty-one in Chapter Thirteen and shares first kisses with Maya in Fifteen. Their shared humor and work coexist with Sella's independent eastward ambitions. Develop the relationship's emotional and physical consequences on page; do not reduce her to an instructor or a way to complicate Tolliver.
 
-Maya and Tolliver acknowledged their lack of an exclusivity promise before Maya kissed Sella. They agreed to discuss changes beforehand, while Tolliver admitted needing to adjust his expectations. Sella knows about their arrangement. This establishes the present understanding, not an effortless or final multiple-partner resolution. Preserve each person's agency. Use the same natural fade to black and author insertion convention for all partners.
+Maya and Tolliver acknowledged their lack of an exclusivity promise before Maya kissed Sella. They agreed to discuss changes beforehand, while Tolliver admitted needing to adjust his expectations. Sella knows about their arrangement. This establishes the present understanding, not an effortless or final multiple-partner resolution. Preserve each person's agency. Use the same on-page, consensual, embodied intimacy standard for all partners.
 
 Maya is nineteen. All sexual partners must be close to her age; the current working range is nineteen to twenty-three, with ages established before intimacy. Tolliver is explicitly twenty-two in Chapter Seven. His suitability as a final partner remains a story question: attraction does not settle his accountability for withholding information or profiting from her vulnerability.
 
 Eiran Hale (thirties) and Master Vey (approximately forty by Maya's estimate) are excluded as sexual partners. Do not introduce a centuries-old character who merely appears young as a workaround. Any new romantic lead must actually fit the close-age constraint.
 
-Write adult attraction, mutual interest, vulnerability, kisses, and emotionally consequential romantic scenes. When a freely chosen encounter moves into sex, use a natural fade to black and leave the explicit passage for the author. Resume with the changed relationship, emotional aftermath, and any relevant continuity. Do not jump to intimacy to meet a heat quota or use rescue, lodging, training, debt, or a contract as payment for it.
+Write adult attraction, mutual interest, vulnerability, kisses, and emotionally consequential romantic scenes. When a freely chosen encounter moves into sex, keep it on page rather than fading. Maintain consent, physical and emotional continuity, injury awareness, and character-specific desire, then give the changed relationship and aftermath room to breathe. Do not jump to intimacy to meet a heat quota or use rescue, lodging, training, debt, or a contract as payment for it.
 
-At a real insertion point, an unobtrusive Markdown comment may mark the location: `<!-- AUTHOR INSERT: intimate scene. Continue from the established choice; preserve ages, consent, location, injuries, and the following aftermath. -->`. Keep such markers out of scenes that do not reach that point. Chapters Seven–Nineteen contain attraction, accountability, kisses and shared time, but no sexual encounter or explicit-scene placeholder.
+Do not use author-insert placeholders for sexual encounters. Chapters Eighteen and Twenty-One now contain Maya and Sella's complete on-page consensual encounters, with established ages, injury continuity, and aftermath preserved.
 
 ## Craft checks
 
