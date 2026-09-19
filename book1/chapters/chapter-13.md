@@ -374,6 +374,14 @@ His knee presses gently against mine.
 
 Later he kisses me in the kitchen doorway while somebody behind us complains about drafts. I laugh against his mouth and let him draw me aside. He takes his time, and I forget the carrier until we part.
 
+I remember Sella again halfway up the stairs.
+
+That should make one of them smaller.
+
+It doesn't.
+
+The wanting sits differently in me, which is not the same thing as less.
+
 Upstairs, I lay Dain's corrected drawing beside Elena's. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
 I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven't learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
