@@ -10330,9 +10330,9 @@ Then she looks at the paper again.
 
 “Of course you level while admitting something awful.”
 
-“I contain multitudes.”
+“My timing remains impeccable.”
 
-“Mostly bad timing.”
+“Your timing is diseased.”
 
 Tolliver's mouth shifts.
 
@@ -18654,13 +18654,9 @@ The text folds.
 
 **[CURRENT RESERVE: 5 / 8]**
 
-No refill.
+Five of eight.
 
-Of course.
-
-No healing.
-
-My ankle still hurts like hell.
+My ankle still hurts like hell. Advancement made more room; it did not erase what I broke.
 
 Good.
 
@@ -19022,9 +19018,9 @@ Her mouth moves.
 
 “Liar.”
 
-“I contain multitudes.”
+“I was thinking tactically.”
 
-“You contain terrible timing.”
+“You were thinking with terrible timing.”
 
 That hurts because it is funny.
 
