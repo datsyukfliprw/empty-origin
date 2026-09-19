@@ -736,6 +736,22 @@ Then he looks at my ankle.
 
 “That isn't a thing.”
 
+“Don't start.”
+
+“I wasn't going to.”
+
+I look at him.
+
+He nods toward the stool by the hearth. “I was going to ask if you wanted that under your foot.”
+
+The difference is small enough to miss.
+
+I don't.
+
+“Yes,” I say.
+
+He brings me the stool.
+
 “You sound like Sella.”
 
 From the table behind him, Sella says, “He should be more offended.”
