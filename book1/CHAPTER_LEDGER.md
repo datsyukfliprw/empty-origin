@@ -616,3 +616,94 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 **Ending state:**
 - Day14 night, Maya in west-kitchen room with Sella. Forty-six bits; LV.3,9/18,0/5; ankle protected, shield away. Rescue unfinished but first supplies delivered, location identified and drainage lift funded/staging.
+
+## Chapter 20
+
+**Opening state:**
+- Day 15, last day of original preparation agreement. Maya remains off rough ground with rolled left ankle; shield repaired but not cleared for use. LV. 3, 9/18, reserve recovers to 2/5 by night.
+
+**Major movement:**
+- Maya coordinates a table-based boundary study while injured; Harra, Dain, Mara, Oret, Tolliver, Sella and runners collect measurements.
+- Multiple observations reject time-of-day as a usable schedule and show a better correlation between outlet pressure changes and boundary widening/contraction, with different rising/falling behavior.
+- A stationary wax tablet is severed during contraction, confirming the boundary edge moves across objects rather than acting as a fixed doorway.
+- Independent receiving-side measurements and Oret's remembered Fallow Reach plan align the stair, walls, passage and old pressure-room geometry. The location is established as a local abandoned station containing imported Earth fittings.
+- Rusk's crew begins the funded drainage-throat lift. Pell extends Maya, Sella and Tolliver for two more days under the existing protections/rates.
+
+**Character / relationship changes:**
+- Maya accepts that the gray door does not lead to Earth and redirects grief into the practical question of who installed Earth material at Fallow Reach.
+- Sella brings concrete eastbound fare information. Maya keeps it with her papers, treating a future in this world as a real choice rather than an abstraction.
+
+**System / progression / resources:**
+- End observed Maya state LV. 3, 9/18, reserve 2/5. No spend, level-up or new ability.
+- Repaired shield returned but not used due injury restrictions.
+- Employment extended Days 16–17: Maya 8 bits/day, Sella 12, Tolliver 10, same food/room/property and assignment protections.
+
+**Reveals and established facts:**
+- Boundary timing is not a clock schedule. Rising and falling conditions appear to have different thresholds/delays; exact values remain uncertain.
+- Station geometry confirms Iven is in Fallow Reach on this world. Earth fittings were installed there later; importer, mechanism and purpose unknown.
+- Wax cut reproduces the no-pull severing behavior observed with cord.
+
+**Ending state:**
+- Day 15 night. Drainage lift still in progress. Maya keeps the eastbound fare sheet. Rescue remains a measured engineering problem, not a route home.
+
+## Chapter 21
+
+**Opening state:**
+- Day 16. Maya remains limited to flat indoor walking; later reassessment still forbids field work and shield practice.
+
+**Major movement:**
+- Sustained drainage draw begins after Rusk's crew seats the throat slab on new supports; Bera reports visible field recovery.
+- Rusk is paid; Rook purchases her worn four-to-one lower block for 20 bits through pooled contributions. Rusk plans to depart at first light.
+- Iven's tank is measured without converting uncertain volume/use into a false survival countdown.
+- Tolliver discloses a past tracking job: after learning a nineteen-year-old client had fled her father voluntarily, he still reported her location. He links that failure to his refusal to take Rusk's unnamed-wagon job.
+- Maya and Sella discuss future movement honestly. Maya says that after Iven's rescue she wants a moving job and wants to go with Sella if the opportunity remains, while not promising east at any cost or resolving Tolliver.
+- Maya/Sella share another consensual fade-to-black encounter and actual aftermath.
+
+**Character / relationship changes:**
+- Sella refuses indefinite waiting and asks Maya for an actionable answer rather than exclusivity. Maya gives one limited by the unfinished rescue.
+- Tolliver's confession is costly honesty, not absolution. Maya still wants him but does not resume physical intimacy.
+- Sella's bruising is acknowledged as part of mutual care rather than being erased by Maya's injury.
+
+**System / progression / resources:**
+- End observed Maya state LV. 3, 12/18, reserve 4/5. Progress source is not itemized.
+- Lower block belongs to Rook; Harra repairs its missing keeper.
+- No exact personal purse total is counted after the new wages in-scene.
+
+**Reveals and established facts:**
+- Drainage remedy is operating at planned draw, though crop losses and future maintenance remain real.
+- Rusk departs without custody/access rights or exclusive salvage control.
+
+**Ending state:**
+- Day 16 night. Lower service stair is scheduled to open next day under written abort rules. Maya and Sella have a concrete but nonexclusive future intention.
+
+## Chapter 22
+
+**Opening state:**
+- Day 17. Rusk has departed. Maya is cleared for limited indoor stairs with another person present, still no field/shield practice.
+
+**Major movement:**
+- Team establishes explicit abort conditions before opening lower service access: pressure/boundary decline, anchor movement, loss of visual contact, Harra/Iven stop call, and no same-day second try after equipment loss.
+- Lower wheel recess and chamber are entered from Rook's side. Nobody crosses the transit edge.
+- A narrow ash test frame is advanced during a widening interval. Iven catches the far nose and the frame rests briefly on independent stone supports on both sides without a through-line.
+- During withdrawal the overlong far pin catches on the sloped receiving landing. The boundary contracts and severs the frame. All people remain clear; block, anchors and guide equipment are retained.
+- Failure identifies the known weak point: receiving-side pitch plus excessive pin projection. Mara's rule prevents a reckless immediate retry.
+- Employment is extended one additional day (Day 18) at existing rates after operating drainage frees a small works purse.
+
+**Character / relationship changes:**
+- Maya and Sella both experience the urge to break the abort plan and both stop; restraint is treated as competence.
+- Tolliver gives Maya the written names from the prior tracking case and the declined current offer, continuing the move away from withholding.
+- Iven tells Maya that discovering he is at Fallow Reach still matters even though it is not Earth.
+
+**System / progression / resources:**
+- End observed Maya state LV. 3, 15/18, reserve 5/5. No new ability or automatic level-up.
+- Ankle aches after stairs; restrictions remain active.
+- Rook owns the lower block. One ash test frame is lost/severed. No person, line or permanent bridge spans the boundary.
+
+**Reveals and established facts:**
+- A spanning structure can briefly rest on independent supports across the connected geometry.
+- Contraction can sever structural material exactly as it severed cord/wax. Holding harder is not a solution.
+- Next design requires shorter pin/adjustable far shoe and independent near-anchor test before another spanning attempt.
+
+**Ending state:**
+- Day 17 night. Iven remains trapped. First bounded spanning attempt failed safely and usefully; no second attempt occurs. Day 18 is funded for inspection/rebuild work.
+
