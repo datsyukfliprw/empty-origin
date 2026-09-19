@@ -118,9 +118,9 @@ The next chapter should **not** rescue Iven immediately. Honor the no-second-try
 The marked early elapsed-time issue is resolved: Day 1 clearing/forest night; Day 2 dawn meeting, morning lesson and afternoon/evening Greyward arrival; Day 3 first market morning/confrontation; Day 4 second market morning/fire/contract; Day 5 departure and wayhouse; Day 6 Rook arrival; Days 7–12 reading days one through six; Days 13–14 first two preparation days; Day 15 remains contracted. Crew arrived Day 12 and completed its three redirected days by Day 14. Chapters Four–Six no longer imply a missing travel night. This local count does not convert to Earth dates. See [continuity review](CONTINUITY_REVIEW.md).
 
 
-## Current endpoint update — Chapters 23–25
+## Current endpoint update — Chapters 23–26
 
-- Canonical manuscript now runs through Chapter Twenty-Five.
+- Canonical manuscript now runs through Chapter Twenty-Six.
 - Maya is LV. 4, progress 9/22, reserve 1/6 at the end of Chapter Twenty-Five.
 - Level 4 increased reserve capacity from 5 to 6 without refilling current reserve or healing injury.
 - East Relief Works is the first true recovery delve. Its mechanical identity is load/support/vibration: unstable isolation plates, vibration-sensitive Hollow Knockers, active old pressure mechanisms and a level-nine Silt Borer in the forge spill channel.
@@ -129,3 +129,16 @@ The marked early elapsed-time issue is resolved: Day 1 clearing/forest night; Da
 - Maya's ankle worsened during the delve and must not be silently reset in the next chapter.
 - Sella has begun explicitly recognizing the growing emotional gravity between Maya and Tolliver. She has not issued an ultimatum or been reduced to jealousy.
 - Tolliver has now followed Maya's correct tactical calls under pressure and continued choosing disclosure over withholding.
+
+
+## Chapter Twenty-Six endpoint
+
+- Chapter Twenty-Six completes the first recovery-delve arc by returning the party to Rook with the East Relief salvage and converting it into a table-scale rescue prototype.
+- Maya's left ankle is materially worse after the delve. Mara orders three days with no stairs, rough ground, shield work, Stepguard, or powered loading; this restriction remains active at chapter end.
+- The recovered return-shoe geometry and resonance-fault specification lead to a bounded spring-loaded far foot: short pin, limited travel, side capture, and a release-before-unload order that prevents stored twist from transferring back through the frame.
+- Maya correctly calls the prototype release sequence without using an ability, demonstrating that RELEASE UNDER LOAD has become practical Warder judgment rather than a one-off System label.
+- Maya advances to **LV. 5** at **22/22**. Reserve capacity increases from 6 to **7**; current reserve is **3/7** and does not refill on advancement. No new activated ability appears, and the ankle does not heal.
+- Sella accepts an eastbound route-guard/scout job departing in four days. She has not left yet and has not issued an ultimatum; the job creates a real schedule pressure against the rescue.
+- Harra estimates two days to build the full rescue frame properly, followed by dry load testing and chamber vibration measurement before any new spanning attempt.
+- Iven remains trapped and supplied. No person crosses the boundary in Chapter Twenty-Six.
+- Immediate next work: build and dry-test the full spring-foot frame, keep Maya resting, measure chamber vibration before spanning, and do not accelerate into the rescue until the equipment and abort conditions are actually ready.
