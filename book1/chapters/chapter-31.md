@@ -80,15 +80,15 @@ From me.
 
 My body knows before my pride does.
 
-Every moment he could have grabbed control and did not.
+Every time he could have grabbed control and did not.
 
 Every time he asked.
 
 Every time he watched me call a route and followed.
 
-The impossible ease when he lifted me after the rescue.
+The ease when he lifted me after the rescue.
 
-The way he looked at me when I released the Brace because I trusted him to have Iven.
+The way he looked at me when I released Brace because I trusted him to have Iven.
 
 He knows I am strong.
 
@@ -198,7 +198,7 @@ Then his hand closes around my wrist.
 
 Not hard enough to hurt.
 
-Hard enough that I notice exactly how little my grip matters if he decides it does not.
+Hard enough to show exactly how little my grip matters if he decides it does not.
 
 He pulls my hand away from his shirt.
 
@@ -288,15 +288,7 @@ I hate the tremor in my voice.
 
 He releases me immediately.
 
-The absence of pressure is almost worse.
-
-Then he waits.
-
-I rub my wrist.
-
-Not because it hurts.
-
-Because the skin remembers his hand.
+The absence of pressure is almost worse. He waits while I rub my wrist, not because it hurts, but because the skin remembers his hand.
 
 “Inside,” I say.
 
@@ -426,15 +418,9 @@ I look up at him.
 
 Something in his face opens.
 
-Not tenderness.
+Not tenderness. Reverence would be too pretty.
 
-Not exactly.
-
-Reverence would be too pretty.
-
-It is more animal than that.
-
-More dangerous.
+More animal. More dangerous.
 
 And somehow safer because I made it happen.
 
@@ -460,11 +446,7 @@ I sit.
 
 Pull them off.
 
-He watches.
-
-Does not help.
-
-Does not hurry.
+He watches without helping or hurrying.
 
 When I stand, he points at the shield.
 
@@ -494,11 +476,7 @@ I shift that too.
 
 “I am planning to throw you onto the bed.”
 
-My knees nearly fail.
-
-He notices.
-
-Of course he notices.
+My knees nearly fail. Of course he notices.
 
 “That,” he says quietly. “I want that.”
 
@@ -540,11 +518,7 @@ Not painful.
 
 Enough to tip my head back.
 
-The first kiss destroys every clever answer I had.
-
-He kisses me like he has been rationing it.
-
-Weeks of restraint spent at once.
+The first kiss destroys every clever answer I had. He kisses me like he has been rationing it, weeks of restraint spent at once.
 
 I grab his waist.
 
@@ -1038,9 +1012,7 @@ He changes angle.
 
 My orgasm hits before I can protect myself from it.
 
-No graceful rise.
-
-No warning.
+No graceful rise. No warning.
 
 One second I am holding together.
 
@@ -1178,9 +1150,7 @@ I pull him closer.
 
 “Fuck me.”
 
-His eyes close.
-
-Again.
+His eyes close again.
 
 That little fracture in his control.
 
@@ -1276,13 +1246,7 @@ Enough that my body has to accommodate him deliberately.
 
 When he is fully inside me, he stays still.
 
-The room goes quiet.
-
-My pulse.
-
-His breathing.
-
-The distant scrape of a chair downstairs.
+The room goes quiet around my pulse, his breathing, the distant scrape of a chair downstairs.
 
 I look at him.
 
@@ -1578,11 +1542,7 @@ I laugh and moan at the same time.
 
 Then he bends over me, mouth against my shoulder, and comes with one broken sound that I feel more than hear.
 
-He stays there.
-
-Breathing against my skin.
-
-Heavy enough that I know exactly what he meant when he said he could overpower me.
+He stays there, breathing against my skin, heavy enough that I know exactly what he meant when he said he could overpower me.
 
 Not enough to hurt.
 
@@ -1622,7 +1582,7 @@ Lies beside me.
 
 I put my head on his chest.
 
-For a while, neither of us says anything.
+For a while, neither of us speaks.
 
 His fingers move through my hair.
 
@@ -1816,11 +1776,7 @@ A pause.
 
 Then: “Yes.”
 
-I believe him.
-
-Not because he said it perfectly.
-
-Because he has been practicing for weeks.
+I believe him, not because he said it perfectly, but because he has been practicing for weeks.
 
 “Your turn.”
 
@@ -1890,9 +1846,7 @@ Looks down at me.
 
 “Again?”
 
-I should sleep.
-
-I have work in the morning.
+I should sleep. I have work in the morning.
 
 Harra wants inventory numbers.
 
