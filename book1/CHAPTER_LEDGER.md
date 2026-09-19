@@ -820,3 +820,40 @@ Live continuity record for the September 19 cold-review revision through Chapter
 - Full rescue frame still unwritten/unbuilt at chapter end; Harra plans two build days before dry testing and chamber measurement.
 - Sella's eastbound departure is four days away.
 - Iven remains trapped; no spanning attempt or rescue occurs.
+
+## Chapter 27
+
+**Opening state:** Maya is LV. 5 with reserve 3/7 at the previous close and a worsened left ankle under three days of no stairs, rough ground, shield work, Stepguard or powered loading. Sella's accepted eastbound job leaves on the fourth day after acceptance.
+
+**Major movement:** Maya contributes from enforced rest, identifies that leaving the full rescue frame loaded in the chamber could itself transmit dangerous cycling, and helps Harra refine the far spring shoe using Iven's new landing measurements. The full frame is built and dry-tested; a compressible wooden near shim is discovered and replaced with an iron-backed wedge. Captain Rusk returns with three crew and a district preservation notice covering disputed recovered inner iron, forcing Pell/Vey to negotiate witness and hold terms without granting custody or lower-chamber control.
+
+**Character / relationship changes:** Maya tells Sella to take the eastbound job even if the rescue schedule slips. Sella states that she wants both movement and Maya and does not want Maya to mutilate her own future merely to provide emotional safety. Tolliver continues to respect explicit decision roles. Maya's attraction responds to his obedience to her calls rather than to him overriding them.
+
+**System / progression / resources:** No level or ability change. Maya completes the three-day rest window and receives limited-loading clearance for rescue day: flat route, brace, no running/jumping, no Stepguard except as emergency, one planned Brace if needed. No silent healing.
+
+**Ending state:** Rescue frame passes full dry tests. Rusk's claim remains active but bounded. Pressure/vibration/landing conditions are the three explicit go/no-go variables. Rescue scheduled for dawn; Sella leaves after midday.
+
+## Chapter 28
+
+**Opening state:** Dawn rescue window with Maya LV. 5, injury limited but active, and all roles preassigned. Rusk remains above the lower chamber under the negotiated witness arrangement.
+
+**Major movement:** The full frame seats and passes weighted tests. During the first human crossing, boundary contraction begins at midpoint. The far spring reaches its two-finger hard stop and binds its release while the rigid near clamp transmits twist into the old works, waking a connected isolation mechanism. Maya orders the near clamp opened one notch, which gives the twist somewhere safe to go and frees the far latch. The team aborts successfully; the boundary cuts an empty cross brace after Iven is back on the far landing.
+
+**Opposition:** Rusk moves herself and two crew into the upper works despite the earlier practical agreement, attempting to use preservation rights as leverage over any claimed iron brought out. Maya chooses to leave disputed iron and possible Earth-related answers behind rather than compromise Iven's rescue.
+
+**Progression / mechanics:** No reserve spent in the failed human attempt. The failure establishes the missing rule: both supports must be decoupled. Harra/Oret redesign the near end as a captured floating sleeve with one finger of bounded travel.
+
+**Ending state:** Iven remains trapped but unharmed after a correct abort. The second design is understood and can be rebuilt/tested within roughly an hour. Sella's departure clock continues.
+
+## Chapter 29
+
+**Opening state:** Revised frame has a floating near sleeve, two-finger far spring shoe and sacrificial far board joint. Six dry cycles after redesign remain within limits. Rusk advises delaying for joint inspection but does not gain authority to stop the rescue.
+
+**Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya spends one Brace on the near stone only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
+
+**System / progression / resources:** Maya advances to LV. 6 at 26/26 after the rescue. Reserve capacity becomes 8; current reserve is 5/8 after one Brace, with no refill or heal. Technique recognition refines RELEASE UNDER LOAD to CONTROLLED RELEASE. No new activated ability appears. Maya's ankle worsens during the climax.
+
+**Reveals / consequences:** Iven reaches Rook's side alive with papers and non-iron personal effects. Disputed iron and potentially useful Earth-related objects remain on the receiving side pending future access/claim resolution. Rusk's preservation claim survives but does not create custody rights. Iven reunites with Teren and Lio.
+
+**Ending state:** External Book One rescue question is answered yes. The next chapter must give room to medical aftermath, family reunion consequences, Sella's imminent departure/reckoning and the unresolved Tolliver relationship rather than rushing straight into sexual payoff.
+
