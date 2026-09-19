@@ -888,6 +888,10 @@ The future does not become simple.
 
 It becomes visible.
 
+She said *if we go east*, not *if you do*.
+
+I hear it. I do not tell her I heard it. The word feels too much like something I could break by touching.
+
 For now, that is better.
 
 ---
