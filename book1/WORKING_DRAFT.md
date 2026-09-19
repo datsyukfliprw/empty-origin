@@ -4915,6 +4915,14 @@ His knee presses gently against mine.
 
 Later he kisses me in the kitchen doorway while somebody behind us complains about drafts. I laugh against his mouth and let him draw me aside. He takes his time, and I forget the carrier until we part.
 
+I remember Sella again halfway up the stairs.
+
+That should make one of them smaller.
+
+It doesn't.
+
+The wanting sits differently in me, which is not the same thing as less.
+
 Upstairs, I lay Dain's corrected drawing beside Elena's. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
 I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven't learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
@@ -5642,7 +5650,11 @@ He picks up the copies from the step where we set them. Their corners are bent. 
 
 He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
-I want to call him back. I open my door instead. My measure blurs the first time I try to read it.
+I want to call him back.
+
+That is the part I wasn't prepared for. I can want Sella and still hate the shape of his back going away from me. One feeling has not had the courtesy to cancel the other.
+
+I open my door instead. My measure blurs the first time I try to read it.
 
 Twelve out of fourteen. Three reserve out of four. Warder.
 
@@ -6016,6 +6028,8 @@ He looks down at my hand, still halfway between us.
 “I don't know if I can do it like that.”
 
 I lower it. I had imagined him being angry. I had imagined apologizing for the way I told him. I had not spent much time imagining him simply deciding he didn't want what I was offering.
+
+He does not tell me to choose. He does not make my wanting his permission to give. He just keeps his own boundary, which is somehow harder to argue with than anger.
 
 “Tell me when you know.”
 
@@ -9237,6 +9251,10 @@ The future does not become simple.
 
 It becomes visible.
 
+She said *if we go east*, not *if you do*.
+
+I hear it. I do not tell her I heard it. The word feels too much like something I could break by touching.
+
 For now, that is better.
 
 ---
@@ -10015,6 +10033,22 @@ Then he looks at my ankle.
 “I have been medically cleared to overdo a limited number of stairs.”
 
 “That isn't a thing.”
+
+“Don't start.”
+
+“I wasn't going to.”
+
+I look at him.
+
+He nods toward the stool by the hearth. “I was going to ask if you wanted that under your foot.”
+
+The difference is small enough to miss.
+
+I don't.
+
+“Yes,” I say.
+
+He brings me the stool.
 
 “You sound like Sella.”
 
