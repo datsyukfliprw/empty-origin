@@ -186,9 +186,9 @@ Then she looks at the paper again.
 
 “Of course you level while admitting something awful.”
 
-“I contain multitudes.”
+“My timing remains impeccable.”
 
-“Mostly bad timing.”
+“Your timing is diseased.”
 
 Tolliver's mouth shifts.
 
