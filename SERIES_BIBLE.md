@@ -4,7 +4,7 @@
 
 The author has explicitly chosen a **longer ongoing series** and established that **Maya never returns to Earth. This world is her new life.** These are binding directions. A trilogy, an eventual homecoming, or repeated near-homecomings would contradict them.
 
-Everything below that describes unwritten events is an editorial plan, not manuscript canon. The chapter files govern what has happened. The current manuscript ends at Chapter Nineteen. Read [project notes](book1/PROJECT_NOTES.md) and the [chapter ledger](book1/CHAPTER_LEDGER.md) for exact state before drafting. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) supplies the nearer horizon.
+Everything below that describes unwritten events is an editorial plan, not manuscript canon. The chapter files govern what has happened. The current manuscript ends at Chapter Twenty-Two. Read [project notes](book1/PROJECT_NOTES.md) and the [chapter ledger](book1/CHAPTER_LEDGER.md) for exact state before drafting. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) supplies the nearer horizon.
 
 ## The promise that can sustain the series
 
@@ -87,9 +87,9 @@ Ordway continues to run a precarious business. If Tolliver makes restitution, sh
 
 ## Progression that keeps delivering
 
-Current canon through Nineteen: Maya is level three, progress 9/18, reserve 0/5, Warder, with Brace and Stepguard. She owns a green shield currently with Harra for repair and has a newly injured left ankle. The working target is a genuinely useful novice by Book One's end, provisionally around level five or six if the earned events support it. This is an editorial target, not a System rule or an instruction to award points at chapter boundaries.
+Current canon through Twenty-Two: Maya is level three, progress 15/18, reserve 5/5, Warder, with Brace and Stepguard. She owns a repaired green shield. Her left ankle has improved enough for flat indoor walking and limited stairs but is still restricted from field work and shield practice. The working target is a genuinely useful novice by Book One's end, provisionally around level five or six if the earned events support it. This is an editorial target, not a System rule or an instruction to award points at chapter boundaries.
 
-Sixteen–Nineteen delivered the next level, owned shield, a limited mobile defensive option and the beginning of a recognizable style: create room for people to move, read pressure, coordinate the next action, release before a hold becomes a trap. She also needs to enjoy a clean win. Injury and fear cannot consume every reward.
+Sixteen–Twenty-Two delivered the next level, owned shield, a limited mobile defensive option and the beginning of a recognizable style: create room for people to move, read pressure, coordinate the next action, release before a hold becomes a trap. The drainage route now operates, the Fallow Reach receiving station is confirmed local, and the first spanning test failed safely because the team honored abort rules. She still needs a clean win and further earned progression. Injury and fear cannot consume every reward.
 
 | Stage | New capability | Continuing limit | A scene that proves the gain |
 |---|---|---|---|
