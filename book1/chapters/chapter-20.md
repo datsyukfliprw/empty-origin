@@ -4,7 +4,7 @@ Harra brings my shield back before breakfast.
 
 The green paint is gone from the lower corner.
 
-She has cut away the splintered wood, let in a darker patch, and wrapped the new rim around it with three small rivets. The bird now looks as though something has taken a bite out of its tail and been answered with iron.
+She has cut away the splintered wood, let in a darker patch, and wrapped the new rim around it with three small rivets. The bird now looks as though something bit off its tail and got answered with iron.
 
 I love it more.
 
@@ -22,13 +22,13 @@ I put both hands around my cup.
 
 Harra sets the shield against the wall beyond reach.
 
-My ankle has turned the color of bad plums during the night. The swelling is lower, but the skin looks worse for it. The mender has already been in and pressed each bone with an enthusiasm I consider personal.
+My ankle has turned the color of bad plums during the night. The swelling is lower, though the skin looks worse. The mender has already been in and pressed each bone with an enthusiasm I consider personal.
 
 Flat floors. Foot up when I can. No yard, no gallery stairs, no training, no clever interpretation of the word *flat*.
 
 I am allowed to work.
 
-That turns out to matter more than I expected.
+That matters more than I expected.
 
 ---
 
@@ -108,15 +108,11 @@ I look at Dain.
 
 He shrugs. “It was already dented.”
 
-For the first time since the window opened on Fallow Reach, I laugh.
-
-It doesn't fix anything. It does make the room easier to sit in.
+For the first time since the window opened on Fallow Reach, I laugh. It fixes nothing, but the room gets easier to sit in.
 
 ---
 
-We cannot use the upper gallery without me.
-
-That is what everyone tells me.
+Everyone tells me we cannot use the upper gallery without me.
 
 Then they prove it is a lie in the most useful way possible.
 
@@ -124,9 +120,7 @@ Mara can read Iven's slate. Dain can record the width marks. Harra can work the 
 
 My job is the table.
 
-I hate the table for ten minutes.
-
-Then the first set of numbers arrives.
+I hate the table until the first numbers arrive.
 
 Renn puts Dain's slip beside Oret's.
 
@@ -152,9 +146,7 @@ The next interval is wider.
 
 Oret records a pulse at the outlet shortly before the change. Tolliver's collector mark falls after Dain's width begins increasing, not before.
 
-That should be helpful.
-
-It isn't.
+That should help. It doesn't.
 
 I draw arrows and cross two out.
 
@@ -186,11 +178,9 @@ No one crosses it.
 
 No one needs to.
 
-The moving edge is not a door swinging open from a fixed hinge. The visible boundary itself is changing where the connection exists.
+The moving edge is not a door swinging on a fixed hinge. The boundary itself is changing where the connection exists.
 
-I knew that yesterday.
-
-Seeing the marks in two columns makes my stomach tighten anyway.
+I knew that yesterday. Seeing it in two columns still tightens my stomach.
 
 The cord on the floor. Elena's shortened rope. The end beside Iven's boot.
 
@@ -238,7 +228,7 @@ She considers this.
 
 I add the cloth to the table.
 
-Not because it belongs with the boundary measurements. Because Bera's field is why the rig is here at all, and I am beginning to understand how easily a problem becomes beautiful when it stops belonging to anyone.
+Not because it belongs with the boundary measurements. Because Bera's field is why the rig is here, and problems get beautiful too easily when they stop belonging to anyone.
 
 ---
 
@@ -250,7 +240,7 @@ Enough to reject one.
 
 Time of day does not predict them.
 
-The widest interval comes earlier than the second. The third arrives later but closes faster. No clean period.
+The widest interval comes earlier than the second; the third arrives later and closes faster. No clean period.
 
 Oret's pulses at the old junction are better.
 
@@ -282,11 +272,7 @@ Different.
 
 Maybe.
 
-The important part is uglier.
-
-A clock cannot save anyone.
-
-Neither can waiting for the same minute tomorrow.
+The important part is uglier: a clock cannot save anyone, and neither can waiting for the same minute tomorrow.
 
 ---
 
@@ -302,7 +288,7 @@ Still enough.
 
 The receiving room dimensions match.
 
-Not approximately in the way frightened people want things to match. The window wall, gray door, stair landing and side passage produce a plan Oret recognizes when he sees it on the table.
+Not approximately in the way frightened people want. The window wall, gray door, stair landing and side passage produce a plan Oret recognizes when he sees it on the table.
 
 He comes in after dusk covered in mud to the elbows.
 
@@ -318,9 +304,7 @@ The dead side passage aligns with what Oret says was once a pressure room.
 
 The gray door occupies a place where the station plan had a freight opening before he was born.
 
-Somebody changed it.
-
-Somebody imported pieces from Earth and installed them inside an abandoned works station nine days away.
+Somebody changed it, importing pieces from Earth into an abandoned works station nine days away.
 
 But the station is ours.
 
@@ -330,9 +314,7 @@ I trace the two moons Iven drew beside the window.
 
 No argument remains.
 
-I thought grief would feel larger when it became official.
-
-Instead I want to know who put the fucking EXIT sign there.
+I thought grief would feel larger when it became official. Instead I want to know who put the fucking EXIT sign there.
 
 ---
 
@@ -360,9 +342,7 @@ More of the tablet appears.
 
 Harra does not advance.
 
-That matters.
-
-The connection is moving across a stationary object.
+That matters. The connection is moving across a stationary object.
 
 Then Dain calls the first contraction mark.
 
@@ -384,11 +364,7 @@ The near half drops onto our chamber floor.
 
 Iven's half lands on his side.
 
-No pull.
-
-No twist.
-
-A clean diagonal through wax.
+No pull. No twist. A clean diagonal through wax.
 
 Harra had drilled a tiny hole near the center and filled it with black pigment.
 
@@ -404,11 +380,7 @@ He has written one word on it with the point of the needle.
 
 ENOUGH.
 
-Mara laughs first.
-
-Not because anything is funny.
-
-Because he is still there and has opinions about our experiments.
+Mara laughs first, not because anything is funny, but because he is still there and has opinions about our experiments.
 
 She presses both hands over her face.
 
@@ -450,9 +422,7 @@ Rusk pulls out Vey's paper.
 
 Pell looks toward me. “Your agreement ends tonight.”
 
-There it is.
-
-I put my pencil down.
+There it is. I put my pencil down.
 
 “I know.”
 
@@ -478,9 +448,7 @@ She gives me a look.
 
 “You have nowhere you're returning to.”
 
-Greyward.
-
-The word has changed while I wasn't watching it.
+Greyward. The word has changed while I wasn't watching it.
 
 “Still in writing,” I say.
 
@@ -540,9 +508,7 @@ The extension paper is signed before bed.
 
 Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty.
 
-My handwriting looks less like a ransom note than it did a week ago.
-
-Progress.
+My handwriting looks less like a ransom note than it did a week ago. Progress.
 
 I open the measure in my room.
 
@@ -558,7 +524,7 @@ Two points back.
 
 I do not spend them proving I can stand.
 
-This may be maturity. It may be fear of the mender.
+This may be maturity or fear of the mender.
 
 Either way, I put my foot up.
 
@@ -580,11 +546,7 @@ Outside, chain links settle under load in the dark.
 
 Nine days away, an abandoned station holds a man behind a moving boundary.
 
-Not Earth.
-
-Not home.
-
-The pain of it is still there.
+Not Earth. Not home. The pain is still there.
 
 So is the fare sheet.
 
