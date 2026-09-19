@@ -316,3 +316,16 @@ During the second crossing, an independent pressure-driven activation of the old
 
 The rescue completes Maya's Level 6 threshold. Her reserve capacity rises to eight while current reserve remains five of eight; she receives no heal, refill or new activated ability. The System refines her recognized technique from RELEASE UNDER LOAD to CONTROLLED RELEASE. Maya's ankle worsens again and requires continued medical continuity. Rusk's preservation claim remains alive, and possible Earth-related answers are left behind with the disputed iron rather than risk Iven or concede custody. Iven reunites with Teren and Lio, completing the volume's central rescue obligation while leaving the relationship aftermath and series mystery for the remaining chapters.
 
+
+
+## Chapters Thirty and Thirty-One
+
+In the immediate aftermath of Iven's rescue, Maya's worsened ankle remains medically consequential and Mara keeps her seated while Rook handles recovery, evidence, drainage, and salvage-claim fallout. Sella's eastbound crew is due within the hour. Maya and Sella finally have space to address their relationship without a rescue crisis dominating the conversation. Sella makes clear that the central problem is not Maya's bisexuality or Tolliver's existence; she cannot build a life around waiting while Maya remains emotionally suspended. Maya admits she nearly asked Sella to stay but refused because rescue-day emotion and Sella's existing sacrifices would have tilted the answer.
+
+Sella leaves east as planned. They remain in love and do not manufacture either exclusivity or a false permanent breakup. They agree that future attachments must be spoken aloud and that, if Sella returns and they still want one another, they will say so. Tolliver stays out of the goodbye and does not treat Sella's departure as an opening to claim Maya.
+
+The chapter then allows the rescue aftermath to breathe. Iven formally thanks Maya for choosing his life over disputed iron and possible Earth-related answers; Rusk's preservation claim remains unresolved. Mara restricts Maya's ankle for six additional days, after which Maya is gradually cleared for flat walking, light shield work, stairs, and finally Stepguard.
+
+Nine days after Sella's departure, fully ambulatory and no longer using injury as the premise for intimacy, Maya approaches Tolliver and explicitly chooses him. She asks him to stop being physically careful with her while preserving her authority over her choices. Their first fully realized encounter centers on active consent, repeated check-ins, Tolliver's credible physical advantage, Maya's voluntary surrender, and his fixation on making her lose composure rather than making her small. The encounter remains on page and carries into aftermath.
+
+Afterward Maya remains unchanged in authority and ambition. She does not renounce Sella or promise exclusivity. Tolliver does not demand either. They establish two concrete relationship rules: Tolliver will not make decisions for Maya under the guise of protection, and Maya will state what he did when she is angry rather than forcing him to infer it. Future dominant/submissive play requires fresh consent rather than assumptions from this encounter.
