@@ -116,3 +116,16 @@ The next chapter should **not** rescue Iven immediately. Honor the no-second-try
 ## Chronology repair
 
 The marked early elapsed-time issue is resolved: Day 1 clearing/forest night; Day 2 dawn meeting, morning lesson and afternoon/evening Greyward arrival; Day 3 first market morning/confrontation; Day 4 second market morning/fire/contract; Day 5 departure and wayhouse; Day 6 Rook arrival; Days 7–12 reading days one through six; Days 13–14 first two preparation days; Day 15 remains contracted. Crew arrived Day 12 and completed its three redirected days by Day 14. Chapters Four–Six no longer imply a missing travel night. This local count does not convert to Earth dates. See [continuity review](CONTINUITY_REVIEW.md).
+
+
+## Current endpoint update — Chapters 23–25
+
+- Canonical manuscript now runs through Chapter Twenty-Five.
+- Maya is LV. 4, progress 9/22, reserve 1/6 at the end of Chapter Twenty-Five.
+- Level 4 increased reserve capacity from 5 to 6 without refilling current reserve or healing injury.
+- East Relief Works is the first true recovery delve. Its mechanical identity is load/support/vibration: unstable isolation plates, vibration-sensitive Hollow Knockers, active old pressure mechanisms and a level-nine Silt Borer in the forge spill channel.
+- The party recovered an intact tempered return shoe, spring material and a resonance-fault specification materially relevant to the Iven rescue.
+- Maya's recognized technique label RELEASE UNDER LOAD is not a new activated ability; it records demonstrated Warder judgment.
+- Maya's ankle worsened during the delve and must not be silently reset in the next chapter.
+- Sella has begun explicitly recognizing the growing emotional gravity between Maya and Tolliver. She has not issued an ultimatum or been reduced to jealousy.
+- Tolliver has now followed Maya's correct tactical calls under pressure and continued choosing disclosure over withholding.
