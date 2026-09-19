@@ -1064,13 +1064,9 @@ The text folds.
 
 **[CURRENT RESERVE: 5 / 8]**
 
-No refill.
+Five of eight.
 
-Of course.
-
-No healing.
-
-My ankle still hurts like hell.
+My ankle still hurts like hell. Advancement made more room; it did not erase what I broke.
 
 Good.
 
