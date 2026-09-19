@@ -707,3 +707,80 @@ Live continuity record for the September 19 cold-review revision through Chapter
 **Ending state:**
 - Day 17 night. Iven remains trapped. First bounded spanning attempt failed safely and usefully; no second attempt occurs. Day 18 is funded for inspection/rebuild work.
 
+## Chapter 23
+
+**Opening state:**
+- Day 18. Maya is LV. 3, 15/18, reserve 5/5; ankle still restricted from field work/shield practice.
+- Iven remains trapped. Rook owns the used lower block; the first ash spanning frame was severed.
+
+**Major movement:**
+- Maya discloses pre-catch vibration marks she had initially withheld from the first report.
+- That correction completes her threshold and advances her to LV. 4.
+- Rusk remotely contests needed tempered material via inflated price / disputed claim leverage.
+- Tolliver brings the complete Verren Holt tracking offer to the group and refuses it because quit workers are described as property.
+- Harra identifies East Relief Works as the fastest credible source of the needed return shoe/spring/specification.
+- A bounded recovery contract and explicit retreat/decision rules are signed.
+- Party reaches the maintenance shelter and confirms Hollow Knockers beneath the works.
+
+**System / progression / resources:**
+- LV. 4.
+- New Level-4-to-5 threshold set at 22 progress.
+- Reserve capacity 6; current reserve remains 5/6 on advancement.
+- No automatic healing, refill or new activated ability.
+
+**Ending state:**
+- Night at the maintenance shelter. Dungeon entry planned for first light.
+
+## Chapter 24
+
+**Opening state:**
+- East Relief Works recovery delve begins.
+- Maya LV. 4, reserve 5/6, ankle braced; no shield.
+
+**Major movement:**
+- Isolation-floor rule established: load/movement/vibration can wake floor sections and draw Hollow Knockers.
+- Maya uses Stepguard without a shield to direct Tolliver off a shifting plate.
+- Pressure-room sweep mechanism is solved as a machine: Maya Braces the arm at a sound stop while Sella crosses to isolate it.
+- Harra recovers the tempered return shoe, spring strip and specification plate.
+- Party chooses retreat after objective completion, but the original route drops out under coordinated Knocker activity.
+
+**System / progression / resources:**
+- Stepguard spend: 5 → 3/6.
+- Brace spend: 3 → 2/6.
+- No level-up.
+
+**Relationship / trust:**
+- Tolliver follows Maya's correct call immediately.
+- Sella and Maya operate smoothly and share brief earned physical affection after the pressure-room success.
+- Tolliver gives them space rather than inserting himself.
+
+**Ending state:**
+- Objective recovered, but route home is blocked; party must take forge route deeper into the works.
+
+## Chapter 25
+
+**Opening state:**
+- Party diverted through forge toward upper spill gallery.
+- Maya LV. 4, reserve 2/6.
+
+**Major movement:**
+- Party uses deliberate vibration decoys to redirect Hollow Knockers.
+- Forge crossing is broken above a spill channel containing a LV. 9 Silt Borer.
+- Party rigs an overhead trolley as an exit route.
+- Maya Braces the trolley track, then deliberately releases before the failing bracket tears out; the release saves the support and the party.
+- Maya's ankle worsens during her own crossing; she admits the worsening rather than concealing it.
+- In a secured office, Sella explicitly recognizes Tolliver's growing trust in and attraction to Maya's competence and names the unresolved future problem without demanding an immediate answer.
+- Party recovers a resonance-fault specification suggesting damaged pressure systems can transmit false activation through connected stone.
+- Spare salvage is left behind to prioritize rescue-critical materials.
+- Party exits via upper spill gallery.
+
+**System / progression / resources:**
+- Brace spend: 2 → 1/6.
+- End state LV. 4, progress 9/22, reserve 1/6.
+- System recognizes TECHNIQUE: RELEASE UNDER LOAD. This is recognition, not a new activated ability.
+
+**Ending state:**
+- Return shoe and resonance specification secured for Iven rescue redesign.
+- Maya's ankle is worse and requires treatment/rest.
+- Dungeon One remains incomplete as a full arc; recovery/return to Rook and deeper consequences are next.
+
