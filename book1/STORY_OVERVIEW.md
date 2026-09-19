@@ -266,3 +266,29 @@ During a widening interval, Harra and Dain advance a narrow ash test frame towar
 
 The failure gives the team a concrete design correction instead of a mystery: the receiving landing pitches toward the door and the far pin projects too far. Mara's prewritten no-second-try rule prevents a fear-driven immediate attempt. Tolliver gives Maya the names connected to his old tracking failure and his declined present offer, continuing to replace withholding with costly disclosure. Iven sends Maya a message reminding her that learning Fallow Reach is real still matters even if it is not Earth. The household extends the trio's work one more day for inspection and redesign. Maya ends Day 17 at LV. 3, 15/18, reserve 5/5. Iven remains trapped and the first bounded spanning attempt has failed safely.
 
+## Chapter Twenty-Three
+
+On Day 18, the group analyzes the failed spanning test. Maya discloses a vibration pattern she had omitted from the first report because she wanted the failure to remain a simple pin-and-shoe problem. Correcting that impulse completes her level-three threshold: Maya advances to Level 4, her reserve capacity increases from five to six, and her current reserve remains five rather than refilling automatically. No new ability appears.
+
+Rusk exploits the failed test from the road by offering the needed tempered spring material at an inflated price or ordinary price in exchange for recognition of her disputed first-examination claim on recovered inner iron. Tolliver separately receives a lucrative west-road tracking offer from broker Verren Holt, but brings the complete offer to the group and refuses it after learning Holt describes two quit cutters as missing property. His disclosure is useful even when it offers him no romantic reward.
+
+Harra identifies the abandoned East Relief Works as the nearest credible source of an intact tempered return shoe, spring strip, or maintenance specification needed for the rescue redesign. The group defines a bounded recovery objective and retreat conditions before departure. Pell issues a fresh two-day recovery contract with explicit field-decision roles. Maya is cleared only for controlled walking with a stick and brace, not shield work or load carrying. Harra, Sella, Tolliver and Maya reach the old maintenance shelter before dark, where Maya briefly sees the plate of a level-six Hollow Knocker beneath the works.
+
+## Chapter Twenty-Four
+
+At first light the party enters the East Relief Works. The site establishes a clear dungeon-scale mechanical identity: old isolation-floor plates respond to load, Hollow Knockers beneath them investigate movement and repeated vibration, and the safest route depends on careful testing rather than brute force. Maya uses Stepguard without a shield to cross a shifting plate long enough to direct Tolliver back to sound support, spending reserve from five to three. Tolliver follows her call immediately without taking over.
+
+In the pressure room, the party finds an intact isolation-shutter return shoe. A sweep arm still cycles under pressure. Maya proposes treating it as a machine rather than a trap: trigger the arm, Brace it against its sound wall stop, send Sella to isolate the mechanism, then recover the shoe. Maya spends one reserve on Brace, Sella crosses successfully, and Tolliver shoots a reaching Knocker hand without disrupting the plan. Afterward Sella kisses Maya and explicitly praises her call; Tolliver gives them the moment.
+
+Harra recovers the return shoe, spring strip and specification plate. The party chooses to leave rather than pursue unexplained metal impacts from the forge, honoring the prewritten bounded objective. Before they can retreat, multiple isolation plates drop and cut off the original corridor. The party is forced deeper despite choosing correctly.
+
+## Chapter Twenty-Five
+
+Unable to use the entry corridor, the party diverts through the old forge toward the upper spill gallery. They exploit the dungeon's vibration rule by building a decoy that draws Hollow Knockers away while they open a pressure door. Maya stops Tolliver from intervening when Sella can free herself from a reaching Knocker, reinforcing the difference between support and taking over.
+
+The forge crossing is broken above a deep spill channel inhabited by a level-nine Silt Borer. Harra identifies an old overhead trolley frame as the only viable crossing. The party builds a vibration decoy and uses the trolley, but the Borer begins striking the structure. Maya initially Braces the trolley track, then recognizes that continued holding will tear out the bracket. She deliberately releases under load, allowing the trolley to roll toward sound support and preventing structural failure. Tolliver follows her release call despite the apparent danger. Maya later orders the trolley kept moving when she slips during her own crossing, choosing motion over becoming a stationary target.
+
+Maya's ankle worsens and she admits it. In a genuinely secured foreman's office, Sella tells Maya that Tolliver now listens to her and visibly responds to her competence. Sella states that she does not need an answer immediately but recognizes that Maya's growing bond with Tolliver may become a real future problem, without reducing the conflict to sexuality or simple jealousy.
+
+The party also recovers a maintenance specification describing resonance faults: repeated load cycling can wake dormant isolation sections and damaged pressure lines may transmit false activation through connected stone. This may explain why the rescue chamber vibrated before the failed frame caught. To carry the more important rescue materials, the party leaves spare salvage behind. They exit through the spill gallery with the return shoe and specification. Maya ends at Level 4, progress 9/22, reserve 1/6, with a newly recognized technique label: RELEASE UNDER LOAD. It is recognition of practiced judgment, not a new activated ability.
+
