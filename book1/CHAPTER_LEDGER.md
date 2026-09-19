@@ -784,3 +784,39 @@ Live continuity record for the September 19 cold-review revision through Chapter
 - Maya's ankle is worse and requires treatment/rest.
 - Dungeon One remains incomplete as a full arc; recovery/return to Rook and deeper consequences are next.
 
+## Chapter 26
+
+**Opening state:**
+- Morning after the East Relief Works delve. Maya is LV. 4, progress 9/22, reserve 1/6, with a materially worsened left ankle.
+
+**Major movement:**
+- Party returns safely from the maintenance shelter to Rook with the tempered return shoe, spring specification and resonance-fault plate.
+- Maya accepts being carried by Tolliver after he asks and waits for explicit permission; his restraint continues to distinguish current behavior from earlier unilateral control.
+- Mara reassesses the ankle and orders three days of no stairs, rough ground, shield work, Stepguard or powered loading.
+- Harra, Oret, Dain and Maya convert the salvage/specification into a bounded spring-loaded far-foot design for the next rescue frame.
+- A table-scale loaded prototype reveals stored twist; Maya correctly calls release of the far latch before unloading the weight, preventing force transfer back through the rail.
+- Sella receives and accepts a route-guard/second-scout job departing east in four days, creating a concrete future clock without ending the relationship in this chapter.
+- Iven is told of the redesign; Harra estimates two days to build properly, then dry load testing and chamber vibration measurement before any spanning attempt.
+
+**System / progression / resources:**
+- Maya advances at 22/22 to **LV. 5**.
+- Reserve capacity increases 6 → 7; current reserve is **3/7** after advancement, with no refill or healing.
+- No new activated ability appears.
+- RELEASE UNDER LOAD remains a recognized technique/judgment, not a separately activated power.
+- Day 18 compensation is settled under the existing agreement; no exact purse total is stated.
+
+**Relationship / trust:**
+- Maya explicitly chooses Tolliver's physical help and notices that he waits for permission, reinforcing chosen rather than imposed control.
+- Tolliver's attraction remains tied to Maya's competence; he does not press physical intimacy.
+- Sella remains affectionate and honest while naming the unresolved Tolliver problem. She accepts the eastbound job without demanding an immediate binary choice from Maya.
+
+**Reveals and established facts:**
+- Stronger/rigider is not automatically safer: a rigid span can transfer misalignment and vibration between independently moving supports.
+- The prototype's bounded spring travel and release-before-unload sequence offer a plausible way to prevent stored twist from propagating through the frame.
+- The resonance specification remains suggestive, not proof of the full transit-boundary mechanism.
+
+**Ending state:**
+- Maya LV. 5, reserve 3/7, ankle splinted and under three-day restriction.
+- Full rescue frame still unwritten/unbuilt at chapter end; Harra plans two build days before dry testing and chamber measurement.
+- Sella's eastbound departure is four days away.
+- Iven remains trapped; no spanning attempt or rescue occurs.
