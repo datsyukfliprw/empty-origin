@@ -2,13 +2,13 @@
 
 **Book One title: The Unheld Warder.** See the [title and pitch](book1/TITLE.md) and [current manuscript review](book1/REVIEW_AND_TITLE.md).
 
-**Current-version notice (September 19, 2026):** The canonical twenty-two [chapter files](book1/chapters) total **69,628 words**. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Twenty-Two. Historical reviews retain the counts from their own passes.
+**Current-version notice (September 19, 2026):** The canonical twenty-two [chapter files](book1/chapters) total **69,806 words**. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Twenty-Two. Historical reviews retain the counts from their own passes.
 
 Continue from **[book1/WORKING_DRAFT.md](book1/WORKING_DRAFT.md)**, currently through Chapter Twenty-Two. Individual chapters are in [book1/chapters](book1/chapters).
 
 **Author direction: a longer ongoing series. Maya never returns to Earth; this world is her new life.** Her early homesickness is part of her character arc, not the promised series destination.
 
-The latest continuation now runs through **Chapter Twenty-Two**. Chapters Twenty–Twenty-Two total 7,897 words: bounded boundary testing, confirmation of Fallow Reach as the local receiving station, the completed drainage repair, employment/relationship decisions, and the first safely failed spanning test. The working manuscript is **69,628 words across twenty-two chapters**. The [continuation review](book1/CONTINUATION_REVIEW_16_19.md) remains the historical audit for Chapters Sixteen–Nineteen. The earlier [developmental review](book1/DEVELOPMENTAL_REVIEW.md) remains the record of revisions through Fifteen. This is an unfinished first book.
+The latest continuation now runs through **Chapter Twenty-Two**. Chapters Twenty–Twenty-Two total 7,977 words: bounded boundary testing, confirmation of Fallow Reach as the local receiving station, the completed drainage repair, employment/relationship decisions, and the first safely failed spanning test. The working manuscript is **69,806 words across twenty-two chapters**. The [continuation review](book1/CONTINUATION_REVIEW_16_19.md) remains the historical audit for Chapters Sixteen–Nineteen. The earlier [developmental review](book1/DEVELOPMENTAL_REVIEW.md) remains the record of revisions through Fifteen. This is an unfinished first book.
 
 The [series bible](SERIES_BIBLE.md) provides an expandable eight-book horizon. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) maps the rescue, progression, romance and settlement payoffs still to be written. Future plot details are provisional, not manuscript canon.
 
