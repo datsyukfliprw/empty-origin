@@ -4,7 +4,7 @@ The saw reaches Iven before breakfast.
 
 He has freed the bed-frame strip during the night. It stretches over the missing stair, trembling as he lowers its hooked end toward the packet on the lower stub. Harra has carried the packet through on the fork. A light cord still connects it to the rod.
 
-I stand at the second viewing glass with Sella behind me. I can feel the warmth of her shoulder without touching it. An hour ago she woke me by putting a hand against my cheek. Now neither of us can look away from Iven's hook.
+I stand at the second viewing glass with Sella behind me. I can feel the warmth of her shoulder without touching it. An hour ago she woke me with a hand against my cheek. Now neither of us can look away from Iven's hook.
 
 It catches.
 
@@ -38,11 +38,11 @@ Iven angles his mirror toward the uncovered window.
 
 There are trees beyond it. Far below. Blue-black leaves, pale trunks. Beyond them a black cliff drops into water. Three white towers descend its face, each lower than the last, linked by something too thin to be a road.
 
-I wait for a car. A power line. A shape I can force into something I know.
+I wait for a car, a power line, anything I can force into something I know.
 
 The larger moon hangs above the cliff, faint in the morning sky. Its smaller companion is higher up. The same two I watched from the pantry roof.
 
-I put my hand over one eye. The image is still there when I open it.
+I close one eye. The image is still there when I open it.
 
 “Describe it,” Dain says.
 
@@ -78,11 +78,11 @@ He looks at me. I hear how loud I was.
 
 “I laid pipe above those towers when I was an apprentice.”
 
-I turn to the mirror again. Two moons. The pale trees. Iven is holding up a slate, but I keep looking past it at the sky.
+I turn to the mirror again. Two moons. Pale trees. Iven holds up a slate, but I keep looking past it at the sky.
 
 His next message says he found a name cut in the stone behind the boards. Fallow Reach. He has copied it beneath the drawing of a gate. Local writing, old enough that Dain asks Mara to check one letter.
 
-The gray door stands in front of it. Someone has fitted an Earth door into this place and hung an Earth sign above it. I don't know who. I don't know how.
+The gray door stands in front of it. Someone fitted an Earth door into this place and hung an Earth sign above it. I don't know who or how.
 
 I know my mother is not behind it.
 
@@ -104,7 +104,7 @@ Iven has tried the doors away from the landing. One opens onto fallen stone. Ano
 
 I write the question while Mara sketches a measuring stick. Iven copies it. He will measure the tank, look for another exit, keep clear of the broken rail.
 
-The little saw lies on the landing beside his foot. I look at it instead of the window.
+The little saw lies beside his foot. I look at it instead of the window.
 
 Then the bright strip narrows.
 
@@ -118,7 +118,7 @@ The dark edge meets the linen.
 
 Our end falls.
 
-Nothing pulls it. It simply drops, and the far end curls against Iven's boot. He stares down at it. So do I.
+Nothing pulls it. It simply drops, the far end curling against Iven's boot. He stares down. So do I.
 
 Harra brings the fork in. A few inches of cord remain tied to it, the end cut at a slant. Dain puts a finger against the cut, then takes it away.
 
@@ -146,7 +146,7 @@ I return my attention to the path. My boot was about to go exactly there.
 
 “The grass holds the top,” she says. “Nothing under it.”
 
-Three reserve. One Brace and one Stepguard. I count them as we leave the road, pushing the sight of the severed cord away each time it returns.
+Three reserve. One Brace and one Stepguard. I count them as we leave the road, pushing away the severed cord whenever it returns.
 
 Sella catches up beside the last fence.
 
@@ -162,7 +162,7 @@ She looks at me, then at the shield. “Keep your eyes here, then. On what we're
 
 I tighten the strap and follow her onto the track.
 
-My wool skirt is gathered clear of my boots with a borrowed tie. It feels ridiculous until I see Harra knot her own hem higher and stop worrying about it. She carries the tools. I carry a narrow end frame for the screen with my right hand, letting the shield rest against my left hip while we walk.
+My wool skirt is tied clear of my boots. It feels ridiculous until Harra knots her own hem higher. She carries the tools. I carry a narrow end frame for the screen with my right hand, letting the shield rest against my left hip while we walk.
 
 Ahead, Tolliver raises a hand.
 
@@ -174,7 +174,7 @@ We stop. Sella steps past me without touching my shoulder, moving toward him alo
 
 He points with two fingers. Something makes a low seam through the water, then disappears beneath a shelf of roots.
 
-I remember claws on the cart rail. My fingers close around the screen handle until the edge hurts.
+I remember claws on the cart rail and grip the screen handle until it hurts.
 
 Sella looks back at us. “Stay on the boards when they're down.”
 
@@ -182,7 +182,7 @@ No one needs to explain what the boards are for again.
 
 ---
 
-The wash channel looks too small to save anything.
+The wash channel looks too small to matter.
 
 It runs between steep banks toward a mouth of old stone, water slipping through a gap at the bottom. A willow root has lifted one corner of the top slab. Mud fills the rest. Downstream, where Oret and a house worker wait, the channel widens toward the mill tailrace.
 
@@ -206,7 +206,7 @@ Harra takes my right hand off the frame and places it lower.
 
 “Yes. Lower if it pulls.”
 
-Her tone is ordinary. I borrow as much of that as I can.
+Her tone is ordinary. I borrow what I can.
 
 Tolliver takes the upper willow bank with his bow. Sella guards the downstream end. Bera has shown the workers the safe track and now waits beyond the clay sacks, where she can point out a change without being inside it.
 
@@ -222,9 +222,7 @@ It surprises me to discover that I am.
 
 ---
 
-The first water is brown and slow.
-
-It comes through the notch in a thin tongue, pushing a curl of dead leaves ahead of it. Harra works a knot of roots loose. I lift my end of the screen while she shifts hers into the next slot, then lower it again when the overlap is restored.
+The first water is brown and slow, a thin tongue pushing dead leaves ahead of it. Harra works a knot of roots loose. I lift my end of the screen while she shifts hers into the next slot, then lower it again when the overlap is restored.
 
 No reserve. Just work.
 
@@ -234,7 +232,7 @@ The little stream reaches the old masonry throat, pauses behind the packed silt,
 
 Dain waits.
 
-A minute passes. My left forearm starts to ache. I lower my elbow without moving the screen.
+A minute passes. My left forearm starts to ache, so I lower my elbow without moving the screen.
 
 Then the mud beneath the throat puckers and lets go.
 
@@ -272,7 +270,7 @@ She was already turning. The impact drives her back one step on the boards, then
 
 The animal twists. It is larger than the one on the cart, wet fur hanging in ropes, front claws hooked around the shield edge. Sella keeps it away from her sword arm, working for a space to strike.
 
-I have turned my head. My screen tilts.
+I turn my head. My screen tilts.
 
 “Maya,” Harra says.
 
@@ -304,7 +302,7 @@ Harra gets her section down. I end the hold while I still have the shape, then u
 
 “Clear my side,” I call.
 
-My voice works. I can hear it through the blood in my ears.
+My voice works through the blood in my ears.
 
 Downstream, Sella has the first animal on the bank. Her sword goes in beneath its jaw. Its hind legs beat against the board twice before stopping.
 
@@ -316,9 +314,7 @@ The board tilts.
 
 ---
 
-At first I think the animal has lifted it.
-
-Then a line opens in the mud beyond Harra's boot. Water rises through it, carrying pale sand, and the whole lower edge of our ledge moves toward the notch.
+At first I think the animal lifted it. Then a line opens in the mud beyond Harra's boot. Water rises through it, carrying pale sand, and the whole lower edge of our ledge moves toward the notch.
 
 “Ground!” I shout.
 
@@ -326,7 +322,7 @@ Dain orders the stop board down. The men above haul on its handles. It drops par
 
 Water continues through.
 
-Harra pulls her bar free and steps uphill. I should follow. But my screen is leaning out over the pool and I still have my hand on it, as though the frame being assigned to me makes it part of my body.
+Harra pulls her bar free and steps uphill. I should follow. But my screen leans out over the pool and I still have my hand on it, as though being assigned the frame made it part of my body.
 
 “Maya, leave it.”
 
@@ -334,7 +330,7 @@ I let go.
 
 The frame slides, hanging by one upper pin. Renn shifts uphill to cover us. Beneath the tilted board a narrow head rises, whiskers pasted flat, the spear scratch bright through its fur.
 
-My way back is one short step to the next packing board. Harra has just crossed it. There is no room to turn without putting my back to the mouth.
+My way back is one short step to the next packing board. Harra has just crossed it. There is no room to turn without giving the mouth my back.
 
 I set the shield facing downhill, choose that step, and commit the two points I have left.
 
@@ -346,7 +342,7 @@ My left boot settles.
 
 The board breaks through the ground beneath it.
 
-There is nothing to pass the weight into. The hold comes apart. My left ankle rolls into the hidden hollow and the shield twists hard enough that a metal edge screams against stone.
+There is nothing to pass the weight into. The hold breaks. My left ankle rolls into the hidden hollow and the shield twists hard enough that a metal edge screams against stone.
 
 Pain flashes up the outside of my leg. I fall to one knee with the animal still against me.
 
@@ -356,7 +352,7 @@ Harra catches the back of my tunic.
 
 I let my elbow bend. The rim scrapes across my boot as Renn puts his spear between the animal and my face. Its teeth snap closed on the green wood. A piece tears loose.
 
-I can't find any reserve. I don't waste another second searching.
+There is no reserve. I don't waste another second searching.
 
 “Pin it there!” I yell.
 
@@ -378,7 +374,7 @@ Dain levers the trapped root upward. Harra reaches him, cuts the exposed strand 
 
 The rush fades.
 
-I keep watching until the water stops eating the mud. Only then do I look down at my foot.
+I watch until the water stops eating the mud. Then I look at my foot.
 
 ---
 
@@ -390,7 +386,7 @@ Sella makes each of us say it and checks the people whose answers come too fast.
 
 “You can keep that bit.”
 
-She opens her fingers. The cloth hangs from the seam. We both laugh, briefly and badly, then stop because it hurts my ankle when I move.
+She opens her fingers. The cloth hangs from the seam. We laugh, briefly and badly, then stop when my ankle protests.
 
 Sella kneels in front of me. I watch her unfasten the boot and ease it off onto the mud beside us. She works gently enough that I know she thinks it might be worse than I want it to be.
 
@@ -424,11 +420,11 @@ Sella puts it within my hand without making me ask again.
 
 “I know.”
 
-She looks toward the hole. Water is draining out of it through the undercut bank. The board had carried one quick footfall; mine arrived with my weight and an animal on the shield. I can see the difference now, which is an expensive way to learn anything.
+She looks toward the hole. Water is draining out of it through the undercut bank. The board had carried one quick footfall; mine arrived with my weight and an animal on the shield. I can see the difference now. Expensive lesson.
 
 “The first hold worked,” she says. “Renn had a place to put the spear.”
 
-I remember the blade coming past on the road and how I broke the Brace myself. Today I knew where he was.
+I remember breaking Brace on the road when the blade came past. Today I knew where Renn was.
 
 I hold that memory while the ankle throbs.
 
@@ -498,7 +494,7 @@ Then she bends, picks my boot out of the mud and puts it in the cart beside me.
 
 ---
 
-The ride back is worse than the ride from Greyward.
+The ride back is worse than Greyward.
 
 The cart has no springs. Every rut jars the ankle no matter how carefully I arrange the folded coat under it. Sella walks beside the cart, and I can tell from the way she lets silence sit that she is exhausted too.
 
@@ -512,11 +508,11 @@ I open the measure when the road smooths enough to hold a thought.
 
 **[RUN: WARDER]**
 
-Halfway to the next level. I wait for disappointment about the zero to swallow it, and it doesn't. The Brace held long enough for Renn to use his spear. When I shut my eyes I can still feel that impact, the moment the pressure found the ground through me.
+Halfway to the next level. The zero does not swallow that. The Brace held long enough for Renn to use his spear. When I shut my eyes I can still feel that impact, the moment the pressure found the ground through me.
 
 I want to do it again better.
 
-The thought arrives so clearly that I almost laugh. My ankle is swelling against a folded coat and I want another chance. I turn the thought over, almost ashamed of it. Then I look at the number again.
+The thought arrives so clearly I almost laugh. My ankle is swelling and I want another chance. I look at the number again.
 
 At the gate Sella leans on the cart rail.
 
@@ -550,7 +546,7 @@ The clerk brings my day's pay before the mender leaves. I put the coins away wit
 
 ---
 
-They hold the discussion at the end of the kitchen table, where I can sit with my foot up on a bench.
+They hold the discussion at the kitchen table so I can keep my foot up on a bench.
 
 I suspect Sella arranged it. She denies nothing and steals half my bread while Dain pins the new drawing to a board.
 
@@ -602,7 +598,7 @@ Pell starts to speak. He cuts her off.
 
 “I know you can't promise when.”
 
-She closes her mouth. For a moment I see how tired he is. The three pieces he put down before paid for the first tests. This could take the stock he expected to sell through winter.
+She closes her mouth. For a moment I see how tired he is. He already paid for the first tests; now this could take the stock he meant to sell through winter.
 
 Rusk checks the invoice and goes with Vey to inspect the bales. Pell sends the clerk for the six pieces. When the captain returns, a tuft of blue wool is caught on her cuff.
 
@@ -624,7 +620,7 @@ Tolliver pauses at the door when Sella goes for water.
 
 “I heard about the window,” he says.
 
-I nod. I have managed not to think about it since the cart ride.
+I nod. I have avoided thinking about it since the cart ride.
 
 “I'm sorry.”
 
@@ -656,7 +652,7 @@ He knows who I mean. He doesn't answer.
 
 “I was going to tell her I hadn't done anything stupid.”
 
-A laugh escapes me. It hurts, and then it isn't a laugh. I press the shirt against my face, trying to get quiet before Sella comes back.
+A laugh escapes me, hurts, and turns into something else. I press the shirt to my face before Sella comes back.
 
 Tolliver stays until I can breathe. When she appears in the doorway, he stands and goes past her. They exchange a few words too low for me to hear. She sets the water on the table and sits on the floor beside the bed.
 
@@ -678,7 +674,7 @@ I stare at the shirt on my knees. She waits.
 
 “After this job. I can't keep turning down work.”
 
-I want a promise she hasn't made. I want to be well enough to pack a bag and walk beside her. My foot throbs when I shift it.
+I want a promise she hasn't made. I want to be well enough to pack a bag and walk beside her. My foot throbs.
 
 “Bring me the fares,” I say. “When you ask.”
 
