@@ -10,7 +10,7 @@ Dain draws a door in spilled flour and puts his breakfast on the other side of i
 
 The yolk runs into the flour. I pull my copied page away from his plate.
 
-He draws another line with the handle of his spoon. The kitchen table rocks under his hand. Around us people finish eating, collect tools, argue about a missing glove. My second reading day has not started. I stand beside his bench with my copied page, trying to get to the important part before he finishes eating.
+He draws another line with the handle of his spoon. The kitchen table rocks under his hand. Around us people finish eating and collect tools. My second reading day has not started, and I am trying to get to the important part before he finishes breakfast.
 
 “The service passage goes here. Wheel stands back around this bend, above the chamber floor. Man at the wheel can't see through the arch. Elena was right about that.”
 
@@ -19,8 +19,6 @@ He draws another line with the handle of his spoon. The kitchen table rocks unde
 “Yes. Somebody could stand in the passage we closed because water rose over a man's head.”
 
 I look at the flour. “Right.”
-
-He eats the egg.
 
 “Could we look from higher up?”
 
@@ -46,7 +44,7 @@ I pull the bench out and sit. My knee hits the table, which shifts his cup throu
 
 “The cover was closed. The access was closed. The wheel was at its old mark. Yesterday the last of those changed.”
 
-I look at his flour drawing again. The locked cover and the thing beyond it are farther apart than I had understood.
+The locked cover and the thing beyond it are farther apart than I had understood.
 
 I turn my sheet over. “Can you draw it on something I won't eat?”
 
@@ -66,7 +64,7 @@ His mouth is close to my temple. My attention goes there so fast I lose the end 
 
 “Morning.”
 
-He smells of soap and the leather of his bow strap. Last night comes back in pieces: the stair under my legs, his thumb moving at my waist, the small breath he took before I kissed him again. I want to pull him down beside me. Dain knocks the spoon against the table.
+He smells of soap and the leather of his bow strap. Last night comes back in pieces: the stair under my legs, his thumb at my waist, the breath he took before I kissed him again. I want to pull him down beside me. Dain knocks the spoon against the table.
 
 “Tolliver. The long measure. It's behind the door.”
 
@@ -108,7 +106,7 @@ I turn the page back, but there is nothing else about the mirror or his wife.
 
 Mara makes room for the next sheet. “Read the rest.”
 
-There are measurements of the sleeve, a note about the position of a stone projection, and three attempts to turn the geometry into something that will fit through a round hole. The last drawing uses two fixed mirrors. There is no result beside it.
+There are sleeve measurements, a note about a stone projection, and three attempts to fit the geometry through a round hole. The last uses two fixed mirrors. There is no result beside it.
 
 “Proposed,” I say before Mara writes anything. “She hasn't said she built this.”
 
@@ -146,11 +144,11 @@ I say *address* and my hand moves toward the scrap in my clothes, Elena's name a
 
 “Yes.”
 
-I hate that she is better at this distinction than I am. I want a dial with numbers around it and one number that means the street outside my apartment. I want to tell Dain where to point it and be a difficult passenger instead of a person who doesn't know whether there is a road.
+I hate that she is better at this distinction than I am. I want a dial with one number that means the street outside my apartment, a road I can complain about instead of one I don't know exists.
 
 Mara sands the copy. “We'll ask him about the readings.”
 
-We keep working. Two labels describe samples taken from the outlet; one agrees with the warm water and pale grit, the other has a date but no surviving sample attached. Another tag reads *not brass?* and proves, when Mara opens its wrapper, to be tied to a greenish washer. I translate the question mark too.
+We keep working. Two labels describe outlet samples; one matches the warm water and pale grit, the other has no surviving sample. Another tag reads *not brass?* and is tied to a greenish washer. I translate the question mark too.
 
 At midday I have seven pages of notes, an aching hand, and considerably less faith in a mirror than I had at breakfast.
 
@@ -162,9 +160,9 @@ I find her beside the closure rope with a heel of bread, a knife, and the expres
 
 “That's horrifying,” I tell her.
 
-She looks at the onion. “Small ones are sweet.” She cuts off a slice and offers it.
+She looks at the onion. “Small ones are sweet.” She offers a slice.
 
-“No, keep it.” I move my bowl away from the offered slice.
+“No, keep it.” I move my bowl away.
 
 She grins and offers me the bread. I have brought my own food from the kitchen. We eat on a low wall where she can see both approaches to the path.
 
@@ -194,7 +192,7 @@ She puts her bread on the wall and makes me stand with my forearms against a squ
 
 I let it out through my nose.
 
-We practice the step away from the wall, the reset, the weight coming through my legs. When someone approaches, she leaves me standing there and goes to turn them back. I watch where she puts herself. Beside their route, enough room to stop, her sword still sheathed. She gets a man with a sack to change direction without touching him.
+We practice the step, reset, weight through my legs. When someone approaches, she leaves me there and turns him back from beside his route, sword still sheathed, without touching him.
 
 When she returns, I ask, “Is there a way to move while holding Brace?”
 
@@ -234,7 +232,7 @@ Sella's hand lifts away.
 
 I grin before checking my measure. Three reserve left. Progress nine out of fourteen.
 
-Only one more than last night, and I like it more than I expected. I know what I did this time. At least one useful thing went into the number.
+Only one more than last night, but I know what I did this time. At least one useful thing went into the number.
 
 “Again?” I ask.
 
@@ -254,7 +252,7 @@ She lifts her arm to adjust the strap beneath her collar. Sweat has darkened the
 
 “A little. You asking?”
 
-She gives me time to do something with that. A ridiculous amount of time, perhaps two seconds, during which I acquire complete awareness of my boots.
+She gives me perhaps two seconds to do something with that, enough to become completely aware of my boots.
 
 “How old are you?” I ask.
 
@@ -300,7 +298,7 @@ I bring him the page about the same mark giving different water. He sets the jar
 
 At the upper building he leaves me outside with Tolliver while he and two house workers inspect the stair and gallery. The door has its own seal, a crust of wax across a cord. Dain has Mara brought to record its opening. Below us, the service cover remains locked.
 
-It takes most of an hour. I sit on the stair with my copies on my knees and read Tolliver the mirror entry. He stops scraping mud from the measure when I reach the part about Dain's wife.
+It takes most of an hour. I sit on the stair and read Tolliver the mirror entry. He stops scraping mud from the measure at the part about Dain's wife.
 
 “I won't suggest borrowing another,” he says.
 
@@ -330,9 +328,9 @@ Pell arrives while he is reading Elena's proposed two-mirror arrangement. She he
 
 “Then that first. Observation after you approve the fitting.”
 
-I start to speak. Pell turns toward me.
+I start to speak, but Pell turns toward Dain.
 
-“Can she observe from outside the controls?” Pell asks.
+“Can she observe from outside the controls?”
 
 “Behind the frame,” Dain says. “I need her if there's writing.”
 
@@ -370,17 +368,13 @@ Across the room Sella is arguing with a carrier over an eastbound fare. He sprea
 
 I look back at him. “Everyone here has somewhere to go.”
 
-His knee presses gently against mine.
+His knee presses against mine.
 
 Later he kisses me in the kitchen doorway while somebody behind us complains about drafts. I laugh against his mouth and let him draw me aside. He takes his time, and I forget the carrier until we part.
 
 I remember Sella again halfway up the stairs.
 
-That should make one of them smaller.
-
-It doesn't.
-
-The wanting sits differently in me, which is not the same thing as less.
+That should make one of them smaller. It doesn't. The wanting sits differently in me, which is not the same thing as less.
 
 Upstairs, I lay Dain's corrected drawing beside Elena's. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
