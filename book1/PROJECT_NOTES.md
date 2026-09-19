@@ -6,8 +6,8 @@
 - **Maya never returns to Earth. This world is her new life.** Preserve the early manuscript's homesickness as her starting emotional state, then develop chosen work, relationships, adventures, and a home here. Do not sustain the series with repeated possible routes back, an Earth visit, or an eventual homecoming. The Earth objects and arrival mystery remain meaningful without promising her return. This supersedes the former open-ended return-home direction.
 - Continue the existing adult romance × LitRPG novel with editorial ownership and room for discovery.
 - The former 200,000-word target is explicitly superseded. Do not pad the story toward it.
-- Include a female romantic/sexual partner for Maya in this book. Develop mutual attraction and an emotionally consequential relationship on the page; use the same close-age requirement and fade-to-black/author-written explicit-passage approach. Sella is now a mutually interested romantic partner (first kisses in Chapter Fifteen); no sexual encounter has occurred. The final relationship structure remains open.
-- Write romantic tension and naturally placed fades to black; the author will write the explicit passages. Keep the emotional decision and aftermath in the manuscript. No explicit-scene insertion point has yet been reached in Chapters Seven–Nineteen.
+- Include a female romantic/sexual partner for Maya in this book. Develop mutual attraction and an emotionally consequential relationship on the page; preserve the close-age requirement and keep earned sexual encounters on page. Sella is a mutually interested romantic partner: first kisses occur in Chapter Fifteen, with consensual sexual encounters in Chapters Eighteen and Twenty-One. The final relationship structure remains open.
+- Write romantic tension and earned open-door sex in the manuscript itself. Do not fade to black or leave author-insert placeholders once a freely chosen sexual encounter begins. Preserve consent, embodied continuity, character-specific desire, and the emotional aftermath.
 - Maya's sexual partners must be near her age. Maya is nineteen; use nineteen to twenty-three as the current working range and establish actual ages before intimacy. Tolliver is explicitly twenty-two. Eiran Hale, in his thirties, and Master Vey, estimated around forty, are not sexual partners. Do not evade this preference with an old character who only looks young.
 
 - Keep the book centered on LitRPG adventure, the Earth/sluice mystery, and character-driven romance. Working interpretation of the author's latest preference: Maya's attraction to women belongs within that story, without shifting the book into a coming-out narrative, identity instruction, or political messaging. This does not cancel the requested female relationship.
@@ -16,11 +16,11 @@
 
 Author direction: **“She is powerful and capable. He knows it. He can overpower her anyway. She chooses to let him. And his obsession is making her lose control, not making her small.”**
 
-This governs future drafting and targeted revision of Maya and Tolliver. It is a desired character/relationship arc, not a claim that the existing nineteen chapters already deliver it. Maya's demonstrated competence must grow into consequential power. Tolliver recognizes and desires that strength, supports its growth, and remains capable of physically overwhelming her in a credible, established context. Maya actively chooses to yield to him; his fascination is with undoing her composure and receiving her trust. Her judgment, standing, independence, and power remain intact afterward.
+This governs future drafting and targeted revision of Maya and Tolliver. It is a desired character/relationship arc, not a claim that the existing chapters already deliver it. Maya's demonstrated competence must grow into consequential power. Tolliver recognizes and desires that strength, supports its growth, and remains capable of physically overwhelming her in a credible, established context. Maya actively chooses to yield to him; his fascination is with undoing her composure and receiving her trust. Her judgment, standing, independence, and power remain intact afterward.
 
 His early withholding and control of her circumstances remain faults with consequences. Do not reinterpret them as proof of desirable dominance. Earn the transition through costly honesty, respect for her decisions, and pleasure in her increasing strength. Her Chapter Seven boundary—“Not while you decide where I sleep”—is foundational. Physical surrender must be wanted and revocable, never purchased through rescue, training, housing, money, or withheld knowledge. Do not weaken Maya or make her fail so he can seem stronger.
 
-This direction does not cancel Sella's emotionally significant relationship, settle exclusivity, or change the established age and fade-to-black/author-insertion requirements. See the character entries and romance guidance in [SERIES_BIBLE.md](../SERIES_BIBLE.md).
+This direction does not cancel Sella's emotionally significant relationship, settle exclusivity, or change the established close-age and on-page intimacy requirements. See the character entries and romance guidance in [SERIES_BIBLE.md](../SERIES_BIBLE.md).
 
 ## Length decision
 
@@ -51,21 +51,21 @@ The editorial rationale and the source supporting the genre range are in [EDITOR
 | 15 | 4,016 |
 | 16 | 1,924 |
 | 17 | 1,727 |
-| 18 | 3,111 |
+| 18 | 4,066 |
 | 19 | 5,338 |
 | 20 | 2,283 |
-| 21 | 2,546 |
+| 21 | 3,253 |
 | 22 | 2,361 |
-| **Total** | **67,966** |
+| **Total** | **69,628** |
 
 Counts use whitespace-separated tokens across individual chapter files, including chapter headings, displayed System text, and Markdown scene separators. The compiled draft joins the chapters with blank lines and uses the same total. Typesetting or word-processor counts may differ slightly.
 
 - Chapters One–Six, current canonical text: 16,659 words.
 - Chapters Seven–Twelve, current canonical text: 22,228 words.
 - Chapters Thirteen–Fifteen, current canonical text: 9,789 words.
-- Chapters Sixteen–Nineteen, current canonical text: 12,100 words.
-- Chapters Twenty–Twenty-Two: 7,190 words.
-- Indicative remaining space to the 105,000-word center: 37,034 words. This is planning arithmetic, not a drafting quota.
+- Chapters Sixteen–Nineteen, current canonical text: 13,055 words.
+- Chapters Twenty–Twenty-Two: 7,897 words.
+- Indicative remaining space to the 105,000-word center: 35,372 words. This is planning arithmetic, not a drafting quota.
 - Status: working manuscript through Chapter Twenty-Two, not a complete novel or publication proof. Chapters Twenty–Twenty-Two continue the bounded station tests, drainage repair, employment/relationship decisions and first failed spanning test. Earlier developmental, continuity and prose reviews retain their historical scope and counts.
 
 ## Source authority and files
@@ -91,7 +91,7 @@ Use [PROSE.md](../writing-system/PROSE.md), [DEVELOPMENT.md](../writing-system/D
 
 The author's request is to add the system and apply it to the manuscript. Instructions inside the imported documents to begin Dialogue & Banter development, seek dial approvals, or issue voice-development running reports concern a separate task. Do not launch that workflow during manuscript work. Do not invent settings for unfinished categories or alter imported locked decisions.
 
-Book-specific author preferences and established continuity take precedence over generic examples and defaults. In particular, the existing close-age constraints and author-written explicit passages/fade-to-black approach remain in effect despite the generic system's explicitness baseline and anti-fade guidance.
+Book-specific author preferences and established continuity take precedence over generic examples and defaults. The close-age constraints remain binding. The Nora system's earned-payoff, explicitness, sex-continuity, and anti-fade guidance now applies directly: consensual sexual encounters stay on page and continue through emotional aftermath.
 
 ## Immediate handoff
 
@@ -107,7 +107,7 @@ Chapter Twenty-Two opened the lower service stair on Rook's side under explicit 
 
 Iven remains trapped but supplied with the saw, needle, linen and family letter. His local water tank is below an old stain; measurements continue without converting them into a false days-remaining estimate. No person has crossed, no safe universal interval exists, and no Warder ability can hold the boundary open. The final rescue must still use independently supported structure, measured abort conditions and distributed jobs.
 
-Relationship state: Maya and Sella had their first sexual encounter in Chapter Eighteen and a second mutually chosen fade/aftermath in Twenty-One. Maya told Sella she wants to take a moving job with her after Iven's rescue if the opportunity still exists, while refusing to make a false promise about exact destination/timing. Sella retains independent eastbound plans. Tolliver disclosed a prior job in which he knowingly gave a runaway nineteen-year-old's location to her controlling father after learning she had fled voluntarily; the confession does not earn automatic forgiveness. He declined Rusk's new tracking offer after she would not identify the wagon owner and gave Maya the names involved rather than withholding them. Maya still desires him but has not resumed physical intimacy or resolved the final relationship structure.
+Relationship state: Maya and Sella have on-page consensual sexual encounters in Chapters Eighteen and Twenty-One, each followed by relationship aftermath. Maya told Sella she wants to take a moving job with her after Iven's rescue if the opportunity still exists, while refusing to make a false promise about exact destination/timing. Sella retains independent eastbound plans. Tolliver disclosed a prior job in which he knowingly gave a runaway nineteen-year-old's location to her controlling father after learning she had fled voluntarily; the confession does not earn automatic forgiveness. He declined Rusk's new tracking offer after she would not identify the wagon owner and gave Maya the names involved rather than withholding them. Maya still desires him but has not resumed physical intimacy or resolved the final relationship structure.
 
 The next chapter should **not** rescue Iven immediately. Honor the no-second-try rule, inspect and rebuild from the known failure, keep Maya's ankle restrictions honest, settle what happens after the one-day Day 18 extension, and continue progression toward level four without inventing a refill/ability outside established rules. The captain's larger antagonist action and final retrieval remain ahead.
 
