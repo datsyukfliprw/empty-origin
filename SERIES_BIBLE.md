@@ -16,7 +16,7 @@ The durable story mechanism is a small, independent expedition company working a
 
 Introduce the company through people choosing and paying for their first shared undertaking. A founding charter can be summarized. Readers need to see who turns up, who owns the gear, who disagrees, and whether they can make the job work.
 
-**Positioning:** adult portal LitRPG adventure with substantial romantic development. The source of serial momentum is her life here. Do not advertise a conventional exclusive-couple romance or a settled multiple-partner structure before the manuscript delivers that promise. Sexual encounters use the author's existing fade-to-black/insertion approach, with the decision and aftermath on page.
+**Positioning:** adult portal LitRPG adventure with substantial romantic development. The source of serial momentum is her life here. Do not advertise a conventional exclusive-couple romance or a settled multiple-partner structure before the manuscript delivers that promise. Earned sexual encounters stay on page. Preserve explicit physical continuity, active consent, character-specific desire, and the emotional aftermath instead of fading after the decision is made.
 
 ## Permanent settlement and Earth
 
@@ -127,7 +127,7 @@ Keep a core traveling cast small enough that each member has a job in the advent
 
 **Binding Maya–Tolliver direction:** “She is powerful and capable. He knows it. He can overpower her anyway. She chooses to let him. And his obsession is making her lose control, not making her small.” This is the intended arc, not an event already established in the manuscript.
 
-Build the dynamic through action: Maya succeeds using her own strength; Tolliver's response makes his admiration and desire specific; an encounter establishes his greater physical leverage without manufacturing helplessness; she deliberately invites him to take control. Show his attention to her reactions and her desire to surrender her composure. Carry the effect into the aftermath, where he still respects her decisions and she retains her standing. A kiss, jealousy, rescue, or simple size difference alone does not deliver this promise. Keep the intimate decision and emotional consequences on page within the existing fade-to-black convention.
+Build the dynamic through action: Maya succeeds using her own strength; Tolliver's response makes his admiration and desire specific; an encounter establishes his greater physical leverage without manufacturing helplessness; she deliberately invites him to take control. Show his attention to her reactions and her desire to surrender her composure. Carry the effect into the aftermath, where he still respects her decisions and she retains her standing. A kiss, jealousy, rescue, or simple size difference alone does not deliver this promise. Keep the intimate decision, sexual payoff, and emotional consequences on page. Do not use fade-to-black to avoid a freely chosen encounter once it begins.
 
 The two attractions are established; their final structure is not. Develop an honest, specific arrangement before a Book One climax depends on its durability. Keep the author's actual-age range of nineteen to twenty-three for Maya's current sexual partners and establish ages on page. Eiran and Vey remain excluded.
 
