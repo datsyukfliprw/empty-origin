@@ -290,7 +290,11 @@ He picks up the copies from the step where we set them. Their corners are bent. 
 
 He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
-I want to call him back. I open my door instead. My measure blurs the first time I try to read it.
+I want to call him back.
+
+That is the part I wasn't prepared for. I can want Sella and still hate the shape of his back going away from me. One feeling has not had the courtesy to cancel the other.
+
+I open my door instead. My measure blurs the first time I try to read it.
 
 Twelve out of fourteen. Three reserve out of four. Warder.
 
