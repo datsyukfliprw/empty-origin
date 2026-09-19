@@ -4,9 +4,9 @@ Rusk leaves before I wake.
 
 Her rig goes with her.
 
-The yard looks enormous without the shear legs in it.
+The yard looks enormous without the shear legs.
 
-Harra's purchased block hangs from a peg beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
+Harra's purchased block hangs beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
 
 The hook has no keeper.
 
@@ -40,7 +40,7 @@ Nobody even approached it while the interval was changing.
 
 That is why I am allowed to go.
 
-Allowed is generous.
+Allowed is doing work here.
 
 The mender examines my ankle again, makes me stand, makes me rise onto both toes, then tells me I may manage indoor stairs with a handrail and another person present.
 
@@ -66,11 +66,7 @@ I decide not to respect either of them.
 
 We establish the abort conditions at the kitchen table.
 
-Not in the chamber.
-
-Not while afraid.
-
-Not after somebody has already put a boot where they shouldn't.
+Not in the chamber, not while afraid, and not after somebody has already put a boot where they shouldn't.
 
 Dain writes them large.
 
@@ -112,11 +108,7 @@ I love her a little.
 
 ---
 
-My job is not the rope.
-
-My job is not the block.
-
-My job is not stepping through a magical murder-slice because I happen to have a class named Warder.
+My job is not the rope, the block, or stepping through a magical murder-slice because I happen to have a class named Warder.
 
 My job is the test board.
 
@@ -130,9 +122,7 @@ Yellow: uncertain.
 
 Red: falling below the lowest observed safe continuation mark.
 
-The colors are not a law.
-
-They are reminders that uncertainty exists even when people are excited.
+The colors are not a law. They are reminders that uncertainty exists even when people are excited.
 
 I stand at the wheel recess with the board, close enough to hear Oret's runner call the outlet marks from above, far enough from the chamber that nobody can mistake my presence for permission to approach the edge.
 
@@ -152,9 +142,7 @@ Renn did not.
 
 ---
 
-The wheel recess is smaller than I imagined.
-
-A stone pocket beside the stair, half hidden behind a heavy vertical spindle. The wheel itself has been restrained at an angle by the clamp above. One tooth in the old retaining gear is missing, leaving a black gap in the ring.
+The wheel recess is smaller than I imagined, a stone pocket beside the stair half hidden behind a heavy vertical spindle. The wheel itself has been restrained at an angle by the clamp above. One tooth in the old retaining gear is missing, leaving a black gap in the ring.
 
 Nobody touches it.
 
@@ -194,17 +182,11 @@ Green.
 
 My heart begins to beat harder.
 
-Not because I am doing anything.
-
-Because somewhere below, the world is opening wider.
+Not because I am doing anything. Because somewhere below, the world is opening wider.
 
 ---
 
-The test object is a frame.
-
-Not a bridge.
-
-Harra says this six times.
+The test object is a frame, not a bridge. Harra says this six times.
 
 Two ash sidepieces. Cross-braced. Narrow enough to pass the chamber approach. Strong enough to hold a weighted sack. Too narrow for a person to mistake for safe footing unless that person is an idiot.
 
@@ -212,7 +194,7 @@ We have measured Iven's landing.
 
 He has cleared a place beside the gray door and braced one end of his bed-frame strip against the wall.
 
-The plan is simple enough to sound sane.
+The plan sounds sane when written down.
 
 Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook's side.
 
@@ -226,7 +208,7 @@ If the frame can rest independently on both structures, we learn something usefu
 
 If not, we lose a frame.
 
-That sentence was much easier at the table.
+That was easier to say at the table.
 
 ---
 
@@ -270,11 +252,7 @@ Dain calls, “Far contact beginning.”
 
 I stare at the board.
 
-Do not imagine the frame.
-
-Do not imagine Iven's hands.
-
-Do not imagine what would happen to fingers.
+Do not imagine the frame, Iven's hands, or what would happen to fingers.
 
 I fail at all three.
 
@@ -296,9 +274,7 @@ Then Harra says, “Far end down.”
 
 Nobody cheers.
 
-We have learned.
-
-That is enough.
+We have learned. That is enough.
 
 Dain orders the near end lowered toward the Rook support block.
 
@@ -318,11 +294,7 @@ Harra answers, “Sound.”
 
 Renn repeats, “Sound.”
 
-For one impossible second, the frame is supported on both sides.
-
-Not by the boundary.
-
-By stone.
+For one impossible second, the frame is supported on both sides. Not by the boundary. By stone.
 
 A thing exists across the connected space.
 
@@ -340,7 +312,7 @@ Yellow.
 
 We knew it would.
 
-That is the point of the test.
+That is the test.
 
 Harra begins retrieval.
 
@@ -370,9 +342,7 @@ The chain moves.
 
 Then stops.
 
-Not slowly.
-
-Stops.
+Not slowly. Stops.
 
 Harra swears.
 
@@ -404,11 +374,7 @@ Dain says, “No.”
 
 The chain goes slack.
 
-Good.
-
-No holding harder.
-
-We learned that already.
+Good. No holding harder. We learned that already.
 
 Harra feeds an inch back.
 
@@ -426,9 +392,7 @@ The runner arrives.
 
 “Below mark!”
 
-Red was already red.
-
-Now it means something else.
+Red was already red. Now it means something else.
 
 “Abort,” I say.
 
@@ -462,7 +426,7 @@ Her whole body strains against my hand for half a second.
 
 Then she stops.
 
-We do not break our own rule because the sound was frightening.
+We do not break our rule because the sound was frightening.
 
 Below, Renn calls, “They're clear!”
 
@@ -504,13 +468,7 @@ Splintered through the other where the load twisted at the last instant.
 
 The guide line never crossed the edge. Harra had detached it from the frame before the independent support test, exactly as planned.
 
-We lost the frame.
-
-Not the block.
-
-Not a hand.
-
-Not a person.
+We lost the frame. Not the block, a hand, or a person.
 
 I repeat this until it begins to sound true.
 
@@ -564,7 +522,7 @@ Harra does not look up.
 
 “I stand by it.”
 
-The laugh hurts less than the silence did.
+The laugh hurts less than the silence.
 
 Then Harra taps the pin.
 
@@ -572,11 +530,7 @@ Then Harra taps the pin.
 
 The pin that should have seated into the receiving notch extends farther than the drawing allowed. Under no load, that gave us tolerance. Under withdrawal, it hooked the stone edge.
 
-Known weak point now.
-
-Fixable.
-
-But not today.
+Known weak point. Fixable. But not today.
 
 Mara's rule.
 
@@ -624,9 +578,7 @@ I look at the slate.
 
 “Why?”
 
-She gives me a look so similar to my mother's that for one awful instant I hate her.
-
-Then it passes.
+She gives me a look so similar to my mother's that for one awful instant I hate her. Then it passes.
 
 Iven writes again.
 
@@ -636,9 +588,7 @@ YOU FOUND WHERE I AM.
 
 I sit on the gallery bench because my ankle has begun to throb.
 
-He is right.
-
-I hate that too.
+He is right. I hate that too.
 
 ---
 
@@ -676,9 +626,7 @@ She looks at me.
 
 “Yes.”
 
-Neither of us makes a virtue out of it.
-
-That matters.
+Neither of us makes a virtue out of it. That matters.
 
 ---
 
@@ -714,13 +662,7 @@ Just the two names.
 
 “I don't want to keep making you ask what I am hiding.”
 
-The sentence lands carefully.
-
-Not polished.
-
-Not enough to erase anything.
-
-Real anyway.
+The sentence lands carefully. Not polished, not enough to erase anything. Real anyway.
 
 I fold the page.
 
@@ -744,9 +686,7 @@ I look at him.
 
 He nods toward the stool by the hearth. “I was going to ask if you wanted that under your foot.”
 
-The difference is small enough to miss.
-
-I don't.
+The difference is small enough to miss. I don't.
 
 “Yes,” I say.
 
@@ -780,9 +720,7 @@ Sella: twelve.
 
 Tolliver: ten.
 
-One day.
-
-Flat work for me unless the mender changes it.
+One day. Flat work for me unless the mender changes it.
 
 Harra gets materials for a second frame, shorter pin, adjustable far shoe.
 
@@ -796,9 +734,7 @@ Then decide.
 
 I sign.
 
-The money is becoming less important than the paper.
-
-That frightens me in a different way.
+The money is becoming less important than the paper. That frightens me differently.
 
 ---
 
@@ -812,21 +748,13 @@ At night, I open the measure.
 
 **[RUN: WARDER]**
 
-Fifteen.
-
-Three to go.
-
-I sit with that for a while.
+Fifteen. Three to go. I sit with that for a while.
 
 The class name no longer feels like a label someone put on me while I was unconscious.
 
 Warder.
 
-Hold what can be held.
-
-Release what should not be.
-
-Know the difference before the world teaches it with teeth.
+Hold what can be held. Release what should not be. Know the difference before the world teaches it with teeth.
 
 That thought is dangerously close to becoming a lesson.
 
@@ -834,12 +762,10 @@ I stop before I ruin it.
 
 My ankle aches.
 
-The frame is in two worlds that are actually one world.
+The frame is in two worlds that are really one.
 
 Iven is still trapped.
 
-Tomorrow we do not rescue him.
-
-Tomorrow we learn why we failed.
+Tomorrow we do not rescue him. We learn why we failed.
 
 For once, that does not feel like waiting.
