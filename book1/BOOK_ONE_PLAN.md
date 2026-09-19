@@ -2,9 +2,9 @@
 
 ## Status and controlling direction
 
-The manuscript now ends at Nineteen, on local Day 14 after the field trial. Rows 16–19 below retain the original planning objectives as completed-stage reference; consult the ledger for actual events and deviations. Rows 20 onward remain provisional unwritten work. The author wants a longer ongoing series in which Maya **never returns to Earth**. See the [series bible](../SERIES_BIBLE.md).
+The manuscript now ends at Twenty-Two, on local Day 17 after the first bounded spanning test fails safely. Rows 16–22 below retain the original planning objectives as completed-stage reference; consult the ledger for actual events and deviations. Rows 23 onward remain provisional unwritten work. The author wants a longer ongoing series in which Maya **never returns to Earth**. See the [series bible](../SERIES_BIBLE.md).
 
-Keep the flexible 95,000–115,000-word range, centered near 105,000. The nineteen chapters contain 63,791 words. Approximately 41,000 words remain to the center, with roughly eleven further chapters in this plan, not a requirement to write every beat as a separate chapter. Combine scenes that repeat a result. Give the rescue, reunion, intimacy aftermath, and ending the space they earn.
+Keep the flexible 95,000–115,000-word range, centered near 105,000. The twenty-two canonical chapters contain 67,966 words. Approximately 37,000 words remain to the center. The remaining chapter rows are planning beats, not a requirement to preserve one beat per chapter. Combine scenes that repeat a result. Give the rescue, reunion, intimacy aftermath, and ending the space they earn.
 
 ## The complete story this volume owes the reader
 
@@ -18,7 +18,7 @@ The emotional ending must include Iven's reunion, a meaningful romantic commitme
 
 ## The opposition
 
-Captain Rusk is established in Sixteen–Seventeen as the sustained human opponent, with an inner-iron claim, six crew and specialized tackle. Her proposed season of exclusive access and thirty-day custody were refused; Nineteen leaves the group facing her sixteen-piece minimum lift quote. Preserve her competence and economic interest. The captain should have a workable proposal, useful equipment, a finite crew, and a financial or professional reason to resist Maya's independent rescue.
+Captain Rusk is established in Sixteen–Seventeen as the sustained human opponent, with an inner-iron claim, six crew and specialized tackle. Her proposed season of exclusive access and thirty-day custody were refused; the drainage lift was later purchased without those concessions, and Rusk departed after selling Rook a worn lower block. Preserve her competence, unresolved iron claim and economic interest if she returns. The captain should have a workable proposal, useful equipment, a finite crew, and a financial or professional reason to resist Maya's independent rescue.
 
 The claim was seeded by dispatch on Day 11; the crew arrived on Day 12. Pell can suspend local cutting but cannot casually conjure a replacement crew or the claimant's specialized rigging. The captain's opening offer is to help retrieve Iven in exchange for custody and exclusive access. The risk is visible before Maya agrees to anything. After losing the argument, the captain acts through a concrete attempt to take control, not another meeting that ends with everyone reasonably agreeing.
 
@@ -50,13 +50,13 @@ Numbering is a drafting aid. The cause-and-effect chain matters more than the co
 
 ## Keep the calendar and money honest
 
-The current endpoint is **Day 14**. Reading days 5–6 fell on Days 11–12 and are paid. Maya, Sella and Tolliver signed for preparation Days 13–15; only Day 15 remains. Their daily rates are eight, twelve and ten bits respectively. Maya's first two preparation wages are on page; individual receipts for the companions' preparation wages are not. Sella declined the Day 15 escort on Day 13. New employment after Day 15 needs a decision, especially while Maya's ankle limits field participation.
+The current endpoint is **Day 17**. Reading days are complete. The original preparation agreement ran Days 13–15, was extended through Days 16–17, and has one additional funded Day 18 at the same rates: Maya eight bits, Sella twelve, Tolliver ten. Maya remains restricted from field work and shield practice after her ankle injury, though limited indoor stairs are cleared. New employment after Day 18 requires a fresh decision.
 
 Maya has **46 bits**: 38 at Fifteen +16 for the last reading days −24 for her shield +16 for two preparation days. Food, room, return-wait/cart and property/copy protections continue. Pell covers the field injury's treatment and shield repair separately. The original notebook work is complete except explicit illegibility/missing items; do not turn a new hire into finishing pages already translated.
 
 Rusk's three redirected days ran Days 12–14 and ended paid. Standing-time/departure terms are unresolved from Day 15. The quoted throat lift is eight pieces/day for a minimum two days (six crew at one piece each, captain/rig two), with materials extra. Pell has requested written terms but accepted neither cash expenditure nor the access concession. Vey's three-piece contribution in Seventeen helped preliminary work; it is not a fresh purse available every chapter.
 
-## Progression and physical design after Nineteen
+## Progression and physical design after Twenty-Two
 
 The imminent advancement and new technique are now delivered: LV. 3, 9/18, reserve 0/5, Brace and Stepguard. Preserve the two-reserve, two-breath, one-straight-step limits and sound-support requirement. First successful drill is not mastery; field use exposed weak ground under a combined load. Recovery, progression and injury must remain separate.
 
