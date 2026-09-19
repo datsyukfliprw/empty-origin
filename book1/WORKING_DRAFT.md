@@ -18977,3 +18977,3037 @@ Not mine.
 His.
 
 Maybe that is enough for today.
+
+CHAPTER THIRTY
+
+Sella’s wagon is late.
+
+Seven minutes.
+
+I know because I ask three different people what time it is, and the third one looks at me like I am trying to bully the sun.
+
+Fair.
+
+My ankle is wrapped again.
+
+Mara has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
+
+Iven is inside with Teren and Lio.
+
+Pell is with Rusk and Vey in the counting room, arguing about drainage rights, salvage holds, and which pieces of broken rescue frame count as evidence of what.
+
+Harra is asleep at a worktable with her cheek on a coil of rope.
+
+Tolliver is somewhere I cannot see him.
+
+Good.
+
+Sella’s pack sits beside the west wall.
+
+Bad.
+
+She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is strung across her back, and the knife at her thigh is the one she wore the first night we slept together.
+
+I hate that I notice.
+
+I hate more that I remember exactly how she looked when she took it off.
+
+She catches me staring at the knife.
+
+Her mouth moves.
+
+“Really?”
+
+“I was thinking about the sheath.”
+
+“Liar.”
+
+“I contain multitudes.”
+
+“You contain terrible timing.”
+
+That hurts because it is funny.
+
+She comes over.
+
+Not close enough to touch.
+
+For the last two weeks she has touched me whenever she wanted.
+
+Hip.
+
+Shoulder.
+
+Back of my neck.
+
+Hand under a table.
+
+Mouth against mine in hallways.
+
+Casual things that stopped feeling casual because they belonged to us.
+
+Now there is a foot of air between us.
+
+I can feel every inch.
+
+“Walk with me,” she says.
+
+Mara, from across the room: “No.”
+
+Sella turns.
+
+“I meant outside.”
+
+“No.”
+
+“Five steps.”
+
+“No.”
+
+“Three.”
+
+Mara points at the bench.
+
+“You can sit with her outside if Tolliver carries the bench.”
+
+I close my eyes.
+
+Sella laughs.
+
+Mara does not.
+
+“This is why healers drink,” I say.
+
+“This is why healers poison patients.”
+
+Tolliver appears in the doorway.
+
+Of course he does.
+
+I look at him.
+
+He looks at the bench.
+
+Then at Mara.
+
+“No.”
+
+Good man.
+
+Mara lifts one eyebrow.
+
+Tolliver says, “I’ll carry Maya. The bench is stupid.”
+
+“Thank you,” I say.
+
+Mara points at me.
+
+“You are the stupid part.”
+
+Also fair.
+
+Tolliver does not move until I nod.
+
+That still catches somewhere under my ribs.
+
+Small things should not matter this much.
+
+They do.
+
+He lifts me.
+
+Sella takes my pack because apparently everyone has decided I am decorative.
+
+Outside, the afternoon is thin and bright after the rain.
+
+Rook’s yard smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal.
+
+The wagon is not here yet.
+
+Seven minutes becomes nine.
+
+Sella leads Tolliver toward the low wall beside the east herb beds.
+
+He lowers me onto it.
+
+My left foot stays off the ground.
+
+Sella sets my pack beneath it like a rest.
+
+Tolliver straightens.
+
+“Do you need anything?”
+
+“No.”
+
+His eyes go to Sella.
+
+She says, “I need ten minutes.”
+
+He nods.
+
+Not wounded.
+
+Not proprietary.
+
+Not pretending he does not understand what those ten minutes are.
+
+He leaves.
+
+I watch him cross the yard.
+
+Sella watches me watch him.
+
+There it is.
+
+No lower chamber.
+
+No Iven waiting.
+
+No structure trying to kill us.
+
+No reason to avoid it.
+
+I turn back.
+
+She sits beside me.
+
+For a while we say nothing.
+
+The yard keeps happening.
+
+A boy carries three loaves from the kitchen.
+
+Someone curses at a mule.
+
+Pell comes out of the counting room, sees us, and goes back inside.
+
+Bless him.
+
+Sella rubs both palms on her thighs.
+
+“I meant what I said.”
+
+“I know.”
+
+“I love you.”
+
+I look down at my wrapped ankle.
+
+“I love you too.”
+
+“And I am still going.”
+
+“I know.”
+
+Her jaw shifts.
+
+“You keep saying that.”
+
+“What do you want me to say?”
+
+“I don’t know.”
+
+That surprises me.
+
+Sella usually knows exactly what she wants people to say.
+
+Or at least what she wants them not to say.
+
+She leans forward, elbows on knees.
+
+“I thought this would be easier if you didn’t ask me to stay.”
+
+My throat tightens.
+
+“I almost did.”
+
+She looks at me.
+
+“I almost asked before the second crossing. Then I almost asked when Iven came out. Then I almost asked when you picked up your pack.”
+
+“Why didn’t you?”
+
+“Because you would have.”
+
+Her face goes still.
+
+Maybe.
+
+Not definitely.
+
+Which is worse.
+
+“You think that little of me?”
+
+“No.”
+
+I turn toward her.
+
+“I think you love me. I think you already gave up one road because I was hurt. I think you have been standing still while I figure out whether this place can become a life. I think if I asked you today, after you watched me get carried out of a hole and tell you I love you, there is a real chance you would stay because leaving would feel cruel.”
+
+Sella looks away.
+
+The silence is answer enough.
+
+I keep going because stopping would be kinder and I am tired of kindness that hides things.
+
+“And then in a month you would still want the road.”
+
+“Yes.”
+
+“In two months.”
+
+“Yes.”
+
+“And every time I looked at you, I would know I had turned your love into a rope.”
+
+She swallows.
+
+I hate that I did that to her face.
+
+I hate that it needed doing.
+
+“So you decided for me.”
+
+“No.”
+
+Her head snaps toward mine.
+
+I hold up both hands.
+
+“No. I refused to ask the question while the answer was tilted.”
+
+“That is still a decision.”
+
+“Yes.”
+
+“About us.”
+
+“Yes.”
+
+She laughs once.
+
+No humor in it.
+
+“You are infuriating.”
+
+“I know.”
+
+“You don’t get points for knowing.”
+
+“I know.”
+
+“Stop saying that.”
+
+“Okay.”
+
+She presses her lips together.
+
+Then her eyes fill.
+
+Not dramatically.
+
+Just water gathering faster than she can blink it away.
+
+I have seen her naked.
+
+Bleeding.
+
+Laughing against my mouth.
+
+Holding a knife to a man who deserved it.
+
+I have not seen her cry.
+
+I reach for her.
+
+Stop halfway.
+
+She sees.
+
+Takes my hand.
+
+That permission hurts too.
+
+“I wanted you to make it hard,” she says.
+
+My thumb moves over her knuckles.
+
+“I am making it hard.”
+
+“No. I wanted you to be selfish.”
+
+“I am selfish.”
+
+“Not with me.”
+
+That lands clean.
+
+Maybe she is right.
+
+Maybe I have been brave enough to want her body and not brave enough to want her future.
+
+Or maybe wanting her future means not swallowing it.
+
+Both thoughts fit.
+
+Neither helps.
+
+Sella wipes her cheek angrily.
+
+“I can live with you wanting him.”
+
+I say nothing.
+
+“I mean that.”
+
+Her voice cracks on the last word.
+
+She hates it.
+
+Keeps going.
+
+“I can live with you sleeping with him. I can live with you loving him if that happens. I can live with you having things with him that you do not have with me.”
+
+My pulse jumps.
+
+She looks at me.
+
+“But I cannot build my life around being the woman who waits for you to decide when you are done standing between doors.”
+
+I inhale.
+
+Slow.
+
+There is nothing to defend against.
+
+No accusation I can dismantle.
+
+She is not asking me to stop being bisexual.
+
+Not asking me to pick a gender.
+
+Not even asking me to pick a person.
+
+She is telling me what kind of waiting will hollow her out.
+
+“I don’t want you to wait.”
+
+“I know.”
+
+I flinch.
+
+She almost smiles.
+
+“Sorry.”
+
+“Asshole.”
+
+“Yes.”
+
+The wagon finally rattles through the outer gate.
+
+My entire body reacts before my mind does.
+
+There.
+
+Horse.
+
+Canvas cover.
+
+Two people already seated in back.
+
+A woman driving.
+
+Departure made physical.
+
+Sella looks at it.
+
+Then at me.
+
+“We could stop,” she says.
+
+My hand tightens around hers.
+
+The words are quiet enough that the yard does not hear them.
+
+“I don’t want to.”
+
+She closes her eyes.
+
+“Me neither.”
+
+I breathe out.
+
+“What does that mean?”
+
+“For today?”
+
+“Yes.”
+
+“It means I go east.”
+
+“Yes.”
+
+“It means you figure out what you are doing here.”
+
+“Yes.”
+
+“It means if I come back and you still want me, you tell me.”
+
+My chest pulls tight.
+
+“And if you meet someone?”
+
+“I might.”
+
+I nod.
+
+That hurts exactly as much as it should.
+
+“If I do?”
+
+“You tell me.”
+
+“Yes.”
+
+“No heroic silence.”
+
+“Fuck.”
+
+“Maya.”
+
+“Fine.”
+
+She squeezes my hand.
+
+“And him.”
+
+I know who.
+
+“What about him?”
+
+“Do not make me into an excuse not to touch him.”
+
+Heat creeps up my throat.
+
+This woman.
+
+“Sella.”
+
+“I mean it.”
+
+“You are leaving me and ordering me to have sex with someone else.”
+
+“I am not ordering you to do anything. I am saying if you want him, do not turn me into a dead wife in your head.”
+
+“You are not dead.”
+
+“Then stop looking at me like you are at my funeral.”
+
+I laugh.
+
+It comes out broken.
+
+She leans into me.
+
+Forehead against mine.
+
+I close my eyes.
+
+Her breath is warm.
+
+Familiar.
+
+For another minute, I get to know exactly where she is.
+
+“I love you,” I whisper.
+
+“I love you too.”
+
+“I’m sorry.”
+
+“For what?”
+
+“Everything.”
+
+“Useless answer.”
+
+“I know.”
+
+She kisses me.
+
+Not hard this time.
+
+Not desperate.
+
+Slow enough that my mouth recognizes every part of it.
+
+Her lower lip.
+
+The little hitch in her breathing when I touch her cheek.
+
+The way her fingers slide into my hair and stop there.
+
+My body remembers bed.
+
+Her thigh over mine.
+
+Her mouth lower.
+
+My hands on her hips.
+
+All of it flashes through me with brutal precision.
+
+But this kiss is not trying to become sex.
+
+It is trying to remember itself.
+
+When she pulls back, neither of us is dry-eyed.
+
+She wipes my face with her sleeve.
+
+“Terrible.”
+
+“What?”
+
+“You’re ugly when you cry.”
+
+“I was going to say something nice.”
+
+“That would be suspicious.”
+
+The driver calls her name.
+
+Sella stands.
+
+I do not.
+
+Mara would kill me before the ankle did.
+
+Sella shoulders her pack.
+
+Then she looks across the yard.
+
+Tolliver is by the stable arch, far enough away that he cannot hear us.
+
+She walks to him.
+
+I almost tell her not to.
+
+I don’t.
+
+They speak for less than a minute.
+
+Tolliver’s face gives me nothing.
+
+Sella says something that makes his eyes move to me.
+
+Then back to her.
+
+He nods once.
+
+She punches him in the chest.
+
+Not hard.
+
+Probably.
+
+He looks offended.
+
+She says one more thing.
+
+Then walks away before he can answer.
+
+I stare.
+
+She comes back to me.
+
+“What did you say?”
+
+“Private conversation.”
+
+“I hate both of you.”
+
+“You love at least one of us.”
+
+“I am reconsidering.”
+
+She bends.
+
+Kisses my forehead.
+
+Then my mouth.
+
+One last time.
+
+“Do something with your life, Maya Szczepaniak.”
+
+“I rescued a man this morning.”
+
+“Tomorrow too.”
+
+The driver calls again.
+
+Sella turns.
+
+Walks to the wagon.
+
+Gets in.
+
+She does not look back immediately.
+
+I am grateful.
+
+If she did, I might ask.
+
+The wagon rolls toward the gate.
+
+At the last turn, she twists around.
+
+Finds me.
+
+Raises two fingers from her mouth.
+
+Not a kiss.
+
+Not exactly.
+
+Our stupid signal from the East Relief safe room.
+
+Still here.
+
+I raise two fingers back.
+
+The wagon passes through the gate.
+
+Gone.
+
+The yard looks larger.
+
+I sit on the wall until the sound of wheels disappears.
+
+Then longer.
+
+Tolliver does not come over.
+
+Nobody does.
+
+Good.
+
+For once, everyone lets something hurt without trying to repair it.
+
+---
+
+Iven wakes after sunset.
+
+Mara allows me upstairs only if I am carried.
+
+I am becoming furniture.
+
+Tolliver takes me.
+
+He does not ask about Sella.
+
+He takes me to the long room where Iven is lying with his sons asleep on pallets beside him.
+
+Teren has one hand wrapped around his father’s wrist.
+
+Lio has stolen half the blanket.
+
+Iven looks exhausted.
+
+Human exhausted.
+
+The kind that belongs after surviving, not while trying to.
+
+“Warder,” he says.
+
+I stop.
+
+“No.”
+
+His eyebrows rise.
+
+“Maya.”
+
+“Better.”
+
+Tolliver puts me in a chair.
+
+Iven watches him.
+
+Then me.
+
+Then says, “Your friend left.”
+
+The word friend is doing criminal labor.
+
+“Yes.”
+
+“Sorry.”
+
+“Me too.”
+
+He lifts one shoulder.
+
+“I wanted to say thank you while I am awake enough to mean it.”
+
+“You already insulted me after I fell.”
+
+“That was gratitude.”
+
+“Cultural difference.”
+
+Teren stirs.
+
+Iven’s expression changes immediately.
+
+Not softer.
+
+Deeper.
+
+He looks at his son’s hand on his wrist like he still does not believe it is there.
+
+“You told them to leave the iron.”
+
+“Yes.”
+
+“Even the strip with the stamped marks.”
+
+“Yes.”
+
+“That bothered you.”
+
+Very much.
+
+“I could see your face from across the room.”
+
+Traitor face.
+
+I look at the blanket.
+
+“I wanted answers.”
+
+“And you chose me.”
+
+I do not know what to do with that sentence.
+
+So I shrug.
+
+“You were easier to carry.”
+
+Iven smiles.
+
+Then the smile fades.
+
+“I heard the captain talking outside. The claim is not gone.”
+
+“No.”
+
+“She will want me at the hearing.”
+
+“Probably.”
+
+“Do I have to go?”
+
+Tolliver answers before I can.
+
+“No one has said that.”
+
+He is careful.
+
+Precise.
+
+Not giving a promise he cannot keep.
+
+Iven studies him.
+
+Then looks at me.
+
+“You trust him?”
+
+The question is simple.
+
+The answer is not.
+
+“Yes.”
+
+Tolliver goes very still beside the door.
+
+I do not look at him.
+
+Cowardice has uses.
+
+Iven nods.
+
+“Good.”
+
+“That is a lot of confidence for a man who met me while trapped behind murder architecture.”
+
+“You brought better people each time.”
+
+That one gets under my armor.
+
+Harra.
+
+Sella.
+
+Tolliver.
+
+Dain.
+
+Oret.
+
+Mara.
+
+Pell.
+
+Vey.
+
+Rusk too, in her irritating way, because opposition forced every claim into daylight.
+
+I did not rescue Iven.
+
+We did.
+
+The thought is not humbling.
+
+It is relieving.
+
+I do not have to be the only hand on the weight.
+
+Controlled release.
+
+The System phrase tries to become a metaphor.
+
+I refuse.
+
+Some things can just be true without glowing letters.
+
+“I’m glad you’re here,” I say.
+
+Iven looks at his sons.
+
+“Me too.”
+
+---
+
+Mara keeps me off the ankle for six more days.
+
+Six.
+
+I bargain her down to five and a half by walking perfectly on the sixth morning while she glares at me.
+
+She clears flat ground.
+
+No Stepguard.
+
+No shield drilling.
+
+No reserve-powered load.
+
+Then two days later she clears light shield work.
+
+Then normal stairs.
+
+The first time I walk from my room to breakfast without someone carrying me, I nearly cry over a fucking hallway.
+
+I do not.
+
+Growth.
+
+Sella sends no message.
+
+There is no reason she should.
+
+The eastbound crew is moving.
+
+The road does not carry little blue bubbles over people’s heads.
+
+I work.
+
+Harra makes me help catalog every surviving rescue component.
+
+Pell makes me sit through a hearing-preparation meeting about Rusk’s claim.
+
+Vey brings copies.
+
+Iven gives a formal account.
+
+Teren interrupts twice.
+
+Lio steals Vey’s pen.
+
+Life continues with insulting competence.
+
+Tolliver is around.
+
+Not constantly.
+
+Not strategically absent either.
+
+He eats at the same table.
+
+Helps Harra move iron when asked.
+
+Takes two route jobs that keep him gone most of the day.
+
+He does not touch me.
+
+At first I am grateful.
+
+Then I am annoyed.
+
+Then I become extremely aware that being annoyed means something.
+
+On the ninth night after Sella leaves, I find him in the yard splitting kindling.
+
+Shirt sleeves rolled.
+
+Forearms flexing.
+
+I have survived another world, a dungeon, a collapsing rescue frame, and emotional honesty.
+
+Apparently none of those grant immunity to forearms.
+
+He looks up.
+
+“Maya.”
+
+“I need to ask you something.”
+
+He sets the axe down.
+
+Immediately.
+
+Full attention.
+
+This man is dangerous in very specific ways.
+
+“Ask.”
+
+I walk closer.
+
+No limp.
+
+No wrap.
+
+No excuse.
+
+“What did Sella say to you?”
+
+His mouth shifts.
+
+“No.”
+
+I stop.
+
+“No?”
+
+“She said it was private.”
+
+“I am the subject of the private conversation.”
+
+“That does not make it yours.”
+
+I stare at him.
+
+Infuriating.
+
+Correct.
+
+Infuriating because correct.
+
+“Fine.”
+
+He waits.
+
+I had a second question.
+
+It becomes harder now that he is looking at me.
+
+The yard is dark except for two wall lamps.
+
+People inside.
+
+Windows lit.
+
+No emergency.
+
+No blood.
+
+No reason.
+
+Good.
+
+I step closer.
+
+“What are you doing tonight?”
+
+His eyes drop to my mouth.
+
+Then come back up.
+
+“Nothing I cannot change.”
+
+Heat opens low in me.
+
+There it is.
+
+Not because he took.
+
+Because he waited.
+
+I say, “Change it.”
+
+CHAPTER THIRTY-ONE
+
+Tolliver does not move.
+
+For one second I think I have miscalculated so badly I will have to leave the region.
+
+Then he says, “To what?”
+
+The bastard.
+
+He knows.
+
+He also knows I need to say it.
+
+I hate personal growth.
+
+“You.”
+
+His expression changes.
+
+Barely.
+
+A stillness through his shoulders.
+
+His pupils widen.
+
+I keep going before courage discovers an exit.
+
+“I want to be with you tonight.”
+
+“With me.”
+
+“Yes.”
+
+“Not because Sella left.”
+
+The name hurts.
+
+Less sharply than nine days ago.
+
+Still enough.
+
+“No.”
+
+“Not because you think I expect it.”
+
+“No.”
+
+“Not because you owe me.”
+
+I step into his space.
+
+“You absolutely do not want to finish that sentence.”
+
+His mouth almost smiles.
+
+“Why?”
+
+“Because I am already doing something difficult and if you make me complete a consent questionnaire in the yard, I will push you into the woodpile.”
+
+His eyes get darker.
+
+That is not fair.
+
+“Maya.”
+
+“What?”
+
+“I need you to answer one more.”
+
+I fold my arms.
+
+“Fine.”
+
+“What do you want from me?”
+
+Not what do you want to do.
+
+From me.
+
+My body knows before my pride does.
+
+Every moment he could have grabbed control and did not.
+
+Every time he asked.
+
+Every time he watched me call a route and followed.
+
+The impossible ease when he lifted me after the rescue.
+
+The way he looked at me when I released the Brace because I trusted him to have Iven.
+
+He knows I am strong.
+
+That is the entire problem.
+
+“I want you to stop being careful with me.”
+
+He goes very still.
+
+I swallow.
+
+“Not with my choices.”
+
+His eyes stay on mine.
+
+“With me.”
+
+The words come lower.
+
+“I want to know what it feels like when you don’t have to pretend I can overpower you.”
+
+His breath changes.
+
+Mine follows.
+
+“I can,” he says.
+
+“I know.”
+
+“You have reserve.”
+
+“Eight.”
+
+“Abilities.”
+
+“Two.”
+
+“Training.”
+
+“Some.”
+
+“You can stop me.”
+
+“Yes.”
+
+“Say it.”
+
+“I can stop you.”
+
+“How?”
+
+“Words. Hands. Knee to the groin if you become stupid.”
+
+That smile appears.
+
+Brief and dangerous.
+
+“Good.”
+
+I am so turned on I resent architecture.
+
+He steps closer.
+
+Not touching.
+
+“Your ankle.”
+
+“Cleared.”
+
+“Shield work?”
+
+“Light. Full stairs. No powered load restriction now.”
+
+“Stepguard?”
+
+“Mara cleared it this morning.”
+
+His gaze sharpens.
+
+“You didn’t tell me.”
+
+“I am telling you.”
+
+He takes one slow breath.
+
+“What do you want me to stop if you say stop?”
+
+“Everything.”
+
+“Slow?”
+
+“Slow.”
+
+“And if you change your mind?”
+
+“I tell you.”
+
+He nods.
+
+Then, softer, “Last chance to walk away from the woodpile threat.”
+
+I grab the front of his shirt and kiss him.
+
+For half a second he lets me.
+
+Then his hand closes around my wrist.
+
+Not hard enough to hurt.
+
+Hard enough that I notice exactly how little my grip matters if he decides it does not.
+
+He pulls my hand away from his shirt.
+
+My pulse detonates.
+
+His other hand catches my jaw.
+
+The kiss changes.
+
+Not rough.
+
+Controlled.
+
+That is worse.
+
+Better.
+
+His mouth moves against mine with the patience of someone who has spent weeks learning the difference between wanting and taking.
+
+I push into him.
+
+He gives me one step.
+
+Then turns us.
+
+My back touches the stone wall beside the stable arch.
+
+Cool through my shirt.
+
+His body is heat in front of me.
+
+He pins my wrist beside my head.
+
+One hand.
+
+One wrist.
+
+I test him.
+
+Actually test.
+
+Pull.
+
+His arm barely moves.
+
+Fuck.
+
+He feels it.
+
+His mouth leaves mine.
+
+“Again.”
+
+“What?”
+
+“Try.”
+
+I yank harder.
+
+Shoulder engaged.
+
+Weight shifted.
+
+I could Stepguard.
+
+I do not.
+
+I could kick.
+
+I do not.
+
+I could tell him to let go.
+
+I do not.
+
+His eyes track every choice.
+
+Not smug.
+
+Hungry.
+
+“That what you wanted?” he asks.
+
+I hate the tremor in my voice.
+
+“Yes.”
+
+He releases me immediately.
+
+The absence of pressure is almost worse.
+
+Then he waits.
+
+I rub my wrist.
+
+Not because it hurts.
+
+Because the skin remembers his hand.
+
+“Inside,” I say.
+
+“Your room?”
+
+“Yes.”
+
+“Door?”
+
+“Locked.”
+
+“By you?”
+
+“Yes.”
+
+His eyes burn.
+
+“Lead.”
+
+I do.
+
+---
+
+My room has changed since Greyward.
+
+Different bed.
+
+Different walls.
+
+My own boots by the door.
+
+My shield propped beside the washstand.
+
+Two notebooks on the table.
+
+A shirt Sella stole and returned badly folded on the chair.
+
+Earth under my mattress in a different form now.
+
+The Missouri card is not here.
+
+The shirt from my apartment is.
+
+I have stopped hiding all of it.
+
+Not everything.
+
+Enough.
+
+Tolliver closes the door.
+
+I lock it.
+
+He watches me slide the bolt.
+
+My choice.
+
+My room.
+
+My money paid through the week.
+
+No Household label deciding who owns my wages.
+
+No man telling a gate I am his.
+
+The memory flashes sharp.
+
+He sees something in my face.
+
+“What?”
+
+“I remembered Greyward.”
+
+His expression shutters.
+
+“Do you want me to leave?”
+
+“No.”
+
+“Maya.”
+
+“No.”
+
+I cross the room.
+
+Stand in front of him.
+
+“That is why this matters.”
+
+He does not touch me.
+
+“I hated that you said I was yours.”
+
+“I know.”
+
+“I hated that you decided things before I could understand them.”
+
+“I know.”
+
+“I hated how much I wanted you anyway.”
+
+His jaw tightens.
+
+“That part was inconvenient.”
+
+A breath of laughter.
+
+Gone.
+
+I put my hand against his chest.
+
+“I am not yours because you said it at a gate.”
+
+“No.”
+
+“I am not yours because you paid for a room.”
+
+“No.”
+
+“I am not yours because you found me first.”
+
+“No.”
+
+I look up at him.
+
+“But tonight I want to give you control because I want to know what you do with it.”
+
+Something in his face opens.
+
+Not tenderness.
+
+Not exactly.
+
+Reverence would be too pretty.
+
+It is more animal than that.
+
+More dangerous.
+
+And somehow safer because I made it happen.
+
+He takes my hand from his chest.
+
+Kisses the center of my palm.
+
+Then says, “Take off the boots.”
+
+I stare at him.
+
+“That’s your opening?”
+
+“Do you want a speech?”
+
+“No.”
+
+“Boots.”
+
+Heat crawls up my spine.
+
+I sit.
+
+Pull them off.
+
+He watches.
+
+Does not help.
+
+Does not hurry.
+
+When I stand, he points at the shield.
+
+“Move it.”
+
+I frown.
+
+“Why?”
+
+“Because I do not want you falling into it.”
+
+Practicality.
+
+Ruining everything beautifully.
+
+I move the shield.
+
+He waits.
+
+“Anything else?”
+
+“The table corner.”
+
+I shift that too.
+
+“You are deeply romantic.”
+
+“I am planning to throw you onto the bed.”
+
+My knees nearly fail.
+
+He notices.
+
+Of course he notices.
+
+“That,” he says quietly. “I want that.”
+
+“What?”
+
+“The part where you try not to react.”
+
+I recover enough to glare.
+
+His gaze drops over me.
+
+“You do it when you are frightened. Angry. Hurt. You lock everything down until your face becomes a lie.”
+
+“That is an accusation.”
+
+“It is an observation.”
+
+“And your plan?”
+
+He walks toward me.
+
+Slow.
+
+“To make the lie impossible.”
+
+My stomach flips.
+
+He stops close.
+
+“Still yes?”
+
+“Yes.”
+
+His hand goes into my hair.
+
+Not gentle.
+
+Not painful.
+
+Enough to tip my head back.
+
+The first kiss destroys every clever answer I had.
+
+He kisses me like he has been rationing it.
+
+Weeks of restraint spent at once.
+
+I grab his waist.
+
+He pulls my hands away.
+
+Pins both behind my back with one of his.
+
+My breath breaks.
+
+There.
+
+That.
+
+His mouth moves to my jaw.
+
+My neck.
+
+He bites just below my ear.
+
+I make a sound.
+
+Tiny.
+
+Humiliating.
+
+He freezes.
+
+Not stopping.
+
+Listening.
+
+Then his mouth curves against my skin.
+
+“Oh.”
+
+“Do not.”
+
+“That was fast.”
+
+“Fuck you.”
+
+“Later.”
+
+I laugh despite myself.
+
+He tightens his grip.
+
+The laugh catches.
+
+His free hand slides under my shirt.
+
+Warm palm over my stomach.
+
+Up.
+
+Slow enough that I feel every inch.
+
+He cups one breast through the thin wrap beneath my shirt.
+
+My body leans before I decide to.
+
+He notices that too.
+
+“You want this off?”
+
+“Yes.”
+
+He releases my wrists.
+
+I strip the shirt over my head.
+
+The wrap follows.
+
+I stand in front of him bare from the waist up.
+
+I have done this before.
+
+With Sella.
+
+With mirrors.
+
+With healers.
+
+It should not feel different.
+
+It does.
+
+His gaze is not greedy in the way I expected.
+
+It is focused.
+
+Like he is memorizing a route he intends to ruin.
+
+He touches my waist.
+
+Then my ribs.
+
+Then the underside of my breast.
+
+His thumb brushes my nipple.
+
+I inhale hard.
+
+He does it again.
+
+“You are watching my face.”
+
+“Yes.”
+
+“That is creepy.”
+
+“Do you want me to stop?”
+
+“No.”
+
+His thumb circles.
+
+My nipple tightens.
+
+He looks directly at me while he pinches it.
+
+Not hard.
+
+Enough.
+
+My mouth opens.
+
+No sound.
+
+His eyes sharpen.
+
+Again.
+
+Harder.
+
+A broken noise escapes me.
+
+Satisfaction moves through his face.
+
+There it is.
+
+Not my helplessness.
+
+My reaction.
+
+He wants the proof.
+
+I grab his shirt.
+
+This time he lets me.
+
+“Take it off.”
+
+He does.
+
+I have seen him shirtless.
+
+Not enough.
+
+He is leaner than some of the laborers, but nothing about him is slight.
+
+Shoulders.
+
+Chest.
+
+Old pale scar along one side.
+
+The body that carried me like I weighed nothing.
+
+The body that has spent weeks refusing to use that fact against me.
+
+I put both hands on him.
+
+He lets me explore for three breaths.
+
+Then catches my wrists again.
+
+“Bed.”
+
+I look over my shoulder.
+
+Three steps.
+
+“I can walk.”
+
+“I know.”
+
+That should warn me.
+
+He bends.
+
+One arm around my thighs.
+
+The world tilts.
+
+I yelp as he lifts me over his shoulder.
+
+Actually over his fucking shoulder.
+
+“Tolliver!”
+
+“You said you wanted to know.”
+
+“I hate you.”
+
+“No, you don’t.”
+
+I smack his back.
+
+He laughs.
+
+Then his hand lands on my ass.
+
+A sharp slap.
+
+My entire body jolts.
+
+He stops.
+
+“Too much?”
+
+“No.”
+
+“Again?”
+
+I cannot believe this is my life.
+
+“Yes.”
+
+The second slap is harder.
+
+Heat blooms across my skin.
+
+A pulse answers between my legs.
+
+He puts me on the bed.
+
+Not drops.
+
+Puts.
+
+Then stands over me.
+
+I push up on my elbows.
+
+“You are enjoying this too much.”
+
+“Not yet.”
+
+The words go straight through me.
+
+He kneels between my knees.
+
+Hands on my thighs.
+
+“Can I take these off?”
+
+My trousers.
+
+“Yes.”
+
+He does.
+
+Slowly.
+
+No tearing.
+
+No performance.
+
+I lift my hips.
+
+Help him.
+
+My underwear goes with them.
+
+Then I am naked on my own bed while Tolliver is still wearing trousers and looking at me with enough concentration to make nudity feel like a tactical error.
+
+I close my knees.
+
+His hand lands between them.
+
+“Don’t.”
+
+I stare at him.
+
+His voice is calm.
+
+“Open.”
+
+I do.
+
+Not because I cannot resist him.
+
+Because I choose to obey.
+
+That distinction lights me from the inside.
+
+His eyes drop.
+
+My face burns.
+
+He touches the inside of my thigh.
+
+Not where I need him.
+
+Lower.
+
+Then higher.
+
+Avoiding.
+
+I swear.
+
+He looks up.
+
+“What?”
+
+“You know what.”
+
+“I want to hear it.”
+
+I could refuse.
+
+Instead I say, “Touch my pussy.”
+
+His eyes close for half a second.
+
+Good.
+
+Not the only one suffering.
+
+When he opens them, whatever restraint was there has thinned.
+
+He slides two fingers through me.
+
+Slow.
+
+I am already wet enough that the sound is obscene.
+
+My head falls back.
+
+He does not immediately touch my clit.
+
+Cruel man.
+
+He traces around it.
+
+Past.
+
+Back.
+
+Every pass makes my hips chase him.
+
+He catches one thigh and presses it into the mattress.
+
+Not pinning both.
+
+Just one.
+
+Enough.
+
+“You keep moving.”
+
+“You keep missing.”
+
+“I am not missing.”
+
+I glare.
+
+He smiles.
+
+Then touches my clit.
+
+Direct.
+
+Steady.
+
+My whole body contracts.
+
+“There.”
+
+He watches me.
+
+“Fuck.”
+
+“There too.”
+
+I slap a hand over my face.
+
+He catches it.
+
+Pulls it away.
+
+“No.”
+
+“What?”
+
+“I want to see you.”
+
+The words are quiet.
+
+Serious.
+
+They hit harder than the slap did.
+
+I stop fighting my own expression.
+
+For approximately four seconds.
+
+Then he slides one finger inside me and I lose the ability to conduct experiments.
+
+He curls it.
+
+Adds another.
+
+My hips lift.
+
+He holds me down with his forearm across my lower stomach.
+
+Not crushing.
+
+Unavoidable.
+
+His other hand works between my legs while his eyes stay on my face.
+
+Everything narrows.
+
+Fingers.
+
+Pressure.
+
+His forearm.
+
+His stare.
+
+The knowledge that I could say stop and he would.
+
+The knowledge that I have not.
+
+I reach for him.
+
+He catches my wrist and pins it beside my head.
+
+One hand.
+
+Again.
+
+My body reacts so violently he notices.
+
+“Is that it?”
+
+I cannot answer.
+
+He slows his fingers.
+
+“No.”
+
+I make an offended sound.
+
+“Answer.”
+
+“You know.”
+
+“I want you to say it.”
+
+“Yes.”
+
+His grip tightens around my wrist.
+
+His fingers move again.
+
+Harder.
+
+More precise.
+
+I am close too fast.
+
+I hate that.
+
+I love that he knows.
+
+“Toll.”
+
+“Mm?”
+
+“Don’t stop.”
+
+“I wasn’t planning to.”
+
+He changes angle.
+
+My orgasm hits before I can protect myself from it.
+
+No graceful rise.
+
+No warning.
+
+One second I am holding together.
+
+The next I am shaking under him, clenching around his fingers, saying his name far too loudly.
+
+He keeps going.
+
+Not faster.
+
+Steady through it.
+
+My free hand fists in the blanket.
+
+My pinned hand cannot move.
+
+The loss of control is not being restrained.
+
+It is that he made control useless.
+
+When I start coming down, he slows.
+
+Lets me breathe.
+
+Releases my wrist.
+
+I stare at the ceiling.
+
+He kisses the inside of my knee.
+
+“Still with me?”
+
+“Unfortunately.”
+
+He laughs.
+
+I lift my head.
+
+“Pants.”
+
+His eyebrows rise.
+
+“Now.”
+
+“I thought I was in control.”
+
+“You are not allowed to be stupid with it.”
+
+“Fair.”
+
+He stands.
+
+Unties them.
+
+I watch.
+
+Every bit of composure he stole from me becomes revenge fuel.
+
+He is hard.
+
+Very.
+
+My mouth goes dry.
+
+Tolliver sees exactly where I am looking.
+
+“Problem?”
+
+“No.”
+
+“Lie.”
+
+“Shut up.”
+
+He steps out of the trousers.
+
+I sit up.
+
+Reach for him.
+
+He catches my wrist.
+
+Again.
+
+I look up.
+
+“What?”
+
+“Tell me what you want.”
+
+“You.”
+
+“Specific.”
+
+I consider murder.
+
+Instead I curl my fingers around his hand.
+
+Put it against my throat.
+
+Not squeezing.
+
+Just there.
+
+His face changes.
+
+“No.”
+
+I blink.
+
+“No?”
+
+“Not tonight.”
+
+Embarrassment flashes hot.
+
+He sees it immediately.
+
+“Not because I don’t want to.”
+
+His thumb moves against the side of my neck.
+
+“I want your face. Your mouth. Your hands. Your hips. Every sound you keep trying to swallow. I am not adding your airway to the list the first night you let me do this.”
+
+My embarrassment evaporates.
+
+Replaced by something hotter.
+
+Trust can apparently be filthy.
+
+“Fine,” I whisper.
+
+“Good.”
+
+I pull him closer.
+
+“Fuck me.”
+
+His eyes close.
+
+Again.
+
+That little fracture in his control.
+
+Mine.
+
+Then he climbs onto the bed.
+
+Kisses me.
+
+I wrap my legs around him.
+
+His cock presses against me.
+
+He stops there.
+
+“Last check.”
+
+“Yes.”
+
+“Condom?”
+
+I stare.
+
+He reaches toward his discarded trousers.
+
+Of course this world has some version of practical contraception because civilization exists.
+
+I start laughing.
+
+His forehead drops to mine.
+
+“What?”
+
+“You planned.”
+
+“I hoped.”
+
+“How long have you been carrying that?”
+
+He refuses to answer.
+
+I laugh harder.
+
+He bites my lower lip.
+
+The laughter breaks into a gasp.
+
+“That works.”
+
+“I noticed.”
+
+He handles the sheath quickly.
+
+Then settles between my thighs.
+
+He looks at me.
+
+Waits.
+
+I hook my heel behind him.
+
+Pull.
+
+He enters slowly.
+
+Even with how wet I am, the stretch is enough to empty my head.
+
+His jaw goes tight.
+
+Mine probably does too.
+
+He stops halfway.
+
+“Okay?”
+
+“Yes.”
+
+“More?”
+
+“Yes.”
+
+He pushes deeper.
+
+I breathe through it.
+
+My hands slide over his shoulders.
+
+He is bigger than I expected.
+
+Not absurd.
+
+Enough that my body has to accommodate him deliberately.
+
+When he is fully inside me, he stays still.
+
+The room goes quiet.
+
+My pulse.
+
+His breathing.
+
+The distant scrape of a chair downstairs.
+
+I look at him.
+
+This is Tolliver.
+
+The man who found me barefoot in the rain.
+
+The man who lied.
+
+The man who fed me.
+
+The man who scared me.
+
+The man who learned.
+
+The man I chose.
+
+“Move,” I say.
+
+He does.
+
+One slow stroke out.
+
+Back in.
+
+My eyes close.
+
+His hand catches my chin.
+
+“Open.”
+
+I do.
+
+He keeps the pace slow until I start meeting him.
+
+Then he changes.
+
+One hand hooks under my knee and pushes it higher.
+
+The angle deepens.
+
+I cry out.
+
+He watches.
+
+There.
+
+Again.
+
+Every thrust is aimed at the place that makes my thoughts scatter.
+
+I claw at his shoulder.
+
+He catches both my wrists.
+
+Pins them above my head.
+
+One hand.
+
+His body keeps moving.
+
+Power without hurry.
+
+I test him again.
+
+Not because I want free.
+
+Because I want to feel that I could fight and still be choosing not to.
+
+His grip holds.
+
+My hips do not.
+
+They chase every thrust.
+
+“Toll.”
+
+“You can tell me to let go.”
+
+“I know.”
+
+“Do you want me to?”
+
+“No.”
+
+His mouth comes to my ear.
+
+“Then stop pretending you do.”
+
+Fuck.
+
+I turn my face and bite his shoulder.
+
+He grunts.
+
+Finally.
+
+A reaction I caused.
+
+I bite again.
+
+He drives into me harder.
+
+My back arches.
+
+“That was rude,” I gasp.
+
+“You started it.”
+
+He releases my wrists.
+
+Before I can decide what to do with my freedom, he rolls me.
+
+Suddenly I am on my stomach.
+
+“Wait.”
+
+He stops instantly.
+
+Hands off.
+
+Nothing moving.
+
+The speed of it makes something soft crack open in my chest.
+
+I push up.
+
+“My ankle.”
+
+“Position?”
+
+“Fine. Just don’t fold the left one under me.”
+
+He nods.
+
+“Show me.”
+
+I arrange myself.
+
+Knees apart.
+
+Left foot extended off the edge enough not to torque.
+
+He touches my hip.
+
+“Good?”
+
+“Yes.”
+
+“Continue?”
+
+“Yes.”
+
+His hand slides into my hair.
+
+He gathers it.
+
+Not yanking.
+
+Holding.
+
+The other grips my hip.
+
+When he enters me from behind, the sound I make is not remotely dignified.
+
+He stops deep.
+
+“Still want this?”
+
+“Yes.”
+
+“How?”
+
+I know what he is asking.
+
+“Harder.”
+
+He does.
+
+The bed knocks the wall.
+
+Once.
+
+Twice.
+
+I bury my face in the blanket.
+
+His hand tightens in my hair and lifts my head.
+
+“No hiding.”
+
+I swear into the room.
+
+He laughs low behind me.
+
+Then his free hand slides under my body.
+
+Finds my clit.
+
+My arms nearly collapse.
+
+He slows his thrusts enough to keep me balanced.
+
+Fingers circling.
+
+Cock deep.
+
+Grip in my hair.
+
+No place to put the sensation.
+
+I make noises I will deny under oath.
+
+He says my name every time I try to disappear into the blanket.
+
+Not praise.
+
+Not command.
+
+Recognition.
+
+Maya.
+
+Here.
+
+Maya.
+
+This.
+
+Maya.
+
+Mine for exactly as long as I keep choosing it.
+
+The thought almost pulls me out of the moment.
+
+His fingers press harder.
+
+Nope.
+
+Thought over.
+
+I come again with my hand braced against the wall.
+
+Hard enough that my knees shake.
+
+He holds my hips through it.
+
+Does not chase his own finish until I stop trembling.
+
+Then his rhythm changes.
+
+Less controlled.
+
+Finally.
+
+I look back over my shoulder.
+
+His face is wrecked.
+
+That does something viciously satisfying to me.
+
+“You’re losing it.”
+
+He opens his eyes.
+
+“Careful.”
+
+I smile.
+
+“Make me.”
+
+His hand leaves my hair.
+
+Closes around my hip.
+
+He pulls me back onto him hard enough that my smile dies.
+
+Again.
+
+Again.
+
+I grab the headboard.
+
+“Tolliver.”
+
+“Yes?”
+
+“Asshole.”
+
+“Yes.”
+
+I laugh and moan at the same time.
+
+Then he bends over me, mouth against my shoulder, and comes with one broken sound that I feel more than hear.
+
+He stays there.
+
+Breathing against my skin.
+
+Heavy enough that I know exactly what he meant when he said he could overpower me.
+
+Not enough to hurt.
+
+He moves first.
+
+Careful with my leg.
+
+Careful with everything now.
+
+He disposes of the sheath.
+
+Brings water without asking if I need it.
+
+I drink.
+
+He sits on the edge of the bed.
+
+Suddenly there is space between us.
+
+I hate it.
+
+That realization is embarrassing enough that I nearly say nothing.
+
+Instead I touch his back.
+
+He turns.
+
+“What?”
+
+“Come here.”
+
+He does.
+
+No hesitation.
+
+Lies beside me.
+
+I put my head on his chest.
+
+For a while, neither of us says anything.
+
+His fingers move through my hair.
+
+Slow.
+
+Nothing like the grip from before.
+
+My body is loose and sore in pleasant places.
+
+My ankle is fine.
+
+I check because I am not an idiot.
+
+Mostly.
+
+“Was that what you wanted?” he asks.
+
+I think about it.
+
+“Yes.”
+
+“Anything you didn’t?”
+
+“The interrogation.”
+
+“You answered every question.”
+
+“Under protest.”
+
+“I noticed.”
+
+I trace the scar on his ribs.
+
+He catches my fingers.
+
+Not stopping.
+
+Holding.
+
+“Was I too rough?”
+
+“No.”
+
+“Too careful?”
+
+I laugh against his chest.
+
+“Possibly.”
+
+His hand tightens in my hair just enough to remind me.
+
+My body reacts instantly.
+
+Traitor.
+
+He feels it.
+
+“Interesting.”
+
+“Do not become unbearable.”
+
+“Too late.”
+
+I lift my head.
+
+He is smiling.
+
+Small.
+
+Real.
+
+I kiss him.
+
+This one is different.
+
+No control game.
+
+No proving.
+
+Just mouth.
+
+Warmth.
+
+Choice.
+
+When I pull back, the smile is gone.
+
+“Maya.”
+
+“What?”
+
+“What happens now?”
+
+There it is.
+
+The question no sex scene gets to solve by itself.
+
+I roll onto my back.
+
+Stare at the ceiling.
+
+“I don’t know.”
+
+He nods.
+
+No flinch.
+
+No punishment.
+
+I turn my head.
+
+“I want this again.”
+
+His mouth twitches.
+
+“Useful data.”
+
+“I want you.”
+
+That stops the joke.
+
+“I am not promising forever.”
+
+“I did not ask.”
+
+“I am not promising I stop loving Sella.”
+
+“I would think less of you if you did.”
+
+My chest tightens.
+
+“She might come back.”
+
+“Yes.”
+
+“I might want both of you.”
+
+“Yes.”
+
+“You might decide you hate that.”
+
+“Yes.”
+
+I blink.
+
+“Very supportive.”
+
+“You asked for truth.”
+
+I did.
+
+He looks at the ceiling now.
+
+“I do not know what I can live with until I am living with it.”
+
+“That is annoyingly mature.”
+
+“I have other qualities.”
+
+“I saw one.”
+
+He covers his face with one hand.
+
+Victory.
+
+I grin.
+
+Then it fades.
+
+“I need one thing from you.”
+
+He lowers his hand.
+
+“What?”
+
+“No disappearing into decisions again.”
+
+His face stills.
+
+“If something affects me, you tell me before you choose for me.”
+
+“Yes.”
+
+“Even if you think you are protecting me.”
+
+“Yes.”
+
+“Even if you know better.”
+
+A pause.
+
+Then: “Yes.”
+
+I believe him.
+
+Not because he said it perfectly.
+
+Because he has been practicing for weeks.
+
+“Your turn.”
+
+He looks surprised.
+
+“What do you need?”
+
+His eyes move over my face.
+
+“When you are angry, tell me what I did.”
+
+“That seems obvious.”
+
+“It is not obvious to you.”
+
+Rude.
+
+Correct.
+
+“I tend to communicate through atmosphere.”
+
+“You communicate through violence toward furniture.”
+
+“One chair.”
+
+“Two.”
+
+“The second deserved it.”
+
+He waits.
+
+“Fine.”
+
+“And if you want me to take control like this again, say so.”
+
+My face heats.
+
+“You can’t tell?”
+
+“I can tell you are aroused. I cannot tell what you consent to tomorrow based on what you consented to tonight.”
+
+That shuts me up.
+
+He kisses my forehead.
+
+I hate how much tenderness affects me after being pinned to a mattress.
+
+Human bodies are poorly designed.
+
+I tuck myself closer.
+
+“Fine.”
+
+“Fine?”
+
+“I will use words.”
+
+“Tragic.”
+
+I bite his chest.
+
+He laughs.
+
+Then catches my chin.
+
+Looks down at me.
+
+“Again?”
+
+I should sleep.
+
+I have work in the morning.
+
+Harra wants inventory numbers.
+
+Vey wants a statement.
+
+Pell wants to discuss whether my Day Eighteen agreement became meaningless when I worked twelve days past it without anyone updating the paper.
+
+My life is a pile of unresolved administrative fires.
+
+Also, I am naked with Tolliver.
+
+Priorities.
+
+“Yes,” I say.
+
+His eyes darken.
+
+“But this time,” I add, “I’m on top.”
+
+He raises an eyebrow.
+
+“I thought you wanted me in control.”
+
+“I contain multitudes.”
+
+“That phrase again.”
+
+“Get used to it.”
+
+I swing a leg over him.
+
+He lets me.
+
+For now.
+
+The knowledge makes me smile.
+
+Tomorrow I will be Level Six.
+
+Warder.
+
+Annoying.
+
+Ambitious.
+
+Homesick.
+
+In love with a woman on the east road.
+
+Falling harder for the man under me.
+
+Still mine.
+
+Especially when I choose not to be.
