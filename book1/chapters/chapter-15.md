@@ -12,13 +12,11 @@ She pulls her hand away.
 
 “Something he can answer.”
 
-The board is still in the mirror. Iven Orrel. Whoever is holding it has tucked one corner against the rail because his arm is tired, and that small, ordinary adjustment is worse than if he had stood perfectly still like a picture.
+The board is still in the mirror. Iven Orrel. Whoever is holding it has tucked one corner against the rail because his arm is tired. That ordinary adjustment is worse than if he had stood still like a picture.
 
 Mara comes forward. Harra steps aside just far enough to let her reach the hood. I give her my place.
 
-For a long time she says nothing.
-
-I watch the side of her face. Her mouth opens once. Nothing comes out. Then she bends closer, her free hand moving toward the glass until Dain catches it before she can change the angle.
+For a long time she says nothing. Her mouth opens once, closes, then she bends closer until Dain catches her hand before it can change the angle.
 
 “Leave it steady.”
 
@@ -38,7 +36,7 @@ We position it beside the mirror. Mara looks into the hood and stays there while
 
 Her brother's board goes down.
 
-I count my breaths. I stop when counting starts to feel like a bargain.
+I count my breaths until it starts to feel like a bargain.
 
 Mara makes a noise.
 
@@ -48,7 +46,7 @@ She has to swallow before she can speak.
 
 “He says which time.”
 
-Her laugh breaks halfway out. She presses her fist against her mouth, turns from the glass, then turns back at once as though leaving it for even a second might be the thing that loses him.
+Her laugh breaks halfway out. She turns from the glass, then back at once, as though a second away might lose him.
 
 “Write Mara,” she says. “Tell him it's me.”
 
@@ -80,9 +78,7 @@ He underlines it. I picture the fourth step we counted in the mirror and ask Dai
 
 “Could be a break across it. Could be another flight. Ask him to show us tomorrow. No guessing with feet.”
 
-Tomorrow.
-
-The word goes through Mara visibly.
+Tomorrow goes through Mara visibly.
 
 “We can't leave him there.”
 
@@ -92,7 +88,7 @@ The word goes through Mara visibly.
 
 His face changes.
 
-For half a second I see the wet woman from Vey's story standing between them. Elena with her hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
+For half a second I see Elena from Vey's story between them, hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
 
 “We don't know where turning it sends him,” he says. “We have him here.”
 
@@ -114,7 +110,7 @@ The stair is still there. Less of the landing shows. A dark edge has advanced ac
 
 He has Mara write that the view is narrowing, that they will try again at first daylight, that no one will turn the wheel tonight.
 
-The reply takes long enough for me to begin hating every part of the apparatus.
+The reply takes long enough for me to hate the apparatus.
 
 *Will watch.*
 
@@ -194,7 +190,7 @@ Mara rises while Pell is still writing.
 
 Pell asks whether she wants someone to walk with her. Mara says no, then changes her mind and names the kitchen woman who lent me the needle. Pell sends for her.
 
-I stand beside the door with my copies pressed to my chest, trying not to turn Iven's sons into an audience in my head. People learning their father might come home. People who have already been taught once how to live when he doesn't.
+I stand beside the door with my copies pressed to my chest, trying not to imagine Iven's sons learning their father might come home after being taught how to live when he didn't.
 
 As Mara passes me, she stops.
 
@@ -212,7 +208,7 @@ I don't follow until I can trust my feet.
 
 Tolliver is waiting by the kitchen when I come down. He takes the copies, and I let him lead me to a place at the table.
 
-I eat without tasting much. He talks about the survey, something the miller disputed, and I lose the thread halfway through. He stops.
+I eat without tasting much. He talks about the survey until I lose the thread and he stops.
 
 “Sorry,” I say.
 
@@ -224,7 +220,7 @@ I nod. Tomorrow. There will be work tomorrow.
 
 After the meal he walks me upstairs. In the narrow landing, with my door still shut, I put my forehead against his chest. He holds me with one hand below the shoulder that hurts.
 
-There is no speech. I can hear somebody rinsing a pot through the open window and the steady sound of his breathing above my hair. I stand there longer than I meant to.
+There is no speech. I hear somebody rinsing a pot and his breathing above my hair. I stay longer than I meant to.
 
 When I lift my head, he kisses me. I kiss him back, and for a while the day has somewhere to go besides around and around inside me.
 
@@ -234,7 +230,7 @@ Tolliver moves back enough to see my face.
 
 “What?”
 
-I could say I am tired. I am tired. There are whole honest sentences available that would let me avoid the one I need.
+I could say I am tired. I am tired. There are honest sentences available that would let me avoid the one I need.
 
 “I think I want to kiss Sella.”
 
@@ -292,7 +288,7 @@ He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
 I want to call him back.
 
-That is the part I wasn't prepared for. I can want Sella and still hate the shape of his back going away from me. One feeling has not had the courtesy to cancel the other.
+I wasn't prepared to want Sella and still hate the shape of his back going away. One feeling has not had the courtesy to cancel the other.
 
 I open my door instead. My measure blurs the first time I try to read it.
 
@@ -326,7 +322,7 @@ I can't look at the letter after that. I watch Harra fit the hood instead.
 
 My reserve is full. Two days until the removal crew. I have brought a fresh sheet for every question I thought of in the night; Mara has only the letter.
 
-I have barely reached the hood before I see him at the rail.
+I barely reach the hood before I see him at the rail.
 
 He has propped his board against it. There are two words.
 
@@ -336,7 +332,7 @@ Mara presses her hand over her mouth. Then she takes the first sheet of her sons
 
 It takes nearly an hour.
 
-We hold each section where he can see it, wait for his raised hand, then show the next. Sometimes he signals for us to leave a page longer. Once he goes out of sight and returns with a cloth pressed against his eyes. No one speaks while he is gone.
+We hold each section where he can see it and wait for his raised hand before showing the next. Once he goes out of sight and returns with a cloth pressed against his eyes. No one speaks while he is gone.
 
 I learn almost nothing of the letter's contents. I'm holding the paper with its back to me, following Harra's corrections, my world reduced to making the right patch of reflection clear enough for a father to read.
 
@@ -376,7 +372,7 @@ His answer takes more room than the board allows. He shows it in two parts.
 
 Dain sits down on the spare stool.
 
-I put a hand against the wall. Cold stone, grainy under the heel of my palm. Four years and nearly two months here. Seventy-one sleeps since he began counting there, with an unknown amount before. I try to make the numbers meet and get my mother instead, sitting at the table with her phone facedown because checking it has become something that hurts.
+I put a hand against the wall. Cold stone, grainy under the heel of my palm. Four years and nearly two months here. Seventy-one sleeps since he began counting there, with an unknown amount before. I try to make the numbers meet and get my mother instead, phone facedown because checking it hurts.
 
 “We don't know,” I say.
 
@@ -386,7 +382,7 @@ Nobody has asked me anything.
 
 Mara asks whether there is daylight. Iven says there are windows higher up, but boards cover them and he has not taken them off. There are noises outside sometimes. He doesn't know what makes them.
 
-Four years here, and he has only seventy-one marks he trusts. I grip the wall until my hand hurts. I want someone to explain it. Mara is already writing the next question.
+Four years here, and only seventy-one marks he trusts. I grip the wall until my hand hurts while Mara writes the next question.
 
 Then he holds up a packet.
 
@@ -428,7 +424,7 @@ She has a paper tucked through her belt. I look at it before I can stop myself.
 
 “Yes.”
 
-I am glad enough that it shows. Sella looks at me a moment longer than she has to.
+I am glad enough that it shows. Sella notices.
 
 “You could ask me to have supper,” she says.
 
@@ -466,7 +462,7 @@ She has washed too. Her hair is loose from its braids, waves flattened in places
 
 She reaches behind her ear and finds the soap. Neither of us says anything while she wipes it away.
 
-I sit beside her. The bench has enough room for us to choose the distance. I choose very little.
+I sit beside her. The bench has enough room to choose distance. I choose very little.
 
 For a while we talk about the coast. She has never seen a ship larger than a river barge. I tell her about a ferry I rode once with my parents, the wind that kept putting my hair in my mouth, my father trying to convince a gull to take a french fry while my mother told him what would happen next.
 
@@ -490,7 +486,7 @@ I try to picture her on a beach with her boots in her hand. For once the water i
 
 “Then keep something out of your wages for it.”
 
-It is such a small suggestion. A fare. A day I might pay for because I want it. I have been counting my coins in meals and nights indoors; now I try to remember how much the carrier wanted to go east.
+It is such a small suggestion. A fare. A day I might pay for because I want it. I have been counting coins in meals and nights indoors; now I try to remember the eastbound fare.
 
 She leans back against the wall, leaving her knee against mine. I turn toward her.
 
@@ -552,7 +548,7 @@ The second try is slower. Her mouth is warm, softer than the sharpness of her gr
 
 I give her one.
 
-I sit with my mouth against her cheek until my breathing settles. I look down at our joined hands, at the pink skin over my knuckles and the little nick beside her thumbnail. I want another hour on this bench. I want a room with a door I know how to open. I want my mother to hear me say I am all right without having to decide whether it is true first.
+I stay with my mouth against her cheek until my breathing settles. Our joined hands rest between us. I want another hour on this bench, a room with a door I know how to open, my mother hearing me say I am all right without deciding first whether it's true.
 
 Sella brushes a loose strand away from my mouth.
 
