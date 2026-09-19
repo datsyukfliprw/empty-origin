@@ -904,3 +904,53 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 **Ending state:**
 - Maya and Tolliver have a mutually chosen, explicitly negotiated relationship/sexual connection without pretending future complications are solved. Chapter Thirty-Two must return to practical settlement, final Book One build state, and the next paid objective.
+
+## Chapter 32
+
+**Opening state:**
+- Nine days after Sella's departure and the same morning after Maya and Tolliver's first full sexual encounter.
+- Maya is LV. 6, Warder, with reserve recovered to 8/8 after days without spending. Her ankle has been cleared for ordinary walking, stairs, light shield work, and Stepguard.
+- Iven is alive at Rook with Teren and Lio. Rusk's preservation claim remains unresolved. Maya's Day Eighteen work extension was never formally rewritten despite continued assignment.
+
+**Major movement:**
+- Pell, Mara, Vey, Maya and Tolliver reconcile the continued work period in writing. Maya is paid for twelve retained days at eight bits/day, including medically restricted days in which she remained assigned and consulted.
+- Maya converts the unused contractual return-cart value into a negotiated four-week Rook room arrangement with a locked storage chest and explicit protections against House ownership of her stored possessions.
+- Elena Ruth Mercer's Missouri identification card is reclassified as personal property retained in error with survey materials. Mara keeps the original in recorded custody for Elena; Maya retains a full copy and English transcription.
+- Rusk's dispute is narrowed to later adjudication of preserved inner iron. It does not provide custody of Iven, exclusive access, or control over copied testimony/plans.
+- Iven identifies a route mark from the receiving station. Mara matches it to an old register for a second receiving house on the ridge service road.
+- A six-wagon ridge caravan needs replacement escort and offers Maya a separately paid receiving-house approach inspection. Maya negotiates protections and does not sign on presentation.
+- Maya begins ordinary weapons/footwork practice with Tolliver without using Brace or Stepguard to substitute for fundamentals.
+- At sunset Maya chooses and signs the ridge-road job. Tolliver chooses to join after her decision; Harra is willing to hire on under equipment terms; Iven declines and remains with his family.
+
+**Character / relationship changes:**
+- Maya secures a place to return to that she pays for herself and that carries no service or ownership claim.
+- Maya keeps Sella's returned shirt in her room and does not treat the relationship as erased.
+- Maya and Tolliver accept boyfriend/girlfriend language in daylight. They preserve the boundaries established in Chapter Thirty-One: no assumed exclusivity, no control over Maya's jobs or departure, and open discussion if Sella returns.
+- Tolliver waits for Maya's employment choice rather than inserting himself into it.
+- Iven retains agency after rescue and explicitly refuses expedition membership.
+
+**System / progression / resources:**
+- Final visible build: LV. 6; RUN WARDER; RESERVE 8/8 after recovery; Brace and Stepguard remain the two activated abilities; CONTROLLED RELEASE remains recognized technique, not a new ability.
+- No new level, heal, or refill is caused by signing the next job.
+- Maya receives 96 bits / 12 pieces in reconciled wages, then pays 28 bits for four weeks of room/storage. Exact total purse afterward depends on preexisting cash and is not separately asserted.
+- Maya owns her repaired green shield, her records/copies, and her stored personal property. Harra repairs a storage chest and Maya pays four bits for materials.
+
+**Reveals and established facts:**
+- The original Elena card belongs to Elena, not Rook, Vey, Maya, or Rusk.
+- The receiving-station route mark corresponds to a locally recorded ridge service road and second receiving house. Its current condition and relationship to Elena's route remain unknown.
+- A ridge-bound caravan of six wagons is preparing to leave Greyward; its regular guard company withdrew after a washout report.
+- The next contract covers escort plus a separately scoped exterior approach inspection. It does not authorize sealed lower-works entry or mechanism operation.
+
+**Open threads / setups / uncertainties:**
+- Rusk's preserved-inner-iron claim awaits later adjudication.
+- Elena remains unfound; the ridge route may or may not intersect her history.
+- The second receiving house's present condition is unknown.
+- Maya's origin remains blank and the irreversible mechanics of her arrival are not yet established.
+- Sella remains eastbound and loved; future relationship structure remains open.
+- Tolliver's Greyward witness-standing issue and Ordway restitution remain future obligations.
+
+**Ending state:**
+- Book One complete.
+- Maya has paid housing and storage at Rook, owned equipment, copies of key records, money she earned, a repaired relationship with Tolliver, continuing love for Sella, and a chosen paid expedition.
+- She plans to leave Rook in five days, reach Greyward early to see Ordway, then take the ridge-road escort and station-approach job with willing companions.
+- Final emotional direction: forward is chosen life in this world, not a promised route back to Earth.
