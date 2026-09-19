@@ -8,9 +8,7 @@ Not quickly.
 
 But enough that Bera arrives at the kitchen with mud to her knees and puts a cabbage on the table in front of Pell.
 
-It is a terrible cabbage.
-
-Half the outer leaves have gone yellow. One side is split. A slug is still attached to the stem.
+It is a terrible cabbage: yellow outer leaves, one side split, a slug still attached to the stem.
 
 Pell looks at it as though Bera has presented a crown.
 
@@ -38,11 +36,7 @@ Bera takes the cabbage back.
 
 The drainage throat is still hanging from Rusk's chain. New stone supports stand beneath it, ugly and square against older masonry. Oret has the first sustained draw running at less than half the trial volume while the mortar takes load.
 
-The fields are not saved.
-
-But water is going somewhere it is supposed to go.
-
-That feels suspiciously close to good news.
+The fields are not saved, but water is going where it is supposed to go. That feels suspiciously close to good news.
 
 ---
 
@@ -64,7 +58,7 @@ She notices.
 
 I turn.
 
-The ankle is stiff and weak rather than sharp. When I place the foot flat and keep my weight centered, it holds. If I roll to the outer edge, pain answers.
+The ankle is stiff and weak rather than sharp. Flat and centered, it holds. Roll outward and pain answers.
 
 “No field,” she says.
 
@@ -104,9 +98,7 @@ Iven measures his tank.
 
 Dain converts nothing.
 
-That is important.
-
-We know the dimensions in Iven's old local rule. We know the current water depth and the stain above it. We do not know consumption before he began measuring, leakage, refill, or whether the tank feeds anything else.
+That matters. We know the tank dimensions, current depth, and old stain. We do not know earlier consumption, leakage, refill, or whether the tank feeds anything else.
 
 So nobody tells Mara her brother has thirteen days of water.
 
@@ -146,11 +138,7 @@ At noon, Rusk's crew lowers the throat slab onto its new supports.
 
 The chain goes slack one link at a time.
 
-Every person in the kitchen stops talking.
-
-We cannot see the field from here.
-
-We listen.
+Everyone in the kitchen stops talking. We cannot see the field, so we listen.
 
 Nothing collapses.
 
@@ -192,7 +180,7 @@ The captain returns with mud on her boots and no expression at all.
 
 “Good stone,” she says.
 
-From her, it sounds indecently generous.
+From her, that sounds indecently generous.
 
 Vey signs over the two bales.
 
@@ -238,11 +226,7 @@ Harra straightens.
 
 “Then enjoy being unrobbed.”
 
-They argue for six minutes.
-
-It is beautiful.
-
-Not because of the numbers. Because this is finally an argument about equipment instead of whether another human being belongs to whoever owns it.
+They argue for six minutes. It is beautiful, not because of the numbers, but because this is finally about equipment instead of whether another human belongs to whoever owns it.
 
 They settle at two pieces and four bits.
 
@@ -252,7 +236,7 @@ Pell has almost none loose.
 
 I do.
 
-I know that before anybody looks at me, which is why I hate the thought as soon as it arrives.
+I know that before anybody looks at me, so I hate the thought immediately.
 
 My purse has forty-six bits from before the extension. Today's eight makes fifty-four.
 
@@ -306,17 +290,9 @@ Rusk gives four back.
 
 Harra snatches the coins before she can change her mind.
 
-The block becomes Rook's.
+The block becomes Rook's. The captain leaves before sunrise.
 
-The captain leaves before sunrise.
-
-No custody.
-
-No season.
-
-No exclusive rights.
-
-Just a used piece of equipment with somebody else's grease still in the links.
+No custody. No season. No exclusive rights. Just a used piece of equipment with somebody else's grease still in the links.
 
 I think I understand why Pell looks happier about that than she did when the fields started draining.
 
@@ -368,7 +344,7 @@ Tolliver watches my face anyway.
 
 “Finding his daughter.”
 
-I lean against the wall because I was told I could, and because this suddenly feels less like a hallway.
+I lean against the wall because I was told I could, and because this no longer feels like a hallway.
 
 “Did you?”
 
@@ -424,11 +400,7 @@ His jaw tightens.
 
 “Yes.”
 
-It should feel good to hurt him with the sentence.
-
-It does a little.
-
-Not enough.
+It should feel good to hurt him with the sentence. It does a little. Not enough.
 
 “Why tell me now?”
 
@@ -456,11 +428,7 @@ He gives me the pages back.
 
 “No.”
 
-I hate how much I want to touch him.
-
-So I do not.
-
-That matters too.
+I hate how much I want to touch him, so I do not. That matters too.
 
 “I'll see you tomorrow,” I say.
 
@@ -492,9 +460,7 @@ The real ones, copied from the posting board in Greyward by a carrier who arrive
 
 Harrowgate in six days by coach if the road is dry. Four days walking to the river cut, then packet east. Work caravans cheaper if guards are willing to sign for escort. Sella knows two companies that may leave within a fortnight.
 
-A fortnight.
-
-The number has teeth.
+A fortnight has teeth.
 
 I sit with my bad foot stretched beneath the blanket.
 
@@ -548,7 +514,7 @@ Relief comes so quickly I resent it.
 
 Then she adds, “But I will not wait in Rook while you decide whether I am temporary.”
 
-The relief vanishes.
+Gone.
 
 “You aren't.”
 
@@ -556,7 +522,7 @@ The relief vanishes.
 
 I look at our knees beneath the blanket.
 
-Truth has become an annoyingly recurring expense.
+Truth has become a recurring expense.
 
 “I can give you the next two days. After that, if Iven isn't out, I stay until we get him or until the attempt becomes impossible.”
 
@@ -580,7 +546,7 @@ Her eyes close briefly.
 
 Not relief exactly.
 
-Something that has been holding still.
+Something that had been holding still.
 
 When she opens them, I say, “I still don't know what that means about Tolliver.”
 
@@ -600,9 +566,7 @@ The word is small enough to carry.
 
 She kisses me before I can ruin it with another condition.
 
-There is no surprise this time.
-
-That changes everything.
+There is no surprise this time, and that changes everything.
 
 I know the shape of her mouth. I know where she will laugh if I catch her lower lip. I know she likes my hand at the back of her neck and hates when I touch her ribs without warning because she is ticklish and will absolutely elbow me off a roof.
 
@@ -612,7 +576,7 @@ Her hand slides under the edge of my tunic and stops at my waist.
 
 My whole body notices.
 
-The ankle. The cold. The rough blanket under my palm. Her thumb against skin. The fact that I can hear somebody in the yard arguing about axle grease.
+The ankle. The cold. Rough blanket under my palm. Her thumb against skin. Somebody in the yard arguing about axle grease.
 
 None of it makes the wanting smaller.
 
@@ -632,7 +596,7 @@ She kisses me again.
 
 ---
 
-By the time my door shuts behind us, neither of us is pretending the wine mattered.
+By the time my door shuts, neither of us is pretending the wine mattered.
 
 Sella puts the bottle on the table. I catch the front of her tunic before she can straighten.
 
@@ -654,7 +618,7 @@ I sit on the bed.
 
 She kisses me anyway.
 
-There is less hesitation this time. Not less care. I know the difference now.
+There is less hesitation this time, not less care. I know the difference now.
 
 I know the shape of her body under my hands and the places that are still new. I know she likes being kissed just below her ear and that if I drag my nails lightly down her back she goes very still before she moves closer. I know better than to grab her ribs.
 
@@ -666,7 +630,7 @@ I catch her wrist.
 
 “Your side.”
 
-Her bruises are yellowing at the edges. I saw them when the mender checked her, but seeing them then was different. Professional. Practical. Proof that she had taken a hit and stayed standing.
+Her bruises are yellowing at the edges. I saw them when the mender checked her, but that was different: practical proof that she had taken a hit and stayed standing.
 
 Now I touch one with two fingers.
 
@@ -680,9 +644,7 @@ I leave my hand there anyway.
 
 She covers it with hers.
 
-For a moment neither of us moves.
-
-Then she lifts my fingers and kisses my palm.
+For a moment neither of us moves. Then she lifts my fingers and kisses my palm.
 
 The tenderness lands somewhere dangerous.
 
@@ -710,7 +672,7 @@ Her next breath catches hard enough to make my own stop.
 
 I kiss her before she can say anything else.
 
-She is already wet. Knowing that she wants me still hits with absurd force, as if this is new information every time.
+She is already wet. Knowing she wants me still lands with absurd force, as if it were new every time.
 
 My fingers move over her clit.
 
@@ -744,15 +706,7 @@ I stop smiling.
 
 She takes her time with me because she knows exactly what that does now. Her tongue moves over my clit, slow enough that I feel the anticipation before every stroke. I try to keep quiet. I fail. She presses my good leg farther open with one hand and slips two fingers inside me with the other.
 
-The room narrows.
-
-The lamp.
-
-Her hair against my thigh.
-
-The sheet twisted in my fist.
-
-The pressure building until my body stops belonging to language.
+The room narrows to lamp light, her hair against my thigh, the sheet twisted in my fist, pressure building until my body stops belonging to language.
 
 I come hard enough that my heel knocks the wall.
 
@@ -784,7 +738,7 @@ I roll toward her.
 
 I kiss her.
 
-This time I do not have to guess as much.
+This time I guess less.
 
 I know how she likes my hand between her thighs. I know the rhythm that makes her stop teasing me. I know she wants pressure, then less, then more again, and that the quickest way to make her swear is to slow down when she is close.
 
@@ -848,11 +802,7 @@ She exhales.
 
 “I am not used to someone asking twice.”
 
-The answer is not about bruises.
-
-I know that.
-
-I also know enough not to turn it into a speech.
+The answer is not about bruises. I know enough not to turn it into a speech.
 
 “Then I will,” I say.
 
@@ -884,13 +834,11 @@ After a while she says, “If we go east, I won't pay your fare.”
 
 I laugh into her shoulder.
 
-The future does not become simple.
-
-It becomes visible.
+The future does not become simple. It becomes visible.
 
 She said *if we go east*, not *if you do*.
 
-I hear it. I do not tell her I heard it. The word feels too much like something I could break by touching.
+I hear it and do not say so. The word feels too much like something I could break by touching.
 
 For now, that is better.
 
@@ -908,7 +856,7 @@ Before sleep I check the measure.
 
 Three progress since the field.
 
-I do not know whether it came from the station work, the drainage decision, surviving my own stupidity, or something else.
+I do not know whether it came from station work, the drainage decision, surviving my own stupidity, or something else.
 
 The System declines to provide a receipt.
 
