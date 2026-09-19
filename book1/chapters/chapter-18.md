@@ -376,9 +376,199 @@ Inside, I put the food cloth on the table. The room is smaller with her in it. T
 
 This kiss is slower. She has nowhere to go afterward. Neither do I.
 
-<!-- AUTHOR INSERT: Optional expansion of the intimate encounter that follows this freely chosen invitation. Maya is nineteen and Sella twenty-one; both know Maya is also interested in Tolliver and has promised neither exclusivity. Keep Maya's sore shoulder supported. The existing fade and aftermath form a continuous reading version without an explicit insertion. -->
+Her thumb drifts once along my jaw.
 
-Later, I wake when Sella moves her arm from beneath my head. The lamp has burned low. She sits on the edge of the bed, feeling for her shirt with one foot.
+“Still sure?”
+
+“Yes.”
+
+The answer comes out too fast. I make myself breathe.
+
+“Yes,” I say again. “Very.”
+
+Something in her face loosens. Not relief exactly. More like she has been holding a door open and was waiting to know whether I meant to walk through it.
+
+I catch the front of her tunic and pull her back to me.
+
+The bed complains when her knee lands beside my thigh. The sound makes us both pause, listening for footsteps in the hall. None come.
+
+“Romantic,” I whisper.
+
+“Structural,” she says, and kisses me again.
+
+I get one hand under the hem of her tunic. Warm skin. A hard line of muscle along her side. She inhales when my palm slides higher, and the little change in her breathing goes straight through me.
+
+Her hand reaches for my shoulder, stops before touching it, and moves to my waist instead.
+
+“I’m not glass.”
+
+“No. You’re injured.”
+
+“I’m sore.”
+
+“That is an injury with better publicity.”
+
+I bite her lower lip.
+
+She makes a sound against my mouth that wipes the next clever thing out of my head.
+
+Getting undressed is less graceful than I imagined. My skirt catches under me. Her belt has a buckle designed by an enemy of desire. When I finally get it loose, she laughs into my neck, and I nearly lose the ability to operate my own hands.
+
+Then her tunic is on the floor.
+
+I have seen women naked before. Locker rooms. Bedrooms. The strange ordinary intimacy of bodies when nobody is trying to make them mean anything.
+
+This is not that.
+
+Sella watches me watching her. There is no embarrassment in it, but there is attention. A question she is letting me answer without words.
+
+I put my hand on her breast.
+
+Her breath catches.
+
+That feels unfairly powerful.
+
+“Again,” she says.
+
+So I do.
+
+She lowers me carefully, one hand behind my back, the other moving the pillow until my bad shoulder is supported instead of trapped beneath me. The tenderness of it almost undoes me more efficiently than the naked woman in my bed.
+
+Almost.
+
+Her mouth finds mine. Then my jaw. Then the place below my ear that makes my entire body tighten.
+
+“Sella.”
+
+“I know.”
+
+“You absolutely do not.”
+
+She proves that she does.
+
+Her mouth closes over my nipple and I forget the argument. Heat pulls low in my stomach. My fingers knot in the sheet. She shifts beside me, watching my face as her hand slides down my body.
+
+The first touch between my thighs is over cloth.
+
+I jerk anyway.
+
+Her eyes lift to mine.
+
+“Good?”
+
+“Yes.”
+
+She strokes me again, slower.
+
+“Still good?”
+
+“Yes. Stop interviewing me.”
+
+“You complain when I don’t ask questions.”
+
+“I contain multitudes.”
+
+Her laugh warms my skin. Then her hand slips beneath the last layer between us, and the joke dies in my throat.
+
+I am wet enough that she notices.
+
+Of course she notices.
+
+Her expression changes, just slightly.
+
+I cover my face with one hand.
+
+“Oh, fuck you.”
+
+“That seems to be the direction of travel.”
+
+I start laughing and then her fingers move over my clit and the laugh breaks into something else.
+
+There is no room in me for embarrassment after that.
+
+Only sensation.
+
+Her mouth against my breast. Her thigh warm against mine. The rasp of her breathing near my ear. Her fingers learning what makes me tense and what makes me open, not with the efficient precision she uses teaching shield work, but with patience. Curiosity. Pleasure in the fact that I am losing mine.
+
+When I grab her wrist, she stops immediately.
+
+“Too much?”
+
+“No.” I am breathing like I have run uphill. “Don’t stop. Just… stay there.”
+
+She does.
+
+The pressure builds slowly enough that I feel every part of it. My body gathers around her hand. My thoughts narrow until there is nothing left to rationalize, nothing to compare, nothing to be useful for.
+
+I come with my face turned into her neck, biting down on a sound that escapes anyway.
+
+For a few seconds I cannot remember what language I speak.
+
+Sella strokes my hair.
+
+I lift my head.
+
+She looks unbearably pleased with herself.
+
+“That expression is going to become a problem.”
+
+“I can live with that.”
+
+I push her onto her back.
+
+Her eyebrows rise.
+
+“What?”
+
+“I contain multitudes.”
+
+She laughs once, then stops when I kiss down the center of her chest.
+
+I take my time because she did.
+
+Because I want to know her when she is not holding a shield, making a decision, giving up a road, or pretending a lost deposit does not matter. I want the ordinary soft places. The sounds she tries not to make. The way her stomach tightens when my mouth moves lower.
+
+When I kiss the inside of her thigh, her hand catches in my hair.
+
+Not pulling.
+
+Just there.
+
+I look up.
+
+“Sella?”
+
+“Yes.”
+
+The word comes rougher than mine did.
+
+I smile against her skin and keep going.
+
+The first taste of her makes something hot and startled twist through me. I have time to notice that, and then she moves beneath my mouth and there is no room for observation anymore.
+
+I learn her badly at first.
+
+Then better.
+
+Her hand tightens in my hair when my tongue finds the place that makes her hips lift. I stay there. She says my name once, sharp enough that I feel it in my chest, and again when she comes.
+
+Afterward I crawl up beside her and discover that smugness is much easier to recognize from the inside.
+
+“You’re staring,” she says.
+
+“You were staring first.”
+
+“I was checking your shoulder.”
+
+“Liar.”
+
+“Some.”
+
+I kiss her.
+
+The room smells like lamp oil and skin and the faint soap from her arms. My shoulder aches where I forgot it for a while, but it is a familiar ache, not a bad one. Sella notices me adjust and pulls the pillow higher without comment.
+
+I wake later when she moves her arm from beneath my head. The lamp has burned low. She sits on the edge of the bed, feeling for her shirt with one foot.
 
 “You can stay,” I say.
 
