@@ -157,3 +157,18 @@ The marked early elapsed-time issue is resolved: Day 1 clearing/forest night; Da
 - Maya advances to **LV. 6** after the rescue. Reserve capacity rises from 7 to **8**; current reserve is **5/8** after one Brace and does not refill on advancement. RELEASE UNDER LOAD is recognized as the refined technique label **CONTROLLED RELEASE**; this remains technique recognition, not a new activated ability. Maya's ankle is worsened again during the climax and must not be silently reset.
 - Iven is reunited with Teren and Lio at Rook by the end of Chapter Twenty-Nine. The rescue arc is complete. Immediate next work belongs to the post-rescue emotional/medical/claims aftermath, Sella's departure/reckoning, and later Maya/Tolliver payoff only after enough space is given to Sella's relationship consequences.
 
+
+
+## Current endpoint update — Chapters 30–31
+
+- Canonical manuscript now runs through Chapter Thirty-One.
+- Chapter Thirty gives the post-rescue aftermath to Sella rather than using her departure as a bridge directly into Tolliver. Maya remains under Mara's renewed ankle restriction immediately after the rescue and cannot simply walk off the injury.
+- Sella departs east as planned. She and Maya explicitly keep their relationship emotionally real without promising exclusivity, indefinite waiting, or a false clean breakup. Sella names the actual limit: she cannot build her life around waiting while Maya stands between possible futures. Maya refuses to ask Sella to stay when the rescue-day circumstances would tilt the answer.
+- Maya and Sella remain in love. Either may form other attachments. If Sella returns and they still want one another, they have agreed to speak plainly rather than use silence as protection.
+- Tolliver does not intrude on Sella's goodbye. He maintains the earned pattern of waiting for Maya's choice and respecting private boundaries.
+- The rescue aftermath continues with Iven recovering, his salvage testimony pending, and Rusk's preservation claim unresolved for later adjudication.
+- Mara keeps Maya off the ankle for six more days after the rescue, then gradually clears flat walking, light shield work, stairs, and finally Stepguard. This recovery time is necessary before the Tolliver encounter so injury/helplessness is not its premise.
+- Chapter Thirty-One occurs nine days after Sella's departure. Maya approaches Tolliver explicitly and chooses the encounter. She states that she wants him to take physical control without taking control of her choices.
+- Maya/Tolliver's first fully realized sexual encounter is on page and built around active consent, repeated check-ins, Maya's ability to stop or redirect, Tolliver's physical advantage, and his focus on breaking her composure rather than diminishing her competence.
+- After sex, both state practical relationship boundaries. Maya does not renounce Sella or promise exclusivity; Tolliver does not demand it. He agrees not to make decisions for Maya under the guise of protection. Maya agrees to state anger and future control preferences directly.
+- Immediate next work is Chapter Thirty-Two: wages, claims, equipment ownership, records/copies, training arrangements, a concrete next paid objective, visible final Book One build state, and ordinary-daylight relationship proof.
