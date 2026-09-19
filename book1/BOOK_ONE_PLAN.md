@@ -4,7 +4,7 @@
 
 The manuscript now ends at Twenty-Two, on local Day 17 after the first bounded spanning test fails safely. Rows 16–22 below retain the original planning objectives as completed-stage reference; consult the ledger for actual events and deviations. Rows 23 onward remain provisional unwritten work. The author wants a longer ongoing series in which Maya **never returns to Earth**. See the [series bible](../SERIES_BIBLE.md).
 
-Keep the flexible 95,000–115,000-word range, centered near 105,000. The twenty-two canonical chapters contain 67,966 words. Approximately 37,000 words remain to the center. The remaining chapter rows are planning beats, not a requirement to preserve one beat per chapter. Combine scenes that repeat a result. Give the rescue, reunion, intimacy aftermath, and ending the space they earn.
+Keep the flexible 95,000–115,000-word range, centered near 105,000. The twenty-two canonical chapters contain 69,806 words. Approximately 35,194 words remain to the center. The remaining chapter rows are planning beats, not a requirement to preserve one beat per chapter. Combine scenes that repeat a result. Give the rescue, reunion, intimacy aftermath, and ending the space they earn.
 
 ## The complete story this volume owes the reader
 
@@ -15,6 +15,20 @@ The external question is: **Can Maya and her allies bring Iven back without sacr
 The personal question is whether she can choose obligations without giving someone ownership of her. She must make a choice with a cost to herself. Saying no to another unfavorable contract is no longer enough to complete her arc.
 
 The emotional ending must include Iven's reunion, a meaningful romantic commitment, and a concrete step into Maya's new life. Save space after the confrontation. A map or threat is an invitation to the sequel, not the final substitute for those scenes.
+
+## Governing genre-engine direction
+
+The controlling development model is:
+
+**LitRPG plot + romantasy emotional engine + explicit payoff.**
+
+The second half must increase meaningful LitRPG rewards while making Maya's relationships consequential to actual choices, travel, trust, party dynamics, and future commitments. Open-door intimacy remains on page when earned and must have emotional aftermath.
+
+The binding Maya–Tolliver dynamic remains: **Maya is powerful and capable; Tolliver knows it and desires it; he can overpower her anyway; she chooses to let him; his obsession is undoing her composure, not making her small.** Earn this through Maya's growing competence and Tolliver's transition from control taken to control entrusted.
+
+Dungeons now become a recurring progression/adventure engine. In Book One, integrate one true recovery delve before the rescue and treat Fallow Reach as the larger dungeon-scale climax. Dungeons grow from the world's damaged transit infrastructure, old works, sealed stations, monster-held ruins, and related System-active sites rather than appearing as disconnected game instances.
+
+See [LITRPG_ROMANTASY_DUNGEON_PLAN.md](LITRPG_ROMANTASY_DUNGEON_PLAN.md) for the detailed dungeon framework, progression cadence, relationship architecture, heat cadence, and drafting checklist.
 
 ## The opposition
 
@@ -39,14 +53,16 @@ Numbering is a drafting aid. The cause-and-effect chain matters more than the co
 | 20 | During a bounded observation window, Iven and the team test the route at both ends with tools before people. Maya helps distinguish imported fittings from the structure holding them. Evidence establishes a receiving station within this world. | Pay off the English-door question honestly. Maya grieves the loss of this apparent way home; the rescue retains its purpose. Demonstrate a rule for the changing interval that can later be used, with measured limits rather than certainty by assertion. |
 | 21 | With the night's immediate work finished, Maya and Sella have time they choose for themselves. Sella presses for an answer about a shared future or job that Maya has avoided because she expects to leave. Maya gives an honest, limited answer she can act on. | If the relationship has earned it, the second intimate encounter remains on page and flows into an actual aftermath. Both retain their plans and agency. Do not interrupt it with an arbitrary alarm or fade to avoid completing the scene. |
 | 22 | A first limited entry becomes possible only after an access decision, physical safeguards, and an abort condition established in prior scenes. Maya participates for a specific reason, alongside more capable people. The prepared route fails at its known weak point. | Get everyone out without rescuing Iven yet; lose a tool, material, or opportunity that cannot be reset overnight. Maya learns why the shortened rope matters. Avoid adding a gratuitous casualty solely to prove danger. |
-| 23 | The captain exploits that failure to press the exclusive plan and offers Tolliver profitable work or information money. Vey must defend or change his already-stated position under the new pressure. Maya is tempted to hide a discouraging observation from the team to keep the rescue alive. | Her own controlling impulse costs trust before she corrects it. Tolliver's response has an observable price. The antagonist takes a defined action—seizes necessary rigging or begins a contested removal—rather than merely threatening vaguely. |
-| 24 | Recover access or needed equipment through a plan using the settlement, local routes, and skills already shown. Maya contributes tactical direction; Sella, Tolliver, Harra, and others retain indispensable jobs and the right to reject her proposal. | A decisive nonfinal win changes the power balance. Maya masters the limited moving hold through application, not a surprise rare-class notification. Drainage and rescue now have an executable shared plan. |
-| 25 | Prepare the final operation with the resources actually obtained. Iven solves a far-side problem instead of waiting to be carried. His sons have their own wishes and boundaries. Maya and her romantic partner or partners settle what they are choosing together. | Make the final division of labor, costs, timing, and abort point clear in one scene. The team knows enough to act; no final hidden warning can replace earned judgment. Let anticipation and some pleasure coexist. |
-| 26 | Execute the first stage: relieve the ordinary water load and reach the retrieval position. The captain makes the previously established attempt to take control. Maya must keep her assignment while more powerful allies are occupied with different indispensable work. | A cost she accepted now becomes real. The plan survives because it distributes work. Maintain reserve, injury, equipment, and position continuity through the action. |
-| 27 | Retrieve Iven during the demonstrated interval. The changing boundary makes holding harder the wrong answer. Maya releases Brace deliberately, moves under the trained hold, and coordinates the next support while Iven and the crew act. | Iven reaches this side alive. The captain's immediate bid fails conclusively. Maya gives up valuable recovery or access to save a person; she cannot buy a second attempt with a surprise refill. She does not visit Earth. |
-| 28 | Treat injuries, settle the immediate works state, and reunite Iven with Mara and his sons. Show one remembered family detail that has changed while he was absent. | The rescue receives its emotional reward. Establish the drainage remedy operating, its cost, and who will maintain it. If a larger reconstruction remains, its interim protection must actually work. |
-| 29 | Resolve wages, custody, the card classification, and the captain's disposition in the shortest scenes that carry real consequences. Maya and the relevant romantic partners follow through on their commitment privately. | Show a paid or earned material gain, useful progression, owned possessions, and reciprocal attachment. Elena's property stays hers; Maya is not entitled to it for being another arrival. She obtains lawful copies or an authorized lead, not effortless ownership of the whole collection. |
-| 30 | Maya buys or secures something for a life that extends beyond her next bed: a place to leave belongings, a training arrangement, or a share in an expedition with a known destination. She accepts a specific regional undertaking with willing companions. | End on chosen forward movement. The recovered record gives a route relevant to the next job and Elena; the mission's purpose is local. Maya can miss her parents while packing for a journey she wants. No final paragraph promising that the next gate might take her home. |
+| 23 | Rusk exploits the failed frame test. A needed rigging/resource becomes contested or unavailable. Maya is tempted to hide a discouraging observation, then corrects the impulse. Tolliver chooses costly transparency over strategic withholding. The party identifies a nearby abandoned works complex as the fastest credible source of the missing rescue component. | Open the Level 4 window through real Warder judgment or leadership. Trust improves through observable choices. Establish the concrete objective and retreat conditions for the first true dungeon/recovery delve. |
+| 24 | **Dungeon One — entry.** Enter the abandoned works site for a specific rescue component or piece of route knowledge. Establish party roles, resource limits, the site's mechanical hazard, and an escalating route. | Maya reaches Level 4 here if not already earned. Give LitRPG readers a clear dungeon rule and meaningful build application. Sella/Maya operate smoothly; Tolliver follows a correct call from Maya without taking over. |
+| 25 | **Dungeon One — deeper zone.** Environmental rules escalate and retreat becomes harder. The party must adapt instead of brute-forcing the site. Use a genuinely secured pause for forced proximity, watch conversation, or relationship revelation. | Give a substantial progression reward even without a full level. Sella begins recognizing the emotional gravity between Maya and Tolliver. Tolliver's attraction becomes more specifically tied to Maya's competence. |
+| 26 | **Dungeon One — climax.** A boss-like creature, System-active mechanism, rival salvage pressure, or combined hazard blocks the needed resource. Victory requires distributed party roles. | Level 5 window. Recover the equipment/knowledge required for Iven's rescue at a real cost. Exit safely. Maya proves she can solve an expedition problem, not merely survive one. |
+| 27 | Recover, repair gear, treat injuries, and prepare the final operation. Demonstrate what Maya's new level actually changes before the climax. Iven solves a far-side problem. His sons retain their own wishes and boundaries. | Final rescue division of labor, abort conditions, reserve assumptions, and timing are explicit. Sella and Maya confront future expectations without reducing their relationship to a placeholder. Tolliver does not exploit the tension. |
+| 28 | **Dungeon Two / Fallow Reach — stage one.** Execute the entry/retrieval plan under established boundary timing. Rusk or the salvage claim makes its concrete move. More experienced allies are occupied by indispensable jobs, leaving Maya responsible for her own assignment. | The plan survives because work is distributed. Tolliver trusts Maya's call under pressure. Sella responds as a professional first. Maintain exact injury, reserve, gear, and position continuity. |
+| 29 | **Dungeon Two / rescue climax.** Boundary conditions worsen. Maya learns that holding harder is the wrong answer, deliberately releases, moves under trained technique, and coordinates the next support while Iven acts from the far side. | Iven reaches this side alive. Level 6 window if earned. The immediate seizure attempt fails. Maya gives up valuable recovery/access rather than gamble a person for loot or another attempt. |
+| 30 | Treat injuries, stabilize the works, reunite Iven with Mara and his sons, and settle immediate custody/drainage consequences. Give the rescue its emotional reward. | Sella finally has space to name what she has seen in Maya's bond with Tolliver. The conflict is about the future Sella is willing to live inside, not Maya's bisexuality or a simplistic jealousy beat. Preserve Sella's dignity, work, and agency. |
+| 31 | Give the changed relationship state room to breathe. Maya chooses Tolliver rather than being pushed toward him by Sella's pain. If fully earned, deliver the first explicit Maya/Tolliver encounter built around chosen surrender, active consent, his physical advantage, and his fixation on undoing her composure. | Keep the encounter on page and carry it into aftermath. Maya's authority, ambition, capacity to disagree, and ordinary-life autonomy remain intact immediately afterward. |
+| 32 | Resolve wages, claims, equipment ownership, records/copies, training arrangements, and the next paid objective. Maya secures something for a life extending beyond her next bed and chooses a specific expedition with willing companions. | End with a visible LitRPG build state, reciprocal attachment in ordinary daylight, and chosen forward movement. Seed the next route/dungeon without substituting sequel bait for Book One's completed rescue and relationship payoffs. |
 
 ## Keep the calendar and money honest
 
@@ -56,13 +72,35 @@ Maya has **46 bits**: 38 at Fifteen +16 for the last reading days −24 for her 
 
 Rusk's three redirected days ran Days 12–14 and ended paid. Standing-time/departure terms are unresolved from Day 15. The quoted throat lift is eight pieces/day for a minimum two days (six crew at one piece each, captain/rig two), with materials extra. Pell has requested written terms but accepted neither cash expenditure nor the access concession. Vey's three-piece contribution in Seventeen helped preliminary work; it is not a fresh purse available every chapter.
 
-## Progression and physical design after Twenty-Two
+## Progression, dungeons, and physical design after Twenty-Two
 
-The imminent advancement and new technique are now delivered: LV. 3, 9/18, reserve 0/5, Brace and Stepguard. Preserve the two-reserve, two-breath, one-straight-step limits and sound-support requirement. First successful drill is not mastery; field use exposed weak ground under a combined load. Recovery, progression and injury must remain separate.
+Current canon at the Chapter Twenty-Two endpoint is **LV. 3, PROGRESS 15/18, RESERVE 5/5, RUN WARDER**, with Brace and Stepguard established. Maya owns her fitted/repaired shield. Her left ankle is improved enough for flat indoor walking and limited stairs but remains restricted from rough field work and shield practice. Do not rewrite prior progression merely to make the future cadence faster.
 
-Maya's left ankle requires two days off rough ground before reassessment; shield is with Harra until repaired. Do not jump straight to unrestricted training or a lower entry. Give her useful observation/copy work while others carry out physical tests. Decide level-four capacity/threshold before that advancement appears, and preserve current reserve if it happens during spending.
+From here, deliver a meaningful LitRPG reward roughly every one to three chapters. Rewards can be levels, reserve-capacity growth, learned/refined techniques, gear, tactical formations, dungeon knowledge, System-rule discoveries, or ability integration. A chapter does not need a level notification to satisfy progression readers if Maya's build or party role visibly changes.
 
-The writer's [rescue mechanics](RESCUE_MECHANICS.md) now supplies the physical layout and separates established facts from the unshown selector/station explanation. Before a human crossing, dramatize the needed interval evidence, anchors, bridging, abort condition and loss risk. A fixed spindle still cannot guarantee a fixed boundary. No exact period or Earth/local time ratio has been established.
+Editorial level windows, not automatic System rules:
+
+- **Level 4:** Chapters 23–24, earned through leadership, correct Warder judgment, or the first dungeon operation.
+- **Level 5:** Chapters 25–26, ideally tied to completing the recovery delve and integrating multiple lessons.
+- **Level 6:** Chapters 28–29 or rescue aftermath if earned. Do not force it if the mechanics do not support it.
+
+Before each advancement, define threshold, reserve-capacity change, current reserve behavior, and any new technique. Level-ups do not automatically refill reserve or heal wounds.
+
+### Dungeon One — recovery delve
+
+A nearby abandoned works/transit complex contains a specific component, material, or route knowledge required after the failed spanning test. The site is a bounded expedition with a concrete retrieval objective, party roles, a governing environmental/System mechanic, finite resources, escalation, a boss-like obstacle, progression payoff, and a meaningful cost.
+
+Recommended mechanical identity: **load, support, route choice, and movement under unstable conditions**. This scales Maya's existing Warder lessons rather than replacing them with unrelated magic.
+
+Use the delve for competence attraction and forced proximity. Sella/Maya function as an established pair under pressure; Tolliver witnesses Maya lead and follows a correct call. A secured camp or safe chamber may carry emotional/physical escalation, but the dungeon does not need to end in sex.
+
+### Dungeon Two — Fallow Reach
+
+Treat the final rescue as a larger dungeon-scale operation: mapped and unmapped zones, boundary timing, finite resources, equipment gained from Dungeon One, party communication, far-side agency from Iven, rival salvage pressure, and a clear extraction objective.
+
+The climax pays off the Warder identity already established: create room, read pressure, coordinate movement, anchor on sound support, and release before holding becomes a trap. Maya cannot freeze the boundary with surprise magic.
+
+For detailed dungeon design and the series cadence, use [LITRPG_ROMANTASY_DUNGEON_PLAN.md](LITRPG_ROMANTASY_DUNGEON_PLAN.md).
 
 ## Maya–Tolliver romantic payoff to develop
 
