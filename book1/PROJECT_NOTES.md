@@ -46,26 +46,26 @@ The editorial rationale and the source supporting the genre range are in [EDITOR
 | 10 | 4,293 |
 | 11 | 2,891 |
 | 12 | 4,047 |
-| 13 | 2,851 |
+| 13 | 2,882 |
 | 14 | 2,922 |
-| 15 | 4,016 |
-| 16 | 1,924 |
+| 15 | 4,051 |
+| 16 | 1,956 |
 | 17 | 1,727 |
 | 18 | 4,066 |
 | 19 | 5,338 |
 | 20 | 2,283 |
-| 21 | 3,253 |
-| 22 | 2,361 |
-| **Total** | **69,628** |
+| 21 | 3,286 |
+| 22 | 2,408 |
+| **Total** | **69,806** |
 
 Counts use whitespace-separated tokens across individual chapter files, including chapter headings, displayed System text, and Markdown scene separators. The compiled draft joins the chapters with blank lines and uses the same total. Typesetting or word-processor counts may differ slightly.
 
 - Chapters One–Six, current canonical text: 16,659 words.
 - Chapters Seven–Twelve, current canonical text: 22,228 words.
-- Chapters Thirteen–Fifteen, current canonical text: 9,789 words.
-- Chapters Sixteen–Nineteen, current canonical text: 13,055 words.
-- Chapters Twenty–Twenty-Two: 7,897 words.
-- Indicative remaining space to the 105,000-word center: 35,372 words. This is planning arithmetic, not a drafting quota.
+- Chapters Thirteen–Fifteen, current canonical text: 9,855 words.
+- Chapters Sixteen–Nineteen, current canonical text: 13,087 words.
+- Chapters Twenty–Twenty-Two: 7,977 words.
+- Indicative remaining space to the 105,000-word center: 35,194 words. This is planning arithmetic, not a drafting quota.
 - Status: working manuscript through Chapter Twenty-Two, not a complete novel or publication proof. Chapters Twenty–Twenty-Two continue the bounded station tests, drainage repair, employment/relationship decisions and first failed spanning test. Earlier developmental, continuity and prose reviews retain their historical scope and counts.
 
 ## Source authority and files
