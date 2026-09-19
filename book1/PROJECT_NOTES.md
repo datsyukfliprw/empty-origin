@@ -34,38 +34,38 @@ The editorial rationale and the source supporting the genre range are in [EDITOR
 
 | Chapter | Words |
 |---|---:|
-| 1 | 4,230 |
-| 2 | 2,126 |
-| 3 | 1,812 |
-| 4 | 2,539 |
-| 5 | 2,705 |
-| 6 | 4,906 |
-| 7 | 3,731 |
-| 8 | 4,111 |
-| 9 | 3,305 |
-| 10 | 4,306 |
-| 11 | 2,916 |
-| 12 | 4,056 |
-| 13 | 2,952 |
-| 14 | 3,196 |
-| 15 | 4,262 |
-| 16 | 2,857 |
-| 17 | 2,700 |
-| 18 | 3,007 |
-| 19 | 4,074 |
+| 1 | 3,867 |
+| 2 | 2,045 |
+| 3 | 1,605 |
+| 4 | 2,334 |
+| 5 | 2,552 |
+| 6 | 4,256 |
+| 7 | 3,606 |
+| 8 | 4,066 |
+| 9 | 3,325 |
+| 10 | 4,293 |
+| 11 | 2,891 |
+| 12 | 4,047 |
+| 13 | 2,851 |
+| 14 | 2,922 |
+| 15 | 4,016 |
+| 16 | 1,924 |
+| 17 | 1,727 |
+| 18 | 3,111 |
+| 19 | 5,338 |
 | 20 | 2,283 |
 | 21 | 2,546 |
 | 22 | 2,361 |
-| **Total** | **70,981** |
+| **Total** | **67,966** |
 
 Counts use whitespace-separated tokens across individual chapter files, including chapter headings, displayed System text, and Markdown scene separators. The compiled draft joins the chapters with blank lines and uses the same total. Typesetting or word-processor counts may differ slightly.
 
-- Chapters One–Six, current revised supplied text: 18,318 words.
-- Chapters Seven–Twelve, current continuation: 22,425 words.
-- Chapters Thirteen–Fifteen, current continuation: 10,410 words.
-- Chapters Sixteen–Nineteen: 12,638 words.
+- Chapters One–Six, current canonical text: 16,659 words.
+- Chapters Seven–Twelve, current canonical text: 22,228 words.
+- Chapters Thirteen–Fifteen, current canonical text: 9,789 words.
+- Chapters Sixteen–Nineteen, current canonical text: 12,100 words.
 - Chapters Twenty–Twenty-Two: 7,190 words.
-- Indicative remaining space to the 105,000-word center: 34,019 words. This is planning arithmetic, not a drafting quota.
+- Indicative remaining space to the 105,000-word center: 37,034 words. This is planning arithmetic, not a drafting quota.
 - Status: working manuscript through Chapter Twenty-Two, not a complete novel or publication proof. Chapters Twenty–Twenty-Two continue the bounded station tests, drainage repair, employment/relationship decisions and first failed spanning test. Earlier developmental, continuity and prose reviews retain their historical scope and counts.
 
 ## Source authority and files
