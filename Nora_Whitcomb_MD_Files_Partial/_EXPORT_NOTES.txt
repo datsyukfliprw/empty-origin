@@ -1,0 +1,25 @@
+NORA WHITCOMB MARKDOWN EXPORT
+Prepared: September 18, 2026 (America/Chicago)
+Source folder: Author - Nora Whitcomb
+Status: PARTIAL PROJECT EXPORT
+
+Included Markdown files, retaining their source filenames:
+- Pasted markdown.md: Chapter Six, 307 lines.
+- SKILL.md: Nora Story Ledger skill, 223 lines.
+
+Both files were copied from their complete readable text. No editorial
+changes were made. Direct raw-file export was unavailable, so these are
+text-recovered copies rather than verified byte-for-byte source downloads.
+The resulting byte lengths match the source metadata.
+
+The following existing archives were listed in the same project folder,
+but their original bytes could not be exported and their contents could
+not be read or extracted:
+- maya-project-through-chapter-05-plus-ch06-plan.zip
+- maya-project-through-chapter-05-plus-ch06-plan(1).zip
+- nora-story-ledger.zip
+
+Markdown files inside those archives are NOT included. This ZIP is not a
+complete project backup and does not establish the latest manuscript state.
+No files from Champion of Thorns or the separate Nora Whitcomb Project
+folder were substituted or added.
