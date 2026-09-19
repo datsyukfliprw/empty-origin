@@ -14,9 +14,7 @@ She draws the scrap closer with one finger. Her nail has a split near the edge. 
 
 “Nothing. I thought she had written his name.”
 
-There are six words. Even if you can't read them, there are six distinct pieces of writing.
-
-Mara sees me look.
+There are six distinct pieces of writing. Mara sees me count them.
 
 “I wasn't examining it very closely.”
 
@@ -36,7 +34,7 @@ The words come sharply. She shuts her eyes.
 
 “I know,” she says again, quieter.
 
-We sit until a clerk arrives with paper. Mara takes it from him, sets out a ruler and a little pot of ink, and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
+We sit until a clerk arrives with paper. Mara sets out a ruler and ink and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
 
 I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena's signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
 
@@ -88,7 +86,7 @@ The notebook arrives in a shallow wooden tray.
 
 Mara puts it on the records-room table the next morning, then sets a separate dish beside it containing a pen cap, a rusted metal clip, and two tags tied to lengths of cord. Vey places Elena's card in the dish and Mara records its return in front of me.
 
-I want to take it. Put it with my shirt. Have one more object on my side of the room that comes from a world with traffic lights.
+I want to take it, put it with my shirt, have one more object from a world with traffic lights.
 
 I keep my hands on the table.
 
@@ -112,7 +110,7 @@ Mara's mouth moves.
 
 “She said that often. Usually with worse words.”
 
-The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding the end of a measuring line. The calculations crowd the edges in tiny writing; an argument farther down takes up half the page. I can almost hear her getting louder. Then I reach a word I can't decipher and have to ask Mara to hold the page toward the light.
+The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding a measuring line. Tiny calculations crowd the edges; an argument takes half a page. Then I hit a word I can't decipher and ask Mara to hold the page toward the light.
 
 Some technical words slow me down. Reading English does not make me an engineer. I write *head* on my paper and explain to Mara that here it seems to mean something about water height or pressure, not a body part. She fetches Dain before I turn an uncertain definition into a confident mistake.
 
@@ -142,15 +140,13 @@ I point to his name in local script, followed by an English note.
 
 He makes a small sound through his nose.
 
-For the next hour he helps us separate things Elena measured from things she guessed. I read each page aloud in pieces, and Mara writes the local version. I keep my own notes and check the copies against each other. It is slow work. It is also work I can do, which steadies me more than I expect.
+For the next hour he helps us separate things Elena measured from things she guessed. I read each page aloud in pieces, and Mara writes the local version. I keep my own notes and check the copies against each other. It is slow work, but it is work I can do, and that steadies me.
 
 There is no welcome message for the next person from Earth. No explanation of how to get here or how to leave. Elena has recorded wages in the back, crossed out a shopping list, and spent nearly half a page trying to describe coffee to someone who recommended burnt barley.
 
-I run a finger along the edge of that page.
+I run a finger along the edge of that page. My first closing shift, I spilled steamed milk down my apron and hid in the walk-in because I couldn't stop crying. The manager thought I'd burned myself. I let her.
 
-My first closing shift, I spilled a pitcher of steamed milk down my apron and had to stand in the walk-in because I couldn't stop crying. The manager thought I'd burned myself. I let her think it because explaining that I was tired and eighteen and couldn't do a single fucking thing correctly seemed more embarrassing.
-
-Elena has crossed out one description and tried again underneath. I linger over both until Mara asks whether I need Dain for this part.
+Elena has crossed out one description and tried again underneath. I linger until Mara asks whether I need Dain for this part.
 
 “No,” I say, and start translating.
 
@@ -230,7 +226,7 @@ He takes the corner beside a stack of tiles faster than his limp ought to allow.
 
 The watercourse leads us past the mill to an open gravel yard. Sella stands by a rope stretched between two posts, redirecting a boy with a basket. Beyond her, two workers are hauling on a long lever. Water foams from an opening in the side of the raised channel and races toward a ditch.
 
-It looks purposeful and expensive. I would have assumed it was fine.
+It looks purposeful enough that I would have assumed it was fine.
 
 Dain puts his fingers in his mouth and whistles.
 
@@ -280,8 +276,6 @@ For one exhausting second I prepare to argue about level two.
 
 Then Dain calls, “Pump as well, Tessa,” and she turns around.
 
-I move aside to let her pass back into the yard, grateful I don’t have to explain.
-
 The ticking becomes a rattle. A worker comes up the path too quickly, sees the rope, and hesitates.
 
 I lower it all the way to the ground. He steps across. The next person follows. I count them because counting is available. Three. Four. The last man has stopped for the rake.
@@ -302,7 +296,7 @@ Everyone stops speaking.
 
 The iron rod gives three more little tremors and settles.
 
-Dain stays where he is for a long time, watching it. Nobody congratulates anybody. One of the workers wipes his mouth with the back of his hand.
+Dain stays where he is for a long time, watching it. Nobody congratulates anybody.
 
 Eventually Dain stands.
 
@@ -342,7 +336,7 @@ She asks Dain whether the test caused damage.
 
 “Then keep it that way. The test is suspended.”
 
-I had been assembling a speech. It has nowhere to go. I stand with my mouth slightly open while she asks who needs to be told about the lower pump.
+I had been assembling a speech. It has nowhere to go while she asks who needs to be told about the lower pump.
 
 Only after those instructions are settled does she look at me.
 
@@ -376,7 +370,7 @@ Pell unrolls her plan on a crate. One corner has been patched with a different c
 
 “No,” she says. “I understand what you mean. Vey has explained what you recognized.”
 
-The mill wheel groans behind us. I hate hearing that he has explained me to another person even when this time it's probably part of the job I agreed to.
+The mill wheel groans behind us. I hate hearing that he has explained me to another person, even when it's part of the job I agreed to.
 
 “What if taking it apart opens it?” I ask.
 
@@ -412,7 +406,7 @@ Before Pell leaves, I ask whether Elena knew they might remove it.
 
 “Then submit that finding with the item number. I can review it.”
 
-She rolls the plan up and goes to speak to the miller. I watch her leave, wishing she had either laughed at me or handed me everything. Having to persuade her sounds like a lot of work.
+She rolls the plan up and goes to speak to the miller. I watch her leave, wishing she had either laughed at me or handed me everything. Persuading her will be harder.
 
 ---
 
@@ -438,7 +432,7 @@ My measure, when I check in my room, has changed too.
 
 **[RUN: WARDER]**
 
-I don't know when the two progress arrived. The practice at the wall, the work, the yard. Maybe some combination. There is no helpful receipt listing approved activities.
+I don't know when the two progress arrived. The wall practice, the work, the yard. There is no helpful receipt.
 
 I write the numbers on my copy paper, with the date Mara taught me. My knuckles are closing. When I reach to set the paper aside, my shoulder catches and I have to lower my arm slowly.
 
@@ -506,7 +500,7 @@ He sits back down. I kiss him before I can turn this into another argument.
 
 For a second he doesn't move. Then his hand closes against my waist and he kisses me back, hard enough that I grip the seam of his coat. The wool scratches my wrist. I shift closer and feel the heat of his leg along mine.
 
-I had forgotten how much I could want someone who was sitting right there. How stupidly difficult it could be to get closer.
+I had forgotten how much I could want someone sitting right there, and how stupidly difficult it could be to get closer.
 
 His thumb catches the bare skin above my waistband. I breathe in against his mouth. Downstairs someone calls his name, and he breaks away to look.
 
@@ -526,7 +520,7 @@ Later, when I put my hand against his chest, he lets me move back. My shoulder h
 
 He takes his hand from my waist. I stand, then bend to kiss him once more. I don't know whether that makes anything clearer.
 
-In my room, I lean against the bolted door. My shoulder aches where I tucked it between us, and when I lift my hand to my mouth I start grinning again. I stay there until a kitchen worker calls up the stair for somebody else.
+In my room, I lean against the bolted door, shoulder aching, and grin when I touch my mouth.
 
 Eventually I wash, set out tomorrow's clothes, and take the notebook copies from my sack.
 
