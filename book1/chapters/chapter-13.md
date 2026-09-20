@@ -374,7 +374,7 @@ Later he kisses me in the kitchen doorway while somebody behind us complains abo
 
 I remember Sella again halfway up the stairs.
 
-That should make one of them smaller. It doesn’t. The wanting sits differently in me, which is not the same thing as less.
+I keep expecting kissing Tolliver to make Sella easier to ignore. It hasn’t. I can still see her across the room with her arms folded, making the carrier start his price over, and I still want to know what she’d say if I asked her to dance.
 
 Upstairs, I lay Dain’s corrected drawing beside Elena’s. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
