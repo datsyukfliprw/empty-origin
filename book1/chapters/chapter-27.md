@@ -286,9 +286,9 @@ I make three laps of the kitchen because freedom has become humiliatingly small.
 
 "You limped less on the second lap."
 
-I stop. "That is rude."
+I stop. "You were not invited to audit my limp."
 
-"Yes."
+"Still true."
 
 He puts down the line.
 
@@ -510,7 +510,7 @@ On the third morning, the mender lets me walk to the yard and back. The ankle st
 
 "Because you turn permission into philosophy."
 
-Fair.
+Unfortunately, that tracks.
 
 "If pain sharpens, you are out."
 
