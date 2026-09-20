@@ -1,10 +1,6 @@
 CHAPTER TWENTY-ONE
 
-The fields begin draining before I am allowed out of bed.
-
-Not all of them.
-
-Not quickly.
+The fields begin draining before I am allowed out of bed. Not all of them. Not quickly.
 
 But enough that Bera arrives at the kitchen with mud to her knees and puts a cabbage on the table in front of Pell.
 
@@ -28,9 +24,7 @@ Then she turns to me.
 
 Harra, at the other end of the table, makes a choking sound into her cup.
 
-Apparently my crimes have become communal knowledge.
-
-Bera takes the cabbage back.
+Apparently my crimes have become communal knowledge. Bera takes the cabbage back.
 
 “Planting greens this afternoon if the lower furrows keep showing.”
 
@@ -44,11 +38,7 @@ My last required day off rough ground lasts until midday.
 
 The mender comes after breakfast and makes me walk the length of the west passage with a hand on the wall.
 
-I do not limp for the first six steps.
-
-The seventh catches.
-
-She notices.
+I do not limp for the first six steps. The seventh catches. She notices.
 
 “Again.”
 
@@ -84,33 +74,15 @@ She stares at me.
 
 She allows flat indoor walking and short stairs tomorrow if swelling does not return.
 
-I take that as victory.
-
-Sella calls it “being permitted to cross a room.”
-
-We disagree about scale.
+I take that as victory. Sella calls it “being permitted to cross a room.” We disagree about scale.
 
 ---
 
-The station tests continue without me climbing to the gallery.
-
-Iven measures his tank.
+The station tests continue without me climbing to the gallery. Iven measures his tank.
 
 Dain refuses to turn the measurement into a prediction. We know the tank dimensions, current depth, and old stain. We do not know earlier consumption, leakage, refill, or whether the tank feeds anything else.
 
-So nobody tells Mara her brother has thirteen days of water.
-
-Nobody tells Iven either.
-
-We tell him the truth.
-
-LEVEL LOWER THAN OLD MARK. KEEP MEASURING.
-
-He sends back:
-
-YES, MOTHER.
-
-Mara reads it twice.
+So nobody tells Mara her brother has thirteen days of water. Nobody tells Iven either. We tell him the truth. LEVEL LOWER THAN OLD MARK. KEEP MEASURING. He sends back: YES, MOTHER. Mara reads it twice.
 
 “He was forty when he started saying that.”
 
@@ -118,35 +90,19 @@ Mara reads it twice.
 
 “Started saying it where I could hear.”
 
-She writes:
-
-DRINK YOURS. DO NOT SAVE IT FOR US.
-
-His answer takes longer.
-
-I WILL DRINK.
-
-Mara does not smile.
-
-Neither do I.
+She writes: DRINK YOURS. DO NOT SAVE IT FOR US. His answer takes longer. I WILL DRINK. Mara does not smile. Neither do I.
 
 ---
 
-At noon, Rusk’s crew lowers the throat slab onto its new supports.
-
-The chain goes slack one link at a time.
+At noon, Rusk’s crew lowers the throat slab onto its new supports. The chain goes slack one link at a time.
 
 Everyone in the kitchen stops talking. We cannot see the field, so we listen.
 
-Nothing collapses.
-
-Then Renn comes through the yard at a run.
+Nothing collapses. Then Renn comes through the yard at a run.
 
 “Oret says open another notch.”
 
-Pell is out of her chair before he finishes.
-
-Sella catches my eye.
+Pell is out of her chair before he finishes. Sella catches my eye.
 
 “No.”
 
@@ -154,9 +110,7 @@ Sella catches my eye.
 
 “You thought loudly.”
 
-I remain at the table.
-
-Ten minutes later the mill race changes pitch.
+I remain at the table. Ten minutes later the mill race changes pitch.
 
 It is a small thing. A lower note beneath the wheel, steady instead of pulsing.
 
@@ -164,9 +118,7 @@ Dain comes in dripping sweat and grinning.
 
 “Full planned draw. Throat’s holding.”
 
-Bera’s cabbage goes back on the table.
-
-This time she leaves it.
+Bera’s cabbage goes back on the table. This time she leaves it.
 
 ---
 
@@ -178,9 +130,7 @@ The captain returns with mud on her boots and no expression at all.
 
 “Good stone,” she says.
 
-From her, that sounds indecently generous.
-
-Vey signs over the two bales.
+From her, that sounds indecently generous. Vey signs over the two bales.
 
 Rusk signs that the drainage-lift obligation is complete and that repayment of ten pieces extinguishes her claim on the wool.
 
@@ -208,9 +158,7 @@ Harra leans against the wall.
 
 “I’ve heard of it.”
 
-Pell’s mouth tightens.
-
-Rusk rolls the paper once between her hands.
+Pell’s mouth tightens. Rusk rolls the paper once between her hands.
 
 “I’ll sell you the old lower block for three pieces.”
 
@@ -226,29 +174,11 @@ Harra straightens.
 
 They argue for six minutes. It is beautiful, not because of the numbers, but because this is finally about equipment instead of whether another human belongs to whoever owns it.
 
-They settle at two pieces and four bits.
-
-Twenty bits.
-
-Pell has almost none loose.
-
-I do.
+They settle at two pieces and four bits. Twenty bits. Pell has almost none loose. I do.
 
 I know that before anybody looks at me, so I hate the thought immediately.
 
-My purse has fifty-four bits from before the extension. Today’s eight makes sixty-two.
-
-The block would belong to Rook.
-
-Not me.
-
-It would help Iven.
-
-Still not mine.
-
-I keep my mouth shut.
-
-Vey does not.
+My purse has fifty-four bits from before the extension. Today’s eight makes sixty-two. The block would belong to Rook. Not me. It would help Iven. Still not mine. I keep my mouth shut. Vey does not.
 
 “I will advance one piece.”
 
@@ -260,17 +190,11 @@ Pell turns on him. “No.”
 
 “Apparently not. The man remains behind a wall.”
 
-Mara places four bits on the table.
-
-Everyone looks at her.
+Mara places four bits on the table. Everyone looks at her.
 
 “What?” she says. “He’s my brother.”
 
-Pell closes her eyes.
-
-Harra puts down two.
-
-Dain puts down one.
+Pell closes her eyes. Harra puts down two. Dain puts down one.
 
 Renn, standing by the door, contributes one and immediately regrets doing it because Rusk looks delighted.
 
@@ -280,15 +204,11 @@ Renn, standing by the door, contributes one and immediately regrets doing it bec
 
 By the end, Pell pays eight bits from the house’s free cash. Vey pays eight. Mara four. Harra two. Dain one. Renn one.
 
-Twenty-four.
-
-Rusk gives four back.
+Twenty-four. Rusk gives four back.
 
 “Hook’s missing a keeper.”
 
-Harra snatches the coins before she can change her mind.
-
-The block becomes Rook’s. The captain leaves before sunrise.
+Harra snatches the coins before she can change her mind. The block becomes Rook’s. The captain leaves before sunrise.
 
 What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else’s grease still in the links, not Rusk’s labor or an exclusive claim on what she can do next.
 
@@ -308,15 +228,7 @@ He takes two sheets from my hands.
 
 “Then this is trust.”
 
-He walks beside me.
-
-For half the passage neither of us says anything.
-
-Then he says, “Rusk offered me the west road again.”
-
-I stop.
-
-He stops too.
+He walks beside me. For half the passage neither of us says anything. Then he says, “Rusk offered me the west road again.” I stop. He stops too.
 
 “She named the wagon?”
 
@@ -330,9 +242,7 @@ I wait.
 
 “Elian Vos.”
 
-The name means nothing.
-
-Tolliver watches my face anyway.
+The name means nothing. Tolliver watches my face anyway.
 
 “Should it?”
 
@@ -356,9 +266,7 @@ I lean against the wall because I was told I could, and because this no longer f
 
 “She’d left him.”
 
-That lands differently.
-
-Tolliver looks down at the station pages in his hand.
+That lands differently. Tolliver looks down at the station pages in his hand.
 
 “I found her in Kest. She was nineteen. He told me she’d been taken. She told me she’d run.”
 
@@ -366,9 +274,7 @@ Tolliver looks down at the station pages in his hand.
 
 “I told him where she was.”
 
-My stomach hardens.
-
-He does not soften it for me.
+My stomach hardens. He does not soften it for me.
 
 “He brought three men. She disappeared again before they arrived. I don’t know if she knew I had told him or if somebody warned her.”
 
@@ -384,9 +290,7 @@ He does not soften it for me.
 
 “Yes.”
 
-I stare at him.
-
-He lets me.
+I stare at him. He lets me.
 
 “That is why you wanted the wagon owner’s name.”
 
@@ -458,11 +362,7 @@ The real ones, copied from the posting board in Greyward by a carrier who arrive
 
 Harrowgate in six days by coach if the road is dry. Four days walking to the river cut, then packet east. Work caravans cheaper if guards are willing to sign for escort. Sella knows two companies that may leave within a fortnight.
 
-A fortnight has teeth.
-
-I sit with my bad foot stretched beneath the blanket.
-
-Sella tears bread.
+A fortnight has teeth. I sit with my bad foot stretched beneath the blanket. Sella tears bread.
 
 “When do you need an answer?” I ask.
 
@@ -478,17 +378,13 @@ She chews before replying.
 
 “It sounds like two.”
 
-She gives me half the bread.
-
-I look toward the yard.
+She gives me half the bread. I look toward the yard.
 
 Rusk’s shear legs stand dark against the wall, already lashed for departure. The new drainage channel runs beyond them toward fields I cannot see.
 
 “I can’t promise east,” I say.
 
-Sella’s face stays still.
-
-I keep going because stopping here would be cowardice dressed as caution.
+Sella’s face stays still. I keep going because stopping here would be cowardice dressed as caution.
 
 “I want to. I want to see it. I want to see the coast. I also want to get Iven out. I want to know who built that station. And I don’t know what happens with Tolliver.”
 
@@ -498,9 +394,7 @@ I keep going because stopping here would be cowardice dressed as caution.
 
 “The part you kept trying not to say.”
 
-I look at her.
-
-She eats another piece of cabbage.
+I look at her. She eats another piece of cabbage.
 
 “Do you want me to ask you to choose?”
 
@@ -518,9 +412,7 @@ Gone.
 
 “Then tell me what you can give me.”
 
-I look at our knees beneath the blanket.
-
-Truth has become a recurring expense.
+I look at our knees beneath the blanket. Truth has become a recurring expense.
 
 “I can give you the next two days. After that, if Iven isn’t out, I stay until we get him or until the attempt becomes impossible.”
 
@@ -540,11 +432,7 @@ I swallow.
 
 “Yes.”
 
-Her eyes close briefly.
-
-Not relief exactly.
-
-Something that had been holding still.
+Her eyes close briefly. Not relief exactly. Something that had been holding still.
 
 When she opens them, I say, “I still don’t know what that means about Tolliver.”
 
@@ -562,9 +450,7 @@ The word is small enough to carry.
 
 ---
 
-She kisses me before I can ruin it with another condition.
-
-There is no surprise this time, and that changes everything.
+She kisses me before I can ruin it with another condition. There is no surprise this time, and that changes everything.
 
 I know the shape of her mouth. I know where she will laugh if I catch her lower lip. I know she likes my hand at the back of her neck and hates when I touch her ribs without warning because she is ticklish and will absolutely elbow me off a roof.
 
@@ -576,9 +462,7 @@ My whole body notices.
 
 The ankle. The cold. Rough blanket under my palm. Her thumb against skin. Somebody in the yard arguing about axle grease.
 
-None of it makes the wanting smaller.
-
-She pulls back.
+None of it makes the wanting smaller. She pulls back.
 
 “Room?”
 
@@ -606,9 +490,7 @@ Sella puts the bottle on the table. I catch the front of her tunic before she ca
 
 “I’m standing on the other one.”
 
-She gives me the look.
-
-I sit on the bed.
+She gives me the look. I sit on the bed.
 
 “Happy?”
 
@@ -622,31 +504,23 @@ I know the shape of her body under my hands and the places that are still new. I
 
 She knows I am ticklish behind one knee, which is information she should never have been allowed to acquire.
 
-Her hand slides beneath my tunic.
-
-I catch her wrist.
+Her hand slides beneath my tunic. I catch her wrist.
 
 “Your side.”
 
 Her bruises are yellowing at the edges. I saw them when the mender checked her, but that was different: practical proof that she had taken a hit and stayed standing.
 
-Now I touch one with two fingers.
-
-She watches my face.
+Now I touch one with two fingers. She watches my face.
 
 “Does it hurt?”
 
 “Not like that.”
 
-I leave my hand there anyway.
-
-She covers it with hers.
+I leave my hand there anyway. She covers it with hers.
 
 For a moment neither of us moves. Then she lifts my fingers and kisses my palm.
 
-The tenderness lands somewhere dangerous.
-
-I pull her down with me.
+The tenderness lands somewhere dangerous. I pull her down with me.
 
 She braces one knee on the mattress, keeps her weight off my ankle, and kisses me until my head is empty enough to stop planning tomorrow. Her mouth moves to my throat. My hands find her waist, then lower.
 
@@ -660,9 +534,7 @@ She makes a quiet sound when I squeeze.
 
 “Terrible methodology.”
 
-I slide my hand beneath her waistband.
-
-Her next breath catches hard enough to make my own stop.
+I slide my hand beneath her waistband. Her next breath catches hard enough to make my own stop.
 
 “Repeatable result,” I whisper.
 
@@ -672,9 +544,7 @@ I kiss her before she can say anything else.
 
 She is already wet. Knowing she wants me still lands with absurd force, as if it were new every time.
 
-My fingers move over her clit.
-
-Sella’s forehead drops to my shoulder.
+My fingers move over her clit. Sella’s forehead drops to my shoulder.
 
 “Careful,” I murmur.
 
@@ -682,11 +552,7 @@ Sella’s forehead drops to my shoulder.
 
 “My shoulder.”
 
-She lifts her head and stares at me.
-
-I grin.
-
-Her eyes narrow.
+She lifts her head and stares at me. I grin. Her eyes narrow.
 
 Then she takes my hand away, pushes me gently onto the pillows, and kisses down my stomach.
 
@@ -698,21 +564,13 @@ Then she takes my hand away, pushes me gently onto the pillows, and kisses down 
 
 “Giving me ideas.”
 
-Her mouth reaches the inside of my thigh.
-
-I stop smiling.
+Her mouth reaches the inside of my thigh. I stop smiling.
 
 She takes her time with me because she knows exactly what that does now. Her tongue moves over my clit, slow enough that I feel the anticipation before every stroke. I try to keep quiet. I fail. She presses my good leg farther open with one hand and slips two fingers inside me with the other.
 
 The room narrows to lamp light, her hair against my thigh, the sheet twisted in my fist, pressure building until my body stops belonging to language.
 
-I come hard enough that my heel knocks the wall.
-
-Somebody in the next room thumps back.
-
-Sella starts laughing against my thigh.
-
-I cover my face.
+I come hard enough that my heel knocks the wall. Somebody in the next room thumps back. Sella starts laughing against my thigh. I cover my face.
 
 “I hate this building.”
 
@@ -722,9 +580,7 @@ I cover my face.
 
 “That seems fair.”
 
-She crawls up beside me, still smiling.
-
-I roll toward her.
+She crawls up beside me, still smiling. I roll toward her.
 
 “Your turn.”
 
@@ -734,31 +590,21 @@ I roll toward her.
 
 “That is not what resting is.”
 
-I kiss her.
-
-This time I guess less.
+I kiss her. This time I guess less.
 
 I know how she likes my hand between her thighs. I know the rhythm that makes her stop teasing me. I know she wants pressure, then less, then more again, and that the quickest way to make her swear is to slow down when she is close.
 
-She discovers I know this.
-
-Her eyes open.
+She discovers I know this. Her eyes open.
 
 “Don’t you dare.”
 
-I absolutely dare.
-
-She grabs my wrist, laughing and furious, and pulls me closer.
+I absolutely dare. She grabs my wrist, laughing and furious, and pulls me closer.
 
 “Fine,” I say. “Ask nicely.”
 
 “Maya.”
 
-It is one word.
-
-It is enough.
-
-I give her what she wants.
+It is one word. It is enough. I give her what she wants.
 
 Her body tightens under my hand. Her mouth opens against my neck. When she comes, she says my name like an accusation and holds on until the shaking stops.
 
@@ -794,9 +640,7 @@ She lowers her arm from her eyes.
 
 “No.”
 
-I wait.
-
-She exhales.
+I wait. She exhales.
 
 “I am not used to someone asking twice.”
 
@@ -810,11 +654,7 @@ Her mouth twists.
 
 “Frequently.”
 
-She reaches for my hand and puts it over the bruise herself.
-
-Not pressure.
-
-Just there.
+She reaches for my hand and puts it over the bruise herself. Not pressure. Just there.
 
 After a while she says, “If we go east, I won’t pay your fare.”
 
@@ -830,11 +670,7 @@ After a while she says, “If we go east, I won’t pay your fare.”
 
 “That is what worries me.”
 
-I laugh into her shoulder.
-
-The future does not become simple. It becomes visible.
-
-She said *if we go east*, not *if you do*.
+I laugh into her shoulder. The future does not become simple. It becomes visible. She said *if we go east*, not *if you do*.
 
 I hear it and do not say so. The word feels too much like something I could break by touching.
 
@@ -856,24 +692,8 @@ Three progress since the field.
 
 I do not know whether it came from station work, the drainage decision, surviving my own stupidity, or something else.
 
-The System declines to provide a receipt.
-
-Fine.
-
-I close it.
-
-Tomorrow Rusk leaves.
-
-Tomorrow the lower service stair opens for the first time.
+The System declines to provide a receipt. Fine. I close it. Tomorrow Rusk leaves. Tomorrow the lower service stair opens for the first time.
 
 Harra has the used block, new rope, two anchors and a rule written in chalk across the equipment board:
 
-NO BODY CROSSES THE EDGE.
-
-Underneath it, Dain has added:
-
-THIS INCLUDES MAYA.
-
-Sella saw it and laughed for nearly a minute.
-
-I plan to make him regret the wording.
+NO BODY CROSSES THE EDGE. Underneath it, Dain has added: THIS INCLUDES MAYA. Sella saw it and laughed for nearly a minute. I plan to make him regret the wording.
