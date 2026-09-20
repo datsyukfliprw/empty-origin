@@ -42,11 +42,7 @@ Beautiful.
 
 Annoying.
 
-Mine, some reckless part of me supplies.
-
-Not mine.
-
-Not like that.
+Some reckless part of me supplies *mine*, and I shut it down before it grows teeth.
 
 Sella crouches beside my bedroll.
 
@@ -166,21 +162,15 @@ We leave the shelter an hour later.
 
 I do not walk.
 
-This is not the same as saying Tolliver carries me.
+Tolliver carries me.
 
-The distinction is important.
-
-It is also bullshit.
+I resent how much simpler the accurate sentence is.
 
 He kneels in front of the shelter steps with his back to me and says, “If you want.”
 
-Not I should.
-
-Not this is happening.
-
-Not an order dressed as concern.
-
 If you want.
+
+The choice sits with me.
 
 My ankle throbs.
 
@@ -298,8 +288,6 @@ On sound ground.
 
 No argument.
 
-That matters too.
-
 Harra tests the shelf with the pry bar.
 
 The outer edge crumbles.
@@ -360,13 +348,7 @@ The shelf settles.
 
 He reaches the far side and turns.
 
-No drama.
-
-No monster.
-
-No ability.
-
-Just a correct route.
+No monster. No ability. Just a correct route.
 
 Harra crosses with the shoe.
 
@@ -674,10 +656,6 @@ I look at the shoe.
 
 Release under load.
 
-Not stronger.
-
-Not forever.
-
 A structure that can sit on both sides without insisting they become one thing.
 
 “What if the far foot can move?”
@@ -756,13 +734,7 @@ A little.
 
 That changes the room.
 
-Not rescue.
-
-Not yet.
-
-But the thing we went into the East Relief Works to find has become more than metal.
-
-It has become a design.
+The thing we went into East Relief to find has become more than metal. It has become a design.
 
 ---
 
@@ -856,11 +828,7 @@ I look at the note.
 
 No hesitation.
 
-Good.
-
-Painful.
-
-Good.
+It hurts exactly because she means it.
 
 “Then take it.”
 
@@ -951,10 +919,6 @@ Not enough to erase the rest.
 “Yes.”
 
 She bends and kisses me.
-
-Not sexual.
-
-Not a promise.
 
 Her mouth stays on mine long enough that I stop thinking anyway.
 
@@ -1064,33 +1028,7 @@ Everyone nods.
 
 Traitors.
 
-The first test is boring.
-
-Weight down.
-
-Rail loads.
-
-Spring compresses half a finger.
-
-Harra shifts the far block.
-
-The shoe adjusts.
-
-Nothing breaks.
-
-The second test is less boring.
-
-More weight.
-
-The spring compresses a full finger.
-
-The rail flexes.
-
-Harra shifts.
-
-The shoe gives.
-
-The near block stays still.
+The first two tests are boring in the best possible way. Half a finger of compression, then a full finger under more weight. Harra shifts the far block. The shoe gives; the near block does not.
 
 Oret says, “Again.”
 
@@ -1144,9 +1082,7 @@ Oret reaches for the weight.
 
 They look at me.
 
-Not because I am right.
-
-Because I said it like I know.
+They look at me because I said it like I know.
 
 I point to the spring latch.
 
@@ -1174,13 +1110,7 @@ Harra looks at me.
 
 My pulse kicks.
 
-No ability.
-
-No System glow.
-
-No raid group.
-
-People with hands on real things waiting for my decision.
+No ability. People with hands on real things are waiting for my decision.
 
 “Release far latch.”
 
@@ -1195,8 +1125,6 @@ The rail settles.
 Then Oret removes the weight.
 
 Nothing breaks.
-
-Nobody loses fingers.
 
 Harra stares at the model.
 
@@ -1252,15 +1180,9 @@ The rail survives.
 
 The near block stays quiet.
 
-Not proof for the chamber.
+A prototype. Better than yesterday.
 
-Not a rescue.
-
-A prototype.
-
-A better one than we had yesterday.
-
-That is enough for one day.
+Enough for one day.
 
 I open my measure because I want to know what the System thinks of enough.
 
