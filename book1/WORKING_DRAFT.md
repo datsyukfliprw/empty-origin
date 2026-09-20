@@ -1,20 +1,20 @@
 CHAPTER ONE
 
-“Don't follow me. Wait for the fire.”
+“Don’t follow me. Wait for the fire.”
 
 Vharos has almost nothing left in his health bar. Neither do I. Twelve of us have spent three hours learning how to die in this room, and Liam is about to die trying to heal me.
 
-“Nyx, you're out of range.”
+“Nyx, you’re out of range.”
 
 “I know. Stay there.”
 
-Black flame spreads across the obsidian between my character and the raid. There's a gap opening on the left, the same gap that killed me on the last pull. I keep my thumb off Blink. My damage numbers stop. For one horrible second I can see the argument we're going to have if this costs us the record.
+Black flame spreads across the obsidian between my character and the raid. There’s a gap opening on the left, the same gap that killed me on the last pull. I keep my thumb off Blink. My damage numbers stop. For one horrible second I can see the argument we’re going to have if this costs us the record.
 
 The flame thins.
 
 “Now. Left. Everyone left.”
 
-Nyx flashes through first. I turn the camera, count the bodies coming behind her, and start hitting the boss again before I've finished counting. Liam's heal lands. Somebody is yelling the last percent into my ear as if the game needs encouragement.
+Nyx flashes through first. I turn the camera, count the bodies coming behind her, and start hitting the boss again before I’ve finished counting. Liam’s heal lands. Somebody is yelling the last percent into my ear as if the game needs encouragement.
 
 “HE’S DOWN! HE’S FUCKING DOWN!”
 
@@ -32,7 +32,7 @@ On my monitor, Vharos the Undying collapses to his knees in a storm of black fir
 
 “Somebody send it to Derek.”
 
-“Don't,” I say, laughing into my hand. The bedroom wall is thin enough that I can hear my neighbor's television through it. “Let him find it.”
+“Don’t,” I say, laughing into my hand. The bedroom wall is thin enough that I can hear my neighbor’s television through it. “Let him find it.”
 
 A notification flashes in the corner of the screen.
 
@@ -78,7 +78,7 @@ My stomach growls loudly enough that Liam hears it through the mic.
 
 I look toward the kitchen. Technically. “Fuck you.”
 
-More laughter follows me into the kitchen, headset hanging off one ear. Seven steps from my desk, eight if I avoid the floorboard that sounds like a dying goose. The refrigerator hums beneath a cabinet door that hasn't closed properly since I moved in three months ago. Inside: ranch, three eggs, pickles, one slice of cheese, and a takeout container I am unwilling to acknowledge as mine. My emergency energy drink waits behind the milk.
+More laughter follows me into the kitchen, headset hanging off one ear. Seven steps from my desk, eight if I avoid the floorboard that sounds like a dying goose. The refrigerator hums beneath a cabinet door that hasn’t closed properly since I moved in three months ago. Inside: ranch, three eggs, pickles, one slice of cheese, and a takeout container I am unwilling to acknowledge as mine. My emergency energy drink waits behind the milk.
 
 Mom stood in this spot on move-in day with both refrigerator doors open.
 
@@ -96,7 +96,7 @@ Something crashed upstairs. We all looked at the ceiling.
 
 Dad waited a beat. “Convincing.”
 
-My bedroom at their house is probably cleaner than this entire apartment. Mom would feed me. Dad would pretend he wasn't checking the oil in my car every time I visited. Another year there and I could save enough to transfer somewhere better than community college.
+My bedroom at their house is probably cleaner than this entire apartment. Mom would feed me. Dad would pretend he wasn’t checking the oil in my car every time I visited. Another year there and I could save enough to transfer somewhere better than community college.
 
 I nudge the crooked cabinet shut with my shoulder. It swings open again. Mine, at least.
 
@@ -130,7 +130,7 @@ The boss’s corpse still sprawls across my screen. Discord is still going, my s
 
 Better hair, obviously.
 
-I set the plate beside my keyboard and the phone faceup by my mouse pad. By the time I've settled the headset over both ears, Liam wants another run.
+I set the plate beside my keyboard and the phone faceup by my mouse pad. By the time I’ve settled the headset over both ears, Liam wants another run.
 
 Derek joins our voice channel just in time to say, “Absolutely fucking not.”
 
@@ -138,7 +138,7 @@ Derek joins our voice channel just in time to say, “Absolutely fucking not.”
 
 “I have class at nine,” I say around a mouthful.
 
-“Nyx, it's two fifteen.”
+“Nyx, it’s two fifteen.”
 
 “Six hours of sleep. Practically responsible.”
 
@@ -178,9 +178,9 @@ ManaAddict: streamer loot
 
 Derek: i hate this game
 
-I equip it. Gold pulses through the blade's black fractures, lighting Nyx's hand.
+I equip it. Gold pulses through the blade’s black fractures, lighting Nyx’s hand.
 
-“You're checking whether it matches,” Liam says.
+“You’re checking whether it matches,” Liam says.
 
 The violet glow on her shoulders looks awful beside it.
 
@@ -200,7 +200,7 @@ The laugh fades. My chair seems to lean beneath me, and I set the fork down befo
 
 The monitor is suddenly too bright. Embers in the throne room sharpen into orange needles. A high tone starts inside my ears; I lift an earcup, but it stays.
 
-I look at the eggs. When did I buy them? Last week? I can't find the purchase in my head.
+I look at the eggs. When did I buy them? Last week? I can’t find the purchase in my head.
 
 “I think I poisoned myself.”
 
@@ -246,11 +246,11 @@ I push my chair back because I need to do something, and getting water is the fi
 
 “Maya, call your parents.”
 
-“I'm nineteen.”
+“I’m nineteen.”
 
 “What the fuck does that have to do with anything?”
 
-There should be an answer. I can feel one, but the words won't come.
+There should be an answer. I can feel one, but the words won’t come.
 
 My eyes drift back to the monitor. Nyx stands exactly where I left her, silver-white hair, black armor, new saber burning gold at her hip, Vharos on the dark floor behind her. Chat keeps moving. I focus on a message long enough to recognize my own name. The rest smears.
 
@@ -262,7 +262,7 @@ I try again, catch one earcup with my fingers, and drag it off. It lands beside 
 
 My phone is less than a foot away. I know what to do. Pick it up. Call somebody.
 
-My arm moves several inches before the muscles give out. My fingertips scrape the desk. I try again, staring at the phone's black screen. My elbow trembles. Nothing.
+My arm moves several inches before the muscles give out. My fingertips scrape the desk. I try again, staring at the phone’s black screen. My elbow trembles. Nothing.
 
 I stop trying to remember when I bought the eggs.
 
@@ -280,7 +280,7 @@ Liam’s voice leaks from the headset beside me, joined by several others now, t
 
 I know my address. Of course I know my address. I try to give it to them, and nothing useful leaves my mouth.
 
-I can see Nyx's boots from here. The lower edge of her armor, firelight on obsidian. I try to lift my head enough to see the rest, and nothing happens.
+I can see Nyx’s boots from here. The lower edge of her armor, firelight on obsidian. I try to lift my head enough to see the rest, and nothing happens.
 
 Class at nine. I need to call Mom. My phone.
 
@@ -334,7 +334,7 @@ I look toward the forest. There has to be something beyond it. A road. A campgro
 
 I turn, listening. No engine, no traffic, no voices. Just rain striking leaves.
 
-Kansas City doesn't have mountains.
+Kansas City doesn’t have mountains.
 
 Maybe someone moved me. Drugged me. But Liam was there, and the stream was running. Someone would have seen.
 
@@ -427,7 +427,7 @@ My foot finds something buried and sharp, and my weight is already on it before 
 
 The pain arrives a full second late, bright and specific along the arch of my left foot. I go down onto one knee in the muck, grab my ankle with both hands, and haul my foot into my lap. It’s too dark to see much. What I can see is a clean line about two inches long, open, filling slowly.
 
-“No no no no.”
+“No, no, no, no.”
 
 Some part of me observes that I’m bleeding, that bleeding is a debuff, and that debuffs tick, and I laugh once at how useless six years of raid logic has turned out to be. The sound comes out ugly enough that I stop.
 
@@ -532,7 +532,7 @@ He looks at my foot.
 
 I want him to come closer. That is how quickly it happens.
 
-He is young, not a teenager but not far past whatever this place does instead, and my brain starts handing me observations in an order that has nothing to do with survival. Dark hair pushed back wet off his forehead. A coat that fits like somebody measured him for it. The fact that he is standing in a soaked forest at dawn looking like he slept somewhere with a roof over him. There is a bow across his back and something shorter riding his hip and a strap running diagonal over his chest, and I get to all of that a solid two seconds after I get to his mouth.
+He is young, not a teenager but not far past whatever this place does instead, and my brain starts handing me observations in an order that has nothing to do with survival. Dark hair pushed back wet off his forehead. A coat that fits like somebody measured him for it. The fact that he is standing in a soaked forest at dawn looking like he slept somewhere with a roof over him. There is a bow across his back and something shorter riding his hip and a strap running diagonally over his chest, and I get to all of that a solid two seconds after I get to his mouth.
 
 I make myself look at the bow again.
 
@@ -540,111 +540,111 @@ He is not looking at my face. His eyes sit higher, angled at a spot somewhere ab
 
 Then he says something, and it lands wrong.
 
-It arrives as sound before it arrives as language, dense and clipped, a run of syllables my ear cannot file. I am already opening my mouth to tell him I don't understand when the sound slides sideways behind my eyes, the way the letters over the rabbit did, and settles.
+It arrives as sound before it arrives as language, dense and clipped, a run of syllables my ear cannot file. I am already opening my mouth to tell him I don’t understand when the sound slides sideways behind my eyes, the way the letters over the rabbit did, and settles.
 
-"You're a long way from a road."
+“You’re a long way from a road.”
 
 His mouth has already stopped by the time I hear it. Half a second, maybe less. I try to fit the words to the movement I just saw, but he is waiting for an answer, and I can understand him. I nearly laugh with relief.
 
-"Yeah." Gravel comes out with it. "I've been having a night."
+“Yeah.” Gravel comes out with it. “I’ve been having a night.”
 
 His head tips a fraction. Whatever he heard in that is apparently worth more than the words, because his attention finally comes down off the thing he was studying and lands on my face, which turns out to be worse. His eyes move over the shirt with CRIT HAPPENS half erased under the mud, the torn hem, the bare stretch of stomach where the strip came off, the shorts, my legs, my feet. At the foot he stops.
 
-"Is there anybody with you?"
+“Is there anybody with you?”
 
-"No."
+“No.”
 
-"Was there?"
+“Was there?”
 
-"No."
+“No.”
 
 He takes that in. Behind him the mist is coming off the slope in pieces now, and somewhere below us a bird is making a noise like a spoon dragged round a pot, and I lift my bad foot clear of the mud. He notices that too.
 
-"What do you run?"
+“What do you run?”
 
 The words came through cleanly. I repeat them in my head, waiting for the rest of the meaning. Run what? A business? He is watching me as though this should be easy.
 
-"Sorry. What?"
+“Sorry. What?”
 
 He waits. I shift my weight, and his eyes follow the movement. I wish he would ask something else.
 
-"What do you run," he says again, identical, no help added.
+“What do you run,” he says again, identical, no help added.
 
-"I don't understand the question."
+“I don’t understand the question.”
 
 Something moves behind his eyes, small, and it is not confusion. His attention shifts above my head again.
 
-Fine. Two can be strange at each other. I lift my palm, feeling like the single stupidest human being to draw breath on any world, and say, "Status."
+Fine. Two can be strange at each other. I lift my palm, feeling like the single stupidest human being to draw breath on any world, and say, “Status.”
 
 Water ticks off the leaves. Down the slope the bird works through its material.
 
 He laughs. Barely, a breath out through the nose and a shift at one corner of his mouth, and there is nothing cruel in it, which is somehow more insulting, because cruel would mean I had registered as a threat. I lower my hand.
 
-"Great," I say.
+“Great,” I say.
 
-"You're bleeding through."
+“You’re bleeding through.”
 
 I follow him down to my own foot. The strip of shirt around my arch has gone from gray to a color I would rather not name, and while I was up here conducting first contact, a thin dark line has been running the outside edge of my sole into the mud. It does not hurt any more than it did an hour ago. I have a strong feeling that is not the good news it sounds like.
 
-He crosses the distance without asking, which after all that careful fifteen feet happens fast, and then he is crouched in front of me with a hand hovering near my ankle. "Can I."
+He crosses the distance without asking, which after all that careful fifteen feet happens fast, and then he is crouched in front of me with a hand hovering near my ankle. “Can I?”
 
-"Yes."
+“Yes.”
 
 His fingers close around my heel and lift, and I have to grab his shoulder or fall over, so I grab his shoulder. He is warm. He is so warm that touching him actually hurts, a deep ache spreading up through my palm into my wrist, and that is when I understand how cold I have been since yesterday, not as a fact I have been reciting at myself all night, but as something my body has been screaming about underneath the recitation.
 
 He turns my foot toward the light and peels the knot up with a thumbnail. Whatever is under there he does not editorialize about, though something happens along his jaw.
 
-"How long?"
+“How long?”
 
-"Yesterday. Before dark."
+“Yesterday. Before dark.”
 
-"You slept out here with this."
+“You slept out here with this.”
 
-"I slept in a tree." Out loud that sounds worse. "Inside one. It was already down."
+“I slept in a tree.” Out loud that sounds worse. “Inside one. It was already down.”
 
 He sets my foot back into the mud with more care than the rest of him has shown so far, stands, and looks at me from a foot and a half away, and I get the whole effect at once: gray eyes, a scar cut through one eyebrow, leather and wet wool and old woodsmoke. Close enough that I can watch him make a decision.
 
-"Close it," he says.
+“Close it,” he says.
 
-"Close what?"
+“Close what?”
 
 The pause after that is the longest one yet, and he spends all of it completely still.
 
-"Your foot." Slower. "Close it."
+“Your foot.” Slower. “Close it.”
 
-"I don't." My throat clicks. "I don't know how to do that."
+“I don’t.” My throat clicks. “I don’t know how to do that.”
 
-I wait for him to explain. He doesn't. His gaze lifts above my head again. Whatever he is reading there seems to hold him longer this time. I pull the waterlogged shirt away from my stomach.
+I wait for him to explain. He doesn’t. His gaze lifts above my head again. Whatever he is reading there seems to hold him longer this time. I pull the waterlogged shirt away from my stomach.
 
 He reaches past me instead, unhooks a skin from his belt, works the tie loose and puts it in my hands, then goes into the pack at his hip for a folded square of cloth that is clean in a way nothing in my life has been clean since the clearing. He kneels again and rewraps the arch, tight, then tighter, and I hiss through my teeth and dig into his shoulder and he does not apologize.
 
-"Drink that," he says, without looking up. "All of it."
+“Drink that,” he says, without looking up. “All of it.”
 
 I drink it. It is water, faintly of the skin it lives in, and it is the best thing that has ever entered my body.
 
-"There's a village." He ties off the wrap. "Not close. Keep walking on this the way you've been walking on it and you get about a day before it stops being about the foot."
+“There’s a village.” He ties off the wrap. “Not close. Keep walking on this the way you’ve been walking on it and you get about a day before it stops being about the foot.”
 
-"Okay."
+“Okay.”
 
-"You want to come."
+“You want to come.”
 
 He waits, crouched with his forearms on one knee. I look past him at the trees. I cannot walk another day on this foot.
 
-"Yes," I say anyway.
+“Yes,” I say anyway.
 
-He nods once and rises, and then, easy, brushing dirt off his knee, in the voice you would use about weather: "Who set your plate?"
+He nods once and rises, and then, easy, brushing dirt off his knee, in the voice you would use about weather: “Who set your plate?”
 
 The word comes through like all the others, clean and settled and completely empty. Plate. My head offers me a dinner plate, a license plate, the great disc of roots standing on end behind me where the tree came down. I look at him and wait for the rest of it and the rest of it does not come.
 
-"I don't know what that means."
+“I don’t know what that means.”
 
 Not a flicker. He puts a hand under my elbow and I lean on him before he has finished getting his arm beneath mine.
 
-"Then don't say that again until we're inside," he says. "Not to anyone. Can you manage that?"
+“Then don’t say that again until we’re inside,” he says. “Not to anyone. Can you manage that?”
 
-"Say what?"
+“Say what?”
 
-"Any of it." He starts us downhill, taking my weight on the bad side before I can ask, his voice dropping in low beside my ear. "You've got a face people want to help. Let them."
+“Any of it.” He starts us downhill, taking my weight on the bad side before I can ask, his voice dropping in low beside my ear. “You’ve got a face people want to help. Let them.”
 
 I should ask his name. I get halfway into it and he is already talking about the creek at the bottom and where the crossing is, and the question folds up behind my teeth, because I am being carried down a mountain by somebody warm who gave me water, and asking for more feels like ingratitude.
 
@@ -663,11 +663,11 @@ What he puts in my hand is a strip of dried something the color of an old belt, 
 
 He watches me get through half the strip and then holds the water out again without being asked.
 
-"Slower," he says.
+“Slower,” he says.
 
-"I'm going slow."
+“I’m going slow.”
 
-"You're going fast in small pieces."
+“You’re going fast in small pieces.”
 
 We follow the creek down through the early morning. It is easier than the slope was and worse than it looks, because the bank is all rounded stone and each one presses into the cut in my left foot. He sets a pace that seems lazy for about ten minutes and then reveals itself as the exact speed at which I can keep moving without stopping. He does not comment when I fall behind, and he does not slow down either. He simply drifts wider on the bad side, so that every time my ankle rolls there is a shoulder somewhere in the vicinity of my hand.
 
@@ -675,99 +675,99 @@ Around the second bend the creek widens and the trees pull back off the water, a
 
 He stops at a flat shelf of rock and crouches to refill the skin. While the water runs he presses two fingers into the notch at the base of his throat and holds them there, eyes gone middle distance, the way you check a phone at a stoplight.
 
-"Are we close?" I ask.
+“Are we close?” I ask.
 
-He takes his hand down. "Today, if your foot holds. Late afternoon, perhaps."
+He takes his hand down. “Today, if your foot holds. Late afternoon, perhaps.”
 
 By midmorning the creek meets something that people made. It is not a road yet, only a groove worn into the turf by a hundred years of the same cart, grass standing up between the ruts and a stone at the fork with marks cut into it that slide sideways in my vision and settle into a word I do not recognize as a place. My chest does something complicated at the sight of those ruts. Somebody drove here. Somebody had somewhere to be.
 
 I have been walking behind a man for four hours and I still do not know what to call him.
 
-"What's your name?"
+“What’s your name?”
 
 He is a few steps ahead. He does not stop or turn, but the answer takes long enough that I hear him decide to give it.
 
-"Tolliver."
+“Tolliver.”
 
-"Tolliver."
+“Tolliver.”
 
-"Toll, mostly. Tolliver's what my mother uses when I've cost her money."
+“Toll, mostly. Tolliver’s what my mother uses when I’ve cost her money.”
 
-I laugh. It comes out without a shiver, and for a moment I hear my own voice again. "Maya," I say. "I'm Maya."
+I laugh. It comes out without a shiver, and for a moment I hear my own voice again. “Maya,” I say. “I’m Maya.”
 
-"Maya," he says, and keeps walking.
+“Maya,” he says, and keeps walking.
 
 I wait for a question, but he just steps around a puddle and offers his shoulder again. I have only given him the easy part. For now I leave it there.
 
-The lessons start after that, and they come the way he does everything, sideways and without warning. Do not sit with my back to the road. Do not accept a first price. If somebody asks where I have come from, name the last place the two of us have actually walked past and let them do the rest of the work themselves. Do not touch anyone's shoulder. That last one arrives with no explanation, and when I ask for one he says, "It's a shoulder," in the voice of a man being asked why you should not put your hand in someone's mouth.
+The lessons start after that, and they come the way he does everything, sideways and without warning. Do not sit with my back to the road. Do not accept a first price. If somebody asks where I have come from, name the last place the two of us have actually walked past and let them do the rest of the work themselves. Do not touch anyone’s shoulder. That last one arrives with no explanation, and when I ask for one he says, “It’s a shoulder,” in the voice of a man being asked why you should not put your hand in someone’s mouth.
 
-Then he says, "And when we get in, keep your plate shut."
+Then he says, “And when we get in, keep your plate shut.”
 
 I stop walking.
 
 He goes another three paces before he notices, and when he turns there is nothing at all on his face, which is worse than if he had looked caught.
 
-"What's a plate," I say.
+“What’s a plate?” I say.
 
 The creek fills the gap. Somewhere behind us a bird works through the same four notes it has been working through for an hour.
 
-"You've seen one," he says.
+“You’ve seen one,” he says.
 
-"I've seen a lot of things since yesterday."
+“I’ve seen a lot of things since yesterday.”
 
-He lifts two fingers and taps the air above his own head, twice, without looking up, the way you would point at a hat you were already wearing. "There."
+He lifts two fingers and taps the air above his own head, twice, without looking up, the way you would point at a hat you were already wearing. “There.”
 
 And there it is. Where it has been since he came up out of the mist, where it was over the rabbit and over the thing high in the leaves and over whatever walked past my tree in the dark on a knee that bent the wrong way. Pale letters holding perfectly level while he moves underneath them.
 
 **[TRAVELER, LV. 11]**
 
-"That's not your name," I say.
+“That’s not your name,” I say.
 
-"No."
+“No.”
 
-"So it's what, a title? Something you picked?"
+“So it’s what, a title? Something you picked?”
 
-"Something I set." He is watching me the way he watched me on the hill, and I know now that the look means I have handed him something again without meaning to. "Everybody sets one. You set it to whatever gets you through a gate with the fewest questions attached. Mine says traveler because traveler is the most boring word in the world and nobody has ever followed a traveler home."
+“Something I set.” He is watching me the way he watched me on the hill, and I know now that the look means I have handed him something again without meaning to. “Everybody sets one. You set it to whatever gets you through a gate with the fewest questions attached. Mine says traveler because traveler is the most boring word in the world and nobody has ever followed a traveler home.”
 
-"And underneath it there's."
+“And underneath it there’s.”
 
-"What you'd rather not give a stranger."
+“What you’d rather not give a stranger.”
 
 Water catches against a stone beside his boot. I look from his letters to the empty air above me.
 
-"What does mine say."
+“What does mine say?”
 
 Tolliver looks above my head before he answers. I want to grab his coat and make him hurry.
 
-"Your name," he says.
+“Your name,” he says.
 
-"My name."
+“My name.”
 
-"All of it."
+“All of it.”
 
 I put my hand up over my own head. Nothing. Of course nothing. I did this at dawn. I stood in a dripping forest and turned all the way around and found nothing over myself, and I sat down on a root and told myself the true thing plainly, and the true thing I came up with was that I was outside the machine.
 
-"I can't see it."
+“I can’t see it.”
 
-"Nobody sees their own." He says it patiently, and the patience is what gets me, because you are only that patient with a person who is missing something enormous. "You'd go mad. It would be like a word stuck to the front of your eye."
+“Nobody sees their own.” He says it patiently, and the patience is what gets me, because you are only that patient with a person who is missing something enormous. “You’d go mad. It would be like a word stuck to the front of your eye.”
 
-"Then how do you know what yours says?"
+“Then how do you know what yours says?”
 
-"Because I set it."
+“Because I set it.”
 
 Cold climbs my chest and it has nothing to do with the water or the shirt. I have been in this world since yesterday afternoon. I crouched in a rotted trunk and bled into the mud and stood in a clearing screaming for my father, and every second of it happened underneath my own name, hung in the air over my head in letters bright enough to read across a clearing, in a place where every living person learned to cover theirs before they learned to read them.
 
-"How far away can you see it?"
+“How far away can you see it?”
 
 He looks off down the ruts toward the mill we have not reached, then back at me, and he tells me the truth, which I will be turning over for a long time.
 
-"I read yours from the bottom of the hill."
+“I read yours from the bottom of the hill.”
 
 The bird runs its four notes again.
 
 He had read my name before he gave me water. All morning he let me answer questions without telling me I was wearing some of the answers.
 
-“Why didn't you tell me then?”
+“Why didn’t you tell me then?”
 
 “You needed to walk.”
 
@@ -775,11 +775,11 @@ He had read my name before he gave me water. All morning he let me answer questi
 
 He tightens the cap on the waterskin. I wait for him to look up, but he puts it away instead.
 
-"Okay," I say. "Show me how to close it."
+“Okay,” I say. “Show me how to close it.”
 
 Something in his shoulders comes down half an inch.
 
-"Two fingers." He puts his own to the hollow of his throat, and my stomach drops, because he has done that a dozen times since dawn and I filed every one of them as a nervous habit. "Here. Press until it goes soft. Then don't take them off, or you'll lose it."
+“Two fingers.” He puts his own to the hollow of his throat, and my stomach drops, because he has done that a dozen times since dawn and I filed every one of them as a nervous habit. “Here. Press until it goes soft. Then don’t take them off, or you’ll lose it.”
 
 I press two fingers into the notch above my collarbone. Skin. It stays skin long enough that I begin assembling the joke I am going to make about it.
 
@@ -797,33 +797,33 @@ I stop breathing.
 
 My fingers stay pressed to my throat. I read the name again, all the way through, before I remember to let the air out.
 
-Szczepaniak. Spelled right. At work my manager wrote SHEP on my cup. Here, in a script I could not have read yesterday, every letter of my father's name is accounted for.
+Szczepaniak. Spelled right. At work my manager wrote SHEP on my cup. Here, in a script I could not have read yesterday, every letter of my father’s name is accounted for.
 
 Something has been keeping track of me.
 
-"Level one," I say. My voice comes out wrong.
+“Level one,” I say. My voice comes out wrong.
 
-"Yes."
+“Yes.”
 
-"Is that bad."
+“Is that bad?”
 
-"On a child it's nothing." He has come closer without my hearing him. "On you they'll ask who kept you from learning. Or what you did to lose it."
+“On a child it’s nothing.” He has come closer without my hearing him. “On you they’ll ask who kept you from learning. Or what you did to lose it.”
 
 Underneath the level there is a colon and then a clean pale gap where a word should be sitting, and it frightens me more than the number does, because a number can at least be argued with.
 
-"What goes there?"
+“What goes there?”
 
-"Where you're held. Where you're from, if you'd rather have it that way. A holding, a house, a company, a temple. Something answerable." He says it flatly. "Everyone has one. Foundlings have one. The man who clears the ditch outside the wall has one."
+“Where you’re held. Where you’re from, if you’d rather have it that way. A holding, a house, a company, a temple. Something answerable.” He says it flatly. “Everyone has one. Foundlings have one. The man who clears the ditch outside the wall has one.”
 
-"Mine's empty."
+“Mine’s empty.”
 
-"Mine isn't." He waits until I look at him. "That's what turns you away at a gate, Maya. Not the level. The level makes them curious. The gap makes them careful."
+“Mine isn’t.” He waits until I look at him. “That’s what turns you away at a gate, Maya. Not the level. The level makes them curious. The gap makes them careful.”
 
-"Read it to me."
+“Read it to me.”
 
-"You're looking right at it."
+“You’re looking right at it.”
 
-"I know."
+“I know.”
 
 He does not ask why, which is its own small mercy, and he does not make a performance of it either. He just reads it out. Maya Szczepaniak. Chef who lost the F, then pan, then the hairy cow, every consonant landing where my father lands them, the whole ridiculous machine of it running clean off the tongue of a man who has never heard of any of those things.
 
@@ -835,11 +835,11 @@ I keep my fingers at my throat until he asks whether I want to learn the rest.
 
 He talks me through the rest with a hand on my elbow. There is a place inside the panel that gives the way my throat gave, and behind it a short list of plain words, which must be the reason every plate on this road says something boring. He tells me not to take traveler. Two travelers walking in together invites the sort of question he has spent his life not being asked. He runs through others. Laborer. Pilgrim. Hand.
 
-"Household," he says, and stops there.
+“Household,” he says, and stops there.
 
-"What's that one mean?"
+“What’s that one mean?”
 
-"That somebody's answerable for you." He is watching the letters and not me. "Out here that beats being nobody's."
+“That somebody’s answerable for you.” He is watching the letters and not me. “Out here that beats being nobody’s.”
 
 I take it.
 
@@ -847,17 +847,17 @@ My fingers come off my throat and the writing folds down out of the air, and his
 
 He nods once.
 
-"What does it say now?"
+“What does it say now?”
 
-"Household. Level one."
+“Household. Level one.”
 
-"It still shows the level."
+“It still shows the level.”
 
-"It always shows the level. That's what it's for." He is already moving, already turning us back down the ruts with his hand under my arm, and his voice drops low and close and easy the way it did on the slope. "Which is why you're going to let me do the talking at the gate. All of it. Even if they put the question straight to you. You look at me and you let it be rude."
+“It always shows the level. That’s what it’s for.” He is already moving, already turning us back down the ruts with his hand under my arm, and his voice drops low and close and easy the way it did on the slope. “Which is why you’re going to let me do the talking at the gate. All of it. Even if they put the question straight to you. You look at me and you let it be rude.”
 
-"They'll think I'm simple."
+“They’ll think I’m simple.”
 
-"They'll think you're mine," he says, "and simple, and nobody has ever been hanged for either."
+“They’ll think you’re mine,” he says, “and simple, and nobody has ever been hanged for either.”
 
 “Mine?”
 
@@ -865,27 +865,27 @@ He nods once.
 
 He offers his arm again. I take it.
 
-"Okay."
+“Okay.”
 
 We walk. The ruts deepen and firm up, and after a while there is a fence, a built thing, split rails gone silver with weather, and beyond it a field with rows in it. I have to stop and put my hand on the top rail, because rows mean somebody knelt down and made them.
 
 Tolliver waits.
 
-"Sorry," I say. "It's a fence."
+“Sorry,” I say. “It’s a fence.”
 
-"It is."
+“It is.”
 
-"You don't understand. It's a fence."
+“You don’t understand. It’s a fence.”
 
 Whatever crosses his face is gone before I can name it. He starts us walking again, and I am four or five steps along before I hear my own voice ask the thing I have been carrying since he found me.
 
-"You asked me what I ran. Twice. I never answered you."
+“You asked me what I ran. Twice. I never answered you.”
 
-"You answered."
+“You answered.”
 
-"I didn't say anything."
+“I didn’t say anything.”
 
-"I know," Tolliver says.
+“I know,” Tolliver says.
 
 Ahead of us the ruts run down toward a line of smoke standing straight up out of the trees, and he tells me the name of the mill we are about to pass, twice, until I can repeat it. So that when somebody asks me where I have come from, I will have somewhere true to say.
 
@@ -894,15 +894,15 @@ CHAPTER FIVE
 
 The first person we pass beyond the mill is a woman with a goat.
 
-She comes up the road in the other direction not an hour after we pass the mill, one hand knotted in a rope, the goat pulling toward the ditch, and I see her plate long before I see her face, riding in the air over her head at the exact height Tolliver's rides over his.
+She comes up the road in the other direction not an hour after we pass the mill, one hand knotted in a rope, the goat pulling toward the ditch, and I see her plate long before I see her face, riding in the air over her head at the exact height Tolliver’s rides over his.
 
 **[CARTER, LV. 8]**
 
 She nods at Tolliver. Tolliver nods back. She looks at me for slightly longer than she looks at him, and her eyes go up and to the left, and then she is past us and she is swearing as the goat drags her off the road, and my heart is going like I have been caught shoplifting.
 
-"She read me," I say.
+“She read me,” I say.
 
-"Everybody reads everybody. It's the same as looking at a face." Tolliver does not turn his head. "You're going to have to stop doing that thing where you brace."
+“Everybody reads everybody. It’s the same as looking at a face.” Tolliver does not turn his head. “You’re going to have to stop doing that thing where you brace.”
 
 By early afternoon the road has become a road, packed and cambered and wide enough for two carts, and there are people on it. Not many. Enough. A boy driving four pigs. Two men with a barrow of cut stone who argue the entire time they are in earshot and the entire time they are out of it. An old man walking with nothing at all, going somewhere with the patience of a person who has already done the hard part.
 
@@ -918,43 +918,43 @@ Later that afternoon I smell it before I see it, and the smell is the thing that
 
 Tolliver lets me stand there. He does not ask.
 
-"Sorry."
+“Sorry.”
 
-"Come on."
+“Come on.”
 
 Greyward is not a village.
 
 He called it a village this morning and I built something in my head with eight houses in it, and what comes up out of the fields is a wall. Not a castle wall. A working one, timber over earth, twice my height, running off in both directions until the land takes it, with roofs stacked up behind it and smoke standing over the whole thing in a hundred separate columns. There are two towers at the gate and men on both of them. Beyond the wall a bell starts up and then stops after three strokes, the way a bell does when it is telling people something practical.
 
-"You said village."
+“You said village.”
 
-"It's got a wall and no lord in it. That's a village." He does something to the set of my coat, tugs the collar of it closed at my throat, adjusts the way it sits on my shoulders. His knuckles brush under my jaw, and I look at the wall until that has finished happening. "Listen to me."
+“It’s got a wall and no lord in it. That’s a village.” He does something to the set of my coat, tugs the collar of it closed at my throat, adjusts the way it sits on my shoulders. His knuckles brush under my jaw, and I look at the wall until that has finished happening. “Listen to me.”
 
-"I'm listening."
+“I’m listening.”
 
-"At the line, everybody opens."
+“At the line, everybody opens.”
 
 The queue is maybe thirty people long, carts and foot traffic separated, and it takes me a minute of watching to understand what he means, and then I cannot see anything else. There is a place ten feet short of the gate, marked by nothing I can see, and every single person crossing it blooms.
 
-The plain little words go, all at once, and names come up in their place. A woman ahead of us who has been [WEAVER, LV. 9] for the whole hour I have been standing behind her opens her name, three lines of her hanging in the air, name and level and a word underneath that must be her holding, and she does not so much as glance up at it. She holds the fingers at her throat, the warden's eyes go up, the warden waves, and by the time she is six feet inside the gate she is a weaver again.
+The plain little words go, all at once, and names come up in their place. A woman ahead of us who has been [WEAVER, LV. 9] for the whole hour I have been standing behind her opens her name, three lines of her hanging in the air, name and level and a word underneath that must be her holding, and she does not so much as glance up at it. She holds the fingers at her throat, the warden’s eyes go up, the warden waves, and by the time she is six feet inside the gate she is a weaver again.
 
 Thirty strangers, one after another, walking naked past two bored men and then getting dressed.
 
-"They can make you," I say.
+“They can make you,” I say.
 
-"Nobody makes you. You just don't come in." Tolliver moves us up two places. "It's older than the wall. Fifty men can hold a gate. Nobody can hold a road."
+“Nobody makes you. You just don’t come in.” Tolliver moves us up two places. “It’s older than the wall. Fifty men can hold a gate. Nobody can hold a road.”
 
-"And they'll see the gap."
+“And they’ll see the gap.”
 
-"They'll see it."
+“They’ll see it.”
 
-"And then what?"
+“And then what?”
 
-"Then I talk," he says, "and you look at me."
+“Then I talk,” he says, “and you look at me.”
 
 The line eats an hour and then most of another. My foot has gone from a pain to a heat that runs up the inside of my calf, and there is a smell coming off the wrapping now that I have decided to deal with after the gate. I lean on him. He lets me. Ahead of us the two masons go through, and the boy with the pigs, and then there is nothing between me and the mark on the ground except air.
 
-"Now," Tolliver says.
+“Now,” Tolliver says.
 
 I put two fingers to my throat and press until it goes soft, and I walk into Greyward wearing my own name.
 
@@ -962,43 +962,43 @@ The warden is a heavy man in his fifties with a strap of rank over one shoulder 
 
 They stay stopped.
 
-"Sir," Tolliver says, pleasant as bread.
+“Sir,” Tolliver says, pleasant as bread.
 
-The warden reads my three lines. I can feel him doing it. I have never in my life been so aware of the top of my own head, and I have to lock my knees to keep from putting a hand up there, and the only thing in the world holding me on the ground is Tolliver's forearm under my elbow.
+The warden reads my three lines. I can feel him doing it. I have never in my life been so aware of the top of my own head, and I have to lock my knees to keep from putting a hand up there, and the only thing in the world holding me on the ground is Tolliver’s forearm under my elbow.
 
-"Level one," the warden says.
+“Level one,” the warden says.
 
-"She is."
+“She is.”
 
-"She's grown."
+“She’s grown.”
 
-"She is that too."
+“She is that too.”
 
-"Origin's empty, son."
+“Origin’s empty, son.”
 
-"It is." Tolliver says it like a man agreeing that the weather has been poor. "Skell's Holding took a fever the winter before last and the man who kept the book went with the rest of them. There's no book. There's no holding. There's about four of them left and she's the one who could walk."
+“It is.” Tolliver says it like a man agreeing that the weather has been poor. “Skell’s Holding took a fever the winter before last and the man who kept the book went with the rest of them. There’s no book. There’s no holding. There’s about four of them left and she’s the one who could walk.”
 
-Skell's. Fever. A dead clerk. I stare at the side of Tolliver's jaw. He speaks without hesitation, and I try to make my face look like the face of someone who knows those people.
+Skell’s. Fever. A dead clerk. I stare at the side of Tolliver’s jaw. He speaks without hesitation, and I try to make my face look like the face of someone who knows those people.
 
-The warden's mouth works. He looks at me again, at the coat, at the shorts under it, at the strip of shirt gone black around my foot. "She got no shoes."
+The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the strip of shirt gone black around my foot. “She got no shoes.”
 
-"No."
+“No.”
 
-"She walked in with no shoes."
+“She walked in with no shoes.”
 
-"She did."
+“She did.”
 
-"From Skell's."
+“From Skell’s.”
 
-"From what's left of it," Tolliver says, and his voice has gone somewhere quieter and kinder, and it works on the warden the way it worked on me in the mud at the top of the hill. "Look at her feet, sir, and then ask me again if she walked."
+“From what’s left of it,” Tolliver says, and his voice has gone somewhere quieter and kinder, and it works on the warden the way it worked on me in the mud at the top of the hill. “Look at her feet, sir, and then ask me again if she walked.”
 
 The warden looks at my feet. Something in his shoulders lets go, and he takes a slate and chalk from his belt.
 
-"Hold it open."
+“Hold it open.”
 
 The voice comes from the left, from the gatehouse wall, where a man has been leaning in the shade for the whole time I have been standing here and I have not looked at him once.
 
-He is not in the line. He is not in a uniform. He is somewhere in his thirties, dressed like weather, with forearms crossed and a hat pushed back and a beard three or four days past being a decision. There is a bow across his back the way Tolliver's is, except that where Tolliver's looks like a thing he owns, this one looks like a thing that has been repaired more than once and will be again.
+He is not in the line. He is not in a uniform. He is somewhere in his thirties, dressed like weather, with forearms crossed and a hat pushed back and a beard three or four days past being a decision. There is a bow across his back the way Tolliver’s is, except that where Tolliver’s looks like a thing he owns, this one looks like a thing that has been repaired more than once and will be again.
 
 He is unmasked.
 
@@ -1006,7 +1006,7 @@ He is unmasked.
 
 His name is just hanging there in the middle of the day in front of everybody, and after an hour of watching thirty people get dressed as fast as they could, it hits me like somebody walking through a church whistling.
 
-"Hale," the warden says, and there is something in it I cannot read, but he does not tell him to move along.
+“Hale,” the warden says, and there is something in it I cannot read, but he does not tell him to move along.
 
 Hale comes off the wall. He does not hurry. He stops at a distance that is exactly polite and looks up over my head, and I stand there with my two fingers at my throat and every syllable of my name held open in the air, and he takes his time.
 
@@ -1016,29 +1016,29 @@ The heat goes up my neck and into my ears. It is not fear. People are waiting be
 
 He notices. His eyes drop off my plate and onto my face, and if I got anything out of that it does not show.
 
-"How old are you?"
+“How old are you?”
 
-"She's..." Tolliver starts.
+“She’s...” Tolliver starts.
 
-"I asked her."
+“I asked her.”
 
 I start to turn toward Tolliver. Hale is still looking at me, waiting for me to answer him myself.
 
-"Nineteen."
+“Nineteen.”
 
 Hale takes that. He does not glance up again, and somehow it is worse that he does not need to, with the second line of my plate still between us.
 
-"Somebody's kept you very safe," he says.
+“Somebody’s kept you very safe,” he says.
 
 There is no question anywhere in it, so there is nothing to answer, and I stand in a gateway with my mouth open like a fish while the pigs go on making noise inside the wall.
 
-He turns away before I can put anything together. "She's fine, Bertran. Let her in."
+He turns away before I can put anything together. “She’s fine, Bertran. Let her in.”
 
 The warden scratches the slate and waves us through, and my fingers come off my throat, and my name goes down out of the air, and I am inside.
 
-Behind us, not quietly, Hale says: "She's yours, then."
+Behind us, not quietly, Hale says: “She’s yours, then.”
 
-"She's mine," Tolliver says.
+“She’s mine,” Tolliver says.
 
 Ten steps inside, I look back at the gate. Tolliver’s arm is still under mine. I could pull away, ask what the fuck he meant, right here where the wardens could hear. Instead I hold tighter when my foot catches a rut.
 
@@ -1052,9 +1052,9 @@ Tolliver spends money on me for two hours.
 
 That is the part I will remember. He puts me on a stool in a room off the market that smells of vinegar, and a woman with [MENDER, LV. 22] over her head cuts my wrapping away and makes a noise about what is under it, and I look at the ceiling while she does whatever she does. It takes a long time and it hurts more than the cut did. When she is finished the skin along my arch is closed and shiny and hot, a new pink seam where the split was, and my leg feels like somebody has taken a weight off it that had been there so long I stopped believing in it.
 
-"You should have closed that the first hour," she says.
+“You should have closed that the first hour,” she says.
 
-"I know," I say.
+“I know,” I say.
 
 Tolliver counts small metal into her palm. Not a lot. Enough that she counts it back.
 
@@ -1086,9 +1086,9 @@ The knock comes maybe an hour later.
 
 I am off the bed and across the room and my hand is on the bolt before I have decided anything at all.
 
-"It's me," Tolliver says through the door.
+“It’s me,” Tolliver says through the door.
 
-"I know," I say, and let him in.
+“I know,” I say, and let him in.
 
 
 CHAPTER SIX
@@ -1097,41 +1097,41 @@ The bolt is open when I wake up.
 
 That is the first thing I have, before the light or the ache in my hip from the straw tick or the sound of somebody below us dragging benches across a floor: the iron is drawn back in its bracket, and the door is shut, and Tolliver is sitting on the boards beside it with his boots on and his pack across his knees.
 
-I sit up too fast. "You opened that."
+I sit up too fast. “You opened that.”
 
-"Went out. Came back." He does not look up from the strap he is working. "You want to know what should be bothering you about that."
+“Went out. Came back.” He does not look up from the strap he is working. “You want to know what should be bothering you about that.”
 
-"That you can."
+“That you can.”
 
-"That you slept through it." He pulls the strap through and sets it. "Both times."
+“That you slept through it.” He pulls the strap through and sets it. “Both times.”
 
 The room in daylight is smaller and browner than it was by candle. There is a stain on the ceiling the shape of a bad country. My foot has stiffened overnight into something I am going to have to negotiate with, and when I put it down on the boards the new seam along my arch takes my weight and gives it back, hot but holding, which the mender told me it would do and which I did not believe until now.
 
-The boots he bought me at the stall by the market are by the wall. They are somebody else's boots and they were somebody else's before that. They are also the first shoes I have had since the clearing, and I put them on before I do anything else, including think.
+The boots he bought me at the stall by the market are by the wall. They are somebody else’s boots and they were somebody else’s before that. They are also the first shoes I have had since the clearing, and I put them on before I do anything else, including think.
 
 Tolliver stands, and the room gets appreciably smaller.
 
-"I'll be out today," he says.
+“I’ll be out today,” he says.
 
 I wait for the rest of it. Where. How long. Whether out means the market or the road or something with a name. He crosses to the sill instead and counts small metal onto it, four of the thin ones, laid down separate so that I can see there are four.
 
-"That's bread and it's a bowl of something at midday and it's enough left over that nobody thinks you're desperate," he says. "Don't spend it all in one place, and don't let anybody see the rest of it after you've paid."
+“That’s bread and it’s a bowl of something at midday and it’s enough left over that nobody thinks you’re desperate,” he says. “Don’t spend it all in one place, and don’t let anybody see the rest of it after you’ve paid.”
 
-"Tolliver."
+“Tolliver.”
 
-"Bolt it behind me. If somebody knocks and it isn't my voice, you don't open it, and you don't answer either, because answering tells them there's a woman in here on her own." He shoulders the pack. "The taproom's fine in daylight. Don't sit with your back to the door."
+“Bolt it behind me. If somebody knocks and it isn’t my voice, you don’t open it, and you don’t answer either, because answering tells them there’s a woman in here on her own.” He shoulders the pack. “The taproom’s fine in daylight. Don’t sit with your back to the door.”
 
-"Where are you going?"
+“Where are you going?”
 
 He stops with his hand on the latch, and for a second I think I am going to get something, because the pause has the shape of one of his pauses, the kind where he is pricing what a piece of information costs him.
 
-"Out," he says. "I'll want you here at dark."
+“Out,” he says. “I’ll want you here at dark.”
 
 And then his boots are going down the stairs, and the taproom takes him, and I am standing in a rented room in borrowed clothes looking at four coins on a windowsill and waiting for somebody to tell me what happens next.
 
 I stay there long enough to hear a bench scrape downstairs. He hasn’t come back to tell me anything else.
 
-I count the coins again. Four. He has left me food money and an instruction to stay here until dark. I don't even know when he intends to leave town.
+I count the coins again. Four. He has left me food money and an instruction to stay here until dark. I don’t even know when he intends to leave town.
 
 I sit on the edge of the tick and pull the left boot loose where it presses the healing cut. I’m not walking out of that gate. The thought of another night in the trees is enough to make me tighten the laces again. But there are shops downstairs. People getting paid. I used to be one of them.
 
@@ -1145,7 +1145,7 @@ Then I leave the four coins on the sill, exactly where he set them down, exactly
 
 Greyward in the morning is a town with its sleeves up.
 
-Last night it was noise and smell coming at me sideways while I concentrated on staying upright. Today the street is somebody's job, all of it, in every direction. A woman throws a bucket of gray water into the gutter without looking and a man walks through where it went without looking either. There are two boys carrying a door. A cooper's yard has four barrels out front and a fifth coming apart under a mallet, and I pass from the smell of wet oak into old piss, then bread from an open bakery.
+Last night it was noise and smell coming at me sideways while I concentrated on staying upright. Today the street is somebody’s job, all of it, in every direction. A woman throws a bucket of gray water into the gutter without looking and a man walks through where it went without looking either. There are two boys carrying a door. A cooper’s yard has four barrels out front and a fifth coming apart under a mallet, and I pass from the smell of wet oak into old piss, then bread from an open bakery.
 
 And over all of it, the plain little words.
 
@@ -1161,7 +1161,7 @@ Hand, six. Hand, nineteen. Hand, four.
 
 Hand is everywhere. Hand is on the boy walking pigs and the man rolling a cask on its rim and the girl slinging washing over a line above the street, and Hand does not say a trade, it does not say what you were apprenticed to or who your father was, and if there is a word in this town that means I have got two arms and I will do what you tell me for money, that is the word.
 
-That is the entire theory. It takes me most of an hour to find somewhere to test it, because I do not know where anything is, and asking gets me pointed by people who are already walking away, and twice I end up somewhere that is clearly a yard and clearly nobody's business but the people in it. Then I follow a wagon.
+That is the entire theory. It takes me most of an hour to find somewhere to test it, because I do not know where anything is, and asking gets me pointed by people who are already walking away, and twice I end up somewhere that is clearly a yard and clearly nobody’s business but the people in it. Then I follow a wagon.
 
 It ends at a store by the north wall, a long building with a plank running up into a loft door, and there is a crew of five moving sacks off the wagon bed and up the plank in a slow rotation that does not stop for anything, one man on the bed, three on the plank, one in the dark of the loft.
 
@@ -1169,33 +1169,33 @@ The one on the bed is broad and gray-bearded and has the flattest word over his 
 
 **[HAND, LV. 21]**
 
-I wait for the rotation to come round and put me in front of him, because standing in the middle of it would be like standing in a fire lane, and when he glances down I say, "Are you taking anyone on?"
+I wait for the rotation to come round and put me in front of him, because standing in the middle of it would be like standing in a fire lane, and when he glances down I say, “Are you taking anyone on?”
 
 He looks at my empty hands.
 
-"No."
+“No.”
 
-"For today."
+“For today.”
 
-"No."
+“No.”
 
 The rotation goes past me. A sack goes up. Nobody looks at me.
 
 He is still watching the wagon. At Brewed Awakening I used to say no like that when I wanted someone to stop making my shift harder. I look from the sacks to the sky.
 
-"You've got five men and a full wagon and a sky that's going to open on you," I say. "I'll do an hour for nothing. If I'm useless you've lost an hour of nothing."
+“You’ve got five men and a full wagon and a sky that’s going to open on you,” I say. “I’ll do an hour for nothing. If I’m useless you’ve lost an hour of nothing.”
 
-He looks at me properly for the first time, and then his eyes go up over my hair the way everybody's do, and whatever he reads up there, he does not do with it what the warden did.
+He looks at me properly for the first time, and then his eyes go up over my hair the way everybody’s do, and whatever he reads up there, he does not do with it what the warden did.
 
-"Sacks are on the bed," he says. "Don't stand on the plank when it's got two on it."
+“Sacks are on the bed,” he says. “Don’t stand on the plank when it’s got two on it.”
 
 I am so pleased with myself that I nearly say thank you twice.
 
 The sacks are milled barley, half my height, tied at the neck, and I get the first one onto my shoulder by dragging it over the edge. Then I get four steps up the plank with it, and the plank flexes, and my whole plan stops being a plan.
 
-Heavy I know about. I have carried a keg of syrup up the stairs behind the shop and I have wrestled a mattress into a fourth-floor apartment with my father on the other end of it going slow, slow, slow. This is the load and me arriving at a total. There is no more of me anywhere. My arms quit, both of them, at the same time and without any drama at all, and the sack comes down off my shoulder into my hands and I go with it onto one knee with the whole thing across my thighs, and the plank bounces under somebody's step behind me.
+Heavy I know about. I have carried a keg of syrup up the stairs behind the shop and I have wrestled a mattress into a fourth-floor apartment with my father on the other end of it going slow, slow, slow. This is the load and me arriving at a total. There is no more of me anywhere. My arms quit, both of them, at the same time and without any drama at all, and the sack comes down off my shoulder into my hands and I go with it onto one knee with the whole thing across my thighs, and the plank bounces under somebody’s step behind me.
 
-"Off," a voice says.
+“Off,” a voice says.
 
 I try to stand with it. That is the part I will be embarrassed about later. I get halfway up, I change my grip, I try to lever it against my hip the way the man on the bed does it in one motion like he is closing a door, and my knee goes down on the wood again.
 
@@ -1213,13 +1213,13 @@ Fourteen. Her level is fourteen. My arms are still shaking from a load she carri
 
 The woman comes back down the plank. There is no contempt anywhere in her, and no interest either, and I would take contempt.
 
-"How," I say.
+“How?” I say.
 
 She looks at me. She looks at the sack going up on the next shoulder, and at my hands, and I watch her try to find the beginning of an answer to a question nobody has ever asked her.
 
-"You just do," she says. "You'll get it."
+“You just do,” she says. “You’ll get it.”
 
-"Get what?"
+“Get what?”
 
 But she is already reaching past me for the next one, and the man on the bed says something about the plank, and the rotation closes over the gap where I was standing the way water does.
 
@@ -1247,43 +1247,43 @@ There are five people in front of her and one of them is a man with a cart of sa
 
 I go around to the end of her table and stop beside it, out in the open where the man with the cart can see me and she can see me and neither of them has to wonder what I am doing.
 
-"Do you want the salt off him or do you want the peas," I say.
+“Do you want the salt off him or do you want the peas?” I say.
 
 She turns her head about four inches.
 
-"I've done two years of this," I say. "Not salt. This." I put my chin at the five people and the boy with the thread. "Give me the ones who already know what they want and tell me your prices and you can go and argue about salt."
+“I’ve done two years of this,” I say. “Not salt. This.” I put my chin at the five people and the boy with the thread. “Give me the ones who already know what they want and tell me your prices and you can go and argue about salt.”
 
 Everything I have is in the ten seconds after that, and I know it, and what comes up in me while she looks at me is the thing that used to come up when a manager watched me on bar during a rush, which is the good kind of sick, the kind with *watch this* underneath it.
 
-"Peas is two the pound, four the three," she says. "Salt's off the tub, a bit the scoop, don't heap it. Thread's a bit the card, needles is three the paper and they walk, so they don't leave your hand until the money's in it. Soap's four. Nails is by the handful and the handful is mine, not theirs." She has already turned toward the salt man. "You touch that till box and I'll have your wrist."
+“Peas is two the pound, four the three,” she says. “Salt’s off the tub, a bit the scoop, don’t heap it. Thread’s a bit the card, needles is three the paper and they walk, so they don’t leave your hand until the money’s in it. Soap’s four. Nails is by the handful and the handful is mine, not theirs.” She has already turned toward the salt man. “You touch that till box and I’ll have your wrist.”
 
-"Fine by me."
+“Fine by me.”
 
-"A piece when I close the middle out. I don't feed you and I don't lend you anything."
+“A piece when I close the middle out. I don’t feed you and I don’t lend you anything.”
 
 I have no earthly idea whether a piece is a fortune or an insult, and *do not accept a first price* is a rule I have been carrying around since yesterday morning like a stone in a pocket, and I accept the first price in something under two seconds.
 
-"What's the boy want."
+“What’s the boy want?”
 
-"Two cards of thread and he's got the money in his fist and he's been standing there since I got here."
+“Two cards of thread and he’s got the money in his fist and he’s been standing there since I got here.”
 
-Her mouth does something small and she puts it away again. "Ordway," she says, which turns out to be her name and turns out to be how I get called for the next two hours, along with several other things.
+Her mouth does something small and she puts it away again. “Ordway,” she says, which turns out to be her name and turns out to be how I get called for the next two hours, along with several other things.
 
-The first ten minutes are a disaster held together with string. The prices are simple and the coins are not, and coins are the whole job. The little ones are copper and thin and they come in one size, and I decide inside the first two minutes to call them bits because I have to call them something. The fat dull ones are worth more and I do not know how much more until a woman buys soap and salt and gets change and I watch Ordway's hand make it, and then I do the sum backward and get eight.
+The first ten minutes are a disaster held together with string. The prices are simple and the coins are not, and coins are the whole job. The little ones are copper and thin and they come in one size, and I decide inside the first two minutes to call them bits because I have to call them something. The fat dull ones are worth more and I do not know how much more until a woman buys soap and salt and gets change and I watch Ordway’s hand make it, and then I do the sum backward and get eight.
 
 Eight bits to the fat one. Bits and pieces. I do not have time to be pleased about that and I am pleased about it anyway.
 
-After that it is a job. I know how to do this. A man wants a bit's worth of salt and wants to know if I will heap it, and the answer is no, and he tries the answer again on me in a different voice, and gets the same answer. A woman with a baby on her hip wants three papers of needles and I get all three into her hand and her money into mine in one exchange because she does not have a spare hand and I can see that she does not. The boy with the thread turns out to be buying for his mother and comes back forty minutes later for a second errand and asks for me specifically, which is the first time anybody in this world has asked for me specifically.
+After that it is a job. I know how to do this. A man wants a bit’s worth of salt and wants to know if I will heap it, and the answer is no, and he tries the answer again on me in a different voice, and gets the same answer. A woman with a baby on her hip wants three papers of needles and I get all three into her hand and her money into mine in one exchange because she does not have a spare hand and I can see that she does not. The boy with the thread turns out to be buying for his mother and comes back forty minutes later for a second errand and asks for me specifically, which is the first time anybody in this world has asked for me specifically.
 
-I keep the queue in order. I hold four prices and two people's changes of mind in my head at once and I do not lose the salt scoop, and when a man in a good coat wants to pay for soap with a bit that has been shaved down one edge until it is a crescent, I put it on the table in front of him and put my hand next to it and wait, and he laughs and takes it back and gives me a good one, and behind me Ordway says nothing at all, so I serve the next customer.
+I keep the queue in order. I hold four prices and two people’s changes of mind in my head at once and I do not lose the salt scoop, and when a man in a good coat wants to pay for soap with a bit that has been shaved down one edge until it is a crescent, I put it on the table in front of him and put my hand next to it and wait, and he laughs and takes it back and gives me a good one, and behind me Ordway says nothing at all, so I serve the next customer.
 
 The salt man wants to be paid for eleven scoops and Ordway is elbow-deep in a card of buttons, and I count the tub with the scoop myself and get nine, and I say so, and he says the tub settles.
 
-"Then it settled two scoops on the road," I say. "Nine."
+“Then it settled two scoops on the road,” I say. “Nine.”
 
 He looks at Ordway. Ordway does not look up from the buttons.
 
-"Nine and I'll take the broken card off you at a bit," I say, and I hear Tolliver telling me not to accept a first price. I push the scoop toward the salt man.
+“Nine and I’ll take the broken card off you at a bit,” I say, and I hear Tolliver telling me not to accept a first price. I push the scoop toward the salt man.
 
 The salt man takes nine and the bit. Ordway sells the broken card twenty minutes later for two.
 
@@ -1293,15 +1293,15 @@ I look up from the till at the plates bobbing above the crowd.
 
 And I am running a register.
 
-The laugh comes up out of me before I can stop it and I have to turn it into a cough, and Ordway looks over and I say, "Nothing," and she says, "Then look at the peas," and I look at the peas.
+The laugh comes up out of me before I can stop it and I have to turn it into a cough, and Ordway looks over and I say, “Nothing,” and she says, “Then look at the peas,” and I look at the peas.
 
 ---
 
 She closes the middle of the day out and starts putting things away, and the market noise goes down a step all along the row at the same time, the way a room does.
 
-"You'll do," Ordway says. "Tomorrow, if you want it. Early. I don't hold a place."
+“You’ll do,” Ordway says. “Tomorrow, if you want it. Early. I don’t hold a place.”
 
-"I want it."
+“I want it.”
 
 She reaches under the table for the till box. I stand there with my hands hanging and my shoulders hot and my foot throbbing in the new boot, and I hold my hand out flat, because that is what I have been waiting two hours to do.
 
@@ -1309,39 +1309,39 @@ She counts out of the box, and her fingers stop with the coin still in them.
 
 She is not looking at my hand. She is looking about two feet above my hair.
 
-"Who receives for you?"
+“Who receives for you?”
 
-"Sorry?"
+“Sorry?”
 
-"Who receives." She holds the coin back. "You're Household, girl."
+“Who receives?” She holds the coin back. “You’re Household, girl.”
 
 My palm stays open beneath the coin. I pull it back before she can look down at it.
 
-"I did the work," I say.
+“I did the work,” I say.
 
-"You did. You did it better than the last two I've had beside me and I've just asked you to come back tomorrow." The coin stays where it is, between her thumb and her finger, six inches out of the box and a foot short of me. "Who's your house?"
+“You did. You did it better than the last two I’ve had beside me and I’ve just asked you to come back tomorrow.” The coin stays where it is, between her thumb and her finger, six inches out of the box and a foot short of me. “Who’s your house?”
 
-"Can you not just give it to me?"
+“Can you not just give it to me?”
 
-"No."
+“No.”
 
-"I earned it."
+“I earned it.”
 
-"You did," Ordway says again, and she means every word of it. "And it's not yours to take off my table, and it's not mine to put in your hand, and if I do it, then some day this week whoever answers for you comes and stands where you're standing and asks me what I paid you and how long you were behind my table and whether I knew you were out without leave. I've had that man at my table. He had a stick." She sets the coin down on the boards in front of her, where I can see it. "It's not you I'd be paying. It's your house I'd be taking from."
+“You did,” Ordway says again, and she means every word of it. “And it’s not yours to take off my table, and it’s not mine to put in your hand, and if I do it, then someday this week whoever answers for you comes and stands where you’re standing and asks me what I paid you and how long you were behind my table and whether I knew you were out without leave. I’ve had that man at my table. He had a stick.” She sets the coin down on the boards in front of her, where I can see it. “It’s not you I’d be paying. It’s your house I’d be taking from.”
 
 Somebody two stalls down is laughing. A dog noses among the peas, and Ordway glances toward it without moving the coin.
 
-"Hold it, then," I say. "Keep it for me."
+“Hold it, then,” I say. “Keep it for me.”
 
-"Until who comes for it?"
+“Until who comes for it?”
 
 I have nothing. She watches me have nothing and does not enjoy it.
 
-"Mark it somewhere. On a slate. That it's mine."
+“Mark it somewhere. On a slate. That it’s mine.”
 
-"That is what I'm telling you a slate would say." She wipes her hands down her apron. "It would say the wage is owed to your house."
+“That is what I’m telling you a slate would say.” She wipes her hands down her apron. “It would say the wage is owed to your house.”
 
-The word goes through me again with the whole weight it has been putting on since I picked it out of a short list of plain words in a cart rut, and everything I understood about it yesterday turns out to have been the front of it. *Household. That somebody's answerable for you. Out here that beats being nobody's.* He was not lying. He saves the lying for other people. With me he just hands over the true half.
+The word goes through me again with the whole weight it has been putting on since I picked it out of a short list of plain words in a cart rut, and everything I understood about it yesterday turns out to have been the front of it. *Household. That somebody’s answerable for you. Out here that beats being nobody’s.* He was not lying. He saves the lying for other people. With me he just hands over the true half.
 
 My fingers go to my throat. I could choose Hand. I know where the word is.
 
@@ -1349,11 +1349,11 @@ But she has already read Household. And the warden wrote something down yesterda
 
 “Can I change it?”
 
-“Does your house know you're asking?”
+“Does your house know you’re asking?”
 
 I lower my hand.
 
-"Whose Household?" Ordway says.
+“Whose Household?” Ordway says.
 
 The coin is on the boards eighteen inches from my fingers. Dull, fat, worth eight bits, and I know exactly what eight bits buys because I have spent the morning telling people. It is a loaf and a bowl of something and a candle of my own. It is the one thing.
 
@@ -1361,21 +1361,21 @@ I counted the salt. Caught the shaved coin. That boy came back and asked for me.
 
 All that is left is being handed it.
 
-"Tolliver," I say.
+“Tolliver,” I say.
 
-Ordway's hand stops on the way to her apron.
+Ordway’s hand stops on the way to her apron.
 
 It is a small thing. It is smaller than what the warden did and much smaller than what happened in the gateway when a man with his name in the open air took his time reading mine. Her eyes come off the space above my head and land on my face, and stay there a beat longer than they have stayed on it all morning.
 
-"Tolliver," she says.
+“Tolliver,” she says.
 
-"Yes."
+“Yes.”
 
 The dog gets driven out of the peas. Somewhere behind me a shutter goes up on a hinge that wants grease.
 
 Then she picks the coin up off the boards and puts it in my hand, and closes my fingers around it with her own hand over the top of mine, which is the only time she has touched me all day.
 
-"Early," she says. "I don't hold a place."
+“Early,” she says. “I don’t hold a place.”
 
 And she turns to her scale, and a woman is already asking her about soap, and the day just keeps going.
 
@@ -1389,7 +1389,7 @@ I stop looking over my shoulder when a man behind me asks to pass.
 
 Then I open my hand.
 
-The coin has gone warm off Ordway's palm and mine. It is thinner than it looked on the boards and there is no word on it anywhere, only a stamp, a crest or a beast or a face worn down past telling. Eight bits. Bread and a bowl and a candle, and enough left over that nobody thinks I am desperate.
+The coin has gone warm off Ordway’s palm and mine. It is thinner than it looked on the boards and there is no word on it anywhere, only a stamp, a crest or a beast or a face worn down past telling. Eight bits. Bread and a bowl and a candle, and enough left over that nobody thinks I am desperate.
 
 There are four bits lying on that windowsill. This is twice all of them.
 
@@ -1404,7 +1404,7 @@ I spend the first bit on bread.
 
 The woman selling it takes my piece, gives me seven thin coins and a roll still hot enough to sting through its crust, and does not ask whose permission I have to eat. I stand beside her oven and wait for something else to happen. A question. A look at my plate. Somebody coming down the street to inform me that actually, the bread belongs to Tolliver too.
 
-"You're in the way," she says.
+“You’re in the way,” she says.
 
 I move.
 
@@ -1414,29 +1414,29 @@ Inside, a woman with a red cloth tied over her hair is scraping something off a 
 
 I stop at the end of the table.
 
-"What's a room cost?"
+“What’s a room cost?”
 
-She tests the patch with her thumb. "Which room?"
+She tests the patch with her thumb. “Which room?”
 
-"Mine. Upstairs. At the back."
+“Mine. Upstairs. At the back.”
 
-"Four bits a night. Food's separate."
+“Four bits a night. Food’s separate.”
 
 I have seven bits in my fist. The knowledge rearranges the entire building.
 
-"How many nights are paid?"
+“How many nights are paid?”
 
-Her knife stops. She looks at me, then at the ceiling, as if she can see the room through it. "Tonight. Leaving in the morning, he said."
+Her knife stops. She looks at me, then at the ceiling, as if she can see the room through it. “Tonight. Leaving in the morning, he said.”
 
 Of course he said.
 
-I tuck one of my coins into my other hand. "Can I buy a candle?"
+I tuck one of my coins into my other hand. “Can I buy a candle?”
 
-"Half a one."
+“Half a one.”
 
-"Fine."
+“Fine.”
 
-She gives me a short yellow length with a kink in its wick. I take it upstairs with six bits left, and shut the door, and put the candle on the sill beside Tolliver's four coins.
+She gives me a short yellow length with a kink in its wick. I take it upstairs with six bits left, and shut the door, and put the candle on the sill beside Tolliver’s four coins.
 
 I put my candle closer to the bed than his coins. Then I move it back because the sill slopes there.
 
@@ -1486,7 +1486,7 @@ I try the seven. Nothing. The ten. Nothing. Reserve unfolds into a ring of three
 
 I let go. The ring shuts.
 
-"Okay."
+“Okay.”
 
 Run does not offer a list. It offers a single word.
 
@@ -1502,7 +1502,7 @@ I sit there looking at the air where the numbers were.
 
 When I crawled out of that tree, I thought the machine had forgotten me. This afternoon it is keeping a score I have not learned to read.
 
-I get the candle, set it in the old stub's little dish, and use the back of my thumbnail to scratch three short lines into the soft side of the wax. Seven. Three. Unset. I give the last one a crossbar so I know which is which.
+I get the candle, set it in the old stub’s little dish, and use the back of my thumbnail to scratch three short lines into the soft side of the wax. Seven. Three. Unset. I give the last one a crossbar so I know which is which.
 
 Wax catches under my nail. I turn the scratched side toward the bed so I can see it.
 
@@ -1512,233 +1512,233 @@ He comes back while there is still daylight on the opposite roof.
 
 I hear him on the stairs and know the step before he reaches the landing. Knowing it makes me angry. Being relieved makes me angrier. I have been sitting here for an hour practicing how to be a person who does not need him, and my whole body goes quiet when his knuckles touch the wood.
 
-"Maya."
+“Maya.”
 
 I open the door.
 
-He has a paper parcel in one hand and rain in his hair, though I have not heard rain. His coat smells of cold air and a sharper smoke than the tavern's. For a second I remember his shoulder under my hand in the forest so completely that the room seems warm by comparison, impossibly safe.
+He has a paper parcel in one hand and rain in his hair, though I have not heard rain. His coat smells of cold air and a sharper smoke than the tavern’s. For a second I remember his shoulder under my hand in the forest so completely that the room seems warm by comparison, impossibly safe.
 
 Then he looks at the sill.
 
-"You ate?"
+“You ate?”
 
-"Yes."
+“Yes.”
 
 He looks at the candle.
 
-I shut the door behind him. "Where are we going tomorrow?"
+I shut the door behind him. “Where are we going tomorrow?”
 
 The parcel stops halfway to the bed.
 
-"Who told you that?"
+“Who told you that?”
 
-"The woman you told."
+“The woman you told.”
 
-He sets it down. "I said we might leave."
+He sets it down. “I said we might leave.”
 
-"Then she misunderstood you. So do I, quite a lot."
+“Then she misunderstood you. So do I, quite a lot.”
 
 For the first time since he found me, he has to decide where to put his hands. He settles on taking his coat off, which gives him several seconds and a reason to look somewhere else.
 
 There is only one stool. He leaves it where it is and leans against the wall beside the shutter.
 
-"What happened?"
+“What happened?”
 
 “I got a job.” I say it too loudly, and hear a pause in the footsteps on the landing.
 
 His eyes move to my foot.
 
-"Selling things," I say. "I tried carrying things. That did not work. Selling did. I was good at it."
+“Selling things,” I say. “I tried carrying things. That did not work. Selling did. I was good at it.”
 
-"I believe you."
+“I believe you.”
 
-"Don't do that."
+“Don’t do that.”
 
 He stops.
 
-I press my palms against the sides of my skirt. “You don't even know what happened.”
+I press my palms against the sides of my skirt. “You don’t even know what happened.”
 
 The room is quiet enough that I hear the parcel settling on the blanket.
 
-"All right," he says.
+“All right,” he says.
 
-"Ordway wouldn't pay me because I'm Household."
+“Ordway wouldn’t pay me because I’m Household.”
 
 His mouth tightens at the name. Only at the name. I have been watching him too closely all day without him even being here, and now that he is, it is almost embarrassing how much there is to watch.
 
-"She paid you," he says.
+“She paid you,” he says.
 
-"After I told her who I was with."
+“After I told her who I was with.”
 
 He looks at the candle again.
 
-"Why?" I ask.
+“Why?” I ask.
 
-"Because she knows me."
+“Because she knows me.”
 
-"I got that far by myself."
+“I got that far by myself.”
 
 He rubs a hand over his face. He is tired. There is a dark hollow beneath each eye.
 
-"I collected a debt at her stall last autumn. For a house that hired me. Her husband had signed for winter stock and died before he sold it."
+“I collected a debt at her stall last autumn. For a house that hired me. Her husband had signed for winter stock and died before he sold it.”
 
 I look down at his hands. He follows my eyes.
 
-"I didn't touch her."
+“I didn’t touch her.”
 
-"Did you have a stick?"
+“Did you have a stick?”
 
 He says nothing.
 
-I can hear Ordway again. *I've had that man at my table.* I supplied a stranger when she said it. Some other man, in some other coat, a person convenient enough to dislike without having to remember him cleaning my foot.
+I can hear Ordway again. *I’ve had that man at my table.* I supplied a stranger when she said it. Some other man, in some other coat, a person convenient enough to dislike without having to remember him cleaning my foot.
 
-"What did you take?"
+“What did you take?”
 
-"The stock the house had paid for."
+“The stock the house had paid for.”
 
 “How much of it?”
 
-His jaw moves. "Half her stall."
+His jaw moves. “Half her stall.”
 
 I sit on the bed because standing has become a performance I cannot afford. The parcel tilts toward me. Something inside smells of onions.
 
-"Did you tell her to pay me?"
+“Did you tell her to pay me?”
 
-"No. I haven't seen Ordway today."
+“No. I haven’t seen Ordway today.”
 
 I look at him, trying to decide whether I can ask Ordway without sounding frightened of the answer.
 
-"So she either thought you'd come and take it if she didn't, or she wanted me to have money because she knows what happens when you do."
+“So she either thought you’d come and take it if she didn’t, or she wanted me to have money because she knows what happens when you do.”
 
-He glances toward the door, then back. "You'd have to ask her."
+He glances toward the door, then back. “You’d have to ask her.”
 
-I pull the parcel closer without opening it, making myself remember to ask her in the morning. "Does choosing Household make me yours?"
+I pull the parcel closer without opening it, making myself remember to ask her in the morning. “Does choosing Household make me yours?”
 
-"No."
+“No.”
 
 The word comes quickly enough to hurt.
 
-"Then why did she—"
+“Then why did she—“
 
-"Because people believe plates. A word can be changed. A wage dispute can't be wished away when a house comes to collect. She didn't know what was underneath yours."
+“Because people believe plates. A word can be changed. A wage dispute can’t be wished away when a house comes to collect. She didn’t know what was underneath yours.”
 
-"Neither do I."
+“Neither do I.”
 
 He looks at me then, properly.
 
-"There's no bond in your origin," he says. "No holding. No house. I couldn't put one there by telling you to pick a word."
+“There’s no bond in your origin,” he says. “No holding. No house. I couldn’t put one there by telling you to pick a word.”
 
-"But you could tell a gate warden I was yours."
+“But you could tell a gate warden I was yours.”
 
-"I stood answerable for you."
+“I stood answerable for you.”
 
-"And forgot to explain the difference."
+“And forgot to explain the difference.”
 
 He grips the back of the stool.
 
-“You were bleeding through your clothes. They'd have kept you outside while they sent for someone to decide whether your story made sense.”
+“You were bleeding through your clothes. They’d have kept you outside while they sent for someone to decide whether your story made sense.”
 
 “You had all morning to tell me.”
 
-“And you'd have agreed?”
+“And you’d have agreed?”
 
 I stare at him. He looks down at his hands.
 
 I do not know what to do with that, so I unwrap the parcel. Two thick wedges of pie lie inside, pastry gone soft where the onions have soaked through. I want one badly enough that my mouth aches.
 
-"If I eat that, am I agreeing to something?"
+“If I eat that, am I agreeing to something?”
 
-"No."
+“No.”
 
-"If I stay in this room?"
+“If I stay in this room?”
 
-"No."
+“No.”
 
-"If I change my plate?"
+“If I change my plate?”
 
-He takes longer. "The word won't clear the entry at the gate. If Bertran stops you and you're Hand, he'll ask where your household went. If you tell him there never was one, he'll want to know what else I lied about."
+He takes longer. “The word won’t clear the entry at the gate. If Bertran stops you and you’re Hand, he’ll ask where your household went. If you tell him there never was one, he’ll want to know what else I lied about.”
 
-"There it is."
+“There it is.”
 
-"It's a real problem, Maya."
+“It’s a real problem, Maya.”
 
-"I know. I'm the one in it."
+“I know. I’m the one in it.”
 
 The pie burns my tongue. I eat it anyway.
 
 He finally sits, leaving the other wedge untouched. There is nowhere in the room for him to sit far from me, and his knee is close enough to mine that I have to work at ignoring it. I shift my foot so our knees can’t touch. Then I have to concentrate on what he is saying instead of whether he noticed.
 
-"Tomorrow," I say around the last bite. "Use place names."
+“Tomorrow,” I say around the last bite. “Use place names.”
 
-"Rook House. South road. Two days if we can get you on a cart."
+“Rook House. South road. Two days if we can get you on a cart.”
 
-"What is it?"
+“What is it?”
 
-"A company holding. Warehouses, fields, workshops. They take people without an origin and put them in a book. Food, a bed, training in a run. Work in return."
+“A company holding. Warehouses, fields, workshops. They take people without an origin and put them in a book. Food, a bed, training in a run. Work in return.”
 
-"For how long?"
+“For how long?”
 
 “A year to start.”
 
-"Terms you know?"
+“Terms you know?”
 
-“I've seen the usual paper. They'd charge your instruction against the account.”
+“I’ve seen the usual paper. They’d charge your instruction against the account.”
 
-"Do they know about me?"
+“Do they know about me?”
 
-He watches my face. "A factor here does. I spoke to him today."
+He watches my face. “A factor here does. I spoke to him today.”
 
 My hands go cold around the paper.
 
-"How much?"
+“How much?”
 
-"That you're unheld. That you're grown. That your level is one."
+“That you’re unheld. That you’re grown. That your level is one.”
 
-"My name?"
+“My name?”
 
-"Your first."
+“Your first.”
 
-I set the paper on the bed very carefully. "What do you get?"
+I set the paper on the bed very carefully. “What do you get?”
 
 He could lie. He has the room for it. He could make the whole thing into another kindness and I might sit here and want to believe him badly enough to manage it.
 
-"A finding fee. If you enter."
+“A finding fee. If you enter.”
 
-"How much?"
+“How much?”
 
-"Six pieces."
+“Six pieces.”
 
 Forty-eight bits. Six mornings with Ordway, if she lets me keep coming. Twelve nights in this room.
 
 I look at the four coins on the sill.
 
-"Were you going to tell me?"
+“Were you going to tell me?”
 
-"Yes."
+“Yes.”
 
-"When?"
+“When?”
 
 He has no immediate answer to that one.
 
-I wipe my hands on the paper. "I work tomorrow."
+I wipe my hands on the paper. “I work tomorrow.”
 
-"Maya."
+“Maya.”
 
-"I told her I'd be there."
+“I told her I’d be there.”
 
-"A stall won't get you an origin."
+“A stall won’t get you an origin.”
 
-"It got me a candle. I enjoyed the experience. I'm going to repeat it."
+“It got me a candle. I enjoyed the experience. I’m going to repeat it.”
 
 He reaches for the parcel, then leaves it where it is. I take the last bit of pastry before he can decide that belongs in the argument too.
 
-"Stay in town a day," I say. "Tell your factor I haven't agreed to anything. Find out the terms. All of them. I'll read them."
+“Stay in town a day,” I say. “Tell your factor I haven’t agreed to anything. Find out the terms. All of them. I’ll read them.”
 
-"You read?"
+“You read?”
 
 I look at him until he looks away.
 
-"One day," he says.
+“One day,” he says.
 
 It is not permission. I have to remind myself of that twice.
 
@@ -1748,71 +1748,71 @@ He eats the second wedge while I light my candle downstairs, cupping the little 
 
 I put the candle on the sill.
 
-"What's reserve?"
+“What’s reserve?”
 
 He nearly sticks himself.
 
 That is worth the price of the candle all by itself.
 
-"You opened your measure."
+“You opened your measure.”
 
-"I pressed things. Eventually the universe rewarded initiative."
+“I pressed things. Eventually the universe rewarded initiative.”
 
-He puts the needle away. "How much?"
+He puts the needle away. “How much?”
 
-"Three."
+“Three.”
 
-"Full?"
+“Full?”
 
-"Three out of three."
+“Three out of three.”
 
 He nods, thinking, and for a moment we are back on the road with him deciding how much of an answer I can use. I lift a hand before he begins.
 
 “Show me. All of it this time.”
 
-He looks at my raised hand. "Give me the basin."
+He looks at my raised hand. “Give me the basin.”
 
-"Tolliver."
+“Tolliver.”
 
-"It's a lesson, Maya. I need something you can drop."
+“It’s a lesson, Maya. I need something you can drop.”
 
 I get the basin.
 
 He makes me sit on the stool with it on my lap and my boots out of the way. It holds perhaps an inch of cold water left from washing this morning. He has me lift it with my right hand, fingers hooked under the rim, until the weight makes my wrist pull.
 
-"Hold that."
+“Hold that.”
 
-"I've established I can carry crockery."
+“I’ve established I can carry crockery.”
 
-"Then we're starting with a victory. Keep your elbow where it is."
+“Then we’re starting with a victory. Keep your elbow where it is.”
 
 He kneels in front of the stool. His hands stay on his own knees. He tells me to open my measure with the other hand and keep my attention on the full ring under reserve.
 
 The basin begins to shake before I have the ring open.
 
-"That's your arm doing it," he says. "Now find the other weight."
+“That’s your arm doing it,” he says. “Now find the other weight.”
 
 “Where?”
 
-"Close your eyes."
+“Close your eyes.”
 
-"Will that shut the thing?"
+“Will that shut the thing?”
 
-"No."
+“No.”
 
-It doesn't. The letters remain in a darkness that should be mine alone, and my stomach turns over. I open my eyes immediately.
+It doesn’t. The letters remain in a darkness that should be mine alone, and my stomach turns over. I open my eyes immediately.
 
 He waits.
 
-"It's still there," I say.
+“It’s still there,” I say.
 
-"Yes."
+“Yes.”
 
-I look at his face, his actual face, which is irritatingly close and not amused at all. "That doesn't bother you?"
+I look at his face, his actual face, which is irritatingly close and not amused at all. “That doesn’t bother you?”
 
-"I've never known it not to be."
+“I’ve never known it not to be.”
 
-Of course he hasn't.
+Of course he hasn’t.
 
 I close my eyes again.
 
@@ -1822,7 +1822,7 @@ I reach for it.
 
 The basin rises so sharply that the water slaps me in the chin.
 
-"Fuck!"
+“Fuck!”
 
 His hand closes over the rim before I can pitch it into his face. Water runs into my sleeve. I stare at the bowl between us, at my arm holding it, at the plain impossible absence of effort.
 
@@ -1836,45 +1836,45 @@ For several seconds I cannot say anything.
 
 He takes his hand away.
 
-"Again?" I ask.
+“Again?” I ask.
 
-"You've got two left. Save them."
+“You’ve got two left. Save them.”
 
-"How do I get them back?"
+“How do I get them back?”
 
-"Food. Rest. Time. Usually a measure like yours fills before morning. Longer if you're ill or you keep spending it."
+“Food. Rest. Time. Usually a measure like yours fills before morning. Longer if you’re ill or you keep spending it.”
 
-"Usually."
+“Usually.”
 
-"I haven't taught many people who started at nineteen."
+“I haven’t taught many people who started at nineteen.”
 
-"How old were you? When you learned."
+“How old were you? When you learned.”
 
-"Six. My mother put a basket in my hands and kept adding turnips."
+“Six. My mother put a basket in my hands and kept adding turnips.”
 
-"And how old are you now?"
+“And how old are you now?”
 
-"Twenty-two."
+“Twenty-two.”
 
 Three years. He has three years on me, and sixteen years of knowing where the extra strength lives. I look at the basin and try to separate those two things.
 
-I look at my arm. It is my arm. Same freckles, same short nails, water dripping off my elbow onto somebody else's skirt.
+I look at my arm. It is my arm. Same freckles, same short nails, water dripping off my elbow onto somebody else’s skirt.
 
-"The woman with the sack," I say. "She was fourteen. Her level. She picked it up with one hand."
+“The woman with the sack,” I say. “She was fourteen. Her level. She picked it up with one hand.”
 
-"Could be reserve. Could be her run. Could be both. A number won't tell you what a person's spent it learning."
+“Could be reserve. Could be her run. Could be both. A number won’t tell you what a person’s spent it learning.”
 
-"And I don't have one."
+“And I don’t have one.”
 
-"Not yet."
+“Not yet.”
 
-"Can I choose one without a house?"
+“Can I choose one without a house?”
 
-"Yes."
+“Yes.”
 
 I look up.
 
-He holds my gaze this time. "Someone needs to show you the work. You need to understand enough of it for a run to take. A house makes that easier. It doesn't make it possible."
+He holds my gaze this time. “Someone needs to show you the work. You need to understand enough of it for a run to take. A house makes that easier. It doesn’t make it possible.”
 
 I set the basin on the floor, very slowly, with ordinary muscles.
 
@@ -1882,7 +1882,7 @@ The same three points that sat unused beneath my ribs while I bled in a tree. Th
 
 I want to do it again.
 
-Tolliver sees it. His mouth softens in a way I have no defense against, and for a moment I forget the pie and the factor and the stick at Ordway's stall. He is kneeling in front of me with water on his collar because I put it there. I could lean forward a little. That is all the distance there is.
+Tolliver sees it. His mouth softens in a way I have no defense against, and for a moment I forget the pie and the factor and the stick at Ordway’s stall. He is kneeling in front of me with water on his collar because I put it there. I could lean forward a little. That is all the distance there is.
 
 He reaches up, slowly enough that I see the question, and brushes a drop from the edge of my jaw with his thumb.
 
@@ -1896,51 +1896,51 @@ I turn my face away.
 
 He lowers his hand at once. Neither of us speaks. Downstairs, somebody laughs hard enough to end in a cough, and the noise gives me somewhere to put my eyes until I can look at him again.
 
-"Not while you decide where I sleep," I say.
+“Not while you decide where I sleep,” I say.
 
 He goes still. Then he nods and moves back, giving me room to stand.
 
 I carry the basin to the sill. My candle has burned down past the first scratch, so I deepen the remaining marks and add two small dots beneath them. Two left. Seven out of ten. No run.
 
-Behind me, Tolliver says, "The factor will want to meet you."
+Behind me, Tolliver says, “The factor will want to meet you.”
 
-"He can want things."
+“He can want things.”
 
-"He's here in Greyward until tomorrow evening. I can't promise what he'll offer after that."
+“He’s here in Greyward until tomorrow evening. I can’t promise what he’ll offer after that.”
 
-"Then don't promise. Bring the terms."
+“Then don’t promise. Bring the terms.”
 
 He gathers his needle and leather, and this time when he gets up to leave I do not reach for his sleeve or ask when he will be back. He pauses with his hand on the latch.
 
-"Keep two in reserve," he says. "You can spend them on a stumble faster than you can think."
+“Keep two in reserve,” he says. “You can spend them on a stumble faster than you can think.”
 
-"I will."
+“I will.”
 
 He leaves. I bolt the door and wait until his footsteps have reached the taproom before I get the six bits out from under the mattress.
 
 I take four downstairs.
 
-The keeper looks at the coins I lay beside her knife. "You're paid through tonight."
+The keeper looks at the coins I lay beside her knife. “You’re paid through tonight.”
 
-"Tomorrow night. Same room."
+“Tomorrow night. Same room.”
 
-She tests one with her thumbnail, then sweeps them into her apron. "Name?"
+She tests one with her thumbnail, then sweeps them into her apron. “Name?”
 
-"Maya."
+“Maya.”
 
 She writes it on a slate. Just that. Four letters, as far as I can tell before the marks settle into the shape I know.
 
-"Who's it against?" she asks.
+“Who’s it against?” she asks.
 
 I keep my hand flat on the table.
 
-"Paid," I say. "Can you put it against paid?"
+“Paid,” I say. “Can you put it against paid?”
 
 She looks at me for a moment, then adds a mark beside my name.
 
-"Breakfast's separate."
+“Breakfast’s separate.”
 
-"I know."
+“I know.”
 
 Upstairs, the candle is still burning. I have two bits of my own left, four of his I have not touched, and a room that will be mine tomorrow whether he comes back or not.
 
@@ -1966,59 +1966,59 @@ Outside, the gutters are running from rain I slept through. Greyward has been wa
 
 Ordway is unlocking her till box when I arrive.
 
-"You're early."
+“You’re early.”
 
-"It was mentioned."
+“It was mentioned.”
 
-She gives me the salt tub. "Check for damp."
+She gives me the salt tub. “Check for damp.”
 
 I set it on the table, take the cover off, and work the scoop gently through the top. Dry. A few small lumps along one edge, but they break when I press them.
 
-"He didn't send you?" she asks.
+“He didn’t send you?” she asks.
 
-I keep the scoop in my hand. "No."
+I keep the scoop in my hand. “No.”
 
 Ordway fits a pin through the hasp of her box and pushes it under the table.
 
-"He told me about last autumn," I say.
+“He told me about last autumn,” I say.
 
 Her shoulders settle. Nothing dramatic, just the adjustment you make before lifting something you know is heavy.
 
-"How much of it?"
+“How much of it?”
 
-"Half your stall. A debt your husband signed for."
+“Half your stall. A debt your husband signed for.”
 
-"My husband signed for it. I ordered it. It was a good price." She takes the scoop out of my hand and levels the salt. "Then he died, and I couldn't be here and at his bed, and the good price came due."
+“My husband signed for it. I ordered it. It was a good price.” She takes the scoop out of my hand and levels the salt. “Then he died, and I couldn’t be here and at his bed, and the good price came due.”
 
-I look at the cards of thread lined up on the dry side of the table. There are fewer than yesterday. I know that now, know enough to count what she hasn't replaced.
+I look at the cards of thread lined up on the dry side of the table. There are fewer than yesterday. I know that now, know enough to count what she hasn’t replaced.
 
-"Did you pay me because you're frightened of him?"
+“Did you pay me because you’re frightened of him?”
 
 She looks down the row. A boy is trying to hold an awning pole upright while his father ties it, and the pole keeps describing wider and wider circles in the air.
 
-"I paid you because you'd worked," she says.
+“I paid you because you’d worked,” she says.
 
-"You weren't going to."
+“You weren’t going to.”
 
-"No."
+“No.”
 
 She lets that stand between us. It is uncomfortable enough that I almost help her get rid of it.
 
-"A proper house can come after a wage," she says at last. "Tolliver can come after a debt someone gave him authority to collect. Different things. When you named him, I knew which sort I wasn't dealing with."
+“A proper house can come after a wage,” she says at last. “Tolliver can come after a debt someone gave him authority to collect. Different things. When you named him, I knew which sort I wasn’t dealing with.”
 
-"He could have come back."
+“He could have come back.”
 
-"He still could." She pulls the first sack of peas toward her. "I'd have had more to say with your coin already spent."
+“He still could.” She pulls the first sack of peas toward her. “I’d have had more to say with your coin already spent.”
 
 I look at her hands. The knuckles are red from cold, the thumbnail split along one side. I wanted one clean answer I could put next to his and compare. The split nail catches on the sack. I reach to hold it open for her, still unsure what I wanted her to say.
 
-"Thank you," I say.
+“Thank you,” I say.
 
-“Hold the sack open. It's catching.”
+“Hold the sack open. It’s catching.”
 
 She hands me the sack.
 
-An hour later we have customers, and I have sold enough salt to understand why she doesn't let anyone heap the scoop. The margin is hiding in the part everybody wants for free.
+An hour later we have customers, and I have sold enough salt to understand why she doesn’t let anyone heap the scoop. The margin is hiding in the part everybody wants for free.
 
 I am better today. I know where the needles live and which corner of the table lists when somebody leans on it. I recognize the boy buying for his mother before he speaks, and have the white thread in my hand when he asks for black. He points to the black. I exchange them.
 
@@ -2030,27 +2030,27 @@ I shut it again.
 
 Seven after yesterday’s work, seven after this morning’s. I look at Ordway sorting pins. I could spend another day guessing while she stands close enough to ask.
 
-"How did you choose your run?" I ask Ordway.
+“How did you choose your run?” I ask Ordway.
 
-She is sorting bent pins from straight ones. "Badly. I was thirteen."
+She is sorting bent pins from straight ones. “Badly. I was thirteen.”
 
-"Can you change it?"
+“Can you change it?”
 
-"Costs more work than choosing right the first time."
+“Costs more work than choosing right the first time.”
 
-"What were you?"
+“What were you?”
 
-"A runner. Thought I'd carry messages and see the coast."
+“A runner. Thought I’d carry messages and see the coast.”
 
 I try to picture her thirteen and fail, then try again and get a thin girl with her elbows out, furious that somebody else has a better horse.
 
-"Did you?"
+“Did you?”
 
-"Saw three towns and a man who paid by the mile he admitted I'd walked. My knees still don't like frost." She drops a crooked pin into a separate dish. "You're not choosing one for my stall."
+“Saw three towns and a man who paid by the mile he admitted I’d walked. My knees still don’t like frost.” She drops a crooked pin into a separate dish. “You’re not choosing one for my stall.”
 
-"I didn't say I was."
+“I didn’t say I was.”
 
-"You looked disappointed in your number. People do that when they're trying to make it hurry. You can work a counter without spending your life becoming better at my counter."
+“You looked disappointed in your number. People do that when they’re trying to make it hurry. You can work a counter without spending your life becoming better at my counter.”
 
 I stand with a card of thread between my fingers and feel, for the first time, how big the choice might be.
 
@@ -2058,11 +2058,11 @@ Nyx was a spellblade because I liked the preview animation. If I hated it, I cou
 
 My knees are going to have to live here.
 
-"Where do people learn?" I ask.
+“Where do people learn?” I ask.
 
-"Yards. Houses. Temples, if you like being cold on purpose. Depends what you want."
+“Yards. Houses. Temples, if you like being cold on purpose. Depends what you want.”
 
-"And if you don't know?"
+“And if you don’t know?”
 
 She looks at me over the pins. “Try the yards. Ask the price before you let them put anything in your hands.”
 
@@ -2074,13 +2074,13 @@ The trouble begins with a man trying to save half a step.
 
 He has a handcart stacked with sealed jars, a delivery for the oil seller on the opposite row. Ordway sees him coming and moves her basket of spare cloth out of his way without stopping the price she is giving a woman. I pull our little stool under the table. The lane through the middle clears by inches.
 
-The cart's left wheel catches the oil seller's awning rope.
+The cart’s left wheel catches the oil seller’s awning rope.
 
 I see the rope tighten. I see the pole shift. The man heaves the handles sideways to free the wheel, and at the stall beside him a woman is lifting a kettle off a charcoal pan.
 
-"Wait," I say.
+“Wait,” I say.
 
-The pole comes down across the cart. A jar breaks. Oil splashes the kettle woman's apron, the table, the pan beneath her hand.
+The pole comes down across the cart. A jar breaks. Oil splashes the kettle woman’s apron, the table, the pan beneath her hand.
 
 The flame is small at first, a blue curl around the edge of the coals. Then it climbs the spilled oil and the whole front of the table goes orange.
 
@@ -2088,13 +2088,13 @@ Everybody moves at once.
 
 The kettle hits the ground. Somebody shouts for water. The carter drops the handles and tries to pull the cart backward, but his wheel is still tangled in the rope and the jars roll together with a noise I will hear later when I close my eyes.
 
-"Sand!" Ordway shouts. "Under Hester's table!"
+“Sand!” Ordway shouts. “Under Hester’s table!”
 
 She is already moving. I go after her because her basket catches my knee and because doing what she says is the only useful thing in my head.
 
-Heat strikes my face across the lane. The fallen awning has caught along its edge, and the woman who was holding the kettle is on the ground behind it, pulling at something I can't see. Someone gets a coat over the fire on her apron. Two men grab the cart's handles.
+Heat strikes my face across the lane. The fallen awning has caught along its edge, and the woman who was holding the kettle is on the ground behind it, pulling at something I can’t see. Someone gets a coat over the fire on her apron. Two men grab the cart’s handles.
 
-"Leave it," she screams. "Leave the fucking cart!"
+“Leave it,” she screams. “Leave the fucking cart!”
 
 They stop.
 
@@ -2112,25 +2112,25 @@ The awning rope runs around the axle, down under the wheel, then back to the peg
 
 I know this feeling. Twelve people trying to fix a wipe in twelve different directions.
 
-"Stop lifting," I say.
+“Stop lifting,” I say.
 
 Nobody hears me.
 
-"STOP LIFTING."
+“STOP LIFTING.”
 
 The carter looks over, furious. I point to the rope beneath his axle.
 
-"That's holding it down. Cut it first."
+“That’s holding it down. Cut it first.”
 
 His eyes follow my hand. He drops one handle, gets a knife off his belt, and kneels.
 
-The burning cloth shifts when the rope parts. The oil seller swears and catches the pole before it can fall farther. A mason takes his place at the cart handles. I get my hands under the lower edge of the overturned table, next to the trapped woman's shoulder, and push.
+The burning cloth shifts when the rope parts. The oil seller swears and catches the pole before it can fall farther. A mason takes his place at the cart handles. I get my hands under the lower edge of the overturned table, next to the trapped woman’s shoulder, and push.
 
 It moves about an inch.
 
 Enough for me to understand how much it weighs. Not enough for her to get out.
 
-"Here," I tell her. "This side. When they lift, come this way."
+“Here,” I tell her. “This side. When they lift, come this way.”
 
 Her eyes open. Over her head, tilted with nothing at all though she is nearly lying down, her plate says **[COOK, LV. 16]**.
 
@@ -2148,7 +2148,7 @@ I push through it.
 
 The table lifts.
 
-"Now!"
+“Now!”
 
 The men heave. The wheel clears the cloth. She crawls, one elbow and then the other, dragging her legs after her while I hold the table above her back.
 
@@ -2158,9 +2158,9 @@ On the next breath, the weight begins to return.
 
 She is halfway through.
 
-"Move," I say, and hate myself for saying it because she is moving, she is doing every bit of moving she has, and one boot has caught the hem that is still bunched beneath her knee.
+“Move,” I say, and hate myself for saying it because she is moving, she is doing every bit of moving she has, and one boot has caught the hem that is still bunched beneath her knee.
 
-Ordway reaches past me. Gets a fist in the woman's apron. Pulls.
+Ordway reaches past me. Gets a fist in the woman’s apron. Pulls.
 
 I spend again.
 
@@ -2174,19 +2174,19 @@ I am sitting in it.
 
 Somebody pulls me up by the back of my woolen shirt. I try to help and discover that my legs are conducting a private discussion about whether we still do that.
 
-"Stand," Ordway says in my ear.
+“Stand,” Ordway says in my ear.
 
 I stand.
 
-She keeps a fist in my sleeve while people shovel sand and stamp out the awning's edges. The whole market is shouting, names and instructions and accusations layered together until I cannot separate them. The cook is sitting against a post with her hands tucked under her arms. Her face is white beneath the soot.
+She keeps a fist in my sleeve while people shovel sand and stamp out the awning’s edges. The whole market is shouting, names and instructions and accusations layered together until I cannot separate them. The cook is sitting against a post with her hands tucked under her arms. Her face is white beneath the soot.
 
 She looks at me.
 
-"Your hair," she says.
+“Your hair,” she says.
 
 I put a hand up. The very ends on one side feel crisp.
 
-"Great," I say, and start laughing.
+“Great,” I say, and start laughing.
 
 It is not a good laugh. Ordway steers me back to our stool and puts me on it, then goes to fetch water I am actually allowed to use.
 
@@ -2204,17 +2204,17 @@ One makes everybody move back. The other calls for the mender, and at that word 
 
 Ordway pushes me down by the shoulder.
 
-"I'm fine."
+“I’m fine.”
 
-"Then be fine sitting."
+“Then be fine sitting.”
 
 She crouches to look at my face. There is a scrape along the outside of my left forearm, bright and shallow, and the skin across my knuckles is red. My boots are slick with oil. My foot hurts, though in a familiar way that feels almost friendly.
 
-"Open your measure," she says.
+“Open your measure,” she says.
 
 I hesitate.
 
-She notices. "Not your name. Just look. Tell me what you've got left."
+She notices. “Not your name. Just look. Tell me what you’ve got left.”
 
 I touch my throat. Find the number.
 
@@ -2226,13 +2226,13 @@ I miss everything underneath it the first time because all I can see is that it 
 
 I make a noise.
 
-Ordway's hand closes on my wrist. "How much?"
+Ordway’s hand closes on my wrist. “How much?”
 
-"One."
+“One.”
 
-"Out of?"
+“Out of?”
 
-"Four."
+“Four.”
 
 I read it again to be certain.
 
@@ -2244,9 +2244,9 @@ I read it again to be certain.
 
 There is no fanfare. No gold light. My arms hurt, my hair smells like a terrible electrical problem, and in front of me the universe has put a two where the one was.
 
-"I leveled," I say.
+“I leveled,” I say.
 
-"Yes. I can see."
+“Yes. I can see.”
 
 She says it so ordinarily that I nearly cry.
 
@@ -2258,11 +2258,11 @@ I look up at Ordway. She can see the two without my telling her. So can everyone
 
 I let the measure close.
 
-"Did it fill you?" Ordway asks.
+“Did it fill you?” Ordway asks.
 
-"No."
+“No.”
 
-“Keep that one. Getting another level won't fill you.”
+“Keep that one. Getting another level won’t fill you.”
 
 She stands and turns toward the warden who is coming down the row. I recognize him before he recognizes me. Heavy face, strap on the shoulder, the same tired eyes that looked at my bare feet in the gateway.
 
@@ -2270,77 +2270,77 @@ Bertran.
 
 His gaze passes over me, goes up, then comes down again.
 
-"You," he says.
+“You,” he says.
 
-"That keeps happening."
+“That keeps happening.”
 
 Ordway makes a small noise that might be a cough.
 
-Bertran looks at the smoke, at the cook, at me. "Where's the young man you came in with?"
+Bertran looks at the smoke, at the cook, at me. “Where’s the young man you came in with?”
 
-"I don't know."
+“I don’t know.”
 
-"You're working here?"
+“You’re working here?”
 
-"Yes."
+“Yes.”
 
-"For her?"
+“For her?”
 
-"For me," Ordway says. "She saw the rope. Hester would still be under there if she hadn't."
+“For me,” Ordway says. “She saw the rope. Hester would still be under there if she hadn’t.”
 
-"I've heard." His eyes return to my plate. "You've had a busy morning."
+“I’ve heard.” His eyes return to my plate. “You’ve had a busy morning.”
 
-I could leave it there. I can feel the opportunity to say nothing opening in front of me, familiar and warm. He hasn't asked about Skell's. He hasn't asked why I am here without Tolliver. There is still enough smoke to hide an entire conversation.
+I could leave it there. I can feel the opportunity to say nothing opening in front of me, familiar and warm. He hasn’t asked about Skell’s. He hasn’t asked why I am here without Tolliver. There is still enough smoke to hide an entire conversation.
 
-"I need to change something in your book," I say.
+“I need to change something in your book,” I say.
 
 Ordway goes quiet beside me.
 
-"What something?"
+“What something?”
 
-"The part where he answers for me. He helped me get here. I didn't understand what else you were writing down."
+“The part where he answers for me. He helped me get here. I didn’t understand what else you were writing down.”
 
 Bertran looks from me to Ordway.
 
-"Is there trouble?"
+“Is there trouble?”
 
 “He put me down as his. I want that changed.”
 
 He rubs the side of his nose with one broad finger. Behind him a warden begins arguing with the carter about where to leave the damaged cart, and the ordinary world tries very hard to reclaim him.
 
-"Where are you sleeping?"
+“Where are you sleeping?”
 
-I describe the tavern and my room at the back. "Tonight's paid. I paid it."
+I describe the tavern and my room at the back. “Tonight’s paid. I paid it.”
 
-"And you'll have her tomorrow?" he asks Ordway.
+“And you’ll have her tomorrow?” he asks Ordway.
 
-"If she's got hands enough to count with."
+“If she’s got hands enough to count with.”
 
-"She has," I say.
+“She has,” I say.
 
 Neither of them looks at me.
 
-I stand. "I'm right here."
+I stand. “I’m right here.”
 
-Bertran's eyes return to my face. After a moment he nods.
+Bertran’s eyes return to my face. After a moment he nods.
 
-"Come to the gatehouse after the midday bell. Bring your keeper or your employer. If they're willing to attest to what you've told me, we can amend the person responsible for your stay."
+“Come to the gatehouse after the midday bell. Bring your keeper or your employer. If they’re willing to attest to what you’ve told me, we can amend the person responsible for your stay.”
 
-"To me?"
+“To me?”
 
-"We'll discuss that with the book open. It doesn't give you an origin. It doesn't give you leave to stay forever."
+“We’ll discuss that with the book open. It doesn’t give you an origin. It doesn’t give you leave to stay forever.”
 
-"I didn't ask for forever."
+“I didn’t ask for forever.”
 
 “After midday, then.”
 
 He goes back to the cart. I sit down again before Ordway can make me.
 
-"Can you come?" I ask.
+“Can you come?” I ask.
 
 She looks at her stall. The thread is where we left it. The salt is covered. Somebody has put the lid over the peas while we were across the lane, and I have no idea who.
 
-"After I close," she says.
+“After I close,” she says.
 
 I nod because anything else is going to come out embarrassingly.
 
@@ -2352,97 +2352,97 @@ Tolliver finds me counting needles with both sleeves rolled up.
 
 He comes down the middle quickly enough that I see three people move before I see him. His attention goes from the burned awning to the stool, then lands on me so hard that I feel it.
 
-"Maya."
+“Maya.”
 
-"I'm fine."
+“I’m fine.”
 
 He reaches the table, catches himself, and puts both hands flat on its edge instead of on me.
 
-"You're burned."
+“You’re burned.”
 
-"Mostly inconvenienced. The mender looked."
+“Mostly inconvenienced. The mender looked.”
 
 She did. She dabbed something cool on my knuckles, told me I had used more luck than skin, and moved on to Hester, whose apron had saved her from much worse. Ordway told the warden to put the small treatment against the fire account. I do not yet know whose money that is. I intend to find out.
 
-Tolliver's gaze lifts to my plate.
+Tolliver’s gaze lifts to my plate.
 
 His eyes widen. I sit straighter on the stool.
 
-"Two," he says.
+“Two,” he says.
 
-“Two.” I can't keep from smiling.
+“Two.” I can’t keep from smiling.
 
 He lets out a breath, almost a laugh, and for a moment the table might be the only sensible thing between us. I want to show him every part of it. Where the rope caught. How I held the table. The exact second I found the reserve without opening the ring.
 
 I stop with my hand above the needles. Let him ask.
 
-"I kept one," I say.
+“I kept one,” I say.
 
-He nods. "Good."
+He nods. “Good.”
 
 I look down at the needles before that can become worth more than it should.
 
-"I'm going to the gatehouse after the bell. Ordway's coming. To correct the entry."
+“I’m going to the gatehouse after the bell. Ordway’s coming. To correct the entry.”
 
 His hands stay where they are.
 
-"What did you tell them?"
+“What did you tell them?”
 
-"That I didn't agree to belong to anybody."
+“That I didn’t agree to belong to anybody.”
 
-"I told you—"
+“I told you—“
 
-"I know what you told me. I want the book to tell it too."
+“I know what you told me. I want the book to tell it too.”
 
-Ordway is beside us now. She doesn't say anything. Tolliver looks at her, then at the stall, and there is a moment I cannot read because it belongs to a season before I arrived.
+Ordway is beside us now. She doesn’t say anything. Tolliver looks at her, then at the stall, and there is a moment I cannot read because it belongs to a season before I arrived.
 
 He takes his hands off the table.
 
-"I'll go with you if they need me."
+“I’ll go with you if they need me.”
 
-It is a better answer than I expected. I am trying to decide what to do with it when someone behind him says, "Before that, perhaps a word."
+It is a better answer than I expected. I am trying to decide what to do with it when someone behind him says, “Before that, perhaps a word.”
 
 The man is dressed in a brown coat with covered buttons. He is perhaps forty, with a narrow beard and ink along the side of one finger, and his boots have none of the market on them. Above his head hangs **[FACTOR, LV. 18]**.
 
 He waits for me to look at him before he comes any closer.
 
-"Master Vey," Tolliver says. "I told you I'd bring her the terms."
+“Master Vey,” Tolliver says. “I told you I’d bring her the terms.”
 
-"And here I am with them."
+“And here I am with them.”
 
 The factor holds a folded sheet between two fingers. There is a small black bird impressed in a seal at the bottom. I notice the bird because looking at it is easier than looking at him.
 
-"I haven't agreed to go anywhere," I say.
+“I haven’t agreed to go anywhere,” I say.
 
-"Understood."
+“Understood.”
 
 He lays the paper on the table, clear of the salt. Tolliver watches his hand.
 
-"Take it," Vey says. "Read it. Have someone else read it. You'll find the length of service on the first page, compensation on the second, and the conditions for leaving on the third."
+“Take it,” Vey says. “Read it. Have someone else read it. You’ll find the length of service on the first page, compensation on the second, and the conditions for leaving on the third.”
 
-"It's folded," I say. "I haven't found any pages yet."
+“It’s folded,” I say. “I haven’t found any pages yet.”
 
-He smiles without showing his teeth. "A fair correction."
+He smiles without showing his teeth. “A fair correction.”
 
 I do not touch it.
 
-"What's so useful about level one?"
+“What’s so useful about level one?”
 
-His eyes flick upward. "Level two, now. Congratulations."
+His eyes flick upward. “Level two, now. Congratulations.”
 
-"That isn't the question."
+“That isn’t the question.”
 
 The smile goes, leaving something more attentive.
 
-"There are several kinds of useful," he says. "I would like to establish which applies to you before we waste each other's afternoon."
+“There are several kinds of useful,” he says. “I would like to establish which applies to you before we waste each other’s afternoon.”
 
-"We're working," Ordway says.
+“We’re working,” Ordway says.
 
-"Then I'll be brief."
+“Then I’ll be brief.”
 
 He reaches inside his coat.
 
-Tolliver moves half a step, just enough to put his shoulder between the man's hand and me. Vey stops, glances at him, and withdraws his hand slowly.
+Tolliver moves half a step, just enough to put his shoulder between the man’s hand and me. Vey stops, glances at him, and withdraws his hand slowly.
 
 What he brings out is a small leather wallet. Soft, hand-stitched, ordinary. He opens it and takes out something the size of a bank card.
 
@@ -2456,180 +2456,180 @@ MISSOURI.
 
 I forget to breathe.
 
-Beside me, Tolliver says something. I don't hear it. There are numbers on the card and a red mark near the corner and a signature beneath the photograph, and I am reaching before I know my hand has moved.
+Beside me, Tolliver says something. I don’t hear it. There are numbers on the card and a red mark near the corner and a signature beneath the photograph, and I am reaching before I know my hand has moved.
 
 Vey leaves it on the table. He lets me pick it up.
 
 Plastic. It bends slightly between my fingers. The familiar weight of it is almost nothing.
 
-"Do you know what that is?" he asks.
+“Do you know what that is?” he asks.
 
-I look at the woman's face. She has stood in a building on my planet, irritated by a camera and a queue and somebody asking her to take her glasses off. There had been a road outside. Cars in a parking lot. Somebody had printed this and put it in her hand.
+I look at the woman’s face. She has stood in a building on my planet, irritated by a camera and a queue and somebody asking her to take her glasses off. There had been a road outside. Cars in a parking lot. Somebody had printed this and put it in her hand.
 
 I cannot make my voice work the first time.
 
 The second time, it does.
 
-"Where is she?"
+“Where is she?”
 
 
 CHAPTER NINE
 
-"I don't know where she is now," Vey says. "When I last saw her, she was leaving Rook House on foot. She was alive, and she was angry. That was four years ago."
+“I don’t know where she is now,” Vey says. “When I last saw her, she was leaving Rook House on foot. She was alive, and she was angry. That was four years ago.”
 
 Four years.
 
-I press my thumb against the woman's photograph. The nail covers one of her shoulders.
+I press my thumb against the woman’s photograph. The nail covers one of her shoulders.
 
-"You saw her."
+“You saw her.”
 
-"Yes."
+“Yes.”
 
-"Not someone who looked like her. Her."
+“Not someone who looked like her. Her.”
 
-"She had shorter hair by then. But yes."
+“She had shorter hair by then. But yes.”
 
 The card says MERCER, ELENA RUTH. Below that is a birth date in 1993, an issue date in 2023, an expiration date in 2029. An address in Independence. I have driven through Independence. I have complained about traffic there with the air-conditioning on and a drink sweating in the cup holder.
 
 Four years here. A card issued in 2023.
 
-I can't make those numbers useful without knowing when she left, when she arrived, how long she stayed. My brain keeps trying anyway. I start subtracting, lose track, and start again. How old would Mom be? I haven't even got the right year to start from.
+I can’t make those numbers useful without knowing when she left, when she arrived, how long she stayed. My brain keeps trying anyway. I start subtracting, lose track, and start again. How old would Mom be? I haven’t even got the right year to start from.
 
-"Elena," I say.
+“Elena,” I say.
 
-Vey's eyes sharpen.
+Vey’s eyes sharpen.
 
-I wish I hadn't given him that for free.
+I wish I hadn’t given him that for free.
 
-"That is the name we had."
+“That is the name we had.”
 
-"Why do you have her card?"
+“Why do you have her card?”
 
-"She left possessions in a chest. The chest remained when she went."
+“She left possessions in a chest. The chest remained when she went.”
 
-"You kept them."
+“You kept them.”
 
-"The house kept them. I brought this one from the collection."
+“The house kept them. I brought this one from the collection.”
 
-"Collection," I repeat.
+“Collection,” I repeat.
 
 Ordway pushes a sack away from my elbow before I knock it over.
 
-Vey looks at her, then at the customers passing behind us. "Would you prefer somewhere private?"
+Vey looks at her, then at the customers passing behind us. “Would you prefer somewhere private?”
 
-"I'd prefer you answer."
+“I’d prefer you answer.”
 
-"Rook buys unusual objects. Some are recovered from abandoned holdings. Some are sold to us. Some are left by people who don't return. They are inventoried. I don't administer the collection."
+“Rook buys unusual objects. Some are recovered from abandoned holdings. Some are sold to us. Some are left by people who don’t return. They are inventoried. I don’t administer the collection.”
 
-"But you use it to hire people."
+“But you use it to hire people.”
 
-"Occasionally."
+“Occasionally.”
 
 Tolliver is looking at the card now. His mouth is set in a way I recognize from our room, just before an answer gets expensive.
 
-"Did you know?" I ask him.
+“Did you know?” I ask him.
 
-"I knew they wanted someone who could read strange writing. I hadn't seen that."
+“I knew they wanted someone who could read strange writing. I hadn’t seen that.”
 
-"Is that why you found me?"
+“Is that why you found me?”
 
-"No."
+“No.”
 
 The answer has force behind it. Several feet away, a woman turns with a spool in her hand.
 
-He lowers his voice. "I was coming back from a message run. You were on the slope above the creek. I didn't go into those woods looking for you."
+He lowers his voice. “I was coming back from a message run. You were on the slope above the creek. I didn’t go into those woods looking for you.”
 
-"Why did you think I could read it?"
+“Why did you think I could read it?”
 
-"The marks on your shirt."
+“The marks on your shirt.”
 
 I feel the wet cotton again, the hem torn off for my foot, his coat pulled closed over it. CRIT HAPPENS. A stupid joke I bought because Liam had one in a worse color.
 
 Vey watches us. I want to put something over his face.
 
-"You told him about my shirt."
+“You told him about my shirt.”
 
-"This morning," Tolliver says. "When he asked what else was unusual."
+“This morning,” Tolliver says. “When he asked what else was unusual.”
 
 There is a needle on the table between us. One small bent needle Ordway missed. I concentrate on it until I can ask the next question without shouting.
 
-"Anything else?"
+“Anything else?”
 
-"That you didn't know how to spend reserve when I found you. That you learned quickly."
+“That you didn’t know how to spend reserve when I found you. That you learned quickly.”
 
-"Do you want me to leave?" Vey asks.
+“Do you want me to leave?” Vey asks.
 
-"I want you both to stop having conversations about me that I get invited to afterward."
+“I want you both to stop having conversations about me that I get invited to afterward.”
 
 Ordway takes the spool from the waiting woman, names a price, and makes change. It gives me time to breathe. I step closer to the table to let the customer pass, still gripping the license hard enough to bend it.
 
-"How long was Elena at your house?" I ask.
+“How long was Elena at your house?” I ask.
 
-"Nine months, approximately."
+“Nine months, approximately.”
 
-"Did she come in like me? Low level. No origin."
+“Did she come in like me? Low level. No origin.”
 
-"I didn't admit her. I can show you her entry."
+“I didn’t admit her. I can show you her entry.”
 
-"What did she do there?"
+“What did she do there?”
 
-"Survey work. Water levels, old culverts, the lower road. She worked with our keeper of records."
+“Survey work. Water levels, old culverts, the lower road. She worked with our keeper of records.”
 
-"Did she say where she was from?"
+“Did she say where she was from?”
 
-"A place called Missouri. Nobody I asked knew it."
+“A place called Missouri. Nobody I asked knew it.”
 
-Hearing him say it is worse than seeing it printed. He puts the weight in the wrong place, and suddenly I'm hearing an out-of-state caller ask if we're anywhere near St. Louis.
+Hearing him say it is worse than seeing it printed. He puts the weight in the wrong place, and suddenly I’m hearing an out-of-state caller ask if we’re anywhere near St. Louis.
 
-"Why did she leave?"
+“Why did she leave?”
 
-"She wanted access to a site the house had closed. The south sluice. There was an argument about safety and about what she'd been hired to do."
+“She wanted access to a site the house had closed. The south sluice. There was an argument about safety and about what she’d been hired to do.”
 
-"And then she left her ID and all her stuff and walked away?"
+“And then she left her ID and all her stuff and walked away?”
 
-"I saw her leave with a pack. I didn't search it."
+“I saw her leave with a pack. I didn’t search it.”
 
 I turn the card over. The barcode is there. The dark strip. Small printed words I have never cared enough to read on my own license.
 
-A thumbnail has worried the plastic beside one of the stitches. Hers, maybe. Someone else's. The card cannot tell me.
+A thumbnail has worried the plastic beside one of the stitches. Hers, maybe. Someone else’s. The card cannot tell me.
 
-"Can I keep this?"
+“Can I keep this?”
 
-"No."
+“No.”
 
 His first answer without any polish.
 
-"Then I'm going to need something to write on."
+“Then I’m going to need something to write on.”
 
 Ordway opens her till box and takes out a narrow scrap with figures on one side. She sets it down beside a pencil worn nearly to the wood.
 
-I copy Elena's name and the three dates. My hand shakes badly enough that the first nine looks like a four, and I cross it out. I copy the city. Not the street address. If I ever get to use it, I can look her up. If I never do, another street I cannot reach is not going to help.
+I copy Elena’s name and the three dates. My hand shakes badly enough that the first nine looks like a four, and I cross it out. I copy the city. Not the street address. If I ever get to use it, I can look her up. If I never do, another street I cannot reach is not going to help.
 
 Then I put the license down.
 
 Vey slides it back into his wallet. I watch until the flap closes.
 
-"Show me the offer."
+“Show me the offer.”
 
 ---
 
 The letters shift when I unfold the paper.
 
-For a second they are all narrow uprights and little hanging hooks. Then I understand them. The shapes don't become English, exactly. The meaning settles behind them, and I am reading a sentence whose individual letters I couldn't have named a moment ago.
+For a second they are all narrow uprights and little hanging hooks. Then I understand them. The shapes don’t become English, exactly. The meaning settles behind them, and I am reading a sentence whose individual letters I couldn’t have named a moment ago.
 
-I look back at the name I've just written.
+I look back at the name I’ve just written.
 
 ELENA RUTH MERCER.
 
 Those letters stay themselves.
 
-"Read that," I tell Vey, pointing to the scrap.
+“Read that,” I tell Vey, pointing to the scrap.
 
-He studies it. "I recognize that you've repeated the marks on the object."
+He studies it. “I recognize that you’ve repeated the marks on the object.”
 
-"You can't read them?"
+“You can’t read them?”
 
-"No."
+“No.”
 
 Ordway shakes her head before I can ask her. Tolliver does the same.
 
@@ -2641,227 +2641,227 @@ A year of service. Board and bed. Two pieces each week in cash, with clothing, e
 
 I turn the page back.
 
-"What counts as additional instruction?"
+“What counts as additional instruction?”
 
-"Specialist work beyond the course."
+“Specialist work beyond the course.”
 
-"At what price?"
+“At what price?”
 
-"The instructor's price. You would be shown it."
+“The instructor’s price. You would be shown it.”
 
-"Before?"
+“Before?”
 
 Vey points to a line. Before approval. It is there. I mark it with my finger and keep reading.
 
-Leaving requires thirty days' notice and settlement of outstanding charges. Work produced in service belongs to the house. Objects recovered during assigned work belong to the house. The words are plain once I have them, and large enough to fit a driver's license through.
+Leaving requires thirty days’ notice and settlement of outstanding charges. Work produced in service belongs to the house. Objects recovered during assigned work belong to the house. The words are plain once I have them, and large enough to fit a driver’s license through.
 
-"Does this let you keep somebody until they pay?"
+“Does this let you keep somebody until they pay?”
 
-"It lets us pursue a debt."
+“It lets us pursue a debt.”
 
-"That wasn't what I asked."
+“That wasn’t what I asked.”
 
-"Under this agreement, a person with an unsettled account cannot demand release from the service term."
+“Under this agreement, a person with an unsettled account cannot demand release from the service term.”
 
 Across the table, Ordway stops winding a loose length of thread.
 
 I fold the third page over the first.
 
-"No."
+“No.”
 
-Vey doesn't reach for it. "Which provision?"
+Vey doesn’t reach for it. “Which provision?”
 
-"The year. The unknown bill. You deciding what I learn. The part where anything I find about my own home becomes yours because I'm doing your job when I find it. Pick one."
+“The year. The unknown bill. You deciding what I learn. The part where anything I find about my own home becomes yours because I’m doing your job when I find it. Pick one.”
 
-He considers me without smiling. "You haven't told me where your home is."
+He considers me without smiling. “You haven’t told me where your home is.”
 
-"And yet you brought that card."
+“And yet you brought that card.”
 
-Tolliver shifts beside me. I don't look at him.
+Tolliver shifts beside me. I don’t look at him.
 
-"I cannot open the whole collection to a visitor," Vey says. "Some pieces are fragile. Some have disputed ownership. Some have harmed people who handled them carelessly."
+“I cannot open the whole collection to a visitor,” Vey says. “Some pieces are fragile. Some have disputed ownership. Some have harmed people who handled them carelessly.”
 
-"You can hire a reader without hiring a person for a year."
+“You can hire a reader without hiring a person for a year.”
 
-"For how much?"
+“For how much?”
 
 I open my mouth, then shut it. Vey waits. He has stopped handling the paper.
 
-One piece for a morning's work. Two pieces a week on his paper, plus room and food. Those numbers mean different things in different arrangements, and I am tired enough to choose the one that sounds biggest.
+One piece for a morning’s work. Two pieces a week on his paper, plus room and food. Those numbers mean different things in different arrangements, and I am tired enough to choose the one that sounds biggest.
 
-"First tell me what you need read."
+“First tell me what you need read.”
 
-"A notebook. Some labels. We have partial copies of inscriptions in the same sort of lettering."
+“A notebook. Some labels. We have partial copies of inscriptions in the same sort of lettering.”
 
-"Elena's notebook?"
+“Elena’s notebook?”
 
-"We believe so."
+“We believe so.”
 
-"How many pages?"
+“How many pages?”
 
-"Thirty-six with writing."
+“Thirty-six with writing.”
 
-"And you can't bring it here."
+“And you can’t bring it here.”
 
-"I am authorized to take samples out. Not the original volume."
+“I am authorized to take samples out. Not the original volume.”
 
 The bell begins before I answer. Its first stroke travels through the boards under my hands.
 
 Ordway puts the thread away.
 
-"We have an appointment," she says.
+“We have an appointment,” she says.
 
-Vey looks toward the gate road. For the first time, his afternoon seems to have developed a problem that isn't me.
+Vey looks toward the gate road. For the first time, his afternoon seems to have developed a problem that isn’t me.
 
-"I'm staying tonight," I tell him. "I can meet you at the tavern afterward. If you have a short agreement for reading, bring that. If you only have this, don't."
+“I’m staying tonight,” I tell him. “I can meet you at the tavern afterward. If you have a short agreement for reading, bring that. If you only have this, don’t.”
 
-"Maya—" Tolliver begins.
+“Maya—“ Tolliver begins.
 
-"Are you coming to the gatehouse?"
+“Are you coming to the gatehouse?”
 
 He shuts his mouth, then nods.
 
-Vey collects the unsigned offer. I keep the scrap with Elena's name.
+Vey collects the unsigned offer. I keep the scrap with Elena’s name.
 
 Before we leave, Ordway pays me.
 
 Eight bits instead of a piece because her till is low. She counts them into my right hand, clear of the sore knuckles.
 
-"Whole morning," she says when I look at her.
+“Whole morning,” she says when I look at her.
 
-"We closed early."
+“We closed early.”
 
-"And you got the rest of the market opened again. I'm not docking you for that."
+“And you got the rest of the market opened again. I’m not docking you for that.”
 
 Nine bits. I curl my fingers around them until the edges hurt. Vey has folded the year-long offer away, and I still have somewhere to sleep tonight.
 
 ---
 
-The gatehouse smells of wet leather and a pot of something that has been kept warm through several people's disappointment.
+The gatehouse smells of wet leather and a pot of something that has been kept warm through several people’s disappointment.
 
 Bertran seats Ordway on a bench and leaves Tolliver and me standing. The book takes up most of his desk. There are slips tucked between the pages, a stone holding one corner flat, and a dark stain where somebody lost an argument with the ink.
 
-"Open," he says.
+“Open,” he says.
 
 I expose my name. Tolliver does the same beside me. Bertran checks us against the entry, then motions us closed again.
 
-"Employer?"
+“Employer?”
 
 Ordway gives her name and the location of her stall. He knows both. He writes them anyway.
 
-"She worked two mornings. Earned a piece each. I'd have her back."
+“She worked two mornings. Earned a piece each. I’d have her back.”
 
-"And lodging?"
+“And lodging?”
 
-I tell him what I've paid and where. He writes that too.
+I tell him what I’ve paid and where. He writes that too.
 
-"The existing entry places responsibility with him," he says, tapping the page without looking at Tolliver. "Are you withdrawing it?"
+“The existing entry places responsibility with him,” he says, tapping the page without looking at Tolliver. “Are you withdrawing it?”
 
-"Yes," Tolliver says.
+“Yes,” Tolliver says.
 
 I wait for the rest. It comes slowly.
 
-"I have no claim on her wages. No service agreement. No debt against her for what I've spent."
+“I have no claim on her wages. No service agreement. No debt against her for what I’ve spent.”
 
-Bertran looks up. "Any advance?"
+Bertran looks up. “Any advance?”
 
-"Four bits. She hasn't used them. They're a gift if she wants them."
+“Four bits. She hasn’t used them. They’re a gift if she wants them.”
 
-"I don't."
+“I don’t.”
 
-"Then she'll return them," Tolliver says.
+“Then she’ll return them,” Tolliver says.
 
-"I can answer."
+“I can answer.”
 
-His jaw tightens. "Yes."
+His jaw tightens. “Yes.”
 
-Bertran dips his pen. "Anything else before I amend this?"
+Bertran dips his pen. “Anything else before I amend this?”
 
 The book is open. The part I asked to change is almost changed. I could take that and get out into the air.
 
-"I've never been to Skell's Holding," I say.
+“I’ve never been to Skell’s Holding,” I say.
 
 Ordway turns her head toward me.
 
-Tolliver doesn't move.
+Tolliver doesn’t move.
 
 The pen stays above the page long enough for a bead of ink to swell at its tip.
 
-"Go on," Bertran says.
+“Go on,” Bertran says.
 
-"He found me in the woods. North of here. I didn't know what to say at the gate, and he told me to let him talk."
+“He found me in the woods. North of here. I didn’t know what to say at the gate, and he told me to let him talk.”
 
-"Did you lose your origin at Skell's?"
+“Did you lose your origin at Skell’s?”
 
-"No."
+“No.”
 
-"Have you ever held an origin?"
+“Have you ever held an origin?”
 
-"Not that I've known."
+“Not that I’ve known.”
 
 He sets the pen down.
 
-"Outside," he tells Tolliver.
+“Outside,” he tells Tolliver.
 
-"I gave you the account."
+“I gave you the account.”
 
-"I remember who spoke. Outside."
+“I remember who spoke. Outside.”
 
-Tolliver goes. There is a window above Bertran's shoulder, too narrow to climb through even if I had the energy. I look at it while he folds his hands.
+Tolliver goes. There is a window above Bertran’s shoulder, too narrow to climb through even if I had the energy. I look at it while he folds his hands.
 
-"Where are you from?"
+“Where are you from?”
 
-"Kansas City."
+“Kansas City.”
 
-"Whose territory?"
+“Whose territory?”
 
-"You won't know it."
+“You won’t know it.”
 
-"That wasn't the question."
+“That wasn’t the question.”
 
-I swallow. "Missouri. In the United States."
+I swallow. “Missouri. In the United States.”
 
 Ordway says nothing. No little noise, no helpful interruption. I am grateful enough to hurt.
 
-Bertran makes me spell the words. I can't name a local road from there to here, or a ship, or a person he can send to verify it. When I tell him I woke in the forest, he asks whether I had been struck. Whether I remember being given a drink. Whether anyone took my things.
+Bertran makes me spell the words. I can’t name a local road from there to here, or a ship, or a person he can send to verify it. When I tell him I woke in the forest, he asks whether I had been struck. Whether I remember being given a drink. Whether anyone took my things.
 
-"I don't know," I say, and finally start crying.
+“I don’t know,” I say, and finally start crying.
 
-It is quiet, which somehow makes it worse. Tears drop off my chin onto the front of my borrowed skirt while I keep answering. No, I don't know which holding owns the forest. No, I don't remember a gate. Yes, the foot was cut after I woke. I know because I remember stepping on it.
+It is quiet, which somehow makes it worse. Tears drop off my chin onto the front of my borrowed skirt while I keep answering. No, I don’t know which holding owns the forest. No, I don’t remember a gate. Yes, the foot was cut after I woke. I know because I remember stepping on it.
 
 Bertran pushes a cloth across the desk. It smells faintly of onions.
 
-"I can't put a country I've never heard of into the origin field," he says.
+“I can’t put a country I’ve never heard of into the origin field,” he says.
 
-"I didn't ask you to."
+“I didn’t ask you to.”
 
-"I'm telling you what I can do."
+“I’m telling you what I can do.”
 
 He waits until I look at him.
 
-"Seven days' provisional stay on your own responsibility, based on work and lodging witnessed here. If you stay longer, come back before it ends. If you leave, register the departure. Your account of where you came from goes in as unverified. No one here is attesting to that."
+“Seven days’ provisional stay on your own responsibility, based on work and lodging witnessed here. If you stay longer, come back before it ends. If you leave, register the departure. Your account of where you came from goes in as unverified. No one here is attesting to that.”
 
-"Can I work?"
+“Can I work?”
 
-"Yes."
+“Yes.”
 
-"Can somebody take my wages?"
+“Can somebody take my wages?”
 
-"Not on the strength of this entry. A lawful debt is a separate matter. So don't sign one because a factor bought you supper."
+“Not on the strength of this entry. A lawful debt is a separate matter. So don’t sign one because a factor bought you supper.”
 
-The corner of Ordway's mouth moves.
+The corner of Ordway’s mouth moves.
 
-He brings Tolliver back in and asks him the same questions without letting me answer. Tolliver says Skell's was destroyed by fever, but he had no reason to think I'd come from there. He admits inventing that connection because an injured adult with an empty origin was likely to be detained while somebody investigated.
+He brings Tolliver back in and asks him the same questions without letting me answer. Tolliver says Skell’s was destroyed by fever, but he had no reason to think I’d come from there. He admits inventing that connection because an injured adult with an empty origin was likely to be detained while somebody investigated.
 
-"You made that my decision with false information," Bertran says.
+“You made that my decision with false information,” Bertran says.
 
-"Yes."
+“Yes.”
 
-"Two pieces for the false declaration. Your standing as an entry witness is suspended until Hale reviews it."
+“Two pieces for the false declaration. Your standing as an entry witness is suspended until Hale reviews it.”
 
 Tolliver reaches for his purse.
 
-I look at the floor while he pays. For a second I want to tell Bertran it wasn't all Tolliver's fault. I press my lips together. He found me barefoot; I didn't ask him to lie.
+I look at the floor while he pays. For a second I want to tell Bertran it wasn’t all Tolliver’s fault. I press my lips together. He found me barefoot; I didn’t ask him to lie.
 
 Bertran writes the payment down, then reads the amendment aloud. Ordway witnesses the employment and lodging statement. Tolliver signs the withdrawal. I sign beneath my own responsibility, in the English letters of my name.
 
@@ -2871,33 +2871,33 @@ Bertran gives me a narrow stamped slip showing the term of my stay and the amend
 
 I go into the other list and select Traveler.
 
-"Changed?" I ask Ordway.
+“Changed?” I ask Ordway.
 
-She looks up. "Changed."
+She looks up. “Changed.”
 
 I let my hand fall. My neck feels exactly the same.
 
-Before Bertran closes the book, I ask about the mender's bill.
+Before Bertran closes the book, I ask about the mender’s bill.
 
-"Market fire fund pays immediate treatment," he says. "Stall dues maintain it. We'll settle damage and fault with the carter and the oil seller. Treatment isn't your debt."
+“Market fire fund pays immediate treatment,” he says. “Stall dues maintain it. We’ll settle damage and fault with the carter and the oil seller. Treatment isn’t your debt.”
 
-Ordway rises with a grunt. "Somebody gets something for my dues at last."
+Ordway rises with a grunt. “Somebody gets something for my dues at last.”
 
 Outside, Tolliver starts to speak. She walks past him and stops in front of me.
 
-"If you stay, come early. If you go, tell me before I open."
+“If you stay, come early. If you go, tell me before I open.”
 
-"I will."
+“I will.”
 
 She squeezes my good hand and heads back toward the market, where half her stock is waiting under a locked cover.
 
 Tolliver and I stand beside the wall.
 
-"I'm sorry," he says.
+“I’m sorry,” he says.
 
 There is no explanation attached. It leaves him looking strangely unfinished.
 
-"For which part?"
+“For which part?”
 
 He takes that without looking away.
 
@@ -2909,21 +2909,21 @@ He looks toward the gatehouse door. “Yes.”
 
 I rub my thumb over the stamped slip. He has paid two pieces, lost the finding fee, and let the warden write him down as a liar. I want to take his hand. I put the slip away instead.
 
-“I thought you'd be safer there,” he says.
+“I thought you’d be safer there,” he says.
 
 “Do you still?”
 
 “Yes.”
 
-At least he doesn't make that easy for me.
+At least he doesn’t make that easy for me.
 
-A cart rattles through the gate. For several seconds we can't hear each other even if we want to.
+A cart rattles through the gate. For several seconds we can’t hear each other even if we want to.
 
-"Do you actually know how to get to Rook House?" I ask when it passes.
+“Do you actually know how to get to Rook House?” I ask when it passes.
 
-"Yes."
+“Yes.”
 
-"Good. I may need directions."
+“Good. I may need directions.”
 
 ---
 
@@ -2931,33 +2931,33 @@ Vey waits in the tavern with a new sheet and no supper.
 
 I wash first. The keeper lends me ash and a rag for the boots, and I scrub until the soles stop sliding on the yard stones. The scrape on my arm burns under clean water. When I finally sit across from him, my hair is still damp and one side ends in a small, ugly fringe.
 
-I make him move the paper away from a ring left by somebody's ale.
+I make him move the paper away from a ring left by somebody’s ale.
 
 Six days of reading work after arrival. One piece for each day worked, paid that evening. No advances. Meals and bed on the journey and throughout the visit, including any wait for return passage. A cart seat there, and one back to Greyward on the first house cart within three days after I finish or leave. Those costs cannot be charged back. I may stop the work at any time; pay already earned remains mine. No change of origin. No choice of run made for me.
 
-There is no training course. A short hire doesn't buy one.
+There is no training course. A short hire doesn’t buy one.
 
 In return, Rook gets my translations of the named notebook and its associated labels. No obligation to open mechanisms, enter closed works, or surrender possessions I bring with me. I can keep copies of my translations and notes about Elena. I cannot take the original objects.
 
-"I want her entry and departure records before I begin," I say.
+“I want her entry and departure records before I begin,” I say.
 
 Vey adds the line.
 
-"And if she's in your house now?"
+“And if she’s in your house now?”
 
-He sets down the pen. "Then you will be allowed to speak with her. But I do not expect that to be the case."
+He sets down the pen. “Then you will be allowed to speak with her. But I do not expect that to be the case.”
 
 I make him add it anyway.
 
-"Tolliver's fee?"
+“Tolliver’s fee?”
 
-"Requires a service entry. This isn't one. He earns nothing from it."
+“Requires a service entry. This isn’t one. He earns nothing from it.”
 
-Tolliver is at another table, close enough to hear. His expression changes, but he doesn't argue.
+Tolliver is at another table, close enough to hear. His expression changes, but he doesn’t argue.
 
 Vey signs both copies. The keeper comes over to witness after I ask her. She reads the pay and departure clauses, then turns the page back and starts from the top. I wait with the pen in my hand.
 
-"Return passage includes food," she says.
+“Return passage includes food,” she says.
 
 Vey adds that too.
 
@@ -2965,11 +2965,11 @@ I sign.
 
 He leaves me one copy and tells me the cart departs from the south gate at first bell. Then he goes upstairs to arrange his own affairs, carrying the card with him.
 
-I buy stew and bread for two bits. Seven left. After I eat, I go upstairs for Tolliver's four coins. He is still at his table when I bring them down and put them beside his hand.
+I buy stew and bread for two bits. Seven left. After I eat, I go upstairs for Tolliver’s four coins. He is still at his table when I bring them down and put them beside his hand.
 
 He sweeps them into his purse. One catches on the seam, and he has to push it down with his finger.
 
-Later, alone, I lay out the contract, the gate slip, and the scrap bearing Elena's name. Two reserve now. I set the paper beside the candle.
+Later, alone, I lay out the contract, the gate slip, and the scrap bearing Elena’s name. Two reserve now. I set the paper beside the candle.
 
 Under the name I add a question in English.
 
@@ -2982,23 +2982,23 @@ CHAPTER TEN
 
 Everything I own fits inside a flour sack.
 
-The keeper gives me one with a split seam and lets me use her needle while she counts yesterday's money. I mend it badly, turn the repaired side inward, and put my Earth clothes at the bottom. The shirt still smells faintly of the forest. I fold the black shorts inside it and tie the bundle with a piece of string so I won't have to see it every time I need something.
+The keeper gives me one with a split seam and lets me use her needle while she counts yesterday’s money. I mend it badly, turn the repaired side inward, and put my Earth clothes at the bottom. The shirt still smells faintly of the forest. I fold the black shorts inside it and tie the bundle with a piece of string so I won’t have to see it every time I need something.
 
-The contract and gate slip go inside a fold of the woolen garment while I pack, then against my chest when I put it on. Elena's name goes with them. The candle is too short to be much use, but I take it anyway.
+The contract and gate slip go inside a fold of the woolen garment while I pack, then against my chest when I put it on. Elena’s name goes with them. The candle is too short to be much use, but I take it anyway.
 
 Breakfast costs a bit. Six left.
 
-"Key?" the keeper asks.
+“Key?” the keeper asks.
 
-"It bolts from inside."
+“It bolts from inside.”
 
-"Then you're done."
+“Then you’re done.”
 
 I wait beside the table until she looks up again. Right. No receipt. I shift the sack to my other hand.
 
-"Thank you for witnessing."
+“Thank you for witnessing.”
 
-"Read it again when you get there. Make sure their copy matches."
+“Read it again when you get there. Make sure their copy matches.”
 
 She goes back to her counting.
 
@@ -3006,35 +3006,35 @@ Outside, the town is only partly awake. A baker is shoveling ash into a bucket. 
 
 Ordway is at her stall before the sun reaches the roofs.
 
-"I'm going," I say.
+“I’m going,” I say.
 
-She looks at the sack. "So I see."
+She looks at the sack. “So I see.”
 
-I tell her about the six days, the pay, the return cart. She asks to see the paper. I hold it while she reads so the corners don't drag through the damp.
+I tell her about the six days, the pay, the return cart. She asks to see the paper. I hold it while she reads so the corners don’t drag through the damp.
 
-"A piece a day," she says. "Would've offered you that for another morning."
+“A piece a day,” she says. “Would’ve offered you that for another morning.”
 
-"I know."
+“I know.”
 
-"No, you didn't. I hadn't offered."
+“No, you didn’t. I hadn’t offered.”
 
 I laugh, and then my throat hurts.
 
-She takes the paper between her fingers at the departure clause. "If they argue with this, send word with a carrier. Put my stall on it. I can't fetch you, but I can get a warden to ask why."
+She takes the paper between her fingers at the departure clause. “If they argue with this, send word with a carrier. Put my stall on it. I can’t fetch you, but I can get a warden to ask why.”
 
-"I don't want you owing somebody for me."
+“I don’t want you owing somebody for me.”
 
-"Then pay the carrier."
+“Then pay the carrier.”
 
 She reaches under the table and brings out a small cloth bag.
 
-"Yesterday's heel. Cheese is good. Hester sent the bread when I told her you might leave."
+“Yesterday’s heel. Cheese is good. Hester sent the bread when I told her you might leave.”
 
 I accept it and feel the bread through the cloth. I had been trying to decide how to ask the price.
 
-"Tell her thank you."
+“Tell her thank you.”
 
-"Come tell her yourself sometime."
+“Come tell her yourself sometime.”
 
 She takes the knot of my flour sack apart, tightens it properly, and gives it back. Then a customer arrives for lamp wicks and our goodbye has to make room for him.
 
@@ -3042,15 +3042,15 @@ At the gate, Bertran reads my departure into the book. I keep the slip; he marks
 
 He is waiting beside a cart loaded with canvas-wrapped crates. His bow is strung. A second cart stands behind it, higher-sided, with sacks roped beneath a cover. Master Vey is arguing with a woman about whether his chest belongs on top.
 
-"Are they paying you for this?" I ask Tolliver.
+“Are they paying you for this?” I ask Tolliver.
 
-"Road escort. Two pieces for the trip. Separate from finding anyone."
+“Road escort. Two pieces for the trip. Separate from finding anyone.”
 
-"You could have mentioned it."
+“You could have mentioned it.”
 
-"Yes," he says. "I could."
+“Yes,” he says. “I could.”
 
-"If you want it cracked when we brake, yes," she says.
+“If you want it cracked when we brake, yes,” she says.
 
 Vey moves the chest.
 
@@ -3058,11 +3058,11 @@ The woman has an old scar through one eyebrow and **[CARTER, LV. 15]** above her
 
 A young woman leans against the wheel eating an apple. **[GUARD, LV. 12]**. Her dark hair is in two short braids, and her nose looks as if it has been broken at least once by someone with a clear intention.
 
-"You're the reader," she says.
+“You’re the reader,” she says.
 
 “Maya.”
 
-She looks at the sack. "Can you sit on a board for a day?"
+She looks at the sack. “Can you sit on a board for a day?”
 
 “I can sit.”
 
@@ -3070,11 +3070,11 @@ She bites the apple again.
 
 Tolliver puts a hand beneath my elbow when I climb, then lets go as soon as I have the rail. I sit on the board Nessa indicated and tuck my sack beneath my knees. The guard swings up opposite me with her pack between her boots.
 
-"Sella," she says.
+“Sella,” she says.
 
 I nod.
 
-"Don't put a finger through the side rail. You'll want to. Don't."
+“Don’t put a finger through the side rail. You’ll want to. Don’t.”
 
 The bell starts. Nessa clicks her tongue, the cart lurches, and I immediately understand why everyone has been giving me instructions about where to put parts of myself.
 
@@ -3088,95 +3088,95 @@ By the second, everything includes an impressive number of hedges. My ass has go
 
 Tolliver walks on the left side of the road, sometimes ahead, sometimes beside us. He touches his throat at a fork, looks along the verge, then keeps going. Sella watches the right. Vey rides in the second cart beside its driver, a quiet man who seems pleased with the arrangement.
 
-"Is Traveler your run?" I ask when Tolliver draws level.
+“Is Traveler your run?” I ask when Tolliver draws level.
 
-"No."
+“No.”
 
-"I know the label isn't necessarily the run. I'm asking what yours is."
+“I know the label isn’t necessarily the run. I’m asking what yours is.”
 
-"Tracker."
+“Tracker.”
 
-"Like finding footprints?"
+“Like finding footprints?”
 
-"Among other things."
+“Among other things.”
 
 I give him a look.
 
-He adjusts his bow strap. "I can hold a trail after it stops being visible. Briefly. If I've found enough of it first. I don't ask the ground where someone is and get an answer."
+He adjusts his bow strap. “I can hold a trail after it stops being visible. Briefly. If I’ve found enough of it first. I don’t ask the ground where someone is and get an answer.”
 
-"Could you find somebody after four years?"
+“Could you find somebody after four years?”
 
-"No."
+“No.”
 
 The directness helps, though I hate the answer.
 
-"Four days?"
+“Four days?”
 
-"Depends on the weather, the ground, and who crossed it after them."
+“Depends on the weather, the ground, and who crossed it after them.”
 
-Sella flicks her apple core into the ditch. "And whether they know how to make him follow a goat."
+Sella flicks her apple core into the ditch. “And whether they know how to make him follow a goat.”
 
-"Once," Tolliver says.
+“Once,” Tolliver says.
 
-"An entire afternoon."
+“An entire afternoon.”
 
-I look between them. "You know each other."
+I look between them. “You know each other.”
 
-"Work," she says. "Last winter. He found the goat eventually."
+“Work,” she says. “Last winter. He found the goat eventually.”
 
 He walks ahead while she smiles into her sleeve.
 
 For a few minutes the road becomes almost pleasant. I ask about her run. Warder, she says. Her father taught her the first holds before she could carry the shield properly. She has worked caravans for three years, since she was eighteen, and has never been to the coast because every person hiring eastbound wants her for a westbound rate.
 
-"Ordway wanted to see the coast," I say.
+“Ordway wanted to see the coast,” I say.
 
 “I want to get past the ridge before the autumn hiring ends. Get a winter berth on one of the coastal runs.”
 
 A bird lifts from the hedge with a clatter like shaken cutlery. Its plate is gone before I can read it.
 
-"Does being a warder mean you have to stay in one place?"
+“Does being a warder mean you have to stay in one place?”
 
-"It means I get paid to keep something from coming through a place. Different amount of standing."
+“It means I get paid to keep something from coming through a place. Different amount of standing.”
 
-"Can you fight?"
+“Can you fight?”
 
 She looks down at the sword between her knees, then back at me.
 
-"Fair," I say.
+“Fair,” I say.
 
-"A run helps. It doesn't do all of you. Nessa can break your arm, and hers is Hauler."
+“A run helps. It doesn’t do all of you. Nessa can break your arm, and hers is Hauler.”
 
-"Both arms," Nessa says from the front. "Stay seated until we stop."
+“Both arms,” Nessa says from the front. “Stay seated until we stop.”
 
 I settle back against a crate.
 
 My measure this morning was full: four out of four. The two points I lacked last night returned while I slept. My scraped arm is crusted and sore. I ease the fingers of my left hand open against my knee.
 
-"Could you show me?" I ask Sella. "When we stop."
+“Could you show me?” I ask Sella. “When we stop.”
 
-She studies me more carefully. "Your run's unset?"
+She studies me more carefully. “Your run’s unset?”
 
-"Yes."
+“Yes.”
 
-"What have you spent on?"
+“What have you spent on?”
 
-"Strength. Once with a basin. Twice with a table that was on fire."
+“Strength. Once with a basin. Twice with a table that was on fire.”
 
-"We'll use something less ambitious."
+“We’ll use something less ambitious.”
 
 I tell her about the basin and the fire. She asks which hand held the table, where my feet were, and what happened when the strength ended. The questions make me realize how little of the rescue I could repeat on purpose.
 
-"At the watering place," she says. "If you're still interested after you've tried walking again."
+“At the watering place,” she says. “If you’re still interested after you’ve tried walking again.”
 
 ---
 
 I am interested. Walking again is an argument between several parts of me, but I win it.
 
-The watering place is a stone trough beside a stand of low trees. Nessa checks the horses' legs while the other driver looks over a wheel. Tolliver goes a little way up the rise where he can see the road behind us. Nobody has to announce that we are taking precautions. They fit them around eating and pissing and arguing over a loose strap.
+The watering place is a stone trough beside a stand of low trees. Nessa checks the horses’ legs while the other driver looks over a wheel. Tolliver goes a little way up the rise where he can see the road behind us. Nobody has to announce that we are taking precautions. They fit them around eating and pissing and arguing over a loose strap.
 
 Sella gives me a wooden shield with a metal rim. It is the spare, and has a split repaired with two staples. My arm objects before I have it in position.
 
-"No," she says. "Closer. Let your elbow rest. You're holding it too far out."
+“No,” she says. “Closer. Let your elbow rest. You’re holding it too far out.”
 
 She turns my wrist, gets permission before adjusting the sore hand, and shows me how the strap takes some of the weight.
 
@@ -3186,17 +3186,17 @@ She pushes the shield with one hand. The rim turns across my body, my rear foot 
 
 “I noticed.”
 
-She offers a hand. I take it with the one that isn't trapped in military equipment.
+She offers a hand. I take it with the one that isn’t trapped in military equipment.
 
-We try again without reserve. Bend the knees. Don't lock the elbow. Put the shield where the blow is going, rather than chasing it after it arrives. She taps the rim with a stick and I move too far, too late, or occasionally in an entirely unhelpful direction.
+We try again without reserve. Bend the knees. Don’t lock the elbow. Put the shield where the blow is going, rather than chasing it after it arrives. She taps the rim with a stick and I move too far, too late, or occasionally in an entirely unhelpful direction.
 
 I am sweating by the time she has me stand against a tree.
 
-"Your burst makes more force," she says. "What happens if I push you sideways while you're making it?"
+“Your burst makes more force,” she says. “What happens if I push you sideways while you’re making it?”
 
 “I fall over.”
 
-“Spend one. Hold the shield. Don't push me.”
+“Spend one. Hold the shield. Don’t push me.”
 
 I find the reserve. The weight leaves my arm.
 
@@ -3204,73 +3204,73 @@ Sella presses a hand to the rim. I hold. She moves the hand a few inches, change
 
 **[RESERVE: 3 / 4]**
 
-"Strong isn't planted," she says. "A first warder's hold keeps the force on the line you set. Shield through arm, back, leg, ground. If any of those gives, the hold gives."
+“Strong isn’t planted,” she says. “A first warder’s hold keeps the force on the line you set. Shield through arm, back, leg, ground. If any of those gives, the hold gives.”
 
-"How do I tell it which line?"
+“How do I tell it which line?”
 
-"By knowing where you're braced."
+“By knowing where you’re braced.”
 
 She demonstrates. I push the shield with both hands. It feels ordinary at first, heavy and difficult to move because she is a trained adult doing a thing she knows. Then something changes. The slight give disappears. I might as well be pushing the trunk behind her.
 
 Three breaths later it is a shield again.
 
-"That's Brace. One point. Three breaths if you keep the shape. Less if you panic and try to do something else with it."
+“That’s Brace. One point. Three breaths if you keep the shape. Less if you panic and try to do something else with it.”
 
-"And I need your run to do it?"
+“And I need your run to do it?”
 
-"You need a warder's pattern to hold it that neatly. You can waste reserve getting close without one. Most of us do, learning."
+“You need a warder’s pattern to hold it that neatly. You can waste reserve getting close without one. Most of us do, learning.”
 
 I let my hands fall.
 
 She lowers the shield and shows me the stance again, this time from the side, then hands it over. I follow without spending. I can feel the difference between holding my arm rigid and letting the pressure find the ground. Mostly I can feel the places where I do it wrong.
 
-"I wanted a sword," I say.
+“I wanted a sword,” I say.
 
-"Buy one."
+“Buy one.”
 
-"A magic sword. Fire. Possibly a dramatic coat."
+“A magic sword. Fire. Possibly a dramatic coat.”
 
-"You'll want a better wage."
+“You’ll want a better wage.”
 
-I laugh. She waits until I've finished, then taps my elbow down.
+I laugh. She waits until I’ve finished, then taps my elbow down.
 
-"Take the run because you want to learn what it does. Don't take it because I happen to have a spare shield. We can practice stance without it."
+“Take the run because you want to learn what it does. Don’t take it because I happen to have a spare shield. We can practice stance without it.”
 
 For another few minutes we do. When I open my measure afterward, progress has moved to two out of fourteen.
 
 I show her my face before I can help it.
 
-"What?"
+“What?”
 
-"One point."
+“One point.”
 
-"You learned something."
+“You learned something.”
 
-"I learned about thirty things."
+“I learned about thirty things.”
 
-“Put the shield back. Nessa's ready.”
+“Put the shield back. Nessa’s ready.”
 
 At the cart, Tolliver hands me my cloth bag of food.
 
-"You looked good," he says.
+“You looked good,” he says.
 
-"I fell over."
+“I fell over.”
 
-“Sella didn't let me touch her shield until I'd carried it a mile. She likes you.”
+“Sella didn’t let me touch her shield until I’d carried it a mile. She likes you.”
 
 “Is that what the bruises mean?”
 
-He smiles, and I get a brief, deeply inconvenient picture of that mouth against mine. Then I bite into Hester's bread and discover that I am hungry enough for desire to wait its turn.
+He smiles, and I get a brief, deeply inconvenient picture of that mouth against mine. Then I bite into Hester’s bread and discover that I am hungry enough for desire to wait its turn.
 
 ---
 
 After midday the fields fall away. The road runs between shallow pools with reeds standing in brown water. There is a raised stone crossing ahead, no railing, wide enough for one cart at a time. Beyond it the ground climbs toward a low building with smoke coming from its roof.
 
-"Wayhouse," Sella says. "We'll stop there."
+“Wayhouse,” Sella says. “We’ll stop there.”
 
-"Already?"
+“Already?”
 
-"Last dry yard before the long stretch. Tomorrow we start earlier."
+“Last dry yard before the long stretch. Tomorrow we start earlier.”
 
 Tolliver stops at the crossing. Nessa stops behind him, and the second driver reins in with enough space left between the carts to turn.
 
@@ -3278,15 +3278,15 @@ No one looks surprised by the delay. I sit still and try to be useful by occupyi
 
 Tolliver crouches beside a low iron grille under the nearest edge of the stonework. One corner has pulled loose. Water slides through the gap with bits of weed turning in it.
 
-"Reed-jacks," he says.
+“Reed-jacks,” he says.
 
 Nessa swears.
 
-Sella is off the cart immediately, sword out. "Fresh?"
+Sella is off the cart immediately, sword out. “Fresh?”
 
-"Mud's still running."
+“Mud’s still running.”
 
-"Maya. Feet up on the bed. Stay behind the crates."
+“Maya. Feet up on the bed. Stay behind the crates.”
 
 I move before I ask what a reed-jack is.
 
@@ -3296,25 +3296,25 @@ Something brown and narrow slips through the water beyond Tolliver. My first imp
 
 Its teeth are yellow. I get both feet behind the crate.
 
-Tolliver backs onto the road with an arrow drawn. Sella walks toward the horse's head, putting herself between it and the water. Nessa turns the animal slowly. Behind us, the other driver is already backing his cart toward the wider part of the road.
+Tolliver backs onto the road with an arrow drawn. Sella walks toward the horse’s head, putting herself between it and the water. Nessa turns the animal slowly. Behind us, the other driver is already backing his cart toward the wider part of the road.
 
-"Keep turning," Tolliver says. "There's a second."
+“Keep turning,” Tolliver says. “There’s a second.”
 
 The first one comes low and fast, barely lifting out of the ditch. His arrow takes it in the shoulder. It tumbles, gets up, and Sella meets it with the edge of her shield.
 
-The sound is hideous. Bone or wood, I can't tell. The horse jerks sideways and the whole cart rocks beneath me.
+The sound is hideous. Bone or wood, I can’t tell. The horse jerks sideways and the whole cart rocks beneath me.
 
 I grab a crate. My sore knuckles reopen against the rope.
 
 The second creature hits the back of the cart.
 
-I don't see it jump. There is a wet slap, then claws drag across the board beside my boot. A narrow head comes over the tail rail with its whiskers spread and black eyes fixed on me.
+I don’t see it jump. There is a wet slap, then claws drag across the board beside my boot. A narrow head comes over the tail rail with its whiskers spread and black eyes fixed on me.
 
 The spare shield is strapped to the crate at my left knee.
 
 I pull at it. The buckle doesn’t come loose. I yank again. My fingers keep slipping off the tongue.
 
-"Back of the cart!" I shout.
+“Back of the cart!” I shout.
 
 Vey shouts something in reply from behind us. The animal snaps at my moving hand and its teeth close on the edge of the sack instead. Flour dust puffs from the seam.
 
@@ -3322,19 +3322,19 @@ My shirt is in there.
 
 I get the buckle open.
 
-The shield comes free. I put it between us without getting my arm through the strap, both hands on the back, and shove. The creature's forefeet slide off the rail. For half a second I think I've done it.
+The shield comes free. I put it between us without getting my arm through the strap, both hands on the back, and shove. The creature’s forefeet slide off the rail. For half a second I think I’ve done it.
 
 Then it lands on the road, turns under the cart, and vanishes.
 
-"Where?" Tolliver calls.
+“Where?” Tolliver calls.
 
-"Under me!"
+“Under me!”
 
 Nessa is holding the horse with both hands on the reins. If it bolts, Tolliver is in front of the wheel. If she lets go to help me, the whole situation becomes faster and worse.
 
 Sella has the first animal pinned away from the horse. I can hear her swearing each time it pulls against her sword.
 
-I drag the sack behind the crate with my heel. The tail rail is barely knee-high when I'm standing. I sit with my back against the load and get my arm into the shield properly.
+I drag the sack behind the crate with my heel. The tail rail is barely knee-high when I’m standing. I sit with my back against the load and get my arm into the shield properly.
 
 Something scrapes beneath the bed.
 
@@ -3344,9 +3344,9 @@ My boots find the crossbeam beneath the opposite rail.
 
 Shield. Arm. Back. Legs.
 
-I can feel where the shove would go. Into the crate, through my hips, down to the soles pressed against the beam. The cart is moving slightly with the frightened horse. I am braced against the cart, not the road. I don't know if that counts.
+I can feel where the shove would go. Into the crate, through my hips, down to the soles pressed against the beam. The cart is moving slightly with the frightened horse. I am braced against the cart, not the road. I don’t know if that counts.
 
-The creature's head rises.
+The creature’s head rises.
 
 I reach for the shape Sella showed me.
 
@@ -3376,7 +3376,7 @@ The shield drives against my arm, but the force runs through me instead of foldi
 
 One breath.
 
-"Here!" I yell. "At the back!"
+“Here!” I yell. “At the back!”
 
 Two.
 
@@ -3384,9 +3384,9 @@ A blade comes past my right side. I jerk away from it, and the hold breaks.
 
 Weight slams into my shoulder.
 
-"Stay still!" Vey says.
+“Stay still!” Vey says.
 
-He is on the road behind the cart with a short knife. He has cut across one foreleg, but the thing hasn't let go. His clean brown sleeve is wet to the elbow.
+He is on the road behind the cart with a short knife. He has cut across one foreleg, but the thing hasn’t let go. His clean brown sleeve is wet to the elbow.
 
 I set my feet again. The pattern is there, easier to find and harder to trust.
 
@@ -3394,27 +3394,27 @@ One more point.
 
 This time I hold while Vey gets clear.
 
-Sella pulls her sword free of the first body and reaches us before the third breath. She takes the creature behind the skull with her sword, pulls it off the rail, and uses her boot to keep it down. The body beats against the road. I shut my eyes, which doesn't make any part of the sound go away.
+Sella pulls her sword free of the first body and reaches us before the third breath. She takes the creature behind the skull with her sword, pulls it off the rail, and uses her boot to keep it down. The body beats against the road. I shut my eyes, which doesn’t make any part of the sound go away.
 
-"Clear," she says.
+“Clear,” she says.
 
 I keep holding.
 
-"Maya. It's clear."
+“Maya. It’s clear.”
 
 The strength drains out of the shield. I lower it onto my knees and start shaking so hard the metal rim knocks against the wood.
 
 Tolliver comes around the cart with his bow down. There is blood on one sleeve. He looks at me, at the shield, then beneath the cart, checking even now.
 
-"Bitten?"
+“Bitten?”
 
 I shake my head. Then I look at my arms because being wrong seems possible.
 
 No holes. The old scrape. The broken knuckles. A long red mark where the strap crossed my wrist.
 
-"No."
+“No.”
 
-He puts his hand on the rim to stop the knocking. He doesn't try to take it until I let him.
+He puts his hand on the rim to stop the knocking. He doesn’t try to take it until I let him.
 
 ---
 
@@ -3434,63 +3434,63 @@ I check the sack before I sit on the mounting block. Two tooth holes near the kn
 
 **[RUN: WARDER]**
 
-Under the run, when I attend to it, Brace opens into the same shape I found against the crate. I can recall it without spending. I don't try to use it.
+Under the run, when I attend to it, Brace opens into the same shape I found against the crate. I can recall it without spending. I don’t try to use it.
 
 Sella crouches in front of me.
 
-"You took it."
+“You took it.”
 
-"Yes."
+“Yes.”
 
-"Any pain when you breathe?"
+“Any pain when you breathe?”
 
 I test carefully. My shoulder aches. My ribs move without anything sharp.
 
-"No."
+“No.”
 
 She checks the strap mark after I offer my arm.
 
-"Your back support moved. Next time, choose something that won't."
+“Your back support moved. Next time, choose something that won’t.”
 
-“I didn't have anything else.”
+“I didn’t have anything else.”
 
 “I know.” She turns my wrist over to check the skin beneath the strap.
 
 I look at the shield in the dirt. The tooth marks are much deeper than I expected.
 
-"Did I choose wrong?"
+“Did I choose wrong?”
 
 She sits beside me instead of answering immediately.
 
-"I can't tell you whether you'll want it in ten years. I can tell you that getting scared doesn't make the choice worthless. You'll have to learn it somewhere quieter now."
+“I can’t tell you whether you’ll want it in ten years. I can tell you that getting scared doesn’t make the choice worthless. You’ll have to learn it somewhere quieter now.”
 
-"Does it always do that? Offer the word when you try?"
+“Does it always do that? Offer the word when you try?”
 
-"If you've got enough of the pattern. Some people practice for weeks. Some take it on the first good attempt. A word you don't understand won't hold a run for you."
+“If you’ve got enough of the pattern. Some people practice for weeks. Some take it on the first good attempt. A word you don’t understand won’t hold a run for you.”
 
 I rub the heel of my hand against my skirt.
 
-"I stopped moving. That's what I picked."
+“I stopped moving. That’s what I picked.”
 
-"For a few breaths. When I fight, do I look nailed to the road?"
+“For a few breaths. When I fight, do I look nailed to the road?”
 
-I think about her moving from the horse to the back of the cart. "No."
+I think about her moving from the horse to the back of the cart. “No.”
 
-“I'll show you. When that arm stops shaking.”
+“I’ll show you. When that arm stops shaking.”
 
 She gets up, retrieves her shield, and carries it to the trough to wash off the blood.
 
-Tolliver brings water in a cup. I drink half before noticing he's watching my hand.
+Tolliver brings water in a cup. I drink half before noticing he’s watching my hand.
 
-"I can hold it," I say.
+“I can hold it,” I say.
 
-"I know."
+“I know.”
 
 He sits on the ground, leaving the mounting block to me. There is a slice through the outer wool of his sleeve. The skin beneath is unbroken.
 
-"I thought it got you," I tell him.
+“I thought it got you,” I tell him.
 
-"The blood isn't mine."
+“The blood isn’t mine.”
 
 I put the cup down and touch the torn edge anyway. He goes still under my fingers.
 
@@ -3504,27 +3504,27 @@ I leave my hand where it is.
 
 After a while he turns his palm up on his knee. I move my fingers down to it. Neither of us pulls. His hand is warm and has a callus along the base of the fingers where the bowstring must rub.
 
-We sit like that until Nessa comes to tell us where we're sleeping. His palm is damp when I let go.
+We sit like that until Nessa comes to tell us where we’re sleeping. His palm is damp when I let go.
 
 ---
 
-The short-hire agreement gets me stew, a place on a shared sleeping platform, and a blanket that smells aggressively of sheep. I eat Hester's remaining bread with the stew. My six bits remain six.
+The short-hire agreement gets me stew, a place on a shared sleeping platform, and a blanket that smells aggressively of sheep. I eat Hester’s remaining bread with the stew. My six bits remain six.
 
 Vey has washed his sleeve. A pale patch remains where the blood was. I keep looking at it while I eat.
 
-"Thank you," I say when he sits across from me.
+“Thank you,” I say when he sits across from me.
 
-"You're welcome."
+“You’re welcome.”
 
 I remember his knife coming past the shield. I had thought he would stay in the other cart. He is waiting for me to say something else, so I take another spoonful.
 
 He puts a folded sheet on the table.
 
-"A tracing from the notebook. I brought it as a second sample. For you to look at, if you wish. You don't owe me a word of work before you've seen the records."
+“A tracing from the notebook. I brought it as a second sample. For you to look at, if you wish. You don’t owe me a word of work before you’ve seen the records.”
 
-"Tomorrow," I say automatically. My shoulder is throbbing, and I have reached the point where reading prices on a menu would count as advanced scholarship.
+“Tomorrow,” I say automatically. My shoulder is throbbing, and I have reached the point where reading prices on a menu would count as advanced scholarship.
 
-"As you prefer."
+“As you prefer.”
 
 He leaves it on the table.
 
@@ -3534,13 +3534,13 @@ There is a diagram in faded copied lines: a channel, two circles, a box with an 
 
 Not printed. Handwritten. Crossed out in places. Whoever made the tracing preserved even a small spiral doodle beside one of the circles.
 
-I put my finger below the first line so I won't skip anything.
+I put my finger below the first line so I won’t skip anything.
 
 *First gate changes the water level. Second changes where the water comes from.*
 
 Below it, underlined twice:
 
-*It isn't a drain.*
+*It isn’t a drain.*
 
 There is one more note at the bottom. The letters get smaller toward the end, squeezed into the space before the edge of the paper.
 
@@ -3550,27 +3550,27 @@ I look up.
 
 Vey has not gone upstairs. He is waiting by the hearth with his hands clasped behind his back.
 
-"Did she write this before she left?" I ask.
+“Did she write this before she left?” I ask.
 
-"We think so."
+“We think so.”
 
-"What happened at the south sluice?"
+“What happened at the south sluice?”
 
 He draws out the chair again.
 
-"I'll have the closure record brought with the other documents you've asked to see."
+“I’ll have the closure record brought with the other documents you’ve asked to see.”
 
-"I'm asking you."
+“I’m asking you.”
 
 For a moment the common room seems very loud around us. Spoons against bowls. Nessa arguing pleasantly about the quality of the hay. Somebody shifting a log in the fire.
 
-"Two people went below," he says. "One came back."
+“Two people went below,” he says. “One came back.”
 
 I flatten the page with my good hand.
 
-"Which one was Elena?"
+“Which one was Elena?”
 
-"The one who came back."
+“The one who came back.”
 
 
 CHAPTER ELEVEN
@@ -3579,7 +3579,7 @@ CHAPTER ELEVEN
 
 Vey pulls his chair nearer the table. A man behind him laughs at something, loud enough to make me hate him for half a second.
 
-“Iven Orrel. A sluicewright in the house's employ.”
+“Iven Orrel. A sluicewright in the house’s employ.”
 
 “Did you know him?”
 
@@ -3587,7 +3587,7 @@ Vey pulls his chair nearer the table. A man behind him laughs at something, loud
 
 “What happened?”
 
-“I wasn't below with them.”
+“I wasn’t below with them.”
 
 “Then start where you were.”
 
@@ -3597,9 +3597,9 @@ He looks at the tracing beneath my hand.
 
 “The second gate?”
 
-“I don't know what she called them. They had stopped the inner wheel by the time I arrived.”
+“I don’t know what she called them. They had stopped the inner wheel by the time I arrived.”
 
-“Why wouldn't they open it?”
+“Why wouldn’t they open it?”
 
 “Because the man who worked it had just lost someone.”
 
@@ -3607,7 +3607,7 @@ I lift my hand off the paper. There is a damp print where my palm was.
 
 Vey takes a slow breath.
 
-“She said Iven was on a stair. There was no stair on the works plan. She wanted the wheel turned to a particular position so she could go back for him. The foreman refused. They'd had water rising in a chamber that should have been drained. His first duty was to the people he could still reach.”
+“She said Iven was on a stair. There was no stair on the works plan. She wanted the wheel turned to a particular position so she could go back for him. The foreman refused. They’d had water rising in a chamber that should have been drained. His first duty was to the people he could still reach.”
 
 “What did you do?”
 
@@ -3645,27 +3645,27 @@ For a moment I have nothing to say.
 
 The common room carries on around us. Someone asks for salt. The fire spits. I had been ready to drag the admission out of him. He sits there waiting for me, and I have to unclench my teeth before I can speak.
 
-“You don't get credit for saying that now.”
+“You don’t get credit for saying that now.”
 
-“I wasn't asking for it.”
+“I wasn’t asking for it.”
 
 “Then why say it?”
 
 “Because Dain will tell you tomorrow.”
 
-I look up. Vey's face has gone red above the collar.
+I look up. Vey’s face has gone red above the collar.
 
 “You could tell him not to.”
 
-“He wouldn't listen.”
+“He wouldn’t listen.”
 
-I fold the tracing along its old crease. Carefully. It belongs to a woman who tried to bring somebody back, or to a woman who made a terrible mistake and couldn't accept it. So far I have one man's account of both possibilities.
+I fold the tracing along its old crease. Carefully. It belongs to a woman who tried to bring somebody back, or to a woman who made a terrible mistake and couldn’t accept it. So far I have one man’s account of both possibilities.
 
 “Who can tell me what happened below?”
 
-“Only Elena could tell you all of it. Dain worked the wheel. He's still at Rook.”
+“Only Elena could tell you all of it. Dain worked the wheel. He’s still at Rook.”
 
-“And this Orrel man's family?”
+“And this Orrel man’s family?”
 
 “His sister is our keeper of records.”
 
@@ -3675,13 +3675,13 @@ I fold the tracing along its old crease. Carefully. It belongs to a woman who tr
 
 I lean back. My shoulder complains, a deep ache that travels down the outside of my arm.
 
-“Does she know you're bringing me?”
+“Does she know you’re bringing me?”
 
-“She knows I've hired a reader.”
+“She knows I’ve hired a reader.”
 
 “Does she know why you think I can read it?”
 
-“I sent word that you recognized the marks on Elena's card. Nothing about your origin.”
+“I sent word that you recognized the marks on Elena’s card. Nothing about your origin.”
 
 I repeat the wording silently so I can ask Mara tomorrow.
 
@@ -3693,19 +3693,19 @@ Vey reaches toward the folded tracing, then stops short of it.
 
 He gets up. Before he can leave, I ask the question that has been underneath all the others.
 
-“Do you think she's alive?”
+“Do you think she’s alive?”
 
 “I saw a woman leave with food, money, and a walking staff. She had learned a great deal in nine months.”
 
-“That's not an answer.”
+“That’s not an answer.”
 
-“No,” he says. “It isn't.”
+“No,” he says. “It isn’t.”
 
 ---
 
 Sella finds me beside the wash trough trying to get a strip of linen around my knuckles with my teeth.
 
-“You'll make those filthy.”
+“You’ll make those filthy.”
 
 “I rinsed them.”
 
@@ -3715,7 +3715,7 @@ I lower my hand.
 
 She takes the strip the wayhouse woman gave me and asks permission before inspecting the skin. The bleeding stopped hours ago. Water has softened the edges, and I have been bending my fingers to see if they hurt, which turns out to be an excellent way of keeping them that way.
 
-Sella wraps them loosely. The linen is included in the wayhouse's charge to Vey, according to the woman, who looked much less concerned about this expenditure than I did.
+Sella wraps them loosely. The linen is included in the wayhouse’s charge to Vey, according to the woman, who looked much less concerned about this expenditure than I did.
 
 “Does Brace work without a shield?” I ask.
 
@@ -3735,7 +3735,7 @@ I look toward the stable. Tolliver is helping Nessa shift a feed sack. He looks 
 
 “I read something about someone who went missing in water.”
 
-“A shield spreads pressure,” Sella says. “A rope puts it through your hands or whatever you've tied it to. Brace doesn't make your skin stronger. It doesn't make the thing behind your feet stronger. If you hold against more than either can take, something tears.”
+“A shield spreads pressure,” Sella says. “A rope puts it through your hands or whatever you’ve tied it to. Brace doesn’t make your skin stronger. It doesn’t make the thing behind your feet stronger. If you hold against more than either can take, something tears.”
 
 “Even if the hold works.”
 
@@ -3747,21 +3747,21 @@ She finishes the knot.
 
 I thank her. She accepts it with a brief nod and goes to check the shield straps before bed.
 
-Inside, the sleeping platform has been divided by bags and elbows into territories nobody admits to claiming. I take the space beside Sella's pack. My sack goes beneath my head, with the tooth holes facing the wall.
+Inside, the sleeping platform has been divided by bags and elbows into territories nobody admits to claiming. I take the space beside Sella’s pack. My sack goes beneath my head, with the tooth holes facing the wall.
 
 My mother keeps her needles in a tin with strawberries on the lid. Even after I knew the cookies were gone, I used to open it. The little paper packets of needles. A tape measure curled like something asleep.
 
-She could fix this sack in five minutes. She'd turn it inside out first and ask why I hadn't brought it over before the holes got so big.
+She could fix this sack in five minutes. She’d turn it inside out first and ask why I hadn’t brought it over before the holes got so big.
 
 I put my wrapped hand over my mouth.
 
 On Earth someone may be trying to find me. Liam heard me fall. I keep returning to that fact as if I can make it a window by polishing it enough. He knows my first and last name. He knows Kansas City. I cannot remember whether I ever gave him my apartment number.
 
-For a while I try to reconstruct every conversation we've had about food delivery.
+For a while I try to reconstruct every conversation we’ve had about food delivery.
 
 Then I stop, because the attempt is doing something ugly to my breathing.
 
-Beside me, Sella turns over without waking. I count her breaths until I can match them. When I finally sleep, there is no forest in it. I dream of my phone ringing in a room I can't enter.
+Beside me, Sella turns over without waking. I count her breaths until I can match them. When I finally sleep, there is no forest in it. I dream of my phone ringing in a room I can’t enter.
 
 ---
 
@@ -3771,11 +3771,11 @@ My reserve is three out of four. I reach for my pack with the wrong arm and have
 
 At the first long stop she gives me a lesson against the side of an old stone cattle pen. Forearms against the wall, feet planted, no shield. She pushes my hip sideways with two fingers and makes my whole carefully arranged body useless.
 
-“You need to know when you've lost it,” she says. “Don't spend because you wanted the first stance to work.”
+“You need to know when you’ve lost it,” she says. “Don’t spend because you wanted the first stance to work.”
 
-We practice moving away, setting again, and admitting when I haven't got it. Nothing flashes or advances; By the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
+We practice moving away, setting again, and admitting when I haven’t got it. Nothing flashes or advances; By the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
 
-The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper's report that a temporary grate was fitted before dawn.
+The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper’s report that a temporary grate was fitted before dawn.
 
 The man lifts a hand in thanks and heads back along the bank. Near midday, the road rises. I see Rook House from the top.
 
@@ -3795,7 +3795,7 @@ A clerk checks names against a slate. I expose mine when asked. He looks from my
 
 The clerk writes it down.
 
-A woman shouts that if we leave the carts there, the meal wagon won't get through.
+A woman shouts that if we leave the carts there, the meal wagon won’t get through.
 
 We move the carts.
 
@@ -3813,11 +3813,11 @@ Vey introduces me while I obey. Mara waits through my last name, then asks me to
 
 I retrieve it.
 
-She lays Rook's copy beside mine. We compare them, including the additions about Elena and food on the return journey. The words match. Mara enters tomorrow as the first reading day if I choose to begin. Today is arrival, records, and a bed.
+She lays Rook’s copy beside mine. We compare them, including the additions about Elena and food on the return journey. The words match. Mara enters tomorrow as the first reading day if I choose to begin. Today is arrival, records, and a bed.
 
 Then she sets the agreement aside and opens the first book.
 
-“Elena's entry. Here.”
+“Elena’s entry. Here.”
 
 The script takes a moment to become meaning. I follow her finger down the page.
 
@@ -3839,15 +3839,15 @@ The looping M is ridiculous. Big enough to be showing off. I love it immediately
 
 I laugh before I mean to. Mara looks at me, and I press my lips together.
 
-“No,” she says. “It was funny sometimes. She'd be furious to discover I'd made her solemn.”
+“No,” she says. “It was funny sometimes. She’d be furious to discover I’d made her solemn.”
 
-Vey moves toward the window. There isn't much space there. The room contains shelves from floor to ceiling, with bundles tied in cloth and little bone tags hanging off the knots. It smells of dust and damp wool.
+Vey moves toward the window. There isn’t much space there. The room contains shelves from floor to ceiling, with bundles tied in cloth and little bone tags hanging off the knots. It smells of dust and damp wool.
 
 Mara turns several pages in a thinner volume.
 
 “Departure.”
 
-Elena's name. A date eight months and twenty-six days after the entry, Mara explains when I cannot make useful sense of the local month names. Level nine. Trial converted to day hire during the first month. Wages settled. Departed by west gate with a pack and staff. No continuing service claim.
+Elena’s name. A date eight months and twenty-six days after the entry, Mara explains when I cannot make useful sense of the local month names. Level nine. Trial converted to day hire during the first month. Wages settled. Departed by west gate with a pack and staff. No continuing service claim.
 
 “Four years ago?”
 
@@ -3879,17 +3879,17 @@ I turn back to Mara.
 
 “Released to her. Most personal effects. The card was held with the items whose relation to her survey we could not establish.”
 
-“It's identification.”
+“It’s identification.”
 
 “I know that now. At the time she called it that, and we had no means of reading it.”
 
 “She told you what it was.”
 
-Mara's stained finger rests on the page.
+Mara’s stained finger rests on the page.
 
 “Yes.”
 
-I want her to explain until it becomes acceptable. She doesn't try.
+I want her to explain until it becomes acceptable. She doesn’t try.
 
 “The dispute is still open?”
 
@@ -3899,7 +3899,7 @@ I want her to explain until it becomes acceptable. She doesn't try.
 
 “It never left her name.”
 
-“Make sure it doesn't.”
+“Make sure it doesn’t.”
 
 Mara draws a narrow slip toward her and writes a note. I cannot tell whether she agrees with me or is merely competent enough to record a complaint.
 
@@ -3907,15 +3907,15 @@ The closure book is last.
 
 South sluice. Lower works barred following loss of Iven Orrel. Access to inner mechanism prohibited pending examination. Outlet secured; surface water to be carried by bypass. Authorizing signatures follow.
 
-Master Vey's is the second.
+Master Vey’s is the second.
 
 Above them is a short account. Rising water. Loss of visibility. Elena returning along the service passage. Iven unrecovered. Search instructions. Attached witness statements, three in all.
 
 Mara lays them out.
 
-Dain's says the inner wheel moved farther than ordered after a retaining tooth failed. He could not restore it immediately under load. Elena came back during the attempt. By the time he brought the wheel to its prior mark, she was demanding that he open it again.
+Dain’s says the inner wheel moved farther than ordered after a retaining tooth failed. He could not restore it immediately under load. Elena came back during the attempt. By the time he brought the wheel to its prior mark, she was demanding that he open it again.
 
-“So it wasn't just somebody deciding to try a door.”
+“So it wasn’t just somebody deciding to try a door.”
 
 “No,” Mara says.
 
@@ -3925,7 +3925,7 @@ Dain's says the inner wheel moved farther than ordered after a retaining tooth f
 
 The second statement belongs to someone on the bank who heard shouting and helped Elena out. It confirms very little beyond how wet she was and that her hands were bleeding.
 
-The third has been written in local script by Mara, with Elena's signature at the bottom.
+The third has been written in local script by Mara, with Elena’s signature at the bottom.
 
 I read it twice.
 
@@ -3941,13 +3941,13 @@ Near the bottom, another sentence has been crossed through once, still readable.
 
 “Why?”
 
-“Because I couldn't get her to describe the lights. I thought she'd struck her head.”
+“Because I couldn’t get her to describe the lights. I thought she’d struck her head.”
 
 “Did she?”
 
 “The mender found no wound there.”
 
-I look at Mara. Her mouth is pressed flat, but she doesn't look away.
+I look at Mara. Her mouth is pressed flat, but she doesn’t look away.
 
 “I left the words legible,” she says.
 
@@ -3967,13 +3967,13 @@ Outside, somebody rolls a barrel over the stones. The hollow bumps reach us thro
 
 “Yes. The clerk will bring paper. Originals stay here.”
 
-I sit. My feet are grateful enough to distract me for a moment. Then I realize there is a fourth sheet tucked behind Elena's statement.
+I sit. My feet are grateful enough to distract me for a moment. Then I realize there is a fourth sheet tucked behind Elena’s statement.
 
 It is only a scrap. Six words, written in English, the pen pressed hard enough to tear the paper in one place.
 
 *He was still pulling his end.*
 
-I don't know what noise I make.
+I don’t know what noise I make.
 
 Mara reaches across the table, then stops before touching me.
 
@@ -4002,13 +4002,13 @@ She draws the scrap closer with one finger. Her nail has a split near the edge. 
 
 “Nothing. I thought she had written his name.”
 
-There are six words. Even if you can't read them, there are six distinct pieces of writing.
+There are six words. Even if you can’t read them, there are six distinct pieces of writing.
 
 Mara sees me look.
 
-“I wasn't examining it very closely.”
+“I wasn’t examining it very closely.”
 
-“I'm sorry.”
+“I’m sorry.”
 
 She shakes her head once. “So am I.”
 
@@ -4016,9 +4016,9 @@ Vey stands by the window with his hands behind his back. For once he has nothing
 
 I turn the scrap without lifting it. Blank on the other side.
 
-“It doesn't say when the pulling stopped. Or why. I don't know if—”
+“It doesn’t say when the pulling stopped. Or why. I don’t know if—”
 
-“I know what you don't know.”
+“I know what you don’t know.”
 
 The words come sharply. She shuts her eyes.
 
@@ -4026,7 +4026,7 @@ The words come sharply. She shuts her eyes.
 
 We sit until a clerk arrives with paper. Mara takes it from him, sets out a ruler and a little pot of ink, and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
 
-I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena's signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
+I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena’s signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
 
 At the door she says, “He had two sons.”
 
@@ -4034,7 +4034,7 @@ I turn back.
 
 “Iven. One was small enough that we had to explain more than once.”
 
-“I'll be careful what I say.”
+“I’ll be careful what I say.”
 
 “Yes,” she says. “Please.”
 
@@ -4044,7 +4044,7 @@ My room is above the west kitchen. It has a narrow bed, a peg, and a shutter ope
 
 Supper is downstairs with people who have opinions about flour deliveries. Nobody asks whether Iven is alive. Nobody knows that I have spent half the afternoon considering a length of rope with a person at the other end.
 
-Tolliver is at the far end of the table. He moves a jug so I can set my bowl down, but doesn't turn the empty place beside him into an invitation I have to refuse. I sit there because I want to.
+Tolliver is at the far end of the table. He moves a jug so I can set my bowl down, but doesn’t turn the empty place beside him into an invitation I have to refuse. I sit there because I want to.
 
 “Paid?” I ask.
 
@@ -4052,19 +4052,19 @@ He taps his purse. “Two pieces. Sella too.”
 
 “Are you going back?”
 
-“Eventually. Dain wants someone to walk the lower channel with him the day after tomorrow. Tracks, bank damage, animal holes. I've taken two days, paid by the day. After that I haven't decided.”
+“Eventually. Dain wants someone to walk the lower channel with him the day after tomorrow. Tracks, bank damage, animal holes. I’ve taken two days, paid by the day. After that I haven’t decided.”
 
-“You don't have to stay because I'm here.”
+“You don’t have to stay because I’m here.”
 
-“I haven't asked you to pay me.” He tears his bread too hard; a piece drops onto the floor. He bends to retrieve it.
+“I haven’t asked you to pay me.” He tears his bread too hard; a piece drops onto the floor. He bends to retrieve it.
 
 I turn the bone over with my spoon, looking for the meat beneath it.
 
-“I don't know what I want you to do.”
+“I don’t know what I want you to do.”
 
-“Then don't decide tonight.”
+“Then don’t decide tonight.”
 
-I push my bowl away. When someone asks him to pass the jug, he doesn't hear them the first time.
+I push my bowl away. When someone asks him to pass the jug, he doesn’t hear them the first time.
 
 After supper I mend the tooth holes with a needle borrowed from the kitchen. The stitches are uneven and much too close together. I tug the seam twice. Nothing opens, so I return the needle.
 
@@ -4074,7 +4074,7 @@ I sleep with the repaired sack under the bed instead of beneath my head.
 
 The notebook arrives in a shallow wooden tray.
 
-Mara puts it on the records-room table the next morning, then sets a separate dish beside it containing a pen cap, a rusted metal clip, and two tags tied to lengths of cord. Vey places Elena's card in the dish and Mara records its return in front of me.
+Mara puts it on the records-room table the next morning, then sets a separate dish beside it containing a pen cap, a rusted metal clip, and two tags tied to lengths of cord. Vey places Elena’s card in the dish and Mara records its return in front of me.
 
 I want to take it. Put it with my shirt. Have one more object on my side of the room that comes from a world with traffic lights.
 
@@ -4092,21 +4092,21 @@ I open the cover.
 
 The first page contains a list of measurements, a rough conversion between local units and meters, and an English sentence boxed in the margin.
 
-*Do not trust the old map's north.*
+*Do not trust the old map’s north.*
 
-“Oh, good,” I say. “She's been here.”
+“Oh, good,” I say. “She’s been here.”
 
-Mara's mouth moves.
+Mara’s mouth moves.
 
 “She said that often. Usually with worse words.”
 
-The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding the end of a measuring line. The calculations crowd the edges in tiny writing; an argument farther down takes up half the page. I can almost hear her getting louder. Then I reach a word I can't decipher and have to ask Mara to hold the page toward the light.
+The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding the end of a measuring line. The calculations crowd the edges in tiny writing; an argument farther down takes up half the page. I can almost hear her getting louder. Then I reach a word I can’t decipher and have to ask Mara to hold the page toward the light.
 
 Some technical words slow me down. Reading English does not make me an engineer. I write *head* on my paper and explain to Mara that here it seems to mean something about water height or pressure, not a body part. She fetches Dain before I turn an uncertain definition into a confident mistake.
 
 He arrives with a wooden cup and a limp that takes a moment to settle after he sits. **[SLUICEWRIGHT, LV. 24]**. His beard is short and almost entirely white. Two fingers on his left hand end at the first joint.
 
-“That Elena's?”
+“That Elena’s?”
 
 “Yes,” Mara says.
 
@@ -4114,13 +4114,13 @@ He sets down the cup with unnecessary care.
 
 I show him the sketch. He traces the lines with a clean sliver of wood, keeping his hands off the page.
 
-“Water stacked above you,” he says. “More stack, more shove. What's she arguing about?”
+“Water stacked above you,” he says. “More stack, more shove. What’s she arguing about?”
 
 “Whether the water on this side can get high enough to do what she saw.”
 
 He studies the numbers.
 
-“It couldn't. I told her that.”
+“It couldn’t. I told her that.”
 
 “She wrote it down.”
 
@@ -4136,7 +4136,7 @@ There is no welcome message for the next person from Earth. No explanation of ho
 
 I run a finger along the edge of that page.
 
-My first closing shift, I spilled a pitcher of steamed milk down my apron and had to stand in the walk-in because I couldn't stop crying. The manager thought I'd burned myself. I let her think it because explaining that I was tired and eighteen and couldn't do a single fucking thing correctly seemed more embarrassing.
+My first closing shift, I spilled a pitcher of steamed milk down my apron and had to stand in the walk-in because I couldn’t stop crying. The manager thought I’d burned myself. I let her think it because explaining that I was tired and eighteen and couldn’t do a single fucking thing correctly seemed more embarrassing.
 
 Elena has crossed out one description and tried again underneath. I linger over both until Mara asks whether I need Dain for this part.
 
@@ -4160,15 +4160,15 @@ I read the sentence twice before translating it aloud.
 
 Dain leans forward.
 
-“She did tell me the first part. Thought she meant an old feeder we'd never found.”
+“She did tell me the first part. Thought she meant an old feeder we’d never found.”
 
 “Did you see the grit?”
 
 “Yes. Cleaned it out myself. Twice.”
 
-“Was it different from what's in your river?”
+“Was it different from what’s in your river?”
 
-“Different from what comes down here. That doesn't tell you how far it traveled.”
+“Different from what comes down here. That doesn’t tell you how far it traveled.”
 
 I nod. He has seen what is written on my face and is being careful with it.
 
@@ -4182,7 +4182,7 @@ Dain recognizes it immediately.
 
 He nods.
 
-There are two sets of writing beside it. Local dimensions in a tidy hand that may be Mara's. An English annotation crammed between them and the binding.
+There are two sets of writing beside it. Local dimensions in a tidy hand that may be Mara’s. An English annotation crammed between them and the binding.
 
 *Secondary inlet still under load with first gate shut. Closing upstream does not isolate. Lock inner wheel before bypass test.*
 
@@ -4190,7 +4190,7 @@ Dain holds the sliver of wood motionless above the page.
 
 “Read that again.”
 
-I do, more slowly. Then I explain isolate as best I can. Stop something from still getting into the place you're working.
+I do, more slowly. Then I explain isolate as best I can. Stop something from still getting into the place you’re working.
 
 He gets up.
 
@@ -4208,7 +4208,7 @@ Outside, the mill makes enough noise that I have to hurry to hear him.
 
 “You said the sluice was closed.”
 
-“The sluice is closed. Nobody's supposed to touch the inner wheel.”
+“The sluice is closed. Nobody’s supposed to touch the inner wheel.”
 
 He takes the corner beside a stack of tiles faster than his limp ought to allow. I slow to keep from slipping in the mud.
 
@@ -4224,7 +4224,7 @@ Dain puts his fingers in his mouth and whistles.
 
 Both workers turn. One lets go of the lever; the other keeps it where it is.
 
-“Hold there,” Dain calls. “Don't move it back yet.”
+“Hold there,” Dain calls. “Don’t move it back yet.”
 
 He walks to a narrow sight box set into the stone. A little iron rod protrudes from the top, marked with pale lines. It shakes hard enough to make a ticking sound.
 
@@ -4246,13 +4246,13 @@ Dain looks over his shoulder.
 
 “Sella, clear the towpath below the outlet. Everybody up to the yard. Walk them. No running.”
 
-She is moving before he's finished. She hands me the end of the rope as she unhooks it from the nearest post.
+She is moving before he’s finished. She hands me the end of the rope as she unhooks it from the nearest post.
 
-“Across the path behind me. Let the workers come up. Don't let anyone down.”
+“Across the path behind me. Let the workers come up. Don’t let anyone down.”
 
 I take it in my good hand.
 
-There are five people below, two of them carrying a long rake between them. Sella calls them by their work rather than their names. They know she means them. She gets the pair turned first so they don't swing the rake into anyone else.
+There are five people below, two of them carrying a long rake between them. Sella calls them by their work rather than their names. They know she means them. She gets the pair turned first so they don’t swing the rake into anyone else.
 
 A woman approaches from the yard with a bucket.
 
@@ -4260,7 +4260,7 @@ A woman approaches from the yard with a bucket.
 
 “I use the lower pump.”
 
-“They're clearing it.”
+“They’re clearing it.”
 
 She looks over my head at my plate.
 
@@ -4302,9 +4302,9 @@ Eventually Dain stands.
 
 “Which gate?”
 
-“That's what I'm going to establish before anyone puts a hand near it.”
+“That’s what I’m going to establish before anyone puts a hand near it.”
 
-Sella takes the rope back from me and knots it to the post. My hand has gone stiff from holding it, although I haven't pulled against anything at all.
+Sella takes the rope back from me and knots it to the post. My hand has gone stiff from holding it, although I haven’t pulled against anything at all.
 
 “You spent?” she asks.
 
@@ -4322,7 +4322,7 @@ A woman in a green coat arrives carrying a rolled plan. Her plate reads **[STEWA
 
 She asks Dain whether the test caused damage.
 
-“I won't know until the indicators stay quiet and we check the outer fittings.”
+“I won’t know until the indicators stay quiet and we check the outer fittings.”
 
 “Was anybody below the closure?”
 
@@ -4340,7 +4340,7 @@ Only after those instructions are settled does she look at me.
 
 “Can you show me precisely what it says?”
 
-“It's in the records room.”
+“It’s in the records room.”
 
 “Mara can bring the copy.” She turns to Vey. “You said six days.”
 
@@ -4352,7 +4352,7 @@ Pell unrolls her plan on a crate. One corner has been patched with a different c
 
 “In five, a crew arrives to remove the inner wheel and its spindle. We need the lower chamber safe before they cut out the assembly. The bypass is meant to carry drainage permanently.”
 
-“You're taking it apart.”
+“You’re taking it apart.”
 
 “It has been shut for four years. We still have fields under water twice a season and a works budget paying men to inspect a lock.”
 
@@ -4360,11 +4360,11 @@ Pell unrolls her plan on a crate. One corner has been patched with a different c
 
 “So does every culvert on this land.”
 
-“That's not what I mean.”
+“That’s not what I mean.”
 
 “No,” she says. “I understand what you mean. Vey has explained what you recognized.”
 
-The mill wheel groans behind us. I hate hearing that he has explained me to another person even when this time it's probably part of the job I agreed to.
+The mill wheel groans behind us. I hate hearing that he has explained me to another person even when this time it’s probably part of the job I agreed to.
 
 “What if taking it apart opens it?” I ask.
 
@@ -4382,9 +4382,9 @@ Dain puts his cup on the corner of the plan. Somehow he brought it all the way f
 
 Pell considers him.
 
-“Agreed. But tell me what you need to understand it. Don't hand me another four years.”
+“Agreed. But tell me what you need to understand it. Don’t hand me another four years.”
 
-Mara arrives with the copied page. Pell reads it, asks me about three words, then has Mara add the suspension to the works instructions in writing. The removal crew is still due in five days. Cutting now depends on Dain's clearance.
+Mara arrives with the copied page. Pell reads it, asks me about three words, then has Mara add the suspension to the works instructions in writing. The removal crew is still due in five days. Cutting now depends on Dain’s clearance.
 
 Mara finishes the second line. I read it over her shoulder to make sure the clearance is there, then step back against the crate.
 
@@ -4392,11 +4392,11 @@ Before Pell leaves, I ask whether Elena knew they might remove it.
 
 “The present order is mine. Elena left before I became steward.”
 
-“So you're not the person who kept her chest.”
+“So you’re not the person who kept her chest.”
 
-“No. I'm the person with the unresolved claim in my accounts.”
+“No. I’m the person with the unresolved claim in my accounts.”
 
-“It's her identification in there.”
+“It’s her identification in there.”
 
 “Then submit that finding with the item number. I can review it.”
 
@@ -4408,9 +4408,9 @@ By evening the ink has dried black along my middle finger. I have to cover the p
 
 Dain returns with the inspection results. Visible fittings intact, access lock untouched, inner-wheel indicator a fraction off its old mark. He shows us the difference on his drawing. Whatever moved beneath the yard left a mark they can measure.
 
-Mara puts his account beside our translated warning. We finish the adjoining copies, leaving the difficult technical words for him. Before she closes the book, I take the card's item number and submit my statement for Pell: the photograph, dates, and address identify a personal driving credential. Maya Szczepaniak, who used to lose her own ID beneath takeout menus, signs herself as the person who knows.
+Mara puts his account beside our translated warning. We finish the adjoining copies, leaving the difficult technical words for him. Before she closes the book, I take the card’s item number and submit my statement for Pell: the photograph, dates, and address identify a personal driving credential. Maya Szczepaniak, who used to lose her own ID beneath takeout menus, signs herself as the person who knows.
 
-Mara adds it to Elena's claim. The card stays in its dish.
+Mara adds it to Elena’s claim. The card stays in its dish.
 
 At the pay desk, a clerk gives me one piece.
 
@@ -4426,7 +4426,7 @@ My measure, when I check in my room, has changed too.
 
 **[RUN: WARDER]**
 
-I don't know when the two progress arrived. The practice at the wall, the work, the yard. Maybe some combination. There is no helpful receipt listing approved activities.
+I don’t know when the two progress arrived. The practice at the wall, the work, the yard. Maybe some combination. There is no helpful receipt listing approved activities.
 
 I write the numbers on my copy paper, with the date Mara taught me. My knuckles are closing. When I reach to set the paper aside, my shoulder catches and I have to lower my arm slowly.
 
@@ -4442,7 +4442,7 @@ After supper I find Tolliver on the outside stair, replacing the binding on an a
 
 He turns the arrow slowly between his fingers. Below us the kitchen door stands open, letting out light and an argument about who took the clean pot.
 
-“Dain's changed tomorrow's work,” he says. “We're checking the outer banks only. Sella's on the closure path. I'll be back before the evening meal unless he finds a problem.”
+“Dain’s changed tomorrow’s work,” he says. “We’re checking the outer banks only. Sella’s on the closure path. I’ll be back before the evening meal unless he finds a problem.”
 
 “Thank you for telling me.”
 
@@ -4456,7 +4456,7 @@ For a while I watch his hands. I have watched those hands do a lot of things: dr
 
 “She frightened me.”
 
-“She's had practice.”
+“She’s had practice.”
 
 I laugh. He sets the arrow aside before turning toward me.
 
@@ -4466,13 +4466,13 @@ I move my hand along the step until my little finger touches his.
 
 He looks at our hands.
 
-“I thought you'd be angry about today,” I say.
+“I thought you’d be angry about today,” I say.
 
 “Were you hoping?”
 
 “No.”
 
-His hand stays beside mine. “Vey gets six days. I couldn't get you to listen for one.”
+His hand stays beside mine. “Vey gets six days. I couldn’t get you to listen for one.”
 
 “You sold him what you knew about me.”
 
@@ -4480,7 +4480,7 @@ His hand stays beside mine. “Vey gets six days. I couldn't get you to listen f
 
 The kitchen door bangs below us. I should go inside. Instead I look at his mouth, at the little scar near it, and he catches me doing it.
 
-“I'm trying,” he says.
+“I’m trying,” he says.
 
 “I can see that.”
 
@@ -4492,7 +4492,7 @@ There is an edge to the question. I want him to stop asking me to make him feel 
 
 He sits back down. I kiss him before I can turn this into another argument.
 
-For a second he doesn't move. Then his hand closes against my waist and he kisses me back, hard enough that I grip the seam of his coat. The wool scratches my wrist. I shift closer and feel the heat of his leg along mine.
+For a second he doesn’t move. Then his hand closes against my waist and he kisses me back, hard enough that I grip the seam of his coat. The wool scratches my wrist. I shift closer and feel the heat of his leg along mine.
 
 I had forgotten how much I could want someone who was sitting right there. How stupidly difficult it could be to get closer.
 
@@ -4506,21 +4506,21 @@ He looks back at me. I can feel myself going red.
 
 Later, when I put my hand against his chest, he lets me move back. My shoulder hurts. His mouth is reddened, and I keep looking at it instead of finding the words.
 
-“I'm going upstairs.”
+“I’m going upstairs.”
 
 “Alone?”
 
 “Yes.”
 
-He takes his hand from my waist. I stand, then bend to kiss him once more. I don't know whether that makes anything clearer.
+He takes his hand from my waist. I stand, then bend to kiss him once more. I don’t know whether that makes anything clearer.
 
 In my room, I lean against the bolted door. My shoulder aches where I tucked it between us, and when I lift my hand to my mouth I start grinning again. I stay there until a kitchen worker calls up the stair for somebody else.
 
-Eventually I wash, set out tomorrow's clothes, and take the notebook copies from my sack.
+Eventually I wash, set out tomorrow’s clothes, and take the notebook copies from my sack.
 
 I read the first measurement twice without taking it in. My mouth still feels warm. I turn to the last sheet.
 
-On the last page we copied, below a set of measurements, Elena has drawn the stair again. I hadn't looked closely while we were racing the test. Four steps, a flat place, then an empty square outlined twice.
+On the last page we copied, below a set of measurements, Elena has drawn the stair again. I hadn’t looked closely while we were racing the test. Four steps, a flat place, then an empty square outlined twice.
 
 Beside it are three English lines.
 
@@ -4543,7 +4543,7 @@ CHAPTER THIRTEEN
 
 Dain draws a door in spilled flour and puts his breakfast on the other side of it.
 
-“That's you,” he says, pointing to the door. “That's the part you want to look at.”
+“That’s you,” he says, pointing to the door. “That’s the part you want to look at.”
 
 “Your egg.”
 
@@ -4553,11 +4553,11 @@ The yolk runs into the flour. I pull my copied page away from his plate.
 
 He draws another line with the handle of his spoon. The kitchen table rocks under his hand. Around us people finish eating, collect tools, argue about a missing glove. My second reading day has not started. I stand beside his bench with my copied page, trying to get to the important part before he finishes eating.
 
-“The service passage goes here. Wheel stands back around this bend, above the chamber floor. Man at the wheel can't see through the arch. Elena was right about that.”
+“The service passage goes here. Wheel stands back around this bend, above the chamber floor. Man at the wheel can’t see through the arch. Elena was right about that.”
 
 “Could somebody hold a mirror at the bend?”
 
-“Yes. Somebody could stand in the passage we closed because water rose over a man's head.”
+“Yes. Somebody could stand in the passage we closed because water rose over a man’s head.”
 
 I look at the flour. “Right.”
 
@@ -4567,21 +4567,21 @@ He eats the egg.
 
 He stops chewing. Then he draws a short line above the door.
 
-“There's an inspection gallery. Separate stair from the yard. It has a sleeve through the chamber wall for checking the gate seat. We used to put a lamp through it. Mirror on a rod, sometimes.”
+“There’s an inspection gallery. Separate stair from the yard. It has a sleeve through the chamber wall for checking the gate seat. We used to put a lamp through it. Mirror on a rod, sometimes.”
 
 “You already have one?”
 
 “Had. Mirrors break.”
 
-“But the hole's still there.”
+“But the hole’s still there.”
 
-“Yes, if the gallery hasn't shifted.” He wipes the spoon on his bread. “I'll inspect the upper access after the bank walk. If it's sound, I can see what the sleeve gives us without unbarring the service passage. Nothing turns. Nobody goes down to the chamber.”
+“Yes, if the gallery hasn’t shifted.” He wipes the spoon on his bread. “I’ll inspect the upper access after the bank walk. If it’s sound, I can see what the sleeve gives us without unbarring the service passage. Nothing turns. Nobody goes down to the chamber.”
 
 I pull the bench out and sit. My knee hits the table, which shifts his cup through our diagram.
 
 “Sorry. If you look through it now, what will you see?”
 
-“I don't know.”
+“I don’t know.”
 
 “But it was closed.”
 
@@ -4589,7 +4589,7 @@ I pull the bench out and sit. My knee hits the table, which shifts his cup throu
 
 I look at his flour drawing again. The locked cover and the thing beyond it are farther apart than I had understood.
 
-I turn my sheet over. “Can you draw it on something I won't eat?”
+I turn my sheet over. “Can you draw it on something I won’t eat?”
 
 He finds a pencil stub in his coat and puts it beside my sheet.
 
@@ -4599,9 +4599,9 @@ By the time Tolliver comes in, I have made the gallery twice as large as it shou
 
 Tolliver leans over the back of my bench. “Planning improvements?”
 
-“Dain says I've drawn through a hill.”
+“Dain says I’ve drawn through a hill.”
 
-His mouth is close to my temple. My attention goes there so fast I lose the end of Dain's next sentence. Tolliver waits until the old man bends over the corrected drawing, then touches two fingers to the back of my hand.
+His mouth is close to my temple. My attention goes there so fast I lose the end of Dain’s next sentence. Tolliver waits until the old man bends over the corrected drawing, then touches two fingers to the back of my hand.
 
 “Morning,” he says, quietly enough that it belongs to me.
 
@@ -4609,23 +4609,23 @@ His mouth is close to my temple. My attention goes there so fast I lose the end 
 
 He smells of soap and the leather of his bow strap. Last night comes back in pieces: the stair under my legs, his thumb moving at my waist, the small breath he took before I kissed him again. I want to pull him down beside me. Dain knocks the spoon against the table.
 
-“Tolliver. The long measure. It's behind the door.”
+“Tolliver. The long measure. It’s behind the door.”
 
 Tolliver straightens and looks toward the door.
 
 He goes to fetch it. I watch him get through the kitchen doorway without turning to check whether I follow.
 
-Dain folds my drawing. “Ask Mara whether Elena tried the sleeve. I don't remember what she left in the book.”
+Dain folds my drawing. “Ask Mara whether Elena tried the sleeve. I don’t remember what she left in the book.”
 
 ---
 
 She did try it.
 
-The entry is six written pages beyond the warning, between a calculation neither Mara nor I can explain without Dain and a complaint about a blister on Elena's heel. Mara has numbered the written pages on loose slips, thirty-six of them, so we can finally stop describing our place as the one after the beetle.
+The entry is six written pages beyond the warning, between a calculation neither Mara nor I can explain without Dain and a complaint about a blister on Elena’s heel. Mara has numbered the written pages on loose slips, thirty-six of them, so we can finally stop describing our place as the one after the beetle.
 
 The unfinished pages wait with their slips sticking out of the tray. Today we follow the works entries.
 
-*Upper sleeve. Mirror sees near jamb, floor. Can't see around the return. Need elbow beyond inner face.*
+*Upper sleeve. Mirror sees near jamb, floor. Can’t see around the return. Need elbow beyond inner face.*
 
 Underneath, a little drawing shows a rod with a hinged end. Elena has crossed it out.
 
@@ -4651,25 +4651,25 @@ Mara makes room for the next sheet. “Read the rest.”
 
 There are measurements of the sleeve, a note about the position of a stone projection, and three attempts to turn the geometry into something that will fit through a round hole. The last drawing uses two fixed mirrors. There is no result beside it.
 
-“Proposed,” I say before Mara writes anything. “She hasn't said she built this.”
+“Proposed,” I say before Mara writes anything. “She hasn’t said she built this.”
 
 Mara adds the word.
 
 Farther down, the handwriting changes. Smaller, less space between lines. A date in local script follows the date on the accident statement.
 
-*He kept asking whether the light meant morning. I told him I didn't know. Remember that if I start pretending I knew anything.*
+*He kept asking whether the light meant morning. I told him I didn’t know. Remember that if I start pretending I knew anything.*
 
 I hold the page flat at its clean margin.
 
 “Who?” Mara asks.
 
-“She doesn't say.”
+“She doesn’t say.”
 
 But I can see her deciding. Her pen stays just above the copy, waiting.
 
-“I think she means Iven,” I say. “I can't put his name in the sentence for her.”
+“I think she means Iven,” I say. “I can’t put his name in the sentence for her.”
 
-“Then don't.”
+“Then don’t.”
 
 Mara writes what is there. Outside, a cart rolls past the window with one bad wheel, a little silence between every knock. When it has gone, she asks me to continue.
 
@@ -4677,7 +4677,7 @@ The next entry is less kind to hope.
 
 *Same wheel mark did not give the same water. Two readings, a day apart. Temperature changed. Mark is a place to start, not an address.*
 
-I say *address* and my hand moves toward the scrap in my clothes, Elena's name and the Missouri dates. I don't touch it. I still have ink on my fingers.
+I say *address* and my hand moves toward the scrap in my clothes, Elena’s name and the Missouri dates. I don’t touch it. I still have ink on my fingers.
 
 “So even if you put it back,” Mara says.
 
@@ -4687,9 +4687,9 @@ I say *address* and my hand moves toward the scrap in my clothes, Elena's name a
 
 “Yes.”
 
-I hate that she is better at this distinction than I am. I want a dial with numbers around it and one number that means the street outside my apartment. I want to tell Dain where to point it and be a difficult passenger instead of a person who doesn't know whether there is a road.
+I hate that she is better at this distinction than I am. I want a dial with numbers around it and one number that means the street outside my apartment. I want to tell Dain where to point it and be a difficult passenger instead of a person who doesn’t know whether there is a road.
 
-Mara sands the copy. “We'll ask him about the readings.”
+Mara sands the copy. “We’ll ask him about the readings.”
 
 We keep working. Two labels describe samples taken from the outlet; one agrees with the warm water and pale grit, the other has a date but no surviving sample attached. Another tag reads *not brass?* and proves, when Mara opens its wrapper, to be tied to a greenish washer. I translate the question mark too.
 
@@ -4701,7 +4701,7 @@ Sella is eating an onion like an apple.
 
 I find her beside the closure rope with a heel of bread, a knife, and the expression of someone who has been asked whether the lower pump is open enough times to consider moving it personally.
 
-“That's horrifying,” I tell her.
+“That’s horrifying,” I tell her.
 
 She looks at the onion. “Small ones are sweet.” She cuts off a slice and offers it.
 
@@ -4711,9 +4711,9 @@ She grins and offers me the bread. I have brought my own food from the kitchen. 
 
 The sight box is quiet. Below the rope, the locked iron cover lies over the service stair. A second, narrower stair climbs along the bank to a squat stone building I had taken for a shed. Now that Dain has put it on paper, I can see how the upper gallery sits above the chamber, how a wall could hide a whole drop from someone standing in this yard.
 
-“I'd like another lesson,” I say.
+“I’d like another lesson,” I say.
 
-“Good. I'd like another guard. Neither of us gets what she wants until someone relieves me.”
+“Good. I’d like another guard. Neither of us gets what she wants until someone relieves me.”
 
 “What about here?”
 
@@ -4723,15 +4723,15 @@ She looks down at my hands. The linen has come off; the skin beneath is pink and
 
 She puts her bread on the wall and makes me stand with my forearms against a square pier. I know this part. My body takes more convincing.
 
-“Don't spend.”
+“Don’t spend.”
 
-“I wasn't going to.”
+“I wasn’t going to.”
 
 “You got the face.”
 
 “What face?”
 
-“You're holding your breath. Again.”
+“You’re holding your breath. Again.”
 
 I let it out through my nose.
 
@@ -4739,7 +4739,7 @@ We practice the step away from the wall, the reset, the weight coming through my
 
 When she returns, I ask, “Is there a way to move while holding Brace?”
 
-“There are moving holds. You haven't got this one yet.”
+“There are moving holds. You haven’t got this one yet.”
 
 “Cruel but accurate.”
 
@@ -4759,17 +4759,17 @@ She presses against my hip while I hold the ordinary stance. On her count I take
 
 The second time I do it right.
 
-“Now spend one. End it yourself on two. I'll count.”
+“Now spend one. End it yourself on two. I’ll count.”
 
 The pattern opens easily. That is the seductive part. No password, no loading screen, just the right arrangement of body and attention, and the stone feels connected to the ground through me.
 
-One breath. Sella's hand rests lightly at my waist.
+One breath. Sella’s hand rests lightly at my waist.
 
 Two.
 
 I stop feeding the hold. Pressure returns to my muscles; I step back as we practiced, and for once none of me ends up sitting down.
 
-Sella's hand lifts away.
+Sella’s hand lifts away.
 
 “There.”
 
@@ -4781,9 +4781,9 @@ Only one more than last night, and I like it more than I expected. I know what I
 
 “Without spending.”
 
-“My arm's shaking.”
+“My arm’s shaking.”
 
-“Stop, then. You're going to strain it.”
+“Stop, then. You’re going to strain it.”
 
 She lifts her arm to adjust the strap beneath her collar. Sweat has darkened the cloth, and I see the pale skin beneath it. I look away too late.
 
@@ -4801,13 +4801,13 @@ She gives me time to do something with that. A ridiculous amount of time, perhap
 
 Her eyebrows rise. “What?”
 
-“No. I just— You said three years on caravans. I didn't know whether you'd had a birthday since.”
+“No. I just— You said three years on caravans. I didn’t know whether you’d had a birthday since.”
 
 “Twenty-one. Summer birthday. You?”
 
 “Nineteen.”
 
-“I'd have guessed younger.”
+“I’d have guessed younger.”
 
 My face gets hotter.
 
@@ -4825,35 +4825,35 @@ Tolliver carries a wooden measure with mud halfway up it. Dain carries a covered
 
 “Found a feeder?” I ask.
 
-“Found a discharge,” Dain says. “Don't give it a direction it hasn't earned.”
+“Found a discharge,” Dain says. “Don’t give it a direction it hasn’t earned.”
 
 He lets me smell the jar. Warm stone, faintly sour water, nothing I can name as another planet. Fine pale grit has begun to settle at the bottom.
 
-“There’s a little outlet under the east bank,” Tolliver says. “Above the main pool. Couldn't see it from the road. Warm water's killed the grass around the lip.”
+“There’s a little outlet under the east bank,” Tolliver says. “Above the main pool. Couldn’t see it from the road. Warm water’s killed the grass around the lip.”
 
 “New?”
 
-“Bare patch isn't. Fresh silt over the old roots is.”
+“Bare patch isn’t. Fresh silt over the old roots is.”
 
-Dain takes the jar back. “We'll measure it again tomorrow. No one puts anything down it. Might be carrying water from the chamber. Might be a separate spring.”
+Dain takes the jar back. “We’ll measure it again tomorrow. No one puts anything down it. Might be carrying water from the chamber. Might be a separate spring.”
 
 I bring him the page about the same mark giving different water. He sets the jar beside it and reads, then carries both toward the upper building.
 
 At the upper building he leaves me outside with Tolliver while he and two house workers inspect the stair and gallery. The door has its own seal, a crust of wax across a cord. Dain has Mara brought to record its opening. Below us, the service cover remains locked.
 
-It takes most of an hour. I sit on the stair with my copies on my knees and read Tolliver the mirror entry. He stops scraping mud from the measure when I reach the part about Dain's wife.
+It takes most of an hour. I sit on the stair with my copies on my knees and read Tolliver the mirror entry. He stops scraping mud from the measure when I reach the part about Dain’s wife.
 
-“I won't suggest borrowing another,” he says.
+“I won’t suggest borrowing another,” he says.
 
 Dain comes out dusty and annoyed, which I choose to take as encouraging.
 
-“Upper stone's sound. Dry landing. Sleeve cover holds. There's light beyond it.”
+“Upper stone’s sound. Dry landing. Sleeve cover holds. There’s light beyond it.”
 
 My fingers tighten on the paper.
 
 “What kind?”
 
-“A strip at the shutter edge. White. I didn't open it.”
+“A strip at the shutter edge. White. I didn’t open it.”
 
 “Could it be daylight?”
 
@@ -4861,13 +4861,13 @@ My fingers tighten on the paper.
 
 I look at the solid bank behind him. He looks too.
 
-Pell arrives while he is reading Elena's proposed two-mirror arrangement. She hears about the light, then the outlet, then asks what they cost her. Dain says an inspection mirror from the fitting chest, timber for a frame, and two workers tomorrow. She gives him all three.
+Pell arrives while he is reading Elena’s proposed two-mirror arrangement. She hears about the light, then the outlet, then asks what they cost her. Dain says an inspection mirror from the fitting chest, timber for a frame, and two workers tomorrow. She gives him all three.
 
 “No turning the inner wheel,” he says. “I want a restraint on the upper spindle before we expose the sleeve. The old tooth stays missing. This is a separate clamp.”
 
 “Can you fit it from the gallery?”
 
-“Yes. Socket's above the floor. Provided the face is sound once we clean it.”
+“Yes. Socket’s above the floor. Provided the face is sound once we clean it.”
 
 “Then that first. Observation after you approve the fitting.”
 
@@ -4875,7 +4875,7 @@ I start to speak. Pell turns toward me.
 
 “Can she observe from outside the controls?” Pell asks.
 
-“Behind the frame,” Dain says. “I need her if there's writing.”
+“Behind the frame,” Dain says. “I need her if there’s writing.”
 
 Pell looks at me. “You can refuse. Your reading agreement stands.”
 
@@ -4889,9 +4889,9 @@ She reminds him that the removal crew comes in four days. He says he remembers. 
 
 I take my pay upstairs before supper. The clerk has left ink on the edge of the coin.
 
-Tolliver finds me at supper before the stew has cooled. He has been paid for his first survey day; he tells me when I ask, without showing me a sum I haven't earned the right to count. Tomorrow is the second. After that, he says, Dain might want an escort when the removal crew inspects the outer route.
+Tolliver finds me at supper before the stew has cooled. He has been paid for his first survey day; he tells me when I ask, without showing me a sum I haven’t earned the right to count. Tomorrow is the second. After that, he says, Dain might want an escort when the removal crew inspects the outer route.
 
-“You don't have to keep finding work here,” I tell him.
+“You don’t have to keep finding work here,” I tell him.
 
 “I know where the road is.”
 
@@ -4903,7 +4903,7 @@ I leave my knee against his.
 
 Across the room Sella is arguing with a carrier over an eastbound fare. He spreads both hands; she folds her arms and makes him start again. I listen longer than I mean to. Tolliver follows my glance.
 
-“She'll get it down,” he says.
+“She’ll get it down,” he says.
 
 “Is she leaving?”
 
@@ -4919,13 +4919,13 @@ I remember Sella again halfway up the stairs.
 
 That should make one of them smaller.
 
-It doesn't.
+It doesn’t.
 
 The wanting sits differently in me, which is not the same thing as less.
 
-Upstairs, I lay Dain's corrected drawing beside Elena's. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
+Upstairs, I lay Dain’s corrected drawing beside Elena’s. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
-I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven't learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
+I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven’t learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
 
 Before bed I write down the part Dain said twice.
 
@@ -4942,9 +4942,9 @@ She is across the workshop with a slate against her chest. Three fingers raised.
 
 The image is small, but I can see her broken nose and the dark edge of one braid. I bend closer. Harra catches my sleeve before I hit the frame.
 
-“Stay back. I'll move the glass.”
+“Stay back. I’ll move the glass.”
 
-Mara has Elena's drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella's chalk marks through the hood. A red handle retracts the whole assembly.
+Mara has Elena’s drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella’s chalk marks through the hood. A red handle retracts the whole assembly.
 
 Dain makes me use it. The cage slides back through the pipe, and Sella lowers her slate.
 
@@ -4958,7 +4958,7 @@ At the headwall, the new iron clamp is visible from the gallery door.
 
 It grips the square upper end of a spindle that comes through the floor, with a bar laid across two stone sockets so the whole thing cannot turn. Dain shows me the chalk witness lines where iron meets iron. Below it, through a narrow gap between boards, I can see the top of a much larger wheel in darkness. Nobody can reach that wheel from here without lifting the floor.
 
-“The clamp holds this setting,” he says. “Not the one before the test. We'd have to move it to put it back. We're not moving it.”
+“The clamp holds this setting,” he says. “Not the one before the test. We’d have to move it to put it back. We’re not moving it.”
 
 I nod.
 
@@ -4972,21 +4972,21 @@ A knife of light across dusty stone. I have seen brighter cracks under bathroom 
 
 Sella touches the doorframe beside my shoulder.
 
-“You're blocking the steps.”
+“You’re blocking the steps.”
 
 “Sorry.”
 
 “Stand here.”
 
-She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought a clump of drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn't turn away.
+She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought a clump of drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn’t turn away.
 
 Four days until the crew, yesterday. Three now.
 
 Something in me had expected the light to stop that count.
 
-Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena's measurements while Harra comes down to collect a smaller wrench.
+Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena’s measurements while Harra comes down to collect a smaller wrench.
 
-The two-mirror drawing fits the sleeve dimensions. It doesn't tell us what is on the other side today.
+The two-mirror drawing fits the sleeve dimensions. It doesn’t tell us what is on the other side today.
 
 Dain has Mara record the displaced indicator mark beside the old one. Harra checks it against the spindle. The clamp stays where it is.
 
@@ -5006,7 +5006,7 @@ Air goes into the wall.
 
 I stand behind the frame with my hands on my own skirt.
 
-“Steady,” Dain says. He isn't speaking to me.
+“Steady,” Dain says. He isn’t speaking to me.
 
 Harra feeds the caged mirror through the sleeve until a mark on the rod reaches its mouth. She stops there, fixes the stop collar, then steps aside.
 
@@ -5026,7 +5026,7 @@ I describe the water, the dark arch, the strip of light. My voice sounds like so
 
 Dain adjusts a fraction farther.
 
-The strip widens in the mirror. It hasn't changed size in the arch; we are looking more directly into it. I can see four steps, a landing, part of a pale wall beyond. The steps are edged with dark bands. On the landing is a metal rail with a right-angle turn, its paint chipped around the bend.
+The strip widens in the mirror. It hasn’t changed size in the arch; we are looking more directly into it. I can see four steps, a landing, part of a pale wall beyond. The steps are edged with dark bands. On the landing is a metal rail with a right-angle turn, its paint chipped around the bend.
 
 My hand lifts off my skirt.
 
@@ -5042,7 +5042,7 @@ I pull back so fast my hair catches on the hood.
 
 “What?” Sella asks.
 
-I can't get the strands loose. I keep pulling at them with stupid, weak fingers while the mirror sits there showing a room that should be on my planet.
+I can’t get the strands loose. I keep pulling at them with stupid, weak fingers while the mirror sits there showing a room that should be on my planet.
 
 “Hold still.”
 
@@ -5054,7 +5054,7 @@ The word is still there.
 
 Dain looks toward the sleeve. “A way out?”
 
-“That's what the sign says.”
+“That’s what the sign says.”
 
 I look at the bar on the door. My college has bars like that. Every store, every back corridor I have ever hurried through with a bag against my hip and a phone under my chin. A boring door that nobody photographs because its whole job is being there when you need to leave.
 
@@ -5068,15 +5068,15 @@ He stops.
 
 “Leave it there,” I say, quieter. “Please.”
 
-My eyes water. I can't tell whether it's strain or something I will have to deal with later. I blink and the door swims back into focus.
+My eyes water. I can’t tell whether it’s strain or something I will have to deal with later. I blink and the door swims back into focus.
 
 Dain asks about the stair. I make myself look below the sign.
 
-“Four steps and a landing. There could be more below what we can see. I can't tell if they're wet.”
+“Four steps and a landing. There could be more below what we can see. I can’t tell if they’re wet.”
 
-“Elena's sketch?”
+“Elena’s sketch?”
 
-“Too little detail to match the door.” My eyes go back to the red letters. “That's English, though. The door looks like doors where I come from.”
+“Too little detail to match the door.” My eyes go back to the red letters. “That’s English, though. The door looks like doors where I come from.”
 
 Mara writes it down. I watch her pen stop short of naming a place.
 
@@ -5088,7 +5088,7 @@ We take turns at the hood. Dain describes the rail in words that mean constructi
 
 No one asks which part.
 
-She takes her copy back outside and sits where the light doesn't have to be explained.
+She takes her copy back outside and sits where the light doesn’t have to be explained.
 
 ---
 
@@ -5104,19 +5104,19 @@ I sit on the low wall with my bowl balanced between my knees. Sella sits beside 
 
 I pick a bit of barley out of the stew with the spoon, then put it back.
 
-“I've stood in a hundred places like that. I couldn't tell you which one if you showed me a picture. There should be a floor plan on the wall. A bin. Somebody leaving a box under a sign that tells them not to.”
+“I’ve stood in a hundred places like that. I couldn’t tell you which one if you showed me a picture. There should be a floor plan on the wall. A bin. Somebody leaving a box under a sign that tells them not to.”
 
 “Could be farther round.”
 
 “Yes.”
 
-She doesn't tell me it will be. I am grateful, and angry that she doesn't, and tired of having both reactions to everything.
+She doesn’t tell me it will be. I am grateful, and angry that she doesn’t, and tired of having both reactions to everything.
 
 “Was Elena right?”
 
 “About the lights.”
 
-“Then that's one thing.”
+“Then that’s one thing.”
 
 I look at her. She has set her bread on her knee without taking a bite.
 
@@ -5154,7 +5154,7 @@ I give him every unimportant bit of it I can remember.
 
 ---
 
-The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn't tall enough, and the pole wants to roll.
+The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn’t tall enough, and the pole wants to roll.
 
 Sella braces its wooden cradle against the workshop pier with her forearms. Harra tightens one screw and frowns at the next.
 
@@ -5166,7 +5166,7 @@ Dain is washing grease from the lens cloths. Sella starts to lower the cradle.
 
 All three look at me. I regret sounding eager. I am eager anyway.
 
-“Bench takes the weight,” Sella says. “You keep it against the pier. It can't go far, but if it turns, her screw goes crooked.”
+“Bench takes the weight,” Sella says. “You keep it against the pier. It can’t go far, but if it turns, her screw goes crooked.”
 
 “I can do that.”
 
@@ -5188,7 +5188,7 @@ One breath. Harra turns the screw.
 
 Two. “Done,” she says.
 
-I end the hold and step back. The cradle stays against the pier under her hand. My shoulder pulls, but the old ache doesn't sharpen.
+I end the hold and step back. The cradle stays against the pier under her hand. My shoulder pulls, but the old ache doesn’t sharpen.
 
 Sella notices me noticing.
 
@@ -5196,11 +5196,11 @@ Sella notices me noticing.
 
 “Better.”
 
-I had checked a full four this morning. Three now. I keep the number without opening the measure in front of them, pleased in a way I can't make casual.
+I had checked a full four this morning. Three now. I keep the number without opening the measure in front of them, pleased in a way I can’t make casual.
 
 Harra carries the assembly out. Sella stays long enough to tap the place on the pier where my forearms were.
 
-“How's your arm?”
+“How’s your arm?”
 
 “Better.”
 
@@ -5218,7 +5218,7 @@ Then fingers close around the painted bend.
 
 A hand.
 
-“There's somebody there.”
+“There’s somebody there.”
 
 The gallery stills around me.
 
@@ -5226,17 +5226,17 @@ The gallery stills around me.
 
 “By the rail. Beyond the steps.”
 
-I can't see the whole person. A sleeve, dark at the cuff. The side of a head, mostly gray hair. They lean toward the opening, but the edge of black stone hides their face.
+I can’t see the whole person. A sleeve, dark at the cuff. The side of a head, mostly gray hair. They lean toward the opening, but the edge of black stone hides their face.
 
 “Can they see us?”
 
-“I don't know.”
+“I don’t know.”
 
 I want to shout. There is a hole through the wall, there is a person beyond it, and my whole body has already begun the breath.
 
 Dain touches my sleeve.
 
-“We can't hear their room. Speak normally first.”
+“We can’t hear their room. Speak normally first.”
 
 “Hello?”
 
@@ -5262,7 +5262,7 @@ I watch the rectangle tilt. The person pauses, moves it back, then holds.
 
 My mouth has gone dry.
 
-There are two mirrors between my face and the sleeve. Another beyond the arch. I can't work out what they see or whether they can see any of me. I put my hand beside the viewing glass and raise two fingers where the reflection should catch them.
+There are two mirrors between my face and the sleeve. Another beyond the arch. I can’t work out what they see or whether they can see any of me. I put my hand beside the viewing glass and raise two fingers where the reflection should catch them.
 
 Nothing.
 
@@ -5306,7 +5306,7 @@ The rail stands empty.
 
 I keep my hand beside the glass until my arm begins to shake. I want the person back with such naked greed that if Dain offered me the wheel now I might touch it before remembering anything we had agreed.
 
-He doesn't offer.
+He doesn’t offer.
 
 He has Mara bring a slate.
 
@@ -5314,9 +5314,9 @@ He has Mara bring a slate.
 
 We wait through the afternoon.
 
-Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth's slight inward draw doesn't change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
+Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth’s slight inward draw doesn’t change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
 
-I write *HELLO* large on the slate, with Mara's local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
+I write *HELLO* large on the slate, with Mara’s local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
 
 The next time I look, the person has returned.
 
@@ -5328,7 +5328,7 @@ Three broad marks cover it, followed by another word. Local script. I get the sa
 
 I read it aloud.
 
-Dain shuts his eyes briefly. “They want to know who's at the wheel.”
+Dain shuts his eyes briefly. “They want to know who’s at the wheel.”
 
 “Write your name.”
 
@@ -5342,13 +5342,13 @@ I wait for another word. Instead the person lowers themselves until their face a
 
 A man. Gray beard, one side cut much shorter than the other. Dark hollows beneath his eyes. His mouth is moving.
 
-I can't hear him.
+I can’t hear him.
 
-“Tell him we can't hear,” Dain says.
+“Tell him we can’t hear,” Dain says.
 
 I relay it to Mara. She writes. We hold it up.
 
-The man's mouth stops moving. He looks down, then away from us. For several seconds nothing is visible except one hand pressed flat against the rail.
+The man’s mouth stops moving. He looks down, then away from us. For several seconds nothing is visible except one hand pressed flat against the rail.
 
 When the board comes back, there is a name on it.
 
@@ -5356,11 +5356,11 @@ When the board comes back, there is a name on it.
 
 Mara catches the doorpost. Her pen falls onto the stone.
 
-I have spent all day making words into answers. For the first time, I can't make myself read them aloud.
+I have spent all day making words into answers. For the first time, I can’t make myself read them aloud.
 
 CHAPTER FIFTEEN
 
-Dain picks up Mara's pen.
+Dain picks up Mara’s pen.
 
 He puts it in her hand, closes her fingers around it, and waits until she looks at him.
 
@@ -5386,17 +5386,17 @@ I watch the side of her face. Her mouth opens once. Nothing comes out. Then she 
 
 Her voice is so sharp that I look down. Dain keeps his hand where it is until hers falls away.
 
-“He can't hear?” she asks.
+“He can’t hear?” she asks.
 
-“We haven't heard him,” I say. “He answered the writing.”
+“We haven’t heard him,” I say. “He answered the writing.”
 
-She turns to her slate and wipes Dain's name away with the heel of her hand. Chalk smears across her skin. She writes a question so hard the tip snaps, swears once, picks up the larger piece and finishes.
+She turns to her slate and wipes Dain’s name away with the heel of her hand. Chalk smears across her skin. She writes a question so hard the tip snaps, swears once, picks up the larger piece and finishes.
 
-*What did you put in our mother's good pot?*
+*What did you put in our mother’s good pot?*
 
 We position it beside the mirror. Mara looks into the hood and stays there while I hold the slate at the angle Harra shows me.
 
-Her brother's board goes down.
+Her brother’s board goes down.
 
 I count my breaths. I stop when counting starts to feel like a bargain.
 
@@ -5410,11 +5410,11 @@ She has to swallow before she can speak.
 
 Her laugh breaks halfway out. She presses her fist against her mouth, turns from the glass, then turns back at once as though leaving it for even a second might be the thing that loses him.
 
-“Write Mara,” she says. “Tell him it's me.”
+“Write Mara,” she says. “Tell him it’s me.”
 
-I can't form the local letters quickly enough. She takes the slate from me and does it herself.
+I can’t form the local letters quickly enough. She takes the slate from me and does it herself.
 
-The man in the mirror disappears downward. For a moment I think he's fallen. Then his hand comes up against the rail, the fingers spread, and he pulls himself back into view with his head bowed.
+The man in the mirror disappears downward. For a moment I think he’s fallen. Then his hand comes up against the rail, the fingers spread, and he pulls himself back into view with his head bowed.
 
 We wait.
 
@@ -5444,17 +5444,17 @@ Tomorrow.
 
 The word goes through Mara visibly.
 
-“We can't leave him there.”
+“We can’t leave him there.”
 
-“We can't fetch him through a gap narrower than his shoulders,” Dain says.
+“We can’t fetch him through a gap narrower than his shoulders,” Dain says.
 
 “Open it.”
 
 His face changes.
 
-For half a second I see the wet woman from Vey's story standing between them. Elena with her hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
+For half a second I see the wet woman from Vey’s story standing between them. Elena with her hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
 
-“We don't know where turning it sends him,” he says. “We have him here.”
+“We don’t know where turning it sends him,” he says. “We have him here.”
 
 Mara looks at me.
 
@@ -5462,7 +5462,7 @@ I want her not to. I look at Dain. He is waiting too.
 
 “The same mark gave different water,” I say. “Elena wrote it down.”
 
-“She didn't know he was alive.”
+“She didn’t know he was alive.”
 
 “No.”
 
@@ -5470,7 +5470,7 @@ I grip the edge of the slate.
 
 At the mirror the light has grown thinner. Harra checks the clamp. The chalk lines have not moved. Dain checks too, then asks me to describe the change precisely.
 
-The stair is still there. Less of the landing shows. A dark edge has advanced across part of the rail, as if someone is slowly drawing a curtain from a place we can't see.
+The stair is still there. Less of the landing shows. A dark edge has advanced across part of the rail, as if someone is slowly drawing a curtain from a place we can’t see.
 
 He has Mara write that the view is narrowing, that they will try again at first daylight, that no one will turn the wheel tonight.
 
@@ -5480,7 +5480,7 @@ The reply takes long enough for me to begin hating every part of the apparatus.
 
 Then, squeezed beneath it:
 
-*Don't send the boys down.*
+*Don’t send the boys down.*
 
 Mara writes her answer with her head bent so I cannot see her face.
 
@@ -5498,7 +5498,7 @@ Mara stays on the stool with the slate in her hands.
 
 Pell comes up the stair carrying a lamp.
 
-It's nearly dark outside. My third reading day has ended somewhere without me, and the kitchen has started putting bowls on the tables. Tolliver is in the yard; I saw him through the doorway while Harra was dismantling the viewing hood. He looked up when the shutter closed and has stayed below since.
+It’s nearly dark outside. My third reading day has ended somewhere without me, and the kitchen has started putting bowls on the tables. Tolliver is in the yard; I saw him through the doorway while Harra was dismantling the viewing hood. He looked up when the shutter closed and has stayed below since.
 
 Mara tells Pell who we saw.
 
@@ -5510,9 +5510,9 @@ Then she tells her what he wrote about the pot. Her voice steadies on the househ
 
 “And the others?”
 
-“I saw a man answer,” Dain says. “I didn't get her view of his face. He knew my name when we sent it.”
+“I saw a man answer,” Dain says. “I didn’t get her view of his face. He knew my name when we sent it.”
 
-“He used the mirror to return numbers before we told him anything,” I say. “Then he wrote his name. We didn't offer it.”
+“He used the mirror to return numbers before we told him anything,” I say. “Then he wrote his name. We didn’t offer it.”
 
 Pell takes the slate when Mara offers it. She reads the chalk, then sets it carefully beside the lamp.
 
@@ -5526,17 +5526,17 @@ Pell takes the slate when Mara offers it. She reads the chalk, then sets it care
 
 Mara shuts her eyes.
 
-“But the fields still need draining,” Pell continues. “Those men can shore the outer bank and clear the upper carrier while we work out what else is possible. That uses their first days. It doesn't buy us a season.”
+“But the fields still need draining,” Pell continues. “Those men can shore the outer bank and clear the upper carrier while we work out what else is possible. That uses their first days. It doesn’t buy us a season.”
 
 “How many days?” I ask.
 
-“I'll know when their foreman sees the work.”
+“I’ll know when their foreman sees the work.”
 
-Dain rubs both hands over his beard. “I'll need a second inspection of the bypass plan. Someone who hasn't spent four years telling himself the old closure was enough.”
+Dain rubs both hands over his beard. “I’ll need a second inspection of the bypass plan. Someone who hasn’t spent four years telling himself the old closure was enough.”
 
 Pell looks at him for a moment, then nods.
 
-“Name them. I'll send.”
+“Name them. I’ll send.”
 
 She asks Harra to stay until the night watch arrives, doubles the boundary watch, and leaves the lower path and pump closed. Nobody gets to open the shutter alone. The clamp stays in place. If the indicators move, the watch fetches Dain instead of deciding what that means for themselves.
 
@@ -5546,15 +5546,15 @@ Mara rises while Pell is still writing.
 
 “Yes,” Pell says.
 
-“I'll tell them.”
+“I’ll tell them.”
 
 “Tonight?”
 
-“The elder's at the north cottages. His brother is staying with him.”
+“The elder’s at the north cottages. His brother is staying with him.”
 
 Pell asks whether she wants someone to walk with her. Mara says no, then changes her mind and names the kitchen woman who lent me the needle. Pell sends for her.
 
-I stand beside the door with my copies pressed to my chest, trying not to turn Iven's sons into an audience in my head. People learning their father might come home. People who have already been taught once how to live when he doesn't.
+I stand beside the door with my copies pressed to my chest, trying not to turn Iven’s sons into an audience in my head. People learning their father might come home. People who have already been taught once how to live when he doesn’t.
 
 As Mara passes me, she stops.
 
@@ -5566,7 +5566,7 @@ As Mara passes me, she stops.
 
 She puts her hand briefly against my arm and goes down the stair.
 
-I don't follow until I can trust my feet.
+I don’t follow until I can trust my feet.
 
 ---
 
@@ -5576,9 +5576,9 @@ I eat without tasting much. He talks about the survey, something the miller disp
 
 “Sorry,” I say.
 
-He slides the jug toward me. My day's pay is beneath my bowl. Mara must have sent it ahead.
+He slides the jug toward me. My day’s pay is beneath my bowl. Mara must have sent it ahead.
 
-“Dain wants the north collector measured,” he says. “I told him I'd do it if he can find the money.”
+“Dain wants the north collector measured,” he says. “I told him I’d do it if he can find the money.”
 
 I nod. Tomorrow. There will be work tomorrow.
 
@@ -5604,13 +5604,13 @@ Downstairs, the pot hits a board with a hollow clang. I wait through the noise i
 
 “Oh,” he says.
 
-“I haven't.”
+“I haven’t.”
 
 “All right.”
 
 “Is it?”
 
-He looks down the stairs, then back at me. “I'm finding out.”
+He looks down the stairs, then back at me. “I’m finding out.”
 
 His collar is damp beneath my fingers.
 
@@ -5618,23 +5618,23 @@ His collar is damp beneath my fingers.
 
 “I know.”
 
-“And tonight you're telling me about her.”
+“And tonight you’re telling me about her.”
 
 My hand is still on his coat. I let go.
 
-“I'm telling you before anything happens.”
+“I’m telling you before anything happens.”
 
 “Were you going to ask if I minded?”
 
-“I don't know what I'd do if you did.”
+“I don’t know what I’d do if you did.”
 
-He looks at me for a long time. I wish I had said that differently. I don't have a different answer.
+He looks at me for a long time. I wish I had said that differently. I don’t have a different answer.
 
 “I mind,” he says.
 
 “All right.”
 
-“No. It isn't.” He drags a hand through his hair. “I'm not telling you who you can kiss. I just thought—”
+“No. It isn’t.” He drags a hand through his hair. “I’m not telling you who you can kiss. I just thought—”
 
 He stops. Below us the kitchen door opens, and both of us move back from the stair without looking.
 
@@ -5652,15 +5652,15 @@ He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
 I want to call him back.
 
-That is the part I wasn't prepared for. I can want Sella and still hate the shape of his back going away from me. One feeling has not had the courtesy to cancel the other.
+That is the part I wasn’t prepared for. I can want Sella and still hate the shape of his back going away from me. One feeling has not had the courtesy to cancel the other.
 
 I open my door instead. My measure blurs the first time I try to read it.
 
 Twelve out of fourteen. Three reserve out of four. Warder.
 
-The morning's lesson, the frame, the hours at the mirror. I can't divide them into a receipt. I write the numbers down, wash, and sit on the bed until I can unfold the page without shaking it.
+The morning’s lesson, the frame, the hours at the mirror. I can’t divide them into a receipt. I write the numbers down, wash, and sit on the bed until I can unfold the page without shaking it.
 
-On it, in Mara's careful letters, is the man's first question.
+On it, in Mara’s careful letters, is the man’s first question.
 
 *Who holds?*
 
@@ -5668,9 +5668,9 @@ On it, in Mara's careful letters, is the man's first question.
 
 At first daylight the strip is there again.
 
-Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don't ask how her evening went until she hands me a folded sheet.
+Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don’t ask how her evening went until she hands me a folded sheet.
 
-“Their letter,” she says. “We'll need to show it in pieces.”
+“Their letter,” she says. “We’ll need to show it in pieces.”
 
 “Do they want to come?”
 
@@ -5682,7 +5682,7 @@ Same wheel position. Same clamp marks. Dain says both aloud before opening the s
 
 She looks down at the fold. “The younger one asked whether he should wear the coat his father knew.”
 
-I can't look at the letter after that. I watch Harra fit the hood instead.
+I can’t look at the letter after that. I watch Harra fit the hood instead.
 
 My reserve is full. Two days until the removal crew. I have brought a fresh sheet for every question I thought of in the night; Mara has only the letter.
 
@@ -5692,13 +5692,13 @@ He has propped his board against it. There are two words.
 
 *Still here.*
 
-Mara presses her hand over her mouth. Then she takes the first sheet of her sons' letter and begins.
+Mara presses her hand over her mouth. Then she takes the first sheet of her sons’ letter and begins.
 
 It takes nearly an hour.
 
 We hold each section where he can see it, wait for his raised hand, then show the next. Sometimes he signals for us to leave a page longer. Once he goes out of sight and returns with a cloth pressed against his eyes. No one speaks while he is gone.
 
-I learn almost nothing of the letter's contents. I'm holding the paper with its back to me, following Harra's corrections, my world reduced to making the right patch of reflection clear enough for a father to read.
+I learn almost nothing of the letter’s contents. I’m holding the paper with its back to me, following Harra’s corrections, my world reduced to making the right patch of reflection clear enough for a father to read.
 
 When he answers, Mara writes it down.
 
@@ -5738,13 +5738,13 @@ Dain sits down on the spare stool.
 
 I put a hand against the wall. Cold stone, grainy under the heel of my palm. Four years and nearly two months here. Seventy-one sleeps since he began counting there, with an unknown amount before. I try to make the numbers meet and get my mother instead, sitting at the table with her phone facedown because checking it has become something that hurts.
 
-“We don't know,” I say.
+“We don’t know,” I say.
 
 Nobody has asked me anything.
 
 “I know,” Dain says.
 
-Mara asks whether there is daylight. Iven says there are windows higher up, but boards cover them and he has not taken them off. There are noises outside sometimes. He doesn't know what makes them.
+Mara asks whether there is daylight. Iven says there are windows higher up, but boards cover them and he has not taken them off. There are noises outside sometimes. He doesn’t know what makes them.
 
 Four years here, and he has only seventy-one marks he trusts. I grip the wall until my hand hurts. I want someone to explain it. Mara is already writing the next question.
 
@@ -5752,7 +5752,7 @@ Then he holds up a packet.
 
 White, creased, with a blue edge. He has flattened it carefully so we can see the writing. I read *DRINKING WATER* and part of a volume printed beneath. The rest is too small or hidden by his hand.
 
-I tell them exactly that. I can't name the brand or make out a date.
+I tell them exactly that. I can’t name the brand or make out a date.
 
 Plastic shines where his thumb presses it.
 
@@ -5768,9 +5768,9 @@ Sella finds me outside when Harra changes the mounting wedge. I have been practi
 
 “Enough,” she says after watching once.
 
-“I haven't spent.”
+“I haven’t spent.”
 
-“You're favoring that arm. Stop.”
+“You’re favoring that arm. Stop.”
 
 I let my arms drop.
 
@@ -5782,7 +5782,7 @@ She has a paper tucked through her belt. I look at it before I can stop myself.
 
 “Are you taking it?”
 
-“Maybe. I've asked Pell for paid work until the crew arrives. If I'm standing here keeping people from walking into this, I want her paying for the standing.”
+“Maybe. I’ve asked Pell for paid work until the crew arrives. If I’m standing here keeping people from walking into this, I want her paying for the standing.”
 
 “Did she agree?”
 
@@ -5798,7 +5798,7 @@ I am glad enough that it shows. Sella looks at me a moment longer than she has t
 
 Heat gets into my face. She looks pleased, which helps and does not help at all.
 
-“After,” I say. “When you're off.”
+“After,” I say. “When you’re off.”
 
 “All right.”
 
@@ -5820,7 +5820,7 @@ Sella is waiting on the bench by the herb pots when I come back down the outside
 
 She has washed too. Her hair is loose from its braids, waves flattened in places where the ties were, and there is a little crescent of soap behind one ear. I want to touch it with an intensity wildly out of proportion to hygiene.
 
-“You're looking,” she says.
+“You’re looking,” she says.
 
 “I know.”
 
@@ -5838,15 +5838,15 @@ She laughs, head tipped back. I have been listening to water and mechanisms all 
 
 “What does the coast look like here?” I ask.
 
-“Ask someone who's been.”
+“Ask someone who’s been.”
 
-“You've never asked?”
+“You’ve never asked?”
 
-“I've heard about the cheap inns and the price of fish. Carters are poets.” She nudges my knee. “I want to see it before someone tells me what I should like.”
+“I’ve heard about the cheap inns and the price of fish. Carters are poets.” She nudges my knee. “I want to see it before someone tells me what I should like.”
 
 I try to picture her on a beach with her boots in her hand. For once the water in my head has no wheel beside it, no broken stair, nobody waiting for us to get something right.
 
-“I'd like that.”
+“I’d like that.”
 
 “Then keep something out of your wages for it.”
 
@@ -5862,27 +5862,27 @@ Her gaze returns to me.
 
 “No.”
 
-“Good.” She rubs her thumb along the bench edge. “I saw you with him. I wasn't sure what you'd agreed.”
+“Good.” She rubs her thumb along the bench edge. “I saw you with him. I wasn’t sure what you’d agreed.”
 
-“I told him I wanted you. He's angry.”
+“I told him I wanted you. He’s angry.”
 
-“Did you tell him you'd stop?”
+“Did you tell him you’d stop?”
 
 “No.”
 
 She draws her knee away from mine. I feel the empty space immediately.
 
-“I don't want him coming to me about it.”
+“I don’t want him coming to me about it.”
 
-“He won't.”
+“He won’t.”
 
-“You don't know that.”
+“You don’t know that.”
 
-“No. I don't.”
+“No. I don’t.”
 
 Across the yard someone calls for a missing pan. She waits until the shouting stops, picking at a splinter in the bench.
 
-“I like you,” she says. “I'm also taking work east if I get it.”
+“I like you,” she says. “I’m also taking work east if I get it.”
 
 “When?”
 
@@ -5922,7 +5922,7 @@ Sella brushes a loose strand away from my mouth.
 
 She stays until the kitchen lights begin going out. When she leaves, I go upstairs alone, carrying the warmth of her hand longer than I can reasonably expect my skin to keep it.
 
-On my table lies the sketch we made from Iven's measurements. The broken stair. The rail. The gray door he can open, leading into rooms where water comes from a tap and food comes wrapped in plastic.
+On my table lies the sketch we made from Iven’s measurements. The broken stair. The rail. The gray door he can open, leading into rooms where water comes from a tap and food comes wrapped in plastic.
 
 I set my candle beside it and take out a clean page.
 
@@ -5941,17 +5941,17 @@ Iven needs a saw.
 
 Mara writes the next question before I finish speaking. Beyond the mirror, her brother lets go of the rail and disappears through the gray door. She keeps the slate raised for a moment, then lowers it to her lap.
 
-“He could tell us where he's going.”
+“He could tell us where he’s going.”
 
 I pretend to check the copy beneath my hand.
 
-It is my fifth reading day. Four reserve, an aching shoulder, and a man waiting for a tool we still don't know how to give him. Harra has brought an extension for the mirror rod. Its forked end rests against the gallery wall, a little brass washer tied between the prongs.
+It is my fifth reading day. Four reserve, an aching shoulder, and a man waiting for a tool we still don’t know how to give him. Harra has brought an extension for the mirror rod. Its forked end rests against the gallery wall, a little brass washer tied between the prongs.
 
 Iven comes back dragging a length of metal. Two shorter pieces hang from it at right angles. He puts one end on the rail and lifts the other for us to see.
 
 “Bed frame,” I say.
 
-Dain takes my place. Through the hood I hear him breathing, then the scrape of Mara's chalk as he asks about the joints.
+Dain takes my place. Through the hood I hear him breathing, then the scrape of Mara’s chalk as he asks about the joints.
 
 One is stuck. The long strip would reach over the broken stair if Iven could get it free. He wants to carry a line across.
 
@@ -5959,11 +5959,11 @@ One is stuck. The long strip would reach over the broken stair if Iven could get
 
 The answer comes back underlined.
 
-*No. I'm a sluicewright.*
+*No. I’m a sluicewright.*
 
 Dain laughs once, sharply, and Mara glares at him. He bends to the glass again. I watch the back of his neck redden.
 
-We show Iven the shape of our access. He knew the lower passage; he has been looking for us down there. Dain's drawing puts us above the chamber, with a sleeve through the wall and a rod reaching down to the arch. Iven studies it, then points to the floor beneath his own feet.
+We show Iven the shape of our access. He knew the lower passage; he has been looking for us down there. Dain’s drawing puts us above the chamber, with a sleeve through the wall and a rod reaching down to the arch. Iven studies it, then points to the floor beneath his own feet.
 
 He has three intact steps. The next has broken across its width, leaving a tilted corner. After that, nothing until a lower stub near the opening.
 
@@ -5981,7 +5981,7 @@ Iven points behind him, through the gray door. His next drawing shows a thick st
 
 Dain leans closer. “Can he inspect the back?”
 
-Iven is already turning his mirror that way. I have to catch Mara's sleeve before she wipes the question off.
+Iven is already turning his mirror that way. I have to catch Mara’s sleeve before she wipes the question off.
 
 “Leave it. Let him answer.”
 
@@ -6001,15 +6001,15 @@ He pulls a burr from the cord and flicks it away.
 
 “Did you?”
 
-I know what he means. I wish we weren't standing where anyone could walk past us.
+I know what he means. I wish we weren’t standing where anyone could walk past us.
 
 “Yes.”
 
 He nods. His mouth tightens at one corner. I reach for his sleeve, and he shifts the coil between us.
 
-“Don't do that because you think you should.”
+“Don’t do that because you think you should.”
 
-“I wasn't.”
+“I wasn’t.”
 
 “All right.”
 
@@ -6017,17 +6017,17 @@ But he keeps the cord there.
 
 Inside the workshop Harra drops something metal. We both look toward the noise. I could go and ask whether she needs me. He could go back to work. Neither of us moves.
 
-“I'm not going to stop seeing her,” I say.
+“I’m not going to stop seeing her,” I say.
 
 “I heard you.”
 
-“And I don't want to stop seeing you.”
+“And I don’t want to stop seeing you.”
 
 He looks down at my hand, still halfway between us.
 
-“I don't know if I can do it like that.”
+“I don’t know if I can do it like that.”
 
-I lower it. I had imagined him being angry. I had imagined apologizing for the way I told him. I had not spent much time imagining him simply deciding he didn't want what I was offering.
+I lower it. I had imagined him being angry. I had imagined apologizing for the way I told him. I had not spent much time imagining him simply deciding he didn’t want what I was offering.
 
 He does not tell me to choose. He does not make my wanting his permission to give. He just keeps his own boundary, which is somehow harder to argue with than anger.
 
@@ -6045,17 +6045,17 @@ She hands me the lower end of the extension.
 
 ---
 
-The probe reaches farther than the mirror. Harra has fitted it to a separate cradle, so moving one won't move the other. The brass washer hangs on a short loop of linen cord. If the fork gets to the opening, we can put the washer through and pull it back.
+The probe reaches farther than the mirror. Harra has fitted it to a separate cradle, so moving one won’t move the other. The brass washer hangs on a short loop of linen cord. If the fork gets to the opening, we can put the washer through and pull it back.
 
 An object from here. There and back.
 
 I keep looking at it while she tightens the fittings.
 
-“Don't wind that around your finger,” she says.
+“Don’t wind that around your finger,” she says.
 
 I let go of the loose cord.
 
-The bolts take the rod's weight. My job is to stop the cradle twisting while she lowers the tip. There is a catch beneath it; I practice letting the handle go until I can do it without trying to soften the drop.
+The bolts take the rod’s weight. My job is to stop the cradle twisting while she lowers the tip. There is a catch beneath it; I practice letting the handle go until I can do it without trying to soften the drop.
 
 Harra tests a pin between her fingers. For a moment a pale line shows beneath its surface. She turns it toward the light and swears.
 
@@ -6065,7 +6065,7 @@ Harra tests a pin between her fingers. For a moment a pale line shows beneath it
 
 “You can see inside it?”
 
-“If I'm holding it. And if it's worked metal.” She rubs her thumb against her trousers. “Costs a point. I wish the smith would stop giving me reasons to spend them.”
+“If I’m holding it. And if it’s worked metal.” She rubs her thumb against her trousers. “Costs a point. I wish the smith would stop giving me reasons to spend them.”
 
 She tests the replacement. No pale line this time. It goes into the cradle.
 
@@ -6075,7 +6075,7 @@ I look at my own hand. Two days ago I would have wanted her run instead of mine.
 
 At the gallery Iven raises an open hand to show he understands. He stays above the missing stair with his mirror propped on the rail.
 
-Harra feeds the extension through beside the viewing rod. I can't see the tip from my place at the cradle. Dain calls the marks as they pass the sleeve.
+Harra feeds the extension through beside the viewing rod. I can’t see the tip from my place at the cradle. Dain calls the marks as they pass the sleeve.
 
 “Down.”
 
@@ -6085,7 +6085,7 @@ The handle steadies. Beneath the side shoe, a little pale dust falls onto the fl
 
 I watch it for half a breath. Then the pressure changes against my arm.
 
-“Something's moving.”
+“Something’s moving.”
 
 “Where?” Harra asks.
 
@@ -6111,7 +6111,7 @@ The sleeve is sound. The wall is sound. The place we put the load is not.
 
 I sit outside while she cuts a hardwood seat against clean stone. Dain leans on a lever to test it. Harra makes him do it again with his weight farther out.
 
-Through the door I can see Sella by the boundary rope. She looks up at the knock of the lever, sees me sitting, and turns back to the yard. I am grateful she doesn't come over. Then I am angry that she hasn't.
+Through the door I can see Sella by the boundary rope. She looks up at the knock of the lever, sees me sitting, and turns back to the yard. I am grateful she doesn’t come over. Then I am angry that she hasn’t.
 
 When Harra calls, I go inside.
 
@@ -6127,7 +6127,7 @@ Harra advances the rod.
 
 The washer crosses the bright edge.
 
-I stop breathing. It is there, ordinary brass, swinging above the lower stair on Iven's side. Its shadow falls on the pale wall behind it.
+I stop breathing. It is there, ordinary brass, swinging above the lower stair on Iven’s side. Its shadow falls on the pale wall behind it.
 
 Iven lifts his board.
 
@@ -6143,11 +6143,11 @@ I touch it. Warm from the chamber, rough where Dain drilled the hole. The linen 
 
 “Tomorrow,” Dain says.
 
-“It's still open.”
+“It’s still open.”
 
 He catches my wrist before I can reach for the cord again.
 
-“It's narrowing.”
+“It’s narrowing.”
 
 At the glass, the strip has thinned. Iven has his hand on the rail, waiting to see what we will do. The fork would fit now. In another few minutes it might not.
 
@@ -6183,7 +6183,7 @@ Then Harra needs the steps, and we move.
 
 I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop before I have put it away. Dain has the washer in a shallow dish beside his drawing. She reads his account, picks up the dish, and tilts it to examine the linen.
 
-“Captain Rusk will be here tomorrow,” she says. “She's bringing the lifting rig.”
+“Captain Rusk will be here tomorrow,” she says. “She’s bringing the lifting rig.”
 
 “Good,” Dain says.
 
@@ -6191,7 +6191,7 @@ I collect my fifth reading wage on the way to supper. Pell finds us outside the 
 
 He sets down his pen.
 
-“The removal contract,” Pell says. “The iron was part of her payment. She's been on the road with six people and that rig while we've changed the work.”
+“The removal contract,” Pell says. “The iron was part of her payment. She’s been on the road with six people and that rig while we’ve changed the work.”
 
 “Then buy it back,” Mara says.
 
@@ -6203,7 +6203,7 @@ The question comes out sharply. Pell puts the dish down before continuing.
 
 Mara looks away. I stare at the brass washer. I had imagined the hard part would be finding a way through.
 
-Vey reads the captain's dispatch over Pell's shoulder. He is quiet for longer than I like.
+Vey reads the captain’s dispatch over Pell’s shoulder. He is quiet for longer than I like.
 
 “What does she want?” I ask.
 
@@ -6214,7 +6214,7 @@ Pell folds the paper and gives Dain the arrival time. By the time she leaves, he
 
 CHAPTER SEVENTEEN
 
-The captain arrives holding a horse's face.
+The captain arrives holding a horse’s face.
 
 One hand on its cheek, the other curled into the head strap. Behind it, a cart leans in a rut with two long timber legs lashed above the load. Every time the horse backs, a timber swings toward the gatepost.
 
@@ -6224,9 +6224,9 @@ The driver pulls. A man at the rear starts pushing.
 
 “Bren, leave it.”
 
-He stops. She waits until the horse's feet settle, then walks it sideways while two crew members put a plank under the wheel. The cart comes level with a long wooden groan.
+He stops. She waits until the horse’s feet settle, then walks it sideways while two crew members put a plank under the wheel. The cart comes level with a long wooden groan.
 
-**[SALVAGER, LV. 23]** hangs above her head. She has close-cropped hair going gray over one ear and a scar pulling down one corner of her mouth. She wipes horse spit on her trousers before shaking Pell's hand.
+**[SALVAGER, LV. 23]** hangs above her head. She has close-cropped hair going gray over one ear and a scar pulling down one corner of her mouth. She wipes horse spit on her trousers before shaking Pell’s hand.
 
 Six crew members. A chain tackle with a casing the size of a bucket. At its end hangs a hook I could fit both hands through.
 
@@ -6248,15 +6248,15 @@ We finish before midday. Thirty-six written pages, the associated labels, a shee
 
 “Before the winter.”
 
-I keep a finger under the pears while Mara sands the copy. Then she closes the notebook and lays Elena's card beside it.
+I keep a finger under the pears while Mara sands the copy. Then she closes the notebook and lays Elena’s card beside it.
 
-Pell still hasn't ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide that a woman owns her own face. Instead I watch her write another reminder and put it with the claim.
+Pell still hasn’t ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide that a woman owns her own face. Instead I watch her write another reminder and put it with the claim.
 
 Outside the records room, two young men are waiting.
 
-“I'm Teren,” the taller one says. “This is Lio.”
+“I’m Teren,” the taller one says. “This is Lio.”
 
-“Iven's—”
+“Iven’s—”
 
 “We know who our father is,” Lio says.
 
@@ -6274,11 +6274,11 @@ I spend most of the contact outside.
 
 Dain has checked the washer again. Harra has examined the wet cord. There is no visible damage, but the water stained it gray. The little dish sits beside the frame while Teren takes his turn at the glass.
 
-Lio waits with me on the wall. He has his brother's coat across his knees.
+Lio waits with me on the wall. He has his brother’s coat across his knees.
 
 “Does he look old?”
 
-“I didn't know him before.”
+“I didn’t know him before.”
 
 His boot scrapes the ground.
 
@@ -6290,7 +6290,7 @@ His boot scrapes the ground.
 
 I look at the coat. Teren has worn a hole through one elbow and stitched a patch over it from the inside.
 
-“Yes,” I say. “Older than the drawing Mara showed me. His hair's gray. He's been cutting his beard himself.”
+“Yes,” I say. “Older than the drawing Mara showed me. His hair’s gray. He’s been cutting his beard himself.”
 
 Lio picks at the patch. He nods without looking up.
 
@@ -6310,7 +6310,7 @@ I see Iven in it. His boots clearing the broken stair. Mara on our side, reachin
 
 Rusk lays her terms on an upturned crate.
 
-She will supply the rig and crew for the retrieval. Rook supplies materials and access. In return her company gets a season's exclusive use of the opening, first claim on unattended recoveries, and custody of anything brought through until examined.
+She will supply the rig and crew for the retrieval. Rook supplies materials and access. In return her company gets a season’s exclusive use of the opening, first claim on unattended recoveries, and custody of anything brought through until examined.
 
 “Anything?” I ask.
 
@@ -6324,15 +6324,15 @@ Mara takes the paper.
 
 “A mender can examine him here.”
 
-Rusk looks at Dain. “You said the water comes from somewhere you can't identify. You don't know what he's been drinking. You don't know what lives in the rooms with him.”
+Rusk looks at Dain. “You said the water comes from somewhere you can’t identify. You don’t know what he’s been drinking. You don’t know what lives in the rooms with him.”
 
 I can see Dain considering it. I remember the packets that made Iven sick.
 
-“And if the mender says he's well?” I ask.
+“And if the mender says he’s well?” I ask.
 
-“We'd still need his account of the place.”
+“We’d still need his account of the place.”
 
-“What if he won't give it to you?”
+“What if he won’t give it to you?”
 
 “The term is thirty days.”
 
@@ -6340,15 +6340,15 @@ Mara folds the page so hard it creases through the middle of the clause.
 
 “No.”
 
-Rusk holds out her hand for the paper. Mara doesn't give it back. Pell takes it from her instead.
+Rusk holds out her hand for the paper. Mara doesn’t give it back. Pell takes it from her instead.
 
-“Removal of specified iron,” Pell says. “That's what we contracted. Not ownership of the route.”
+“Removal of specified iron,” Pell says. “That’s what we contracted. Not ownership of the route.”
 
 “You stopped removal.”
 
 “We found a living man.”
 
-“You found a valuable road.” Rusk points toward the gallery. “Don't ask me to pretend you haven't.”
+“You found a valuable road.” Rusk points toward the gallery. “Don’t ask me to pretend you haven’t.”
 
 There is a smear of grease on her cuff. One of her workers is trying to catch her eye from beside the rig. She raises a finger to make him wait.
 
@@ -6366,13 +6366,13 @@ Vey looks at her back. Then at the custody clause.
 
 “This is not a chest.”
 
-“No.” He puts the paper down. “I won't witness it.”
+“No.” He puts the paper down. “I won’t witness it.”
 
 Rusk gathers her copy. “Three days on the redirected work. Those are paid. After that I need wages or another job.”
 
 “Price the rescue in money,” Pell says.
 
-“I haven't seen a place to put the feet yet.”
+“I haven’t seen a place to put the feet yet.”
 
 She goes to her waiting worker. Within minutes they have moved the tackle into a fenced corner of the yard. Her apprentice starts fastening a chain across the entrance.
 
@@ -6382,7 +6382,7 @@ Pell has six uncommitted pieces in the works chest.
 
 Dain asks her to repeat the number.
 
-“Six after the three days Dain asked for,” she says. “Those wages are set aside. So is the seed purchase. If I spend either, someone else doesn't get paid.”
+“Six after the three days Dain asked for,” she says. “Those wages are set aside. So is the seed purchase. If I spend either, someone else doesn’t get paid.”
 
 “Advance on rents?”
 
@@ -6390,13 +6390,13 @@ She points through the window at the flooded fields.
 
 “House reserve,” Mara says.
 
-“I've sent twice. The owners want the original drainage work completed before they'll release another allocation.”
+“I’ve sent twice. The owners want the original drainage work completed before they’ll release another allocation.”
 
-Dain pushes his drawing across the table, hard enough to knock Vey's sleeve.
+Dain pushes his drawing across the table, hard enough to knock Vey’s sleeve.
 
 “The original work could drown us.”
 
-“Put that in the letter,” Pell says. “I've run out of ways to say it.”
+“Put that in the letter,” Pell says. “I’ve run out of ways to say it.”
 
 For a moment nobody moves. Then Vey takes three pieces from his purse and puts them beside the drawing.
 
@@ -6404,7 +6404,7 @@ For a moment nobody moves. Then Vey takes three pieces from his purse and puts t
 
 Pell takes the coins before he can change his mind.
 
-The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace. It misses the old junction entirely. Tolliver's levels suggest it will fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the remaining money.
+The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace. It misses the old junction entirely. Tolliver’s levels suggest it will fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the remaining money.
 
 He needs guards. A fitter. Someone at the movable screen while Harra opens the notch.
 
@@ -6414,9 +6414,9 @@ Sella looks at me from the doorway.
 
 “With you there,” I add.
 
-She comes to the table and studies the drawing. “There's no place to stand.”
+She comes to the table and studies the drawing. “There’s no place to stand.”
 
-“We'll lay boards,” Dain says.
+“We’ll lay boards,” Dain says.
 
 “Then show me the boards before you put her on them.”
 
@@ -6424,15 +6424,15 @@ I wait for her to look at me. She keeps talking to Dain.
 
 They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without making everyone read the rest aloud again.
 
-Sella's pen stops over the last date. It is the day she was meant to leave east.
+Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
 She signs anyway.
 
 ---
 
-Tolliver is beside Rusk's cart when I come out with my last reading wage. Six pieces earned, plus the coins I brought from Greyward. Enough to buy something useful if I stop counting it all as nights in a bed.
+Tolliver is beside Rusk’s cart when I come out with my last reading wage. Six pieces earned, plus the coins I brought from Greyward. Enough to buy something useful if I stop counting it all as nights in a bed.
 
-Rusk gives him a folded paper. He reads it, asks a question I can't hear, and puts it inside his coat.
+Rusk gives him a folded paper. He reads it, asks a question I can’t hear, and puts it inside his coat.
 
 I wait by the well until he sees me.
 
@@ -6442,17 +6442,17 @@ I wait by the well until he sees me.
 
 “For her?”
 
-“Once I'm finished here.”
+“Once I’m finished here.”
 
 I look at the fenced rig. “You heard what she asked for.”
 
 “I did.”
 
-“And you're taking it?”
+“And you’re taking it?”
 
 “Tracking. The west road. Looking for a missing team and their wagon.”
 
-“You'd believe her about what you're looking for?”
+“You’d believe her about what you’re looking for?”
 
 His face changes.
 
@@ -6466,17 +6466,17 @@ I step closer. “Because I read the paper.”
 
 “So did I.”
 
-He takes it out and offers it. I don't reach for it.
+He takes it out and offers it. I don’t reach for it.
 
 For several seconds we stand with the folded sheet between us. Then he puts it away.
 
-“I'm here for these three days,” he says. “I'll do the work I agreed to.”
+“I’m here for these three days,” he says. “I’ll do the work I agreed to.”
 
 “And after that?”
 
-“I haven't signed hers.”
+“I haven’t signed hers.”
 
-I want him to say he won't. Behind him a crew member tests the tackle chain, link by link, and Rusk kneels to show the apprentice a flaw near the hook.
+I want him to say he won’t. Behind him a crew member tests the tackle chain, link by link, and Rusk kneels to show the apprentice a flaw near the hook.
 
 “Be careful,” I say.
 
@@ -6501,13 +6501,13 @@ The stores shed smells of old leather. Shields lean against a broken wagon wheel
 
 “No,” she says.
 
-“You haven't seen me hold it.”
+“You haven’t seen me hold it.”
 
 “I can see your wrist.”
 
-I put it down. My wrist keeps trembling after I've let go.
+I put it down. My wrist keeps trembling after I’ve let go.
 
-The green shield is narrower, wood faced in hide, with a metal strip around the edge and a padded rest behind it. Harra shows me an old gouge that doesn't go through and makes me look along the boards for warping. The straps have been replaced. One buckle has three extra holes for an arm like mine.
+The green shield is narrower, wood faced in hide, with a metal strip around the edge and a padded rest behind it. Harra shows me an old gouge that doesn’t go through and makes me look along the boards for warping. The straps have been replaced. One buckle has three extra holes for an arm like mine.
 
 “Three pieces, fitted,” she says. “Pell approved the stores sale. Yours afterward.”
 
@@ -6523,7 +6523,7 @@ Twenty-four bits. I count the three pieces into my palm, then close my hand over
 
 Sella says nothing. I look at her, hoping for the kind of insider signal that means an offer is secretly terrible. She lifts one shoulder. She checks the rim of another shield and sets it back.
 
-I slide my left arm through and settle the weight close. It is still heavy. It doesn't pull me apart the way the round one did. When Sella presses the face, I feel the force reach the floor before my shoulder tries to take all of it.
+I slide my left arm through and settle the weight close. It is still heavy. It doesn’t pull me apart the way the round one did. When Sella presses the face, I feel the force reach the floor before my shoulder tries to take all of it.
 
 I take three pieces from my pouch.
 
@@ -6541,9 +6541,9 @@ Forward. Out. Slowly over my head. I can reach high enough, but the last part dr
 
 “There,” she says. “Below that today.”
 
-“It isn't sharp.”
+“It isn’t sharp.”
 
-“Don't reach that high with weight on it.”
+“Don’t reach that high with weight on it.”
 
 We work behind the kitchen, on a broad patch of packed ground away from the carts. Her relief has taken the boundary. We have an hour before Dain wants her at the north collector.
 
@@ -6575,29 +6575,29 @@ My excitement rearranges itself.
 
 “And lasts two breaths. One short straight step, forward or back. You start it already knowing where the foot will go.”
 
-“That's expensive.”
+“That’s expensive.”
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I've chosen; anything outside that line still gets me.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
 “No. The patterns fight each other.”
 
-“Finish one. Set the other. Don't try to fix a broken Stepguard by pouring more into it.”
+“Finish one. Set the other. Don’t try to fix a broken Stepguard by pouring more into it.”
 
 She draws a second line beside the first, wide enough for my feet, and has me walk it without the shield. Then with the shield. Then while she presses lightly against it. Each time I want to lift my foot high enough to feel brave, she tells me to make it smaller.
 
 I keep trying to lengthen the step. Six inches would barely get me out of a cast circle. Sella puts her boot across the line and makes me start again.
 
-After a while my body begins to understand something my head has been arguing with. I can feel the weight stay connected if I don't hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
+After a while my body begins to understand something my head has been arguing with. I can feel the weight stay connected if I don’t hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
 
 “There,” she says. “Remember that.”
 
 I go still, trying to keep the sensation without squeezing it to death.
 
-The shape under Warder answers when I reach toward it. Less settled than Brace, but present. An opening I hadn't known how to look for.
+The shape under Warder answers when I reach toward it. Less settled than Brace, but present. An opening I hadn’t known how to look for.
 
 Sella watches my face.
 
@@ -6605,13 +6605,13 @@ Sella watches my face.
 
 “I think so.”
 
-“Two if you commit. Even if you fall out of it. We're keeping the push light.”
+“Two if you commit. Even if you fall out of it. We’re keeping the push light.”
 
 I nod, set my shield, and spend.
 
 The hold catches. Pressure runs down the line, through the back of my arm and into my heel, then changes as I begin to move. For half a step I am doing it.
 
-Sella's hand drifts toward the rim.
+Sella’s hand drifts toward the rim.
 
 I turn the shield to follow.
 
@@ -6673,7 +6673,7 @@ I keep looking from the line to my shield as though one of them might explain wh
 
 I had forgotten. I look at the five marks and start laughing.
 
-I put the shield down carefully, straighten, and throw both arms around her before my shoulder reminds me to keep one lower. She catches me around the waist. I kiss her, badly at first because I'm smiling too hard, then properly when she turns her head and pulls me a little closer.
+I put the shield down carefully, straighten, and throw both arms around her before my shoulder reminds me to keep one lower. She catches me around the waist. I kiss her, badly at first because I’m smiling too hard, then properly when she turns her head and pulls me a little closer.
 
 Her palm is warm through the back of my tunic. I pull her closer. Her buckle presses into my stomach, and neither of us moves it.
 
@@ -6685,11 +6685,11 @@ When we stop, she looks pleased in a way that has very little to do with the les
 
 She brushes a grain of dirt from my cheek. I want to follow her hand. Instead I lean into it until her thumb stills against my skin.
 
-We stay there long enough for the kitchen door to open and a woman with a bucket to tell us we're standing in the drainage run.
+We stay there long enough for the kitchen door to open and a woman with a bucket to tell us we’re standing in the drainage run.
 
 Sella picks up her shield. I pick up mine.
 
-I don't stop smiling until we reach the yard.
+I don’t stop smiling until we reach the yard.
 
 ---
 
@@ -6715,15 +6715,15 @@ A woman arrives while he is explaining, carrying a sack of clotted roots. I reco
 
 The woman pours a little of the sack onto the wall. Pale roots, black rot, a bulb that gives under her thumb.
 
-“That row stood through last year,” she says. “We raised it. Now the collector's backed over the path.”
+“That row stood through last year,” she says. “We raised it. Now the collector’s backed over the path.”
 
 “You own that field?”
 
-“Rent it. Rent's due whether I get a crop or not.”
+“Rent it. Rent’s due whether I get a crop or not.”
 
 I look at the dead roots. Black water drips off her thumb. She wipes it on her skirt, leaving a stain that was there already.
 
-“If you cut toward the wash,” she tells Dain, “take the old barrow track. The soil beneath those willows won't carry you.”
+“If you cut toward the wash,” she tells Dain, “take the old barrow track. The soil beneath those willows won’t carry you.”
 
 Tolliver moves a mark on his sketch to show the track.
 
@@ -6745,7 +6745,7 @@ She puts the roots back into her sack. It takes longer than pouring them out.
 
 Sella sends her answer east that afternoon.
 
-I see her at the carrier's cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. No reason for me to feel as though a road has closed under my feet.
+I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. No reason for me to feel as though a road has closed under my feet.
 
 When she turns, I am still standing there.
 
@@ -6769,7 +6769,7 @@ She looks at the papers in my hand.
 
 I shut my mouth.
 
-“I knew when I sent it,” she says. “But don't tell me it's only three days. I have to find another opening now.”
+“I knew when I sent it,” she says. “But don’t tell me it’s only three days. I have to find another opening now.”
 
 I tuck the sheets against my chest.
 
@@ -6777,21 +6777,21 @@ I tuck the sheets against my chest.
 
 She looks at me.
 
-“There's a flat roof over the pantry,” I add, too quickly. “I can get food.”
+“There’s a flat roof over the pantry,” I add, too quickly. “I can get food.”
 
 She looks at me for a moment and begins to smile.
 
-“After the meal,” she says. “I'll ask about the roof.”
+“After the meal,” she says. “I’ll ask about the roof.”
 
 ---
 
 The second sluicewright reaches Rook before the evening meal.
 
-Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn't ask to see the mysterious door first. He asks where the field water comes in.
+Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn’t ask to see the mysterious door first. He asks where the field water comes in.
 
 Within ten minutes they are arguing over the old wash channel.
 
-I understand perhaps a third of it. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret look at Tolliver's measured points instead of assuming he has guessed them. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
+I understand perhaps a third of it. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret look at Tolliver’s measured points instead of assuming he has guessed them. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
 
 Oret will watch the downstream outlet. Dain will control the inlet. Harra will lift the little screen and clear the notch. Tolliver and Sella will cover the two banks, with another house guard beside the workers. I will keep the movable screen steady at its end, behind my shield, while Harra gets her tool in. If the ground moves, the cut closes and we withdraw along the track.
 
@@ -6807,7 +6807,7 @@ We get permission for the roof.
 
 It turns out to be less romantic than I imagined: a shallow platform over the pantry, reached by a short outside ladder, with a rail on two sides and drying onions on the third. The kitchen woman makes us promise not to step on the onions. Sella brings bread, I bring sliced turnip and the heel of cheese left from supper, and neither of us makes a claim about the view.
 
-The shield is propped beside my bed. My day's pay lies beneath the purse, still uncounted.
+The shield is propped beside my bed. My day’s pay lies beneath the purse, still uncounted.
 
 Sella sits beside me with her boots stretched out, off duty and smelling faintly of the soap she used to wash the dust from her arms. She has a mending needle stuck through a strip of cloth.
 
@@ -6815,15 +6815,15 @@ Sella sits beside me with her boots stretched out, off duty and smelling faintly
 
 “My cuff is coming off.”
 
-“We're on an outing.”
+“We’re on an outing.”
 
 “Hold this, will you?”
 
-I hold the cuff while she stitches. Above the yard the evening sky turns a color I don't have a useful name for, pale gold with a greenish edge. I can hear Dain and Oret still arguing below us. Oret keeps saying a number Dain won't accept.
+I hold the cuff while she stitches. Above the yard the evening sky turns a color I don’t have a useful name for, pale gold with a greenish edge. I can hear Dain and Oret still arguing below us. Oret keeps saying a number Dain won’t accept.
 
 Sella asks me about the gulls again. This time I tell her the part where my father lost the rest of his fries and tried to pretend that had been the plan. She laughs with the thread between her fingers, then waits while I remember something else.
 
-I tell her about my mother's car smelling of sunscreen all the way home. About sand appearing in a shoe a week later. I have to stop once. She leaves the needle still until I can continue.
+I tell her about my mother’s car smelling of sunscreen all the way home. About sand appearing in a shoe a week later. I have to stop once. She leaves the needle still until I can continue.
 
 The first moon rises above the east roof, pale and broad. The smaller one is already there. I mistook it for a star the first clear night. Tonight I can see its edge.
 
@@ -6833,9 +6833,9 @@ Sella puts down the needle.
 
 “Sometimes.”
 
-She looks at the two moons, then at me. I don't know how to explain missing something as large as a sky.
+She looks at the two moons, then at me. I don’t know how to explain missing something as large as a sky.
 
-“I'm not thinking about it now,” I say.
+“I’m not thinking about it now,” I say.
 
 She puts her hand beside mine on the roof. I move closer until our shoulders touch.
 
@@ -7080,7 +7080,7 @@ The saw reaches Iven before breakfast.
 
 He has freed the bed-frame strip during the night. It stretches over the missing stair, trembling as he lowers its hooked end toward the packet on the lower stub. Harra has carried the packet through on the fork. A light cord still connects it to the rod.
 
-I stand at the second viewing glass with Sella behind me. I can feel the warmth of her shoulder without touching it. An hour ago she woke me by putting a hand against my cheek. Now neither of us can look away from Iven's hook.
+I stand at the second viewing glass with Sella behind me. I can feel the warmth of her shoulder without touching it. An hour ago she woke me by putting a hand against my cheek. Now neither of us can look away from Iven’s hook.
 
 It catches.
 
@@ -7122,7 +7122,7 @@ I put my hand over one eye. The image is still there when I open it.
 
 “Describe it,” Dain says.
 
-I can't.
+I can’t.
 
 Sella bends to the other glass. She begins with the towers. Her voice is uncertain; she asks Harra to move the angle once, then names the trees.
 
@@ -7138,15 +7138,15 @@ Dain pushes past him. “The south lift?”
 
 “Below it. Those are the old balance towers.”
 
-They exchange a place name I haven't heard, then the name of a road. I watch Dain's finger follow the cliff in the reflection.
+They exchange a place name I haven’t heard, then the name of a road. I watch Dain’s finger follow the cliff in the reflection.
 
 “How far?” I ask.
 
-“Nine days by cart to the upper works,” Oret says. “Longer since the bridge went. The lower station's been shut for years.”
+“Nine days by cart to the upper works,” Oret says. “Longer since the bridge went. The lower station’s been shut for years.”
 
 “The rooms?”
 
-“I've never been inside.”
+“I’ve never been inside.”
 
 “Then how do you know?”
 
@@ -7158,7 +7158,7 @@ I turn to the mirror again. Two moons. The pale trees. Iven is holding up a slat
 
 His next message says he found a name cut in the stone behind the boards. Fallow Reach. He has copied it beneath the drawing of a gate. Local writing, old enough that Dain asks Mara to check one letter.
 
-The gray door stands in front of it. Someone has fitted an Earth door into this place and hung an Earth sign above it. I don't know who. I don't know how.
+The gray door stands in front of it. Someone has fitted an Earth door into this place and hung an Earth sign above it. I don’t know who. I don’t know how.
 
 I know my mother is not behind it.
 
@@ -7166,15 +7166,15 @@ Sella touches my sleeve. I pull away before I can stop myself.
 
 “Sorry.”
 
-She takes her hand back. I can't bear her being careful with me either.
+She takes her hand back. I can’t bear her being careful with me either.
 
 Mara is writing. Her brother still needs help. I move out of the doorway so Oret can carry the location to Pell.
 
 ---
 
-There may be a way down from the old lift. Oret doesn't know whether it survived the slide that took the bridge. Pell sends a letter with the house carrier, asking the upper works for an immediate reply. Even a fast answer will take days.
+There may be a way down from the old lift. Oret doesn’t know whether it survived the slide that took the bridge. Pell sends a letter with the house carrier, asking the upper works for an immediate reply. Even a fast answer will take days.
 
-Iven has tried the doors away from the landing. One opens onto fallen stone. Another won't move in its frame. He can get to the upper rooms and a tank feeding the tap. The water line in the tank has fallen below an old stain.
+Iven has tried the doors away from the landing. One opens onto fallen stone. Another won’t move in its frame. He can get to the upper rooms and a tank feeding the tap. The water line in the tank has fallen below an old stain.
 
 “How much?” Dain asks.
 
@@ -7184,7 +7184,7 @@ The little saw lies on the landing beside his foot. I look at it instead of the 
 
 Then the bright strip narrows.
 
-Harra draws the fork back. The delivery cord trails from it, still tied to the wrapping on Iven's side. I start to tell him to free the knot, but he has seen the movement and reaches for it himself.
+Harra draws the fork back. The delivery cord trails from it, still tied to the wrapping on Iven’s side. I start to tell him to free the knot, but he has seen the movement and reaches for it himself.
 
 “Tell him to leave it,” Dain says.
 
@@ -7194,7 +7194,7 @@ The dark edge meets the linen.
 
 Our end falls.
 
-Nothing pulls it. It simply drops, and the far end curls against Iven's boot. He stares down at it. So do I.
+Nothing pulls it. It simply drops, and the far end curls against Iven’s boot. He stares down at it. So do I.
 
 Harra brings the fork in. A few inches of cord remain tied to it, the end cut at a slant. Dain puts a finger against the cut, then takes it away.
 
@@ -7214,9 +7214,9 @@ Harra lays the severed cord beside the tested washer.
 
 Bera walks past her own gate without looking through it.
 
-I look. There are rows under the water, visible as darker stripes where plants used to be. A bucket floats against a fencepost. Beyond it a child's red stocking hangs from a line with its toe almost touching the flood.
+I look. There are rows under the water, visible as darker stripes where plants used to be. A bucket floats against a fencepost. Beyond it a child’s red stocking hangs from a line with its toe almost touching the flood.
 
-“Don't step left,” she says.
+“Don’t step left,” she says.
 
 I return my attention to the path. My boot was about to go exactly there.
 
@@ -7230,11 +7230,11 @@ Sella catches up beside the last fence.
 
 “I know.”
 
-“You haven't said anything since the gallery.”
+“You haven’t said anything since the gallery.”
 
 “I want to work.”
 
-She looks at me, then at the shield. “Keep your eyes here, then. On what we're doing.”
+She looks at me, then at the shield. “Keep your eyes here, then. On what we’re doing.”
 
 I tighten the strap and follow her onto the track.
 
@@ -7252,7 +7252,7 @@ He points with two fingers. Something makes a low seam through the water, then d
 
 I remember claws on the cart rail. My fingers close around the screen handle until the edge hurts.
 
-Sella looks back at us. “Stay on the boards when they're down.”
+Sella looks back at us. “Stay on the boards when they’re down.”
 
 No one needs to explain what the boards are for again.
 
@@ -7314,7 +7314,7 @@ A minute passes. My left forearm starts to ache. I lower my elbow without moving
 
 Then the mud beneath the throat puckers and lets go.
 
-Water pours out around Oret's staff. He steps back, raises his arm higher, and calls something I can't hear over the sudden rush. The worker beside him repeats it uphill.
+Water pours out around Oret’s staff. He steps back, raises his arm higher, and calls something I can’t hear over the sudden rush. The worker beside him repeats it uphill.
 
 “Fall holds!”
 
@@ -7324,7 +7324,7 @@ Bera walks as close as the sacks allow, staring at the channel. She says somethi
 
 “Hold that draw,” Dain calls. “No wider.”
 
-Harra changes her grip on the pry bar. One root remains across the notch, catching everything the water brings. She doesn't need to take it all out. She needs the screen moved a hand's width so she can cut the part above the flow.
+Harra changes her grip on the pry bar. One root remains across the notch, catching everything the water brings. She doesn’t need to take it all out. She needs the screen moved a hand’s width so she can cut the part above the flow.
 
 I check my footing. The board is firm. Renn stands beyond my right shoulder, spear facing the willow pool.
 
@@ -7340,7 +7340,7 @@ Something erupts out of the roots beside Sella.
 
 The first reed-jack lands against her shield with its whole body.
 
-She was already turning. The impact drives her back one step on the boards, then she catches its head beneath the rim and pushes it down. Tolliver's bow sounds from the upper bank. An arrow hits the water beyond her.
+She was already turning. The impact drives her back one step on the boards, then she catches its head beneath the rim and pushes it down. Tolliver’s bow sounds from the upper bank. An arrow hits the water beyond her.
 
 “Too close,” he calls.
 
@@ -7362,17 +7362,17 @@ I see the plate without wanting it. I set my boots against the raised back edge 
 
 One point.
 
-The shield holds. The frame knocks once against its face, but the load runs through my arm instead of folding it. Harra drags her hand clear of the overlap. Renn's spear comes past my right side, aimed between the bars.
+The shield holds. The frame knocks once against its face, but the load runs through my arm instead of folding it. Harra drags her hand clear of the overlap. Renn’s spear comes past my right side, aimed between the bars.
 
-I know he is there. I don't flinch this time.
+I know he is there. I don’t flinch this time.
 
 One breath.
 
 The point catches fur along the shoulder. The reed-jack lets go with its mouth and pulls sideways, dragging the screen toward the deeper pool.
 
-“Don't follow,” Harra says.
+“Don’t follow,” Harra says.
 
-I don't. I keep the shield in the line I chose, and Renn drives the spear again. The animal drops beneath the water.
+I don’t. I keep the shield in the line I chose, and Renn drives the spear again. The animal drops beneath the water.
 
 Two breaths.
 
@@ -7384,9 +7384,9 @@ My voice works. I can hear it through the blood in my ears.
 
 Downstream, Sella has the first animal on the bank. Her sword goes in beneath its jaw. Its hind legs beat against the board twice before stopping.
 
-Tolliver has another arrow drawn. He isn't watching her victory. His gaze is on the root shelf beside my feet.
+Tolliver has another arrow drawn. He isn’t watching her victory. His gaze is on the root shelf beside my feet.
 
-“The other one's under you,” he says.
+“The other one’s under you,” he says.
 
 The board tilts.
 
@@ -7394,11 +7394,11 @@ The board tilts.
 
 At first I think the animal has lifted it.
 
-Then a line opens in the mud beyond Harra's boot. Water rises through it, carrying pale sand, and the whole lower edge of our ledge moves toward the notch.
+Then a line opens in the mud beyond Harra’s boot. Water rises through it, carrying pale sand, and the whole lower edge of our ledge moves toward the notch.
 
 “Ground!” I shout.
 
-Dain orders the stop board down. The men above haul on its handles. It drops partway and catches on the root Harra hasn't yet cut.
+Dain orders the stop board down. The men above haul on its handles. It drops partway and catches on the root Harra hasn’t yet cut.
 
 Water continues through.
 
@@ -7432,7 +7432,7 @@ Harra catches the back of my tunic.
 
 I let my elbow bend. The rim scrapes across my boot as Renn puts his spear between the animal and my face. Its teeth snap closed on the green wood. A piece tears loose.
 
-I can't find any reserve. I don't waste another second searching.
+I can’t find any reserve. I don’t waste another second searching.
 
 “Pin it there!” I yell.
 
@@ -7440,13 +7440,13 @@ Renn leans in. I pull my arm out of the loosest strap while Harra hauls me uphil
 
 The reed-jack lands where I was kneeling.
 
-Sella's boot comes down on the fallen screen, flattening it across the gap. She meets the animal above my discarded shield with her own. It has nowhere to climb. Her sword hits once, catches, comes free, hits again.
+Sella’s boot comes down on the fallen screen, flattening it across the gap. She meets the animal above my discarded shield with her own. It has nowhere to climb. Her sword hits once, catches, comes free, hits again.
 
 Harra keeps pulling until my hips are on the sound track.
 
 I can see Dain above us, bent over the stop frame. The root is still jammed beneath the board. Water eats at the side of the notch, digging toward the worker beside him.
 
-“The screen,” I say. Harra can't hear. I grab her sleeve. “Flat. Across the soft bit. Put the sack on it.”
+“The screen,” I say. Harra can’t hear. I grab her sleeve. “Flat. Across the soft bit. Put the sack on it.”
 
 She follows my pointing hand. The spare screen section lies beside the clay sacks, wide enough to spread the weight. She shouts to the workers. Two of them lay it over the crumbling edge and slide a sack across it, keeping their own boots back. Another sack follows. The water folds around them instead of stripping the side bank.
 
@@ -7480,7 +7480,7 @@ Sella kneels in front of me. I watch her unfasten the boot and ease it off onto 
 
 “All right.”
 
-She doesn't tell me it is fine. She lifts the foot onto a folded coat and calls for a cart from the field gate.
+She doesn’t tell me it is fine. She lifts the foot onto a folded coat and calls for a cart from the field gate.
 
 My shield lies beside her. The lower rim has peeled away for the length of my hand. The bite tore a chunk out of the wood below it, tearing through the painted bird.
 
@@ -7508,7 +7508,7 @@ I remember the blade coming past on the road and how I broke the Brace myself. T
 
 I hold that memory while the ankle throbs.
 
-Tolliver comes down from the willow bank with his bow unstrung. He has checked farther than I could see. Two animals, no more movement found. He doesn't make that a promise about everything in the reeds.
+Tolliver comes down from the willow bank with his bow unstrung. He has checked farther than I could see. Two animals, no more movement found. He doesn’t make that a promise about everything in the reeds.
 
 He crouches beside me and puts his hand on the back of my neck. I lean into it without pretending to need help sitting up.
 
@@ -7530,7 +7530,7 @@ Oret brings the downstream staff before they lift me.
 
 A wet mark stands well above his first notch. He has measured both the rise and how quickly it drained once Dain closed the cut. Ordinary water, with enough fall to move it through a separate route. The mill tailrace took the trial without backing up.
 
-Dain puts the staff beside Tolliver's drawing. “It works.”
+Dain puts the staff beside Tolliver’s drawing. “It works.”
 
 “Provided that stays up,” Oret says.
 
@@ -7542,35 +7542,35 @@ The draw has washed mud from beneath the upper slab, exposing a crack that runs 
 
 Enough water to drain the fields would scour those roots out. The slab would drop across the outlet, trapping the water again or breaking the remaining wall downstream.
 
-“We couldn't see that yesterday,” Tolliver says.
+“We couldn’t see that yesterday,” Tolliver says.
 
 “We can today,” Dain answers.
 
-Bera comes down the track, keeping clear of the torn ledge. She has brought my abandoned screen handle, though it isn't mine and I have no idea what she thinks I can do with it.
+Bera comes down the track, keeping clear of the torn ledge. She has brought my abandoned screen handle, though it isn’t mine and I have no idea what she thinks I can do with it.
 
 “How much?” she asks.
 
 “To shore and lift?” Oret looks at Harra. Harra looks at the slab.
 
-“Long legs,” she says. “Chain block. The little house tackle won't take it from this bank.”
+“Long legs,” she says. “Chain block. The little house tackle won’t take it from this bank.”
 
-Rusk's hook appears in my head, enormous and patiently priced.
+Rusk’s hook appears in my head, enormous and patiently priced.
 
 Bera pushes the handle into the dirt beside the track as a marker for where the ground is bad.
 
 “The far bed showed,” she says to me. “For a little. Before you shut it.”
 
-I look toward her field. From here I can't see the rows.
+I look toward her field. From here I can’t see the rows.
 
 “Will it help?”
 
-“If you keep it going after you fix this.” She touches the rotted roots caught in the screen. “These won't come back. But I could put something else there.”
+“If you keep it going after you fix this.” She touches the rotted roots caught in the screen. “These won’t come back. But I could put something else there.”
 
-She isn't thanking me for saving her farm. We haven't. Her next sentence is about how many boards the damaged barrow track will need, and Dain writes the number on his plan.
+She isn’t thanking me for saving her farm. We haven’t. Her next sentence is about how many boards the damaged barrow track will need, and Dain writes the number on his plan.
 
 Then she bends, picks my boot out of the mud and puts it in the cart beside me.
 
-“Keep the other one on,” she says. “Road's not getting kinder.”
+“Keep the other one on,” she says. “Road’s not getting kinder.”
 
 ---
 
@@ -7588,7 +7588,7 @@ I open the measure when the road smooths enough to hold a thought.
 
 **[RUN: WARDER]**
 
-Halfway to the next level. I wait for disappointment about the zero to swallow it, and it doesn't. The Brace held long enough for Renn to use his spear. When I shut my eyes I can still feel that impact, the moment the pressure found the ground through me.
+Halfway to the next level. I wait for disappointment about the zero to swallow it, and it doesn’t. The Brace held long enough for Renn to use his spear. When I shut my eyes I can still feel that impact, the moment the pressure found the ground through me.
 
 I want to do it again better.
 
@@ -7604,7 +7604,7 @@ Her mouth curves. “Look at you.”
 
 I grin up at her.
 
-She kisses my forehead before helping me sit up. I don't care who sees it.
+She kisses my forehead before helping me sit up. I don’t care who sees it.
 
 ---
 
@@ -7622,7 +7622,7 @@ Pell pays for the examination and the linen as a work expense. The ankle remains
 
 Harra removes the bent strip from the shield before it can cut me. The wood needs a patch and a new length of rim. Pell agrees to cover that too, but Harra needs the shield until tomorrow. I make myself hand it over.
 
-The clerk brings my day's pay before the mender leaves. I put the coins away without counting them.
+The clerk brings my day’s pay before the mender leaves. I put the coins away without counting them.
 
 ---
 
@@ -7632,11 +7632,11 @@ I suspect Sella arranged it. She denies nothing and steals half my bread while D
 
 Pell listens to the report. The independent route has enough fall. The throat needs lifting and rebuilding before a sustained draw. The damaged work ledge needs proper decking. No further trial tomorrow.
 
-Oret places the wet staff beneath the drawing. He has carried it all the way back, proof that doesn't require anyone to trust how excited Dain sounded.
+Oret places the wet staff beneath the drawing. He has carried it all the way back, proof that doesn’t require anyone to trust how excited Dain sounded.
 
 Rusk comes in with her gloves tucked through her belt.
 
-She has finished the third day's redirected work. The outer bank is shored, the upper carrier cleared as ordered. Her crew is paid for that portion, and from tomorrow the rig costs standing time.
+She has finished the third day’s redirected work. The outer bank is shored, the upper carrier cleared as ordered. Her crew is paid for that portion, and from tomorrow the rig costs standing time.
 
 Harra shows her the exposed slab dimensions.
 
@@ -7654,7 +7654,7 @@ Sixteen pieces. Pell has six left. I watch her look toward Vey.
 
 Pell lays her hands on the table. The nails are dark with mud from the field. “The mill account.”
 
-“Your mill account isn't paid until the grain comes in.”
+“Your mill account isn’t paid until the grain comes in.”
 
 Vey turns one of the coins in his purse. I can hear it striking another.
 
@@ -7662,7 +7662,7 @@ Vey turns one of the coins in his purse. I can hear it striking another.
 
 Pell looks up.
 
-“Two sealed bales in the north store. Mine, not the house's. You can have a lien to ten pieces.”
+“Two sealed bales in the north store. Mine, not the house’s. You can have a lien to ten pieces.”
 
 Rusk pulls out a chair and sits.
 
@@ -7670,13 +7670,13 @@ Rusk pulls out a chair and sits.
 
 “Dyed wool. The invoice is in my room.”
 
-“I'll inspect it.”
+“I’ll inspect it.”
 
-“You'll break the seals in front of me. And if the house repays you, the claim ends.”
+“You’ll break the seals in front of me. And if the house repays you, the claim ends.”
 
 Pell starts to speak. He cuts her off.
 
-“I know you can't promise when.”
+“I know you can’t promise when.”
 
 She closes her mouth. For a moment I see how tired he is. The three pieces he put down before paid for the first tests. This could take the stock he expected to sell through winter.
 
@@ -7702,9 +7702,9 @@ Tolliver pauses at the door when Sella goes for water.
 
 I nod. I have managed not to think about it since the cart ride.
 
-“I'm sorry.”
+“I’m sorry.”
 
-“I don't want to talk about it.”
+“I don’t want to talk about it.”
 
 “All right.”
 
@@ -7716,35 +7716,35 @@ But he stays. I look at his hand on the doorframe.
 
 “For me?”
 
-He shakes his head. “I asked who owned the wagon. She wouldn't put the name in the paper.”
+He shakes his head. “I asked who owned the wagon. She wouldn’t put the name in the paper.”
 
 I wait. There must be something else.
 
-“That's all,” he says.
+“That’s all,” he says.
 
 I want to thank him, and know he would hate it. Instead I ask him to bring my sack closer to the bed. He sets it within reach and sits on the edge while I find the Earth shirt.
 
 It is clean enough now. The letters have cracked where I scrubbed the mud out. I put it across my knees.
 
-“She won't be there,” I say.
+“She won’t be there,” I say.
 
-He knows who I mean. He doesn't answer.
+He knows who I mean. He doesn’t answer.
 
-“I was going to tell her I hadn't done anything stupid.”
+“I was going to tell her I hadn’t done anything stupid.”
 
-A laugh escapes me. It hurts, and then it isn't a laugh. I press the shirt against my face, trying to get quiet before Sella comes back.
+A laugh escapes me. It hurts, and then it isn’t a laugh. I press the shirt against my face, trying to get quiet before Sella comes back.
 
 Tolliver stays until I can breathe. When she appears in the doorway, he stands and goes past her. They exchange a few words too low for me to hear. She sets the water on the table and sits on the floor beside the bed.
 
-For a while I tell her about the board breaking. Then she tells me how the first reed-jack nearly took her sword, and I realize I hadn't asked whether she was hurt.
+For a while I tell her about the board breaking. Then she tells me how the first reed-jack nearly took her sword, and I realize I hadn’t asked whether she was hurt.
 
 “Are you?”
 
 “Bruised. Nothing torn.”
 
-I look at the sleeve covering her arm. This morning I knew the shape of the skin beneath it. Tonight there will be marks I haven't seen.
+I look at the sleeve covering her arm. This morning I knew the shape of the skin beneath it. Tonight there will be marks I haven’t seen.
 
-Outside, Rusk's crew are moving timber into the yard for tomorrow. Somebody calls a warning, and a heavy load settles onto boards. After that I can hear the mill again.
+Outside, Rusk’s crew are moving timber into the yard for tomorrow. Somebody calls a warning, and a heavy load settles onto boards. After that I can hear the mill again.
 
 “I still want to go east,” Sella says.
 
@@ -7752,9 +7752,9 @@ I stare at the shirt on my knees. She waits.
 
 “After Iven?” I ask.
 
-“After this job. I can't keep turning down work.”
+“After this job. I can’t keep turning down work.”
 
-I want a promise she hasn't made. I want to be well enough to pack a bag and walk beside her. My foot throbs when I shift it.
+I want a promise she hasn’t made. I want to be well enough to pack a bag and walk beside her. My foot throbs when I shift it.
 
 “Bring me the fares,” I say. “When you ask.”
 
@@ -7779,7 +7779,7 @@ She has cut away the splintered wood, let in a darker patch, and wrapped the new
 
 I love it more.
 
-“You're not using it today,” she says.
+“You’re not using it today,” she says.
 
 “I know.”
 
@@ -7805,7 +7805,7 @@ That turns out to matter more than I expected.
 
 The last paid day of my agreement begins at the west kitchen table.
 
-Mara brings Iven's copied marks. Dain brings three sheets of measurements. Harra brings the severed cord, two washers, the fork head and a box of things she is willing to lose.
+Mara brings Iven’s copied marks. Dain brings three sheets of measurements. Harra brings the severed cord, two washers, the fork head and a box of things she is willing to lose.
 
 Pell brings Rusk.
 
@@ -7831,7 +7831,7 @@ Pell folds her hands. “After that, I need the shear legs here.”
 
 Rusk smiles without warmth. “Then you need money.”
 
-I look at Vey's empty place.
+I look at Vey’s empty place.
 
 The ten pieces against his wool are due when the lift is finished. Beyond that, the house has promised nothing.
 
@@ -7849,7 +7849,7 @@ Not enough rows.
 
 “Maybe.”
 
-“Or we're measuring the wrong thing.”
+“Or we’re measuring the wrong thing.”
 
 Mara sits opposite me and unwraps a piece of bread. “You wanted both ends.”
 
@@ -7857,11 +7857,11 @@ I did.
 
 I look at the messenger strip measurements again. Iven can reach the lower stub with his bed-frame crosspiece. Our probe can touch the near sill. Between those facts is a distance we have described too many ways.
 
-“What can we send that doesn't matter?”
+“What can we send that doesn’t matter?”
 
 Harra opens the box.
 
-A chalked wooden slat. A narrow copper strip. Two cords of different thickness. A wax tablet no bigger than my palm. Four clay tags drilled with holes. A child's tin cup with no handle.
+A chalked wooden slat. A narrow copper strip. Two cords of different thickness. A wax tablet no bigger than my palm. Four clay tags drilled with holes. A child’s tin cup with no handle.
 
 “Why the cup?”
 
@@ -7881,7 +7881,7 @@ He shrugs. “It was already dented.”
 
 For the first time since the window opened on Fallow Reach, I laugh.
 
-It doesn't fix anything. It does make the room easier to sit in.
+It doesn’t fix anything. It does make the room easier to sit in.
 
 ---
 
@@ -7891,7 +7891,7 @@ That is what everyone tells me.
 
 Then they prove it is a lie in the most useful way possible.
 
-Mara can read Iven's slate. Dain can record the width marks. Harra can work the instrument. Renn can carry messages up and down the outside stair. Oret can watch the outlet pulse with a staff. Tolliver can stand at the upper collector and call the water level. Sella can do almost all of this while also making sure nobody decides a test needs a hero.
+Mara can read Iven’s slate. Dain can record the width marks. Harra can work the instrument. Renn can carry messages up and down the outside stair. Oret can watch the outlet pulse with a staff. Tolliver can stand at the upper collector and call the water level. Sella can do almost all of this while also making sure nobody decides a test needs a hero.
 
 My job is the table.
 
@@ -7899,7 +7899,7 @@ I hate the table for ten minutes.
 
 Then the first set of numbers arrives.
 
-Renn puts Dain's slip beside Oret's.
+Renn puts Dain’s slip beside Oret’s.
 
 Boundary narrow.
 
@@ -7907,7 +7907,7 @@ Outlet low.
 
 Iven reports the gray door still visible, the uncovered window bright, no change in the tank since dawn.
 
-Tolliver's note follows.
+Tolliver’s note follows.
 
 Collector high by two finger-widths after the night rain.
 
@@ -7915,17 +7915,17 @@ I put the three together.
 
 “Again,” I tell Renn.
 
-He grins. “You know I don't control it.”
+He grins. “You know I don’t control it.”
 
 “Tell them I said again with conviction.”
 
 The next interval is wider.
 
-Oret records a pulse at the outlet shortly before the change. Tolliver's collector mark falls after Dain's width begins increasing, not before.
+Oret records a pulse at the outlet shortly before the change. Tolliver’s collector mark falls after Dain’s width begins increasing, not before.
 
 That should be helpful.
 
-It isn't.
+It isn’t.
 
 I draw arrows and cross two out.
 
@@ -7959,7 +7959,7 @@ I knew that yesterday.
 
 Seeing the marks in two columns makes my stomach tighten anyway.
 
-The cord on the floor. Elena's shortened rope. The end beside Iven's boot.
+The cord on the floor. Elena’s shortened rope. The end beside Iven’s boot.
 
 “Next test,” I say.
 
@@ -7967,11 +7967,11 @@ The cord on the floor. Elena's shortened rope. The end beside Iven's boot.
 
 The lift begins while we are still measuring.
 
-I hear it through the kitchen wall before I see anything: timber knocking timber, shouted counts, the slow metallic complaint of Rusk's chain.
+I hear it through the kitchen wall before I see anything: timber knocking timber, shouted counts, the slow metallic complaint of Rusk’s chain.
 
 Bera sends her eldest girl to the house with a strip of blue cloth tied around a stick.
 
-“What's that?” I ask.
+“What’s that?” I ask.
 
 The girl plants it beside my papers.
 
@@ -8005,7 +8005,7 @@ She considers this.
 
 I add the cloth to the table.
 
-Not because it belongs with the boundary measurements. Because Bera's field is why the rig is here at all, and I am beginning to understand how easily a problem becomes beautiful when it stops belonging to anyone.
+Not because it belongs with the boundary measurements. Because Bera’s field is why the rig is here at all, and I am beginning to understand how easily a problem becomes beautiful when it stops belonging to anyone.
 
 ---
 
@@ -8019,7 +8019,7 @@ Time of day does not predict them.
 
 The widest interval comes earlier than the second. The third arrives later but closes faster. No clean period.
 
-Oret's pulses at the old junction are better.
+Oret’s pulses at the old junction are better.
 
 Not perfect.
 
@@ -8035,7 +8035,7 @@ I stare back.
 
 “It means the thing remembers being pushed.”
 
-“Things don't remember.”
+“Things don’t remember.”
 
 “Fine. It reacts differently going up than coming down.”
 
@@ -8073,7 +8073,7 @@ Not approximately in the way frightened people want things to match. The window 
 
 He comes in after dusk covered in mud to the elbows.
 
-Dain has drawn the old Fallow Reach service floor from Oret's memory on one sheet and Iven's rooms on another.
+Dain has drawn the old Fallow Reach service floor from Oret’s memory on one sheet and Iven’s rooms on another.
 
 We put them together.
 
@@ -8147,7 +8147,7 @@ The edge catches it.
 
 The near half drops onto our chamber floor.
 
-Iven's half lands on his side.
+Iven’s half lands on his side.
 
 It parts on a clean diagonal without pulling or twisting.
 
@@ -8189,19 +8189,19 @@ The thing is thicker than my wrist and black through the middle.
 
 “Was?” Pell asks.
 
-“Slab's hanging from my tackle now. Packing's in. We set the first new support before light goes.”
+“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light goes.”
 
 “Tomorrow?”
 
 “Lift, rebuild, deck. If the stone behaves.”
 
-“If it doesn't?”
+“If it doesn’t?”
 
 “Then it becomes three days.”
 
-Pell's jaw tightens.
+Pell’s jaw tightens.
 
-Rusk pulls out Vey's paper.
+Rusk pulls out Vey’s paper.
 
 “Your wool covers ten pieces. Tomorrow is already in that price. A third day is eight more.”
 
@@ -8237,11 +8237,11 @@ She gives me a look.
 
 “What?”
 
-“You have nowhere you're returning to.”
+“You have nowhere you’re returning to.”
 
 Greyward.
 
-The word has changed while I wasn't watching it.
+The word has changed while I wasn’t watching it.
 
 “Still in writing,” I say.
 
@@ -8255,7 +8255,7 @@ Pell looks at them next.
 
 “Sella. Two more days. Same rate.”
 
-Sella's face does not change.
+Sella’s face does not change.
 
 “Tolliver?”
 
@@ -8281,7 +8281,7 @@ She catches me looking.
 
 “Liar.”
 
-“I'm allowed to enjoy two days.”
+“I’m allowed to enjoy two days.”
 
 She pushes off the hearth and comes to stand beside my chair.
 
@@ -8373,13 +8373,13 @@ Then she turns to me.
 
 “You get none.”
 
-“I didn't ask.”
+“I didn’t ask.”
 
 “You looked.”
 
 “I was admiring it.”
 
-“That's what you said about the shield.”
+“That’s what you said about the shield.”
 
 Harra, at the other end of the table, makes a choking sound into her cup.
 
@@ -8389,7 +8389,7 @@ Bera takes the cabbage back.
 
 “Planting greens this afternoon if the lower furrows keep showing.”
 
-The drainage throat is still hanging from Rusk's chain. New stone supports stand beneath it, ugly and square against older masonry. Oret has the first sustained draw running at less than half the trial volume while the mortar takes load.
+The drainage throat is still hanging from Rusk’s chain. New stone supports stand beneath it, ugly and square against older masonry. Oret has the first sustained draw running at less than half the trial volume while the mortar takes load.
 
 The fields are not saved.
 
@@ -8437,9 +8437,9 @@ She stares at me.
 
 “I am waiting for the argument.”
 
-“I've developed character.”
+“I’ve developed character.”
 
-“You've developed bruising.”
+“You’ve developed bruising.”
 
 She allows flat indoor walking and short stairs tomorrow if swelling does not return.
 
@@ -8457,7 +8457,7 @@ Iven measures his tank.
 
 Dain refuses to turn the measurement into a prediction.
 
-We know the dimensions in Iven's old local rule. We know the current water depth and the stain above it. We do not know consumption before he began measuring, leakage, refill, or whether the tank feeds anything else.
+We know the dimensions in Iven’s old local rule. We know the current water depth and the stain above it. We do not know consumption before he began measuring, leakage, refill, or whether the tank feeds anything else.
 
 So nobody tells Mara her brother has thirteen days of water.
 
@@ -8493,7 +8493,7 @@ Neither do I.
 
 ---
 
-At noon, Rusk's crew lowers the throat slab onto its new supports.
+At noon, Rusk’s crew lowers the throat slab onto its new supports.
 
 The chain goes slack one link at a time.
 
@@ -8515,7 +8515,7 @@ Sella catches my eye.
 
 “No.”
 
-“I didn't move.”
+“I didn’t move.”
 
 “You thought loudly.”
 
@@ -8527,9 +8527,9 @@ It is a small thing. A lower note beneath the wheel, steady instead of pulsing.
 
 Dain comes in dripping sweat and grinning.
 
-“Full planned draw. Throat's holding.”
+“Full planned draw. Throat’s holding.”
 
-Bera's cabbage goes back on the table.
+Bera’s cabbage goes back on the table.
 
 This time she leaves it.
 
@@ -8537,7 +8537,7 @@ This time she leaves it.
 
 Rusk gets paid at sunset.
 
-The six pieces were hers yesterday. Vey's wool covers the other ten. Pell's clerk writes the lien release terms again while Rusk inspects the finished draw with Oret.
+The six pieces were hers yesterday. Vey’s wool covers the other ten. Pell’s clerk writes the lien release terms again while Rusk inspects the finished draw with Oret.
 
 The captain returns with mud on her boots and no expression at all.
 
@@ -8555,7 +8555,7 @@ Then she lays another paper beside it.
 
 Pell does not touch it.
 
-“We don't have eight.”
+“We don’t have eight.”
 
 “I know.”
 
@@ -8571,19 +8571,19 @@ Harra leans against the wall.
 
 “The rescue.”
 
-“I've heard of it.”
+“I’ve heard of it.”
 
-Pell's mouth tightens.
+Pell’s mouth tightens.
 
 Rusk rolls the paper once between her hands.
 
-“I'll sell you the old lower block for three pieces.”
+“I’ll sell you the old lower block for three pieces.”
 
 Harra straightens.
 
 “Sell?”
 
-“Chain's worn. Hook is good. Four-to-one. I was going to replace it in Greyward.”
+“Chain’s worn. Hook is good. Four-to-one. I was going to replace it in Greyward.”
 
 “Three pieces is robbery.”
 
@@ -8605,7 +8605,7 @@ I do.
 
 I know that before anybody looks at me, which is why I hate the thought as soon as it arrives.
 
-My purse has forty-six bits from before the extension. Today's eight makes fifty-four.
+My purse has forty-six bits from before the extension. Today’s eight makes fifty-four.
 
 The block would belong to Rook.
 
@@ -8625,7 +8625,7 @@ Pell turns on him. “No.”
 
 “One piece. Not stock.”
 
-“You've done enough.”
+“You’ve done enough.”
 
 “Apparently not. The man remains behind a wall.”
 
@@ -8633,7 +8633,7 @@ Mara places four bits on the table.
 
 Everyone looks at her.
 
-“What?” she says. “He's my brother.”
+“What?” she says. “He’s my brother.”
 
 Pell closes her eyes.
 
@@ -8645,23 +8645,23 @@ Renn, standing by the door, contributes one and immediately regrets doing it bec
 
 “This is why I travel,” the captain says. “Sentiment makes equipment liquid.”
 
-“Two pieces and four bits,” Harra says. “Count, or I'll start taking rust off the price.”
+“Two pieces and four bits,” Harra says. “Count, or I’ll start taking rust off the price.”
 
-By the end, Pell pays eight bits from the house's free cash. Vey pays eight. Mara four. Harra two. Dain one. Renn one.
+By the end, Pell pays eight bits from the house’s free cash. Vey pays eight. Mara four. Harra two. Dain one. Renn one.
 
 Twenty-four.
 
 Rusk gives four back.
 
-“Hook's missing a keeper.”
+“Hook’s missing a keeper.”
 
 Harra snatches the coins before she can change her mind.
 
-The block becomes Rook's.
+The block becomes Rook’s.
 
 The captain leaves before sunrise.
 
-What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else's grease still in the links, not Rusk's labor or an exclusive claim on what she can do next.
+What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else’s grease still in the links, not Rusk’s labor or an exclusive claim on what she can do next.
 
 I think I understand why Pell looks happier about that than she did when the fields started draining.
 
@@ -8675,7 +8675,7 @@ He takes two sheets from my hands.
 
 “I can carry paper.”
 
-“I've seen you carry paper.”
+“I’ve seen you carry paper.”
 
 “Then this is trust.”
 
@@ -8725,13 +8725,13 @@ I lean against the wall because I was told I could, and because this suddenly fe
 
 “What happened?”
 
-“She'd left him.”
+“She’d left him.”
 
 That lands differently.
 
 Tolliver looks down at the station pages in his hand.
 
-“I found her in Kest. She was nineteen. He told me she'd been taken. She told me she'd run.”
+“I found her in Kest. She was nineteen. He told me she’d been taken. She told me she’d run.”
 
 “What did you do?”
 
@@ -8741,7 +8741,7 @@ My stomach hardens.
 
 He does not soften it for me.
 
-“He brought three men. She disappeared again before they arrived. I don't know if she knew I had told him or if somebody warned her.”
+“He brought three men. She disappeared again before they arrived. I don’t know if she knew I had told him or if somebody warned her.”
 
 “You took his money.”
 
@@ -8759,7 +8759,7 @@ I stare at him.
 
 He lets me.
 
-“That is why you wanted the wagon owner's name.”
+“That is why you wanted the wagon owner’s name.”
 
 “Yes.”
 
@@ -8785,11 +8785,11 @@ I think of Chapter Seven, though my life does not call it that. I think of him d
 
 I think of Rusk asking for custody in writing.
 
-“You don't get points for confessing after you already decided not to do it again.”
+“You don’t get points for confessing after you already decided not to do it again.”
 
 “I know.”
 
-“And I don't forgive you for something that didn't happen to me.”
+“And I don’t forgive you for something that didn’t happen to me.”
 
 “I know.”
 
@@ -8807,7 +8807,7 @@ So I do not.
 
 That matters too.
 
-“I'll see you tomorrow,” I say.
+“I’ll see you tomorrow,” I say.
 
 He steps aside.
 
@@ -8821,7 +8821,7 @@ Not the pantry roof where we watched the moons. The lower drying roof above the 
 
 She has two blankets, a bottle of watered wine and the cabbage.
 
-“You stole Bera's cabbage.”
+“You stole Bera’s cabbage.”
 
 “Pell cooked it.”
 
@@ -8849,9 +8849,9 @@ Sella tears bread.
 
 She chews before replying.
 
-“I don't.”
+“I don’t.”
 
-“That's not true.”
+“That’s not true.”
 
 “It is. I need to decide whether I take a job. You need to decide whether you want to come.”
 
@@ -8863,15 +8863,15 @@ She gives me half the bread.
 
 I look toward the yard.
 
-Rusk's shear legs stand dark against the wall, already lashed for departure. The new drainage channel runs beyond them toward fields I cannot see.
+Rusk’s shear legs stand dark against the wall, already lashed for departure. The new drainage channel runs beyond them toward fields I cannot see.
 
-“I can't promise east,” I say.
+“I can’t promise east,” I say.
 
-Sella's face stays still.
+Sella’s face stays still.
 
 I keep going because stopping here would be cowardice dressed as caution.
 
-“I want to. I want to see it. I want to see the coast. I also want to get Iven out. I want to know who built that station. And I don't know what happens with Tolliver.”
+“I want to. I want to see it. I want to see the coast. I also want to get Iven out. I want to know who built that station. And I don’t know what happens with Tolliver.”
 
 “There it is.”
 
@@ -8887,7 +8887,7 @@ She eats another piece of cabbage.
 
 “No.”
 
-“Good. I wasn't going to.”
+“Good. I wasn’t going to.”
 
 Relief comes so quickly I resent it.
 
@@ -8895,7 +8895,7 @@ Then she adds, “But I will not wait in Rook while you decide whether I am temp
 
 The relief vanishes.
 
-“You aren't.”
+“You aren’t.”
 
 “Then tell me what you can give me.”
 
@@ -8903,7 +8903,7 @@ I look at our knees beneath the blanket.
 
 Truth has become an annoyingly recurring expense.
 
-“I can give you the next two days. After that, if Iven isn't out, I stay until we get him or until the attempt becomes impossible.”
+“I can give you the next two days. After that, if Iven isn’t out, I stay until we get him or until the attempt becomes impossible.”
 
 She nods.
 
@@ -8927,11 +8927,11 @@ Not relief exactly.
 
 Something that has been holding still.
 
-When she opens them, I say, “I still don't know what that means about Tolliver.”
+When she opens them, I say, “I still don’t know what that means about Tolliver.”
 
 “I know.”
 
-“And you still want east even if I don't come.”
+“And you still want east even if I don’t come.”
 
 “Yes.”
 
@@ -8969,7 +8969,7 @@ I look at the three steps.
 
 “Very dangerous.”
 
-“I'll carry the wine.”
+“I’ll carry the wine.”
 
 “Hero.”
 
@@ -9165,7 +9165,7 @@ She lies on her back with one arm over her eyes while I try not to smile at the 
 
 “You are resting smugly.”
 
-“I've had a difficult week.”
+“I’ve had a difficult week.”
 
 “So have I.”
 
@@ -9177,7 +9177,7 @@ There are bruises along her upper arm from the reed-jack, yellow at the edges no
 
 “Yes.”
 
-“You didn't say.”
+“You didn’t say.”
 
 “You had an ankle the size of a turnip.”
 
@@ -9213,7 +9213,7 @@ Not pressure.
 
 Just there.
 
-After a while she says, “If we go east, I won't pay your fare.”
+After a while she says, “If we go east, I won’t pay your fare.”
 
 “I have money.”
 
@@ -9286,7 +9286,7 @@ Her rig goes with her.
 
 The yard looks enormous without the shear legs in it.
 
-Harra's purchased block hangs from a peg beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
+Harra’s purchased block hangs from a peg beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
 
 The hook has no keeper.
 
@@ -9296,7 +9296,7 @@ Harra has made one.
 
 “Mine closes.”
 
-“That wasn't the question.”
+“That wasn’t the question.”
 
 “It was the answer.”
 
@@ -9350,7 +9350,7 @@ Not in the chamber.
 
 Not while afraid.
 
-Not after somebody has already put a boot where they shouldn't.
+Not after somebody has already put a boot where they shouldn’t.
 
 Dain writes them large.
 
@@ -9396,7 +9396,7 @@ My job is not stepping through a magical murder-slice because I happen to have a
 
 My job is the test board.
 
-Dain has taken yesterday's interval observations and made them physical.
+Dain has taken yesterday’s interval observations and made them physical.
 
 A narrow plank, marked with three zones.
 
@@ -9410,7 +9410,7 @@ The colors are not a law.
 
 They are reminders that uncertainty exists even when people are excited.
 
-I stand at the wheel recess with the board, close enough to hear Oret's runner call the outlet marks from above, far enough from the chamber that nobody can mistake my presence for permission to approach the edge.
+I stand at the wheel recess with the board, close enough to hear Oret’s runner call the outlet marks from above, far enough from the chamber that nobody can mistake my presence for permission to approach the edge.
 
 Sella stands with me.
 
@@ -9462,7 +9462,7 @@ The runner calls from the stair above.
 
 I move the wooden marker to yellow.
 
-Harra's voice comes up from the chamber.
+Harra’s voice comes up from the chamber.
 
 “Width increasing.”
 
@@ -9484,13 +9484,13 @@ Harra says this six times.
 
 Two ash sidepieces. Cross-braced. Narrow enough to pass the chamber approach. Strong enough to hold a weighted sack. Too narrow for a person to mistake for safe footing unless that person is an idiot.
 
-We have measured Iven's landing.
+We have measured Iven’s landing.
 
 He has cleared a place beside the gray door and braced one end of his bed-frame strip against the wall.
 
 The plan is simple enough to sound sane.
 
-Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook's side.
+Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook’s side.
 
 Iven uses his strip to catch the far nose once it appears and lower it onto the landing, then releases it. Nobody touches the boundary, and no line remains tensioned across it.
 
@@ -9532,7 +9532,7 @@ The runner arrives breathless.
 
 Green.
 
-From above, Mara's bell rings once.
+From above, Mara’s bell rings once.
 
 Iven sees the nose.
 
@@ -9544,7 +9544,7 @@ I stare at the board.
 
 Do not imagine the frame.
 
-Do not imagine Iven's hands.
+Do not imagine Iven’s hands.
 
 Do not imagine what would happen to fingers.
 
@@ -9558,7 +9558,7 @@ The boundary is still wide.
 
 Harra calls, “Holding.”
 
-Mara's bell rings twice.
+Mara’s bell rings twice.
 
 Iven has the frame.
 
@@ -9654,9 +9654,9 @@ My mouth goes dry.
 
 “Release it,” Dain says.
 
-“Iven's trying.”
+“Iven’s trying.”
 
-Mara's bell from above.
+Mara’s bell from above.
 
 One.
 
@@ -9684,7 +9684,7 @@ We learned that already.
 
 Harra feeds an inch back.
 
-Mara's bell rings twice.
+Mara’s bell rings twice.
 
 Iven has lifted.
 
@@ -9736,7 +9736,7 @@ Then she stops.
 
 We do not break our own rule because the sound was frightening.
 
-Below, Renn calls, “They're clear!”
+Below, Renn calls, “They’re clear!”
 
 I breathe.
 
@@ -9764,7 +9764,7 @@ Later, when the interval widens enough to inspect from the glass, the result is 
 
 The near half of the ash frame lies in our chamber.
 
-The far half sits on Iven's landing.
+The far half sits on Iven’s landing.
 
 One crossbrace is gone entirely. Either cut into a piece too small to see or thrown somewhere outside the view.
 
@@ -9798,21 +9798,21 @@ Dain is sitting on the floor with his back against the wall, staring at the cut 
 
 Renn stands over him.
 
-“You didn't have to drag him?” I ask.
+“You didn’t have to drag him?” I ask.
 
-“Didn't get the pleasure.”
+“Didn’t get the pleasure.”
 
 Dain gives us both a tired look.
 
 Harra is examining the remaining metal pin.
 
-“It wasn't timing alone.”
+“It wasn’t timing alone.”
 
 I wait.
 
 She points to the far end drawing.
 
-“The nose caught because the support face isn't level. Iven's landing pitches toward the door.”
+“The nose caught because the support face isn’t level. Iven’s landing pitches toward the door.”
 
 “The cup would have told us.”
 
@@ -9850,7 +9850,7 @@ Fixable.
 
 But not today.
 
-Mara's rule.
+Mara’s rule.
 
 No second try after loss.
 
@@ -9896,7 +9896,7 @@ I look at the slate.
 
 “Why?”
 
-She gives me a look so similar to my mother's that for one awful instant I hate her.
+She gives me a look so similar to my mother’s that for one awful instant I hate her.
 
 Then it passes.
 
@@ -9970,7 +9970,7 @@ For the west-road offer.
 
 Declined.
 
-At the bottom he has written the missing man's name and the name of the daughter from years ago.
+At the bottom he has written the missing man’s name and the name of the daughter from years ago.
 
 Elian Vos.
 
@@ -9980,9 +9980,9 @@ No explanation.
 
 Just the two names.
 
-“You're giving me this?”
+“You’re giving me this?”
 
-“I don't want to keep making you ask what I am hiding.”
+“I don’t want to keep making you ask what I am hiding.”
 
 The sentence lands carefully.
 
@@ -10004,11 +10004,11 @@ Then he looks at my ankle.
 
 “I have been medically cleared to overdo a limited number of stairs.”
 
-“That isn't a thing.”
+“That isn’t a thing.”
 
-“Don't start.”
+“Don’t start.”
 
-“I wasn't going to.”
+“I wasn’t going to.”
 
 I look at him.
 
@@ -10016,7 +10016,7 @@ He nods toward the stool by the hearth. “I was going to ask if you wanted that
 
 The difference is small enough to miss.
 
-I don't.
+I don’t.
 
 “Yes,” I say.
 
@@ -10148,7 +10148,7 @@ I found it last night while copying the test marks.
 
 The near anchor did not move. The chain did not slip. The frame did not fail because we pulled too late.
 
-But the vibration line on Dain's board begins before the far pin catches.
+But the vibration line on Dain’s board begins before the far pin catches.
 
 A little shiver in the stone.
 
@@ -10168,7 +10168,7 @@ Vey says, “Greyward.”
 
 “Three days if somebody rides hard, buys immediately and comes straight back,” Tolliver says.
 
-Iven's tank level is lower than the old stain.
+Iven’s tank level is lower than the old stain.
 
 Nobody turns it into days.
 
@@ -10222,7 +10222,7 @@ The word leaves a bad taste.
 
 I pull the copied sheet from my papers and flatten it beside the broken ash.
 
-“Here. The first tremor is before Mara's second bell. Before far support. Then again after.”
+“Here. The first tremor is before Mara’s second bell. Before far support. Then again after.”
 
 Harra leans over it.
 
@@ -10234,7 +10234,7 @@ Dain traces the marks.
 
 “Yes.”
 
-“And didn't put it on the first report.”
+“And didn’t put it on the first report.”
 
 “No.”
 
@@ -10248,7 +10248,7 @@ Because stone vibrating before load crosses means the chamber itself may be reac
 
 Because Iven is on the other side and his water is dropping and I am nineteen and tired of every answer growing teeth.
 
-“I didn't want it to be important.”
+“I didn’t want it to be important.”
 
 Dain nods once.
 
@@ -10306,7 +10306,7 @@ Then she looks at the paper again.
 
 “Your timing is diseased.”
 
-Tolliver's mouth shifts.
+Tolliver’s mouth shifts.
 
 Not quite a smile.
 
@@ -10342,7 +10342,7 @@ Nobody joins her.
 
 “Four.”
 
-“She's charging for distance,” Vey says.
+“She’s charging for distance,” Vey says.
 
 “She left yesterday.”
 
@@ -10356,7 +10356,7 @@ Of course there is.
 
 Rusk will sell the spring strips at ordinary price if Rook recognizes her first examination right on recovered inner iron from the lower station.
 
-Pell's laugh stops.
+Pell’s laugh stops.
 
 “That claim is still disputed.”
 
@@ -10424,7 +10424,7 @@ Something inside me eases and immediately annoys me for easing.
 
 “Because of us?”
 
-“Because the wagon carried two hired cutters who quit at the cut. Holt's letter calls them missing property.”
+“Because the wagon carried two hired cutters who quit at the cut. Holt’s letter calls them missing property.”
 
 Silence.
 
@@ -10452,7 +10452,7 @@ That is probably why it lands so hard.
 
 ---
 
-The abandoned works complex is Harra's idea.
+The abandoned works complex is Harra’s idea.
 
 Dain hates it first.
 
@@ -10460,7 +10460,7 @@ That makes me trust it more.
 
 “There is no reason the east pressure annex still has intact flex stock,” he says.
 
-“There is no reason it doesn't.”
+“There is no reason it doesn’t.”
 
 “It flooded twelve years ago.”
 
@@ -10468,7 +10468,7 @@ That makes me trust it more.
 
 “The lower gallery cracked.”
 
-“We don't need the lower gallery.”
+“We don’t need the lower gallery.”
 
 “What we need is a tempered return shoe.”
 
@@ -10476,7 +10476,7 @@ Harra spreads an old service map over the table.
 
 Not Fallow Reach.
 
-Rook's region.
+Rook’s region.
 
 Two ridges north and east, beyond the drained field and a strip of coppice, sits a small boxed mark attached to an old pressure line.
 
@@ -10558,7 +10558,7 @@ Three heads turn toward me.
 
 My ankle answers before I do.
 
-A dull ache from yesterday's stairs.
+A dull ache from yesterday’s stairs.
 
 I hate my body for having facts.
 
@@ -10582,13 +10582,13 @@ I sit on the edge of the bench.
 
 “What if I am carried?”
 
-Tolliver's eyes move to mine.
+Tolliver’s eyes move to mine.
 
 I point at him.
 
 “Do not.”
 
-“I didn't say anything.”
+“I didn’t say anything.”
 
 “You thought structurally.”
 
@@ -10638,7 +10638,7 @@ I open my mouth.
 
 “No shield practice.”
 
-“This isn't practice.”
+“This isn’t practice.”
 
 “No.”
 
@@ -10730,7 +10730,7 @@ For the approach.
 
 Harra wants us at the old maintenance shelter before dark, then inside the annex at first light.
 
-Pell pays the day's wages before we go because our current extension ends tonight.
+Pell pays the day’s wages before we go because our current extension ends tonight.
 
 Eight bits for me.
 
@@ -10754,7 +10754,7 @@ Recovered rescue components belong to Rook until Iven is out, after which owners
 
 Personal finds must be declared before division.
 
-Nobody owns another person's body, labor beyond the term, or future route rights.
+Nobody owns another person’s body, labor beyond the term, or future route rights.
 
 I read that line twice.
 
@@ -10854,7 +10854,7 @@ Three quick taps.
 
 Tolliver is on his feet before the third.
 
-Sella's hand closes around mine.
+Sella’s hand closes around mine.
 
 Harra wakes without speaking.
 
@@ -10938,7 +10938,7 @@ No boots fresher than last rain.
 
 One retreat condition cleared.
 
-Harra takes a pry bar from Tolliver's pack.
+Harra takes a pry bar from Tolliver’s pack.
 
 I am carrying a walking stick.
 
@@ -11118,7 +11118,7 @@ Hard.
 
 The plate jumps.
 
-Sella's knife is in her hand.
+Sella’s knife is in her hand.
 
 Another strike.
 
@@ -11172,7 +11172,7 @@ Harra looks at me.
 
 “Only when it touches the gap.”
 
-Tolliver's bow is already in his hand.
+Tolliver’s bow is already in his hand.
 
 He does not nock.
 
@@ -11238,7 +11238,7 @@ Not magic exactly.
 
 Load.
 
-The old system and the creature and Tolliver's weight all arguing about what gets to stay where.
+The old system and the creature and Tolliver’s weight all arguing about what gets to stay where.
 
 Brace wants to happen.
 
@@ -11326,13 +11326,13 @@ Not the floor.
 
 Me.
 
-I catch Tolliver's belt with one hand.
+I catch Tolliver’s belt with one hand.
 
 His head turns.
 
 “Do not help me,” I say.
 
-“I wasn't.”
+“I wasn’t.”
 
 Good answer.
 
@@ -11354,7 +11354,7 @@ The plate falls as my weight leaves it.
 
 A pale head punches into the gap.
 
-Sella's knife flashes.
+Sella’s knife flashes.
 
 Not into the creature.
 
@@ -11528,7 +11528,7 @@ Pure, indecent mechanical joy.
 
 “There.”
 
-She crosses half the room before Dain's voice appears in my head.
+She crosses half the room before Dain’s voice appears in my head.
 
 No.
 
@@ -11654,7 +11654,7 @@ Good.
 
 I would rather annoy her than watch her get folded by a metal arm.
 
-“We know movement triggers the knockers,” I say. “We know load triggers this. We don't know if the reset is time or weight.”
+“We know movement triggers the knockers,” I say. “We know load triggers this. We don’t know if the reset is time or weight.”
 
 Harra nods slowly.
 
@@ -11682,7 +11682,7 @@ The right thing.
 
 “I can Brace the arm at the stop after it fires.”
 
-Harra's eyes narrow.
+Harra’s eyes narrow.
 
 “Against what?”
 
@@ -11718,7 +11718,7 @@ Tolliver accepts it.
 
 Useful.
 
-Harra rigs a retrieval line to Sella's belt that will not tighten unless she pulls twice.
+Harra rigs a retrieval line to Sella’s belt that will not tighten unless she pulls twice.
 
 No dragging her against her choice.
 
@@ -11732,7 +11732,7 @@ Arm sweeps.
 
 I Brace it against the stop.
 
-Sella crosses outside the arm's path.
+Sella crosses outside the arm’s path.
 
 She pulls the isolation lever.
 
@@ -11748,7 +11748,7 @@ Simple.
 
 Terrible.
 
-Let's go.
+Let’s go.
 
 ---
 
@@ -12096,7 +12096,7 @@ We wait.
 
 The first dropped stone lifts halfway.
 
-A knocker's head appears beneath it.
+A knocker’s head appears beneath it.
 
 Then another.
 
@@ -12142,13 +12142,13 @@ The floor under the door trembles.
 
 Sella puts two fingers against the stone.
 
-“They're coming toward the vibration.”
+“They’re coming toward the vibration.”
 
 “So opening the door rings dinner,” I say.
 
 Tolliver glances down the corridor.
 
-“They already know we're here.”
+“They already know we’re here.”
 
 “Knowing and being invited are different.”
 
@@ -12168,9 +12168,9 @@ We all look at her.
 
 She shrugs.
 
-“They're stupid enough to live under floors.”
+“They’re stupid enough to live under floors.”
 
-Harra's expression becomes thoughtful.
+Harra’s expression becomes thoughtful.
 
 Tolliver unhooks the small hammer from his pack.
 
@@ -12678,7 +12678,7 @@ Tolliver looks at the furnace.
 
 He reaches for his bow.
 
-“Arrow won't stop that.”
+“Arrow won’t stop that.”
 
 “I know.”
 
@@ -12924,7 +12924,7 @@ Pain flashes up my ankle.
 
 I make a sound I will deny later.
 
-Tolliver's hand closes on the brake.
+Tolliver’s hand closes on the brake.
 
 The trolley stops.
 
@@ -13004,7 +13004,7 @@ Not quickly.
 
 We need a secured place while she works.
 
-The old foreman's office has one door, stone walls and no floor seams.
+The old foreman’s office has one door, stone walls and no floor seams.
 
 Harra checks the ceiling.
 
@@ -13074,7 +13074,7 @@ I know who she means.
 
 “Yes.”
 
-“He didn't before.”
+“He didn’t before.”
 
 “No.”
 
@@ -13088,7 +13088,7 @@ Heat moves up my neck.
 
 “Then why are we doing this?”
 
-“Because later you will pretend you didn't notice.”
+“Because later you will pretend you didn’t notice.”
 
 I open my mouth.
 
@@ -13134,7 +13134,7 @@ She looks at the door.
 
 Then back at me.
 
-“I don't need an answer today.”
+“I don’t need an answer today.”
 
 My chest tightens.
 
@@ -13158,7 +13158,7 @@ She gives it.
 
 “I know.”
 
-“And I don't know what he is.”
+“And I don’t know what he is.”
 
 “I know.”
 
@@ -13252,13 +13252,13 @@ We exit near dusk.
 
 The spill gallery opens onto the ridge above the entrance.
 
-Tolliver carries Harra's pack.
+Tolliver carries Harra’s pack.
 
 Harra carries the return shoe wrapped against her chest.
 
 Sella carries my pack.
 
-I carry myself with one arm over Tolliver's shoulder because there are limits to principle and my ankle has reached one.
+I carry myself with one arm over Tolliver’s shoulder because there are limits to principle and my ankle has reached one.
 
 He asked first.
 
@@ -19674,7 +19674,7 @@ There is no reason she should. The eastbound crew is moving, and the road does n
 
 On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
 
-At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella's without either of us deciding that. I eat with somebody else's elbow there and discover grief is petty enough to care about benches.
+At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella’s without either of us deciding that. I eat with somebody else’s elbow there and discover grief is petty enough to care about benches.
 
 I work.
 
@@ -21822,7 +21822,7 @@ Then a third time, because getting transported to another world has not cured me
 
 “Do not spread it around.”
 
-I look at Tolliver's sheet.
+I look at Tolliver’s sheet.
 
 He covers it with one hand.
 
@@ -21894,7 +21894,7 @@ Then at Pell.
 
 “If the contract owes me a cart and I choose not to use it, I want the equivalent fare credited toward my room here.”
 
-Pell's expression changes.
+Pell’s expression changes.
 
 Barely.
 
@@ -21942,7 +21942,7 @@ Pell rubs one hand over his mouth.
 
 “I also accept impressive.”
 
-Tolliver's mouth moves.
+Tolliver’s mouth moves.
 
 I kick him under the table.
 
@@ -22018,7 +22018,7 @@ Mara turns the next page.
 
 My attention snaps up.
 
-Vey's humor disappears.
+Vey’s humor disappears.
 
 Elena Ruth Mercer has been in this room for months without physically being in it.
 
@@ -22062,7 +22062,7 @@ Interesting.
 
 Mara rests two fingers on the linen.
 
-“Elena's personal effects remain Elena's. The card stays in recorded custody here unless she returns, sends lawful instruction, or a higher authority orders otherwise.”
+“Elena’s personal effects remain Elena’s. The card stays in recorded custody here unless she returns, sends lawful instruction, or a higher authority orders otherwise.”
 
 “And my copy?”
 
@@ -22094,7 +22094,7 @@ I know there is probably a version of Independence where people are standing in 
 
 For one dangerous second I can almost put my hand through the paper.
 
-Then Tolliver's thumb moves once against the side of my boot.
+Then Tolliver’s thumb moves once against the side of my boot.
 
 Tiny pressure.
 
@@ -22124,11 +22124,11 @@ Mara brings out the last packet.
 
 This one is thicker.
 
-Iven's testimony.
+Iven’s testimony.
 
-Harra's measurements.
+Harra’s measurements.
 
-Dain's diagrams.
+Dain’s diagrams.
 
 My notes.
 
@@ -22150,7 +22150,7 @@ Not very sorry.
 
 “What happens to her claim?” I ask.
 
-Pell's mouth flattens.
+Pell’s mouth flattens.
 
 “Hearing in Greyward when the district clerk can take it.”
 
@@ -22172,7 +22172,7 @@ Good enough. Rusk leaves with a claim to metal nobody is currently touching and 
 
 I can live with that.
 
-Especially because I am about to become someone else's paperwork problem.
+Especially because I am about to become someone else’s paperwork problem.
 
 Mara taps the top page.
 
@@ -22244,7 +22244,7 @@ Dain is not here because sensible people avoid payroll meetings.
 
 Mara pulls another sheet from beneath the diagram.
 
-This one is older than Elena's. Local.
+This one is older than Elena’s. Local.
 
 Copied from a Rook route register.
 
@@ -22432,7 +22432,7 @@ If you take it.
 
 My chest does something inconvenient.
 
-I look at Harra's empty chair.
+I look at Harra’s empty chair.
 
 “Harra?”
 
@@ -22522,7 +22522,7 @@ The copied Missouri card lies in the top tray beneath my notebook.
 
 My coins are split between my purse and a cloth packet under the tray because I have finally learned not to carry every asset on my body like a game character with infinite inventory.
 
-Sella's badly folded shirt is still on the chair.
+Sella’s badly folded shirt is still on the chair.
 
 I leave it there.
 
@@ -22702,7 +22702,7 @@ The repaired drainage channel catches the last light beyond the lower field.
 
 Water moves where it is supposed to move.
 
-Pell's people are still arguing over the final retaining stones.
+Pell’s people are still arguing over the final retaining stones.
 
 A cart comes through the gate with flour.
 
@@ -22986,7 +22986,7 @@ I stand.
 
 Shield in one hand.
 
-Tolliver's hand in the other for exactly three steps, until Harra yells at us to stop being useless and help with the inventory.
+Tolliver’s hand in the other for exactly three steps, until Harra yells at us to stop being useless and help with the inventory.
 
 Home, apparently, has chores.
 
