@@ -1,6 +1,6 @@
 CHAPTER THIRTY
 
-Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. Fair. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which the mender insists is an important distinction in medicine. Iven is inside with Teren and Lio.
+Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. Fair. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
 
 Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella's pack is beside the west wall. Bad.
 
