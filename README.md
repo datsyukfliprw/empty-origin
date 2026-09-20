@@ -2,7 +2,7 @@
 
 **Book One title: The Unheld Warder.** See the [title and pitch](book1/TITLE.md) and [current manuscript review](book1/REVIEW_AND_TITLE.md).
 
-**Current-version notice (September 19, 2026):** The canonical thirty-two [chapter files](book1/chapters) total **101,176 words**. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Thirty-Two. Historical reviews retain the counts from their own passes.
+**Current-version notice (September 19, 2026):** The compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) currently totals **101,176 words**; the individual chapter files remain canonical. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Thirty-Two. Historical reviews retain the counts from their own passes.
 
 Read **[book1/WORKING_DRAFT.md](book1/WORKING_DRAFT.md)** for the complete Book One manuscript through Chapter Thirty-Two. Individual chapters are in [book1/chapters](book1/chapters).
 
