@@ -13394,11 +13394,7 @@ Beautiful.
 
 Annoying.
 
-Mine, some reckless part of me supplies.
-
-Not mine.
-
-Not like that.
+Some reckless part of me supplies *mine*, and I shut it down before it grows teeth.
 
 Sella crouches beside my bedroll.
 
@@ -13518,21 +13514,15 @@ We leave the shelter an hour later.
 
 I do not walk.
 
-This is not the same as saying Tolliver carries me.
+Tolliver carries me.
 
-The distinction is important.
-
-It is also bullshit.
+I resent how much simpler the accurate sentence is.
 
 He kneels in front of the shelter steps with his back to me and says, “If you want.”
 
-Not I should.
-
-Not this is happening.
-
-Not an order dressed as concern.
-
 If you want.
+
+The choice sits with me.
 
 My ankle throbs.
 
@@ -13650,8 +13640,6 @@ On sound ground.
 
 No argument.
 
-That matters too.
-
 Harra tests the shelf with the pry bar.
 
 The outer edge crumbles.
@@ -13712,13 +13700,7 @@ The shelf settles.
 
 He reaches the far side and turns.
 
-No drama.
-
-No monster.
-
-No ability.
-
-Just a correct route.
+No monster. No ability. Just a correct route.
 
 Harra crosses with the shoe.
 
@@ -14026,10 +14008,6 @@ I look at the shoe.
 
 Release under load.
 
-Not stronger.
-
-Not forever.
-
 A structure that can sit on both sides without insisting they become one thing.
 
 “What if the far foot can move?”
@@ -14108,13 +14086,7 @@ A little.
 
 That changes the room.
 
-Not rescue.
-
-Not yet.
-
-But the thing we went into the East Relief Works to find has become more than metal.
-
-It has become a design.
+The thing we went into East Relief to find has become more than metal. It has become a design.
 
 ---
 
@@ -14208,11 +14180,7 @@ I look at the note.
 
 No hesitation.
 
-Good.
-
-Painful.
-
-Good.
+It hurts exactly because she means it.
 
 “Then take it.”
 
@@ -14303,10 +14271,6 @@ Not enough to erase the rest.
 “Yes.”
 
 She bends and kisses me.
-
-Not sexual.
-
-Not a promise.
 
 Her mouth stays on mine long enough that I stop thinking anyway.
 
@@ -14416,33 +14380,7 @@ Everyone nods.
 
 Traitors.
 
-The first test is boring.
-
-Weight down.
-
-Rail loads.
-
-Spring compresses half a finger.
-
-Harra shifts the far block.
-
-The shoe adjusts.
-
-Nothing breaks.
-
-The second test is less boring.
-
-More weight.
-
-The spring compresses a full finger.
-
-The rail flexes.
-
-Harra shifts.
-
-The shoe gives.
-
-The near block stays still.
+The first two tests are boring in the best possible way. Half a finger of compression, then a full finger under more weight. Harra shifts the far block. The shoe gives; the near block does not.
 
 Oret says, “Again.”
 
@@ -14496,9 +14434,7 @@ Oret reaches for the weight.
 
 They look at me.
 
-Not because I am right.
-
-Because I said it like I know.
+They look at me because I said it like I know.
 
 I point to the spring latch.
 
@@ -14526,13 +14462,7 @@ Harra looks at me.
 
 My pulse kicks.
 
-No ability.
-
-No System glow.
-
-No raid group.
-
-People with hands on real things waiting for my decision.
+No ability. People with hands on real things are waiting for my decision.
 
 “Release far latch.”
 
@@ -14547,8 +14477,6 @@ The rail settles.
 Then Oret removes the weight.
 
 Nothing breaks.
-
-Nobody loses fingers.
 
 Harra stares at the model.
 
@@ -14604,15 +14532,9 @@ The rail survives.
 
 The near block stays quiet.
 
-Not proof for the chamber.
+A prototype. Better than yesterday.
 
-Not a rescue.
-
-A prototype.
-
-A better one than we had yesterday.
-
-That is enough for one day.
+Enough for one day.
 
 I open my measure because I want to know what the System thinks of enough.
 
@@ -15032,19 +14954,7 @@ I hate it.
 
 On the first morning after East Relief, Harra brings the full-size frame past the west kitchen window in pieces.
 
-Not assembled.
-
-Pieces.
-
-Two ash side rails.
-
-Cross-bracing.
-
-The near anchor head.
-
-The new far shoe copied from the recovered return fitting.
-
-A spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
+Not assembled. Pieces: two ash side rails, cross-bracing, the near anchor head, the new far shoe and a spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
 
 I am sitting at the table with my left foot on a stool.
 
@@ -15100,12 +15010,6 @@ I return to the stack of copied measurements in front of me.
 
 This is my job.
 
-Not stairs.
-
-Not shield.
-
-Not Brace.
-
 Paper.
 
 The chamber vibration boards from the failed ash span.
@@ -15160,7 +15064,7 @@ I turn the copied board around.
 
 “Yes.”
 
-“The East Relief plate says repeated load cycling can wake connected isolation sections.”
+“East Relief says connected isolation sections can wake under repeated load.”
 
 “Yes.”
 
@@ -15321,10 +15225,6 @@ Enough.
 Harra moves the stop bolts to two-finger travel.
 
 One problem reduced.
-
-Not solved.
-
-Reduced.
 
 That word is becoming my religion.
 
@@ -15548,21 +15448,7 @@ Foot up.
 
 Of course.
 
-The frame is longer than the first.
-
-Not heavier by much.
-
-Smarter.
-
-Near support locks to the existing stone anchor head without crossing the boundary.
-
-Far support carries the spring shoe.
-
-The middle section has a shallow cradle for a narrow rescue board.
-
-Not a bridge anyone leaves in place.
-
-A temporary independently supported path that can be withdrawn from both ends.
+The frame is longer than the first, not much heavier, and smarter: near anchor head, spring shoe, shallow cradle for the rescue board. Temporary. Independently supported. Built to come back out.
 
 Iven will control the far catch.
 
@@ -15586,11 +15472,7 @@ I appreciate the insult.
 
 The dry test uses sacks of wet sand.
 
-One Iven.
-
-Then one Iven plus gear.
-
-Then one Iven plus someone grabbing him badly.
+One Iven. Then Iven plus gear. Then Iven plus the weight of somebody grabbing him badly.
 
 Harra says that last test is unrealistic.
 
@@ -15606,11 +15488,7 @@ Release far latch.
 
 Then unload.
 
-Again.
-
-Again.
-
-Again.
+They repeat the sequence.
 
 On the fifth cycle, the near brace squeaks.
 
@@ -15640,13 +15518,9 @@ Oret points to the packing wedge.
 
 Harra swears.
 
-Not the frame.
+Not the frame. The shim.
 
-The shim.
-
-A tiny thing.
-
-The kind of tiny thing that kills people because the large parts look impressive.
+A tiny thing, exactly the kind that kills people while the impressive parts look fine.
 
 They replace it with an iron-backed wedge.
 
@@ -15913,8 +15787,6 @@ She almost smiles.
 “I get injured quickly too.”
 
 “I noticed.”
-
-Not affection.
 
 Professional assessment.
 
@@ -16276,11 +16148,7 @@ He smiles.
 
 ---
 
-The first operation is not crossing.
-
-It is measuring.
-
-Again.
+The first operation is measuring. Again.
 
 We lower the frame to the near staging ledge without putting the nose into the boundary.
 
@@ -16312,15 +16180,11 @@ Good.
 
 He draws the thin guide cord to his side.
 
-No permanent support.
-
-No load.
+No permanent support. No load.
 
 The boundary brightens around it.
 
-Not light exactly.
-
-A wrongness in the air.
+Not light exactly. A wrongness in the air.
 
 My skin prickles.
 
@@ -16422,17 +16286,13 @@ The near anchor stays quiet.
 
 I breathe.
 
-Not relief.
-
-Breath.
-
-Important distinction.
+Not relief. Breath.
 
 Harra says, “Load test.”
 
 We put one sand sack onto the rescue board.
 
-Not a person.
+Not a person yet.
 
 Tolliver moves it out with the haul sled.
 
@@ -16486,11 +16346,7 @@ Clean.
 
 One successful cycle.
 
-Nobody cheers.
-
-Professionals.
-
-Terrified professionals.
+Nobody cheers. Terrified professionals.
 
 ---
 
@@ -16596,11 +16452,7 @@ Vey is arguing with her.
 
 Rusk’s voice reaches faintly down the stone.
 
-Not shouting.
-
-Worse.
-
-Calm.
+Worse than shouting: calm.
 
 “I have not entered the lower chamber.”
 
@@ -16626,9 +16478,7 @@ That is the point.
 
 Maybe she thinks we will choose the answers.
 
-Maybe I would have, two weeks ago.
-
-I hate that possibility.
+Two weeks ago, maybe I would have. I hate that.
 
 Harra says, “Maya.”
 
@@ -16810,9 +16660,7 @@ Iven is one step from it.
 
 My ankle aches inside the brace.
 
-Not sharp.
-
-Background.
+Not sharp. Background.
 
 I can stand.
 
@@ -16888,9 +16736,7 @@ The twist reduces.
 
 Sella takes the near end of the rescue tether.
 
-Not pulling.
-
-Ready.
+Ready, not pulling.
 
 Tolliver has the board haul.
 
@@ -17026,13 +16872,9 @@ Near limit.
 
 Dain: “Vibration five.”
 
-Not green.
+Not green. Amber, and we do not have amber.
 
-Amber.
-
-We do not have amber.
-
-We have continue or abort.
+Continue or abort.
 
 Harra says, “Maya.”
 
@@ -17336,13 +17178,7 @@ Cut.
 
 My pulse is wild.
 
-No System text.
-
-No reward.
-
-Good.
-
-Not yet.
+No System text. Good.
 
 Harra kneels beside the near anchor.
 
@@ -18336,11 +18172,7 @@ Mara shouts my name.
 
 I can hold.
 
-That is the trap.
-
-Again.
-
-Always.
+Same trap.
 
 I release.
 
@@ -18531,10 +18363,6 @@ Dain is watching the dead vibration pointer.
 Tolliver’s eyes meet mine.
 
 Something moves there.
-
-Not possession.
-
-Not victory.
 
 Trust sharpened into hunger.
 
@@ -18846,17 +18674,11 @@ His arms go around both boys.
 
 No System text.
 
-No cleverness.
-
-No mystery.
-
 Just a father making a sound I have never heard from a grown man.
 
 I look away.
 
-Not because it is private.
-
-Because I cannot survive watching all of it at once.
+I cannot survive watching all of it at once.
 
 Tolliver is beside me.
 
@@ -18917,8 +18739,6 @@ I let it.
 Across the yard, Iven laughs into his sons’ hair.
 
 We brought him home.
-
-Not mine.
 
 His.
 
@@ -19090,15 +18910,9 @@ His eyes go to Sella.
 
 She says, “I need ten minutes.”
 
-He nods.
+He nods and leaves.
 
-Not wounded.
-
-Not proprietary.
-
-Not pretending he does not understand what those ten minutes are.
-
-He leaves.
+He understands what those ten minutes are.
 
 I watch him cross the yard.
 
@@ -19106,13 +18920,7 @@ Sella watches me watch him.
 
 There it is.
 
-No lower chamber.
-
-No Iven waiting.
-
-No structure trying to kill us.
-
-No reason to avoid it.
+No emergency left to hide behind.
 
 I turn back.
 
@@ -19330,11 +19138,7 @@ There is nothing to defend against.
 
 No accusation I can dismantle.
 
-She is not asking me to stop being bisexual.
-
-Not asking me to pick a gender.
-
-Not even asking me to pick a person.
+She is not asking me to erase Tolliver or pick a person.
 
 She is telling me what kind of waiting will hollow her out.
 
@@ -19888,11 +19692,7 @@ Lio steals Vey’s pen.
 
 Life continues with insulting competence.
 
-Tolliver is around.
-
-Not constantly.
-
-Not strategically absent either.
+Tolliver is around without orbiting me.
 
 He eats at the same table.
 
@@ -19936,11 +19736,7 @@ This man is dangerous in very specific ways.
 
 I walk closer.
 
-No limp.
-
-No wrap.
-
-No excuse.
+No limp. No wrap.
 
 “What did Sella say to you?”
 
@@ -19980,11 +19776,7 @@ People inside.
 
 Windows lit.
 
-No emergency.
-
-No blood.
-
-No reason.
+No emergency to blame.
 
 Good.
 
@@ -20001,8 +19793,6 @@ Then come back up.
 Heat opens low in me.
 
 There it is.
-
-Not because he took.
 
 Because he waited.
 
@@ -21956,9 +21746,7 @@ The first thing I do after sleeping with Tolliver is argue about payroll.
 
 This is not how romance novels work.
 
-I know this because Earth produced several billion books and I read enough of the wrong ones at the right age.
-
-Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor written into four separate columns.
+Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor in four columns.
 
 Yet here we are.
 
@@ -22002,25 +21790,7 @@ Smart man.
 
 I read.
 
-Day Nineteen.
-
-Retained for planning, no lower works entry.
-
-Eight bits.
-
-Day Twenty.
-
-Equipment review and far-side measurement coordination.
-
-Eight bits.
-
-Day Twenty-One.
-
-Rescue operation.
-
-Eight bits.
-
-The days after that continue in Mara's narrow handwriting. Statement work. Measurements. Recovery review. Copies. Two days where the line reads REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember I answered questions from bed and made Harra bring the spring shoe upstairs so I could point at it.
+Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe upstairs so I could point at it from bed.
 
 The agreement should have been rewritten.
 
@@ -22104,7 +21874,7 @@ The original agreement promised transport after the reading work.
 
 Then I stayed.
 
-Then a man got trapped behind a moving piece of reality and paperwork became less urgent than not cutting him in half.
+Then not cutting Iven in half became more urgent than paperwork.
 
 “I want the value instead,” I say.
 
@@ -22116,13 +21886,7 @@ Pell says, “Reason?”
 
 The room goes quiet.
 
-Not dramatically.
-
-No one gasps.
-
-No System message descends from heaven to congratulate me for emotional development.
-
-Mara just stops moving her pen.
+Mara stops moving her pen.
 
 I look at the purse.
 
@@ -22244,13 +22008,9 @@ The remainder goes into my purse.
 
 It is heavier than any amount of money I have owned here.
 
-Not rich.
-
-Not safe forever.
+Not rich. Not safe forever.
 
 Enough that tomorrow does not belong to whoever feeds me.
-
-That matters more than the weight.
 
 Mara turns the next page.
 
@@ -22308,13 +22068,7 @@ Mara rests two fingers on the linen.
 
 Mara slides another sheet toward me.
 
-Not the card.
-
-A careful ink copy of both sides.
-
-Local notes around the edges.
-
-My English transcription below.
+A careful ink copy of both sides waits there, local notes around the edges and my English transcription below.
 
 Name.
 
@@ -22326,11 +22080,7 @@ The little shape of Missouri.
 
 My chest hurts.
 
-Not because I think I can go there.
-
-That door closed before I was ready.
-
-Maybe all doors do.
+The door back closed before I was ready.
 
 It hurts because I know the place.
 
@@ -22348,11 +22098,7 @@ Then Tolliver's thumb moves once against the side of my boot.
 
 Tiny pressure.
 
-Here.
-
-Not dragging me back.
-
-Just existing where I can feel him.
+Here, where I can feel him.
 
 I breathe.
 
@@ -22372,13 +22118,7 @@ I fold the copy carefully.
 
 It goes into my notebook.
 
-Not under a mattress.
-
-Not hidden in a shirt.
-
-Mine.
-
-Carried.
+Mine. Carried.
 
 Mara brings out the last packet.
 
@@ -22428,13 +22168,7 @@ Pell's mouth flattens.
 
 I sit back.
 
-Not victory forever.
-
-Good enough.
-
-Rusk wanted leverage.
-
-She leaves with a claim to metal nobody is currently touching and a date with clerks.
+Good enough. Rusk leaves with a claim to metal nobody is currently touching and a date with clerks.
 
 I can live with that.
 
@@ -22510,11 +22244,7 @@ Dain is not here because sensible people avoid payroll meetings.
 
 Mara pulls another sheet from beneath the diagram.
 
-This one is old.
-
-Not Elena old.
-
-Local old.
+This one is older than Elena's. Local.
 
 Copied from a Rook route register.
 
@@ -22579,10 +22309,6 @@ Suspicious.
 “Because their regular guard company withdrew after a washout report.”
 
 My pulse picks up.
-
-Not fear.
-
-Not exactly.
 
 Pell continues.
 
@@ -22656,25 +22382,7 @@ Vey looks wounded.
 
 I feel nothing.
 
-We work through the offer.
-
-No automatic claim to personal finds.
-
-No lower works entry without separate consent.
-
-No obligation to operate a mechanism.
-
-No exclusivity on future route knowledge.
-
-Food for the job.
-
-Bed where available.
-
-A return allowance that can become cash if I do not return by the same route.
-
-Medical costs for injuries caused by assigned work.
-
-Right to stop if the road becomes something the contract did not describe.
+We work through the offer: no automatic claim to personal finds, no lower-works entry or mechanism operation without separate consent, no exclusivity on route knowledge. Food and lodging are covered. Return allowance can become cash. Assigned-work injuries are covered. I can stop if the road becomes something the contract did not describe.
 
 The list is familiar.
 
@@ -22684,11 +22392,7 @@ Months ago I would not have known which questions to ask.
 
 Now I annoy professionals efficiently.
 
-Progress.
-
-Not the kind the System measures.
-
-Still counts.
+Progress the System does not measure.
 
 “I am not signing today,” I say.
 
@@ -22710,8 +22414,6 @@ I look at Tolliver.
 
 He has not asked to come.
 
-Also progress.
-
 “Are you free in six days?”
 
 “Yes.”
@@ -22726,13 +22428,7 @@ His gaze stays on mine.
 
 “If you take it, yes.”
 
-Not because you need me.
-
-Not because I found you first.
-
 If you take it.
-
-Yes.
 
 My chest does something inconvenient.
 
@@ -22757,8 +22453,6 @@ I turn to him.
 “Good.”
 
 His sons both look relieved.
-
-That matters.
 
 He continues, “I will help you read the far-side notes before you leave.”
 
@@ -22790,19 +22484,13 @@ The room breaks into laughter.
 
 It feels wrong for half a second.
 
-Then it feels exactly right.
-
-Nobody died.
-
-The joke gets to live.
+Then nobody dies from laughing, either.
 
 ---
 
 By afternoon, I own a chest.
 
-This should not be emotional.
-
-It is a box.
+It is a box. It should not be emotional.
 
 Harra found it in a storage room, declared the hinges insulting, replaced them, added an iron loop, and charged me four bits for materials after refusing labor payment.
 
@@ -22888,9 +22576,7 @@ Lock the chest.
 
 Then lock the room behind us.
 
-No one tells me to.
-
-No one keeps the other key.
+No one tells me to. No one keeps the other key.
 
 Mine.
 
@@ -22958,8 +22644,6 @@ Mine taps his wrist.
 
 Not hard.
 
-Still.
-
 I freeze.
 
 He looks at the contact.
@@ -22969,10 +22653,6 @@ Then at me.
 There it is again.
 
 That look.
-
-Not threatened.
-
-Not indulgent.
 
 Interested.
 
@@ -23015,8 +22695,6 @@ Yet.
 The sky is clear after three days of broken cloud.
 
 Rook looks different from up here.
-
-Not prettier.
 
 More specific.
 
@@ -23096,11 +22774,7 @@ That helps.
 
 Tolliver nods.
 
-No warning.
-
-No are you sure.
-
-No list of reasons I should stay.
+No warning. No list of reasons I should stay.
 
 I look at him.
 
@@ -23170,21 +22844,11 @@ He reaches over.
 
 Palm up on the stone between us.
 
-Not taking.
-
 Offering.
 
 I put my hand in his.
 
-Ordinary daylight relationship proof.
-
-No wall.
-
-No bed.
-
-No one naked.
-
-Still dangerous.
+Still dangerous in daylight.
 
 “What do I call you?” he asks.
 
@@ -23212,10 +22876,6 @@ I open my measure.
 
 The familiar awareness settles over me.
 
-Not words floating in the air.
-
-Not a game window.
-
 A pattern I know how to attend to now.
 
 Level Six.
@@ -23232,9 +22892,7 @@ Controlled Release sitting in the strange place where learned judgment has becom
 
 Blank origin.
 
-That still bothers me.
-
-Less than it did.
+It bothers me less than it did.
 
 I used to look at the empty place and see proof that I belonged nowhere.
 
@@ -23310,8 +22968,6 @@ Somewhere under a ridge, another old station waits.
 
 None of those things are mine yet.
 
-That is the point.
-
 I fold the contract and tuck it into my notebook.
 
 Five days from now I will leave Rook.
@@ -23335,3 +22991,4 @@ Tolliver's hand in the other for exactly three steps, until Harra yells at us to
 Home, apparently, has chores.
 
 I can live with that.
+
