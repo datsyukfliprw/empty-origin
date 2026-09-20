@@ -174,7 +174,7 @@ Pell looks at him for a moment, then nods.
 
 “Name them. I’ll send.”
 
-She asks Harra to stay until the night watch arrives, doubles the boundary watch, and leaves the lower path and pump closed. Nobody gets to open the shutter alone. The clamp stays in place. If the indicators move, the watch fetches Dain instead of deciding what that means for themselves.
+She doubles the boundary watch, keeps the lower path and pump closed, and orders that nobody open the shutter alone. If the indicators move, the watch fetches Dain.
 
 Mara rises while Pell is still writing.
 
@@ -304,7 +304,7 @@ On it, in Mara’s careful letters, is the man’s first question.
 
 At first daylight the strip is there again.
 
-Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don’t ask how her evening went until she hands me a folded sheet.
+The wheel position and clamp marks are unchanged. Mara records both before handing me a folded sheet, looking as though she has not slept.
 
 “Their letter,” she says. “We’ll need to show it in pieces.”
 
@@ -342,7 +342,7 @@ They will get his words in her hand. The original board stays beside a rail we c
 
 ---
 
-Later, when Mara sits down to copy the replies cleanly, we ask the practical questions.
+Later we move to practical questions.
 
 He is on a stair landing. The flight below him is broken across its width. Beyond the break, the arch appears as a narrow line of light. He has lashed his small mirror to a strip of wood so he can lean it around the rail and see us. The door behind him opens inward to another room. He can open it.
 
