@@ -1,6 +1,6 @@
 CHAPTER THIRTY
 
-Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. Fair. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
+Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. I cannot defend myself. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
 
 Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella's pack is beside the west wall. Bad.
 
@@ -46,7 +46,7 @@ Good man. The mender raises one eyebrow.
 
 "Thank you."
 
-She points at me. "You are the stupid part." Also fair. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
+She points at me. "You are the stupid part." She has a point. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
 
 Sella leads us to the low wall beside the east herb beds. Tolliver lowers me onto it, careful with the bad foot. Sella puts my pack beneath my heel. He straightens.
 
@@ -278,7 +278,7 @@ I laugh. It comes out broken. She leans in until our foreheads touch. For anothe
 
 "Useless answer."
 
-"Fair."
+"You're right."
 
 She kisses me. Not hard. Not desperate. Slow enough that my mouth recognizes every part of it. Her lower lip. The small catch in her breathing when I touch her cheek. Her fingers sliding into my hair and staying there. My body remembers bed with brutal precision. Her thigh over mine. Her mouth lower. My hands on her hips. This kiss does not try to become sex. It is trying to remember itself. When she pulls back, neither of us is dry-eyed. She wipes my face with her sleeve.
 
