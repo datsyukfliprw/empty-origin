@@ -988,10 +988,6 @@ Tolliver’s eyes meet mine.
 
 Something moves there.
 
-Not possession.
-
-Not victory.
-
 Trust sharpened into hunger.
 
 Later.
@@ -1302,17 +1298,11 @@ His arms go around both boys.
 
 No System text.
 
-No cleverness.
-
-No mystery.
-
 Just a father making a sound I have never heard from a grown man.
 
 I look away.
 
-Not because it is private.
-
-Because I cannot survive watching all of it at once.
+I cannot survive watching all of it at once.
 
 Tolliver is beside me.
 
@@ -1373,8 +1363,6 @@ I let it.
 Across the yard, Iven laughs into his sons’ hair.
 
 We brought him home.
-
-Not mine.
 
 His.
 
