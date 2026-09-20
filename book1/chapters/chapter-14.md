@@ -292,7 +292,7 @@ I can’t see the whole person. A sleeve, dark at the cuff. The side of a head, 
 
 “I don’t know.”
 
-I want to shout. There is a person beyond the wall, and my whole body has already begun the breath.
+I want to shout. There is a person beyond the wall, and I have already dragged in a breath hard enough to hurt.
 
 Dain touches my sleeve.
 
