@@ -1,8 +1,6 @@
 CHAPTER TWENTY-FOUR
 
-The East Relief Works has a front door.
-
-This is disappointing. I was promised a dungeon.
+The East Relief Works has a front door, which is disappointing. I was promised a dungeon.
 
 The door is iron-banded oak, swollen in its frame and hanging low enough that one corner has carved a crescent through the stone threshold. Somebody painted a red hand across it years ago.
 
@@ -160,7 +158,7 @@ Reserve pulls.
 
 **5 / 6 → 3 / 6**
 
-The pattern catches around my stance. The shifting plate takes my foot, and pressure comes up through it hard enough to buckle an ordinary step. Stepguard keeps my facing, not the stone. That is enough.
+The pattern catches around my stance. My back boot stays on the chalked sound stone while my forward foot takes the edge of Tolliver's shifting plate. Pressure comes up through that step hard enough to buckle an ordinary transfer, but the grounded foot gives Stepguard somewhere real to send it. My facing holds.
 
 I grab the back of Tolliver's belt.
 
@@ -290,7 +288,7 @@ Harra is staring at the mechanism. "It resets after load."
 
 "No."
 
-Of course not.
+That answer lands exactly where I expected it to.
 
 The return shoe we need is on our side of the sweep. The isolation lever is across the room.
 
@@ -320,7 +318,7 @@ Harra studies the sill, the bar, my feet.
 
 "Exactly."
 
-Sella's irritation changes shape. "And if you cannot?"
+Sella's mouth tightens. She looks from me to the iron arm and back. "And if you cannot?"
 
 "I tell you."
 
@@ -374,9 +372,7 @@ Sella drops to one knee.
 
 The arm surges against my Brace. The pattern bites down so hard my teeth click together.
 
-"Now," I say.
-
-Not panic. Information.
+"Now," I say, and keep the word flat enough to be useful.
 
 Sella finds the catch and throws the lever.
 
@@ -404,9 +400,7 @@ Then the spring strip.
 
 Then the specification plate, because it is riveted to the frame and she looks prepared to commit crimes against history if we leave it.
 
-We have what we came for.
-
-The sensible thing is to leave.
+We have what we came for, and the sensible thing is to leave.
 
 Then Tolliver raises one hand.
 
@@ -448,6 +442,4 @@ The room shudders. Three stones on our return route drop one after another, blac
 
 Sella draws her knife. Tolliver nocks an arrow. Harra grabs the recovered shoe against her chest.
 
-I stare at the missing floor.
-
-The dungeon, apparently, has opinions.
+I stare at the missing floor, and the word *dungeon* stops being funny.
