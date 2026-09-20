@@ -212,7 +212,7 @@ Perfect. I confess love with a rescue crew waiting twenty steps away.
 
 "You schedule nothing."
 
-Fair.
+She has me there.
 
 She catches my face and kisses me.
 
