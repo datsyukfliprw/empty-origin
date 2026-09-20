@@ -1,6 +1,6 @@
 CHAPTER FIFTEEN
 
-Dain picks up Mara's pen.
+Dain picks up Mara’s pen.
 
 He puts it in her hand, closes her fingers around it, and waits until she looks at him.
 
@@ -24,17 +24,17 @@ For a long time she says nothing. Her mouth opens once, closes, then she bends c
 
 Her voice is so sharp that I look down. Dain keeps his hand where it is until hers falls away.
 
-“He can't hear?” she asks.
+“He can’t hear?” she asks.
 
-“We haven't heard him,” I say. “He answered the writing.”
+“We haven’t heard him,” I say. “He answered the writing.”
 
-She turns to her slate and wipes Dain's name away with the heel of her hand. Chalk smears across her skin. She writes a question so hard the tip snaps, swears once, picks up the larger piece and finishes.
+She turns to her slate and wipes Dain’s name away with the heel of her hand. Chalk smears across her skin. She writes a question so hard the tip snaps, swears once, picks up the larger piece and finishes.
 
-*What did you put in our mother's good pot?*
+*What did you put in our mother’s good pot?*
 
 We position it beside the mirror. Mara looks into the hood and stays there while I hold the slate at the angle Harra shows me.
 
-Her brother's board goes down.
+Her brother’s board goes down.
 
 I count my breaths until it starts to feel like a bargain.
 
@@ -48,11 +48,11 @@ She has to swallow before she can speak.
 
 Her laugh breaks halfway out. She turns from the glass, then back at once, as though a second away might lose him.
 
-“Write Mara,” she says. “Tell him it's me.”
+“Write Mara,” she says. “Tell him it’s me.”
 
-I can't form the local letters quickly enough. She takes the slate from me and does it herself.
+I can’t form the local letters quickly enough. She takes the slate from me and does it herself.
 
-The man in the mirror disappears downward. For a moment I think he's fallen. Then his hand comes up against the rail, the fingers spread, and he pulls himself back into view with his head bowed.
+The man in the mirror disappears downward. For a moment I think he’s fallen. Then his hand comes up against the rail, the fingers spread, and he pulls himself back into view with his head bowed.
 
 We wait.
 
@@ -80,17 +80,17 @@ He underlines it. I picture the fourth step we counted in the mirror and ask Dai
 
 Tomorrow goes through Mara visibly.
 
-“We can't leave him there.”
+“We can’t leave him there.”
 
-“We can't fetch him through a gap narrower than his shoulders,” Dain says.
+“We can’t fetch him through a gap narrower than his shoulders,” Dain says.
 
 “Open it.”
 
 His face changes.
 
-For half a second I see Elena from Vey's story between them, hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
+For half a second I see Elena from Vey’s story between them, hands torn open, asking for another turn. Then I see Dain in front of me, older, holding a pen he has picked up twice today.
 
-“We don't know where turning it sends him,” he says. “We have him here.”
+“We don’t know where turning it sends him,” he says. “We have him here.”
 
 Mara looks at me.
 
@@ -98,7 +98,7 @@ I want her not to. I look at Dain. He is waiting too.
 
 “The same mark gave different water,” I say. “Elena wrote it down.”
 
-“She didn't know he was alive.”
+“She didn’t know he was alive.”
 
 “No.”
 
@@ -106,7 +106,7 @@ I grip the edge of the slate.
 
 At the mirror the light has grown thinner. Harra checks the clamp. The chalk lines have not moved. Dain checks too, then asks me to describe the change precisely.
 
-The stair is still there. Less of the landing shows. A dark edge has advanced across part of the rail, as if someone is slowly drawing a curtain from a place we can't see.
+The stair is still there. Less of the landing shows. A dark edge has advanced across part of the rail, as if someone is slowly drawing a curtain from a place we can’t see.
 
 He has Mara write that the view is narrowing, that they will try again at first daylight, that no one will turn the wheel tonight.
 
@@ -116,7 +116,7 @@ The reply takes long enough for me to hate the apparatus.
 
 Then, squeezed beneath it:
 
-*Don't send the boys down.*
+*Don’t send the boys down.*
 
 Mara writes her answer with her head bent so I cannot see her face.
 
@@ -134,7 +134,7 @@ Mara stays on the stool with the slate in her hands.
 
 Pell comes up the stair carrying a lamp.
 
-It's nearly dark outside. My third reading day has ended somewhere without me, and the kitchen has started putting bowls on the tables. Tolliver is in the yard; I saw him through the doorway while Harra was dismantling the viewing hood. He looked up when the shutter closed and has stayed below since.
+It’s nearly dark outside. My third reading day has ended somewhere without me, and the kitchen has started putting bowls on the tables. Tolliver is in the yard; I saw him through the doorway while Harra was dismantling the viewing hood. He looked up when the shutter closed and has stayed below since.
 
 Mara tells Pell who we saw.
 
@@ -146,9 +146,9 @@ Then she tells her what he wrote about the pot. Her voice steadies on the househ
 
 “And the others?”
 
-“I saw a man answer,” Dain says. “I didn't get her view of his face. He knew my name when we sent it.”
+“I saw a man answer,” Dain says. “I didn’t get her view of his face. He knew my name when we sent it.”
 
-“He used the mirror to return numbers before we told him anything,” I say. “Then he wrote his name. We didn't offer it.”
+“He used the mirror to return numbers before we told him anything,” I say. “Then he wrote his name. We didn’t offer it.”
 
 Pell takes the slate when Mara offers it. She reads the chalk, then sets it carefully beside the lamp.
 
@@ -162,17 +162,17 @@ Pell takes the slate when Mara offers it. She reads the chalk, then sets it care
 
 Mara shuts her eyes.
 
-“But the fields still need draining,” Pell continues. “Those men can shore the outer bank and clear the upper carrier while we work out what else is possible. That uses their first days. It doesn't buy us a season.”
+“But the fields still need draining,” Pell continues. “Those men can shore the outer bank and clear the upper carrier while we work out what else is possible. That uses their first days. It doesn’t buy us a season.”
 
 “How many days?” I ask.
 
-“I'll know when their foreman sees the work.”
+“I’ll know when their foreman sees the work.”
 
-Dain rubs both hands over his beard. “I'll need a second inspection of the bypass plan. Someone who hasn't spent four years telling himself the old closure was enough.”
+Dain rubs both hands over his beard. “I’ll need a second inspection of the bypass plan. Someone who hasn’t spent four years telling himself the old closure was enough.”
 
 Pell looks at him for a moment, then nods.
 
-“Name them. I'll send.”
+“Name them. I’ll send.”
 
 She asks Harra to stay until the night watch arrives, doubles the boundary watch, and leaves the lower path and pump closed. Nobody gets to open the shutter alone. The clamp stays in place. If the indicators move, the watch fetches Dain instead of deciding what that means for themselves.
 
@@ -182,15 +182,15 @@ Mara rises while Pell is still writing.
 
 “Yes,” Pell says.
 
-“I'll tell them.”
+“I’ll tell them.”
 
 “Tonight?”
 
-“The elder's at the north cottages. His brother is staying with him.”
+“The elder’s at the north cottages. His brother is staying with him.”
 
 Pell asks whether she wants someone to walk with her. Mara says no, then changes her mind and names the kitchen woman who lent me the needle. Pell sends for her.
 
-I stand beside the door with my copies pressed to my chest, trying not to imagine Iven's sons learning their father might come home after being taught how to live when he didn't.
+I stand beside the door with my copies pressed to my chest, trying not to imagine Iven’s sons learning their father might come home after being taught how to live when he didn’t.
 
 As Mara passes me, she stops.
 
@@ -202,7 +202,7 @@ As Mara passes me, she stops.
 
 She puts her hand briefly against my arm and goes down the stair.
 
-I don't follow until I can trust my feet.
+I don’t follow until I can trust my feet.
 
 ---
 
@@ -212,9 +212,9 @@ I eat without tasting much. He talks about the survey until I lose the thread an
 
 “Sorry,” I say.
 
-He slides the jug toward me. My day's pay is beneath my bowl. Mara must have sent it ahead.
+He slides the jug toward me. My day’s pay is beneath my bowl. Mara must have sent it ahead.
 
-“Dain wants the north collector measured,” he says. “I told him I'd do it if he can find the money.”
+“Dain wants the north collector measured,” he says. “I told him I’d do it if he can find the money.”
 
 I nod. Tomorrow. There will be work tomorrow.
 
@@ -240,13 +240,13 @@ Downstairs, the pot hits a board with a hollow clang. I wait through the noise i
 
 “Oh,” he says.
 
-“I haven't.”
+“I haven’t.”
 
 “All right.”
 
 “Is it?”
 
-He looks down the stairs, then back at me. “I'm finding out.”
+He looks down the stairs, then back at me. “I’m finding out.”
 
 His collar is damp beneath my fingers.
 
@@ -254,23 +254,23 @@ His collar is damp beneath my fingers.
 
 “I know.”
 
-“And tonight you're telling me about her.”
+“And tonight you’re telling me about her.”
 
 My hand is still on his coat. I let go.
 
-“I'm telling you before anything happens.”
+“I’m telling you before anything happens.”
 
 “Were you going to ask if I minded?”
 
-“I don't know what I'd do if you did.”
+“I don’t know what I’d do if you did.”
 
-He looks at me for a long time. I wish I had said that differently. I don't have a different answer.
+He looks at me for a long time. I wish I had said that differently. I don’t have a different answer.
 
 “I mind,” he says.
 
 “All right.”
 
-“No. It isn't.” He drags a hand through his hair. “I'm not telling you who you can kiss. I just thought—”
+“No. It isn’t.” He drags a hand through his hair. “I’m not telling you who you can kiss. I just thought—”
 
 He stops. Below us the kitchen door opens, and both of us move back from the stair without looking.
 
@@ -288,15 +288,15 @@ He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
 I want to call him back.
 
-I wasn't prepared to want Sella and still hate the shape of his back going away. One feeling has not had the courtesy to cancel the other.
+I wasn’t prepared to want Sella and still hate the shape of his back going away. One feeling has not had the courtesy to cancel the other.
 
 I open my door instead. My measure blurs the first time I try to read it.
 
 Twelve out of fourteen. Three reserve out of four. Warder.
 
-The morning's lesson, the frame, the hours at the mirror. I can't divide them into a receipt. I write the numbers down, wash, and sit on the bed until I can unfold the page without shaking it.
+The morning’s lesson, the frame, the hours at the mirror. I can’t divide them into a receipt. I write the numbers down, wash, and sit on the bed until I can unfold the page without shaking it.
 
-On it, in Mara's careful letters, is the man's first question.
+On it, in Mara’s careful letters, is the man’s first question.
 
 *Who holds?*
 
@@ -304,9 +304,9 @@ On it, in Mara's careful letters, is the man's first question.
 
 At first daylight the strip is there again.
 
-Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don't ask how her evening went until she hands me a folded sheet.
+Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don’t ask how her evening went until she hands me a folded sheet.
 
-“Their letter,” she says. “We'll need to show it in pieces.”
+“Their letter,” she says. “We’ll need to show it in pieces.”
 
 “Do they want to come?”
 
@@ -318,7 +318,7 @@ Same wheel position. Same clamp marks. Dain says both aloud before opening the s
 
 She looks down at the fold. “The younger one asked whether he should wear the coat his father knew.”
 
-I can't look at the letter after that. I watch Harra fit the hood instead.
+I can’t look at the letter after that. I watch Harra fit the hood instead.
 
 My reserve is full. Two days until the removal crew. I have brought a fresh sheet for every question I thought of in the night; Mara has only the letter.
 
@@ -328,13 +328,13 @@ He has propped his board against it. There are two words.
 
 *Still here.*
 
-Mara presses her hand over her mouth. Then she takes the first sheet of her sons' letter and begins.
+Mara presses her hand over her mouth. Then she takes the first sheet of her sons’ letter and begins.
 
 It takes nearly an hour.
 
 We hold each section where he can see it and wait for his raised hand before showing the next. Once he goes out of sight and returns with a cloth pressed against his eyes. No one speaks while he is gone.
 
-I learn almost nothing of the letter's contents. I'm holding the paper with its back to me, following Harra's corrections, my world reduced to making the right patch of reflection clear enough for a father to read.
+I learn almost nothing of the letter’s contents. I’m holding the paper with its back to me, following Harra’s corrections, my world reduced to making the right patch of reflection clear enough for a father to read.
 
 When he answers, Mara writes it down.
 
@@ -374,13 +374,13 @@ Dain sits down on the spare stool.
 
 I put a hand against the wall. Cold stone, grainy under the heel of my palm. Four years and nearly two months here. Seventy-one sleeps since he began counting there, with an unknown amount before. I try to make the numbers meet and get my mother instead, phone facedown because checking it hurts.
 
-“We don't know,” I say.
+“We don’t know,” I say.
 
 Nobody has asked me anything.
 
 “I know,” Dain says.
 
-Mara asks whether there is daylight. Iven says there are windows higher up, but boards cover them and he has not taken them off. There are noises outside sometimes. He doesn't know what makes them.
+Mara asks whether there is daylight. Iven says there are windows higher up, but boards cover them and he has not taken them off. There are noises outside sometimes. He doesn’t know what makes them.
 
 Four years here, and only seventy-one marks he trusts. I grip the wall until my hand hurts while Mara writes the next question.
 
@@ -388,7 +388,7 @@ Then he holds up a packet.
 
 White, creased, with a blue edge. He has flattened it carefully so we can see the writing. I read *DRINKING WATER* and part of a volume printed beneath. The rest is too small or hidden by his hand.
 
-I tell them exactly that. I can't name the brand or make out a date.
+I tell them exactly that. I can’t name the brand or make out a date.
 
 Plastic shines where his thumb presses it.
 
@@ -404,9 +404,9 @@ Sella finds me outside when Harra changes the mounting wedge. I have been practi
 
 “Enough,” she says after watching once.
 
-“I haven't spent.”
+“I haven’t spent.”
 
-“You're favoring that arm. Stop.”
+“You’re favoring that arm. Stop.”
 
 I let my arms drop.
 
@@ -418,7 +418,7 @@ She has a paper tucked through her belt. I look at it before I can stop myself.
 
 “Are you taking it?”
 
-“Maybe. I've asked Pell for paid work until the crew arrives. If I'm standing here keeping people from walking into this, I want her paying for the standing.”
+“Maybe. I’ve asked Pell for paid work until the crew arrives. If I’m standing here keeping people from walking into this, I want her paying for the standing.”
 
 “Did she agree?”
 
@@ -434,7 +434,7 @@ I am glad enough that it shows. Sella notices.
 
 Heat gets into my face. She looks pleased, which helps and does not help at all.
 
-“After,” I say. “When you're off.”
+“After,” I say. “When you’re off.”
 
 “All right.”
 
@@ -456,7 +456,7 @@ Sella is waiting on the bench by the herb pots when I come back down the outside
 
 She has washed too. Her hair is loose from its braids, waves flattened in places where the ties were, and there is a little crescent of soap behind one ear. I want to touch it with an intensity wildly out of proportion to hygiene.
 
-“You're looking,” she says.
+“You’re looking,” she says.
 
 “I know.”
 
@@ -474,15 +474,15 @@ She laughs, head tipped back. I have been listening to water and mechanisms all 
 
 “What does the coast look like here?” I ask.
 
-“Ask someone who's been.”
+“Ask someone who’s been.”
 
-“You've never asked?”
+“You’ve never asked?”
 
-“I've heard about the cheap inns and the price of fish. Carters are poets.” She nudges my knee. “I want to see it before someone tells me what I should like.”
+“I’ve heard about the cheap inns and the price of fish. Carters are poets.” She nudges my knee. “I want to see it before someone tells me what I should like.”
 
 I try to picture her on a beach with her boots in her hand. For once the water in my head has no wheel beside it, no broken stair, nobody waiting for us to get something right.
 
-“I'd like that.”
+“I’d like that.”
 
 “Then keep something out of your wages for it.”
 
@@ -498,27 +498,27 @@ Her gaze returns to me.
 
 “No.”
 
-“Good.” She rubs her thumb along the bench edge. “I saw you with him. I wasn't sure what you'd agreed.”
+“Good.” She rubs her thumb along the bench edge. “I saw you with him. I wasn’t sure what you’d agreed.”
 
-“I told him I wanted you. He's angry.”
+“I told him I wanted you. He’s angry.”
 
-“Did you tell him you'd stop?”
+“Did you tell him you’d stop?”
 
 “No.”
 
 She draws her knee away from mine. I feel the empty space immediately.
 
-“I don't want him coming to me about it.”
+“I don’t want him coming to me about it.”
 
-“He won't.”
+“He won’t.”
 
-“You don't know that.”
+“You don’t know that.”
 
-“No. I don't.”
+“No. I don’t.”
 
 Across the yard someone calls for a missing pan. She waits until the shouting stops, picking at a splinter in the bench.
 
-“I like you,” she says. “I'm also taking work east if I get it.”
+“I like you,” she says. “I’m also taking work east if I get it.”
 
 “When?”
 
@@ -548,7 +548,7 @@ The second try is slower. Her mouth is warm, softer than the sharpness of her gr
 
 I give her one.
 
-I stay with my mouth against her cheek until my breathing settles. Our joined hands rest between us. I want another hour on this bench, a room with a door I know how to open, my mother hearing me say I am all right without deciding first whether it's true.
+I stay with my mouth against her cheek until my breathing settles. Our joined hands rest between us. I want another hour on this bench, a room with a door I know how to open, my mother hearing me say I am all right without deciding first whether it’s true.
 
 Sella brushes a loose strand away from my mouth.
 
@@ -558,7 +558,7 @@ Sella brushes a loose strand away from my mouth.
 
 She stays until the kitchen lights begin going out. When she leaves, I go upstairs alone, carrying the warmth of her hand longer than I can reasonably expect my skin to keep it.
 
-On my table lies the sketch we made from Iven's measurements. The broken stair. The rail. The gray door he can open, leading into rooms where water comes from a tap and food comes wrapped in plastic.
+On my table lies the sketch we made from Iven’s measurements. The broken stair. The rail. The gray door he can open, leading into rooms where water comes from a tap and food comes wrapped in plastic.
 
 I set my candle beside it and take out a clean page.
 
