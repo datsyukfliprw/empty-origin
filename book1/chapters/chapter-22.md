@@ -82,11 +82,7 @@ If Iven calls stop, stop.
 
 If anyone loses visual contact with the person below, stop.
 
-No body crosses the edge.
-
-No hand crosses the edge.
-
-No improvising because an object is “almost there.”
+No body or hand crosses the edge. Nobody improvises because an object is “almost there.”
 
 Mara reads the list.
 
@@ -198,11 +194,7 @@ The plan sounds sane when written down.
 
 Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook's side.
 
-Iven uses his strip to catch the far nose once it appears and lower it onto the landing.
-
-No through-line remains under tension.
-
-No person touches the boundary.
+Iven uses his strip to catch the far nose once it appears and lower it onto the landing, then releases it. Nobody touches the boundary, and no line remains tensioned across it.
 
 If the frame can rest independently on both structures, we learn something useful about geometry and load.
 
@@ -626,7 +618,7 @@ She looks at me.
 
 “Yes.”
 
-Neither of us makes a virtue out of it. That matters.
+Neither of us tries to make a virtue out of wanting to go down.
 
 ---
 
