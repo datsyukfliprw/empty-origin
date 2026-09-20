@@ -44,7 +44,7 @@ She puts me on a dry patch beside her, outside the gallery while the fitters fin
 
 Four days until the crew, yesterday. Three now.
 
-Some part of me had expected the light to stop that count.
+I had expected a light behind the sealed shutter to buy more than that.
 
 Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena’s measurements while Harra comes down to collect a smaller wrench.
 
@@ -170,7 +170,7 @@ I pick a bit of barley out of the stew with the spoon, then put it back.
 
 “Yes.”
 
-She doesn’t tell me it will be. I am grateful and angry at once, tired of carrying both.
+She doesn’t tell me it will be. I scrape my spoon against the bowl harder than I need to, then make myself stop before I chip it. I’m glad she didn’t lie to me. I hate that she didn’t.
 
 “Was Elena right?”
 
@@ -374,7 +374,7 @@ He has Mara bring a slate.
 
 We wait through the afternoon.
 
-Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth’s slight inward draw doesn’t change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
+Dain limits each look to a short interval. Between them Harra checks the sleeve and clamp; the chalk lines stay aligned, and the cloth keeps its slight inward pull. Nobody turns the wheel.
 
 I write *HELLO* large on the slate, with Mara’s local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
 
