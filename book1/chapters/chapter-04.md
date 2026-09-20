@@ -72,7 +72,7 @@ And there it is. Where it has been since he came up out of the mist, where it wa
 
 “Something I set.” He is watching me the way he watched me on the hill, and I know now that the look means I have handed him something again without meaning to. “Everybody sets one. You set it to whatever gets you through a gate with the fewest questions attached. Mine says traveler because traveler is the most boring word in the world and nobody has ever followed a traveler home.”
 
-“And underneath it there’s.”
+“And underneath it there’s…”
 
 “What you’d rather not give a stranger.”
 
