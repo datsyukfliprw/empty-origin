@@ -1,7 +1,7 @@
 # Empty Origin — Publication Roadmap
 
 **Status date:** September 20, 2026  
-**Current position:** **Stage 2 of 6 — fresh cold read, next**  
+**Current position:** **Focused post–cold-read revision pass — next immediate work**  
 **Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,894 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
@@ -50,6 +50,22 @@ Specifically test:
 Record only findings that are present in the current manuscript. Do not resurrect an issue solely because an older review mentioned it.
 
 **Exit condition:** A current-state cold-read report identifies any remaining reader-facing problems and distinguishes actual problems from taste notes. If no developmental problem survives the read, move forward instead of reopening the book.
+
+## Immediate next revisions — cold-review consensus
+
+**Status: NEXT / READY**
+
+These are the only focused editorial revisions currently proposed. This is **polish and compression, not a developmental rewrite**.
+
+1. **Tighten Chapters 20–29.** Cut repeated testing, measurement, contract, safety, and rescue-procedure explanation once the reader already understands the process.
+2. **Reduce repeated voice tics.** Trim recurring constructions such as “the face,” “I contain multitudes,” one-word banter, and repeated joke/cadence patterns across the ensemble.
+3. **Give Sella’s departure more breathing room.** Make sure the transition into the Tolliver payoff does not read as an emotional handoff or permission slip.
+4. **Keep Earth emotionally alive.** Add only a few brief, well-placed reminders of Maya’s parents, Liam, Missouri, and the cost of what she has lost.
+5. **Strengthen Tolliver slightly on-page before Chapter 31.** Ensure the romantic/sexual payoff is fully supported by visible behavior and development the reader has actually witnessed.
+
+**Guardrail:** Do not rebuild the plot, harden the LitRPG, remove the labor/contract/engineering identity, simplify Rusk, retroactively absolve Tolliver, weaken Sella, resolve the Earth mystery, or replace the ending. Protect the existing ending and the “blank does not mean empty” resolution.
+
+**Exit condition:** These five reader-facing issues have been checked against the current manuscript and repaired only where the text still supports the criticism. Then proceed directly to the final technical manuscript passes.
 
 ## Stage 3 — Final technical manuscript passes
 
