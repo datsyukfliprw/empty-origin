@@ -1,8 +1,8 @@
 # Empty Origin — Publication Roadmap
 
 **Status date:** September 20, 2026  
-**Current position:** **Stage 1 of 6 — repository synchronization, in progress**  
-**Current manuscript:** 32 chapters. The latest compiled `WORKING_DRAFT.md` contains **96,855 whitespace-counted words** after the NCA cleanup through Chapter Twenty-Nine and the subsequent rebuild.
+**Current position:** **Stage 2 of 6 — fresh cold read, next**  
+**Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,894 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
 
@@ -10,31 +10,31 @@ This file is the canonical path from the current manuscript to publication. It s
 
 The book itself is complete through Chapter Thirty-Two, and Chapters Twenty–Thirty-Two have undergone the substantial late-book rewrite. The September 19 clean-reader/ARC material therefore describes an older manuscript state and must not be treated as a fresh verdict on the current text.
 
-The immediate job is **not another developmental rewrite**. It is to synchronize the repository around the actual current manuscript, then read that manuscript cold before doing the final technical passes.
+Repository synchronization is complete. The chapter files, compiled draft, README, project notes, chapter ledger, story overview, series-status headers, and active title references now agree on the current manuscript state. Superseded editorial reports are clearly labeled historical snapshots.
 
-Recent repository work has already rebuilt `WORKING_DRAFT.md` after the NCA pass through Chapter Twenty-Nine. The compiled count is now 96,855 words, while some active metadata files still carry the earlier 96,628-word checkpoint. That mismatch is part of Stage 1.
+The immediate job is **not another developmental rewrite**. It is now to read the actual synchronized manuscript cold before doing the final technical passes.
 
 ## Stage 1 — Synchronize the repository after the Chapters 20–32 rewrite
 
-**Status: IN PROGRESS**
+**Status: COMPLETE**
 
 - [x] Complete the major Chapters Twenty–Thirty-Two rewrite.
 - [x] Rebuild `WORKING_DRAFT.md` after the latest NCA batch through Chapter Twenty-Nine.
-- [ ] Rebuild `WORKING_DRAFT.md` one final time after any remaining chapter-level cleanup.
-- [ ] Recalculate the final manuscript word count and propagate the same count through active project metadata.
-- [ ] Update `README.md`.
-- [ ] Update `PROJECT_NOTES.md`.
-- [ ] Update `CHAPTER_LEDGER.md`.
-- [ ] Update `STORY_OVERVIEW.md`.
-- [ ] Do a title sweep of active files once the publication title is locked. **Empty Origin** is the current selected working publication title. Dated historical reviews may retain the title they reviewed if they are clearly labeled historical.
-- [ ] Mark superseded reviews, ARC reports, and revision reports clearly as **historical manuscript snapshots** so they do not drive repairs against already-rewritten text.
-- [ ] Confirm that the active repo documents agree on chapter count, word count, title status, endpoint, progression state, romance state, and publication status.
+- [x] Rebuild `WORKING_DRAFT.md` one final time from all 32 canonical chapter files.
+- [x] Recalculate the manuscript word count (**96,894**) and propagate it through active project metadata.
+- [x] Update `README.md`.
+- [x] Update `PROJECT_NOTES.md`.
+- [x] Update `CHAPTER_LEDGER.md`.
+- [x] Update `STORY_OVERVIEW.md`.
+- [x] Sweep active files for the Book One title. Active project files identify the book as **Empty Origin**; historical reports may retain the title of the manuscript they reviewed because they are explicitly labeled historical. Final retailer/title lock remains a production-stage decision.
+- [x] Mark superseded reviews, ARC reports, and revision reports clearly as **historical manuscript snapshots** so they do not drive repairs against already-rewritten text.
+- [x] Confirm that the active repo documents agree on chapter count, word count, title status, endpoint, progression state, romance state, and publication status.
 
 **Exit condition:** A new reader can open the repository and immediately identify one current manuscript, one current title status, one current word count, one current continuity record, and one current roadmap without being sent backward into obsolete review findings.
 
 ## Stage 2 — Fresh cold read of the actual current manuscript
 
-**Status: NEXT**
+**Status: NEXT / READY**
 
 Read Chapters One–Thirty-Two in sequence as a new reader, without treating planning docs or old reviews as instructions. This is the highest-value editorial test after the late-book rewrite.
 
