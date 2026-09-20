@@ -182,7 +182,7 @@ There is a mark in the upper corner I do not remember. Three short strokes benea
 
 "Iven."
 
-The door opens behind us. Iven walks in carrying a cup. Actually walks. Slowly. Still too thin. Still gray around the eyes. Alive enough to be annoyed by stairs. Teren follows him like a bodyguard who has not yet reached my shoulder. Lio follows Teren, because apparently nobody in this family gets to move alone again. Iven lowers himself into the empty chair across from me.
+The door opens behind us. Iven walks in carrying a cup. Actually walks. Slowly. Still too thin. Still gray around the eyes. Alive enough to be annoyed by stairs. Teren follows him like a bodyguard who has not yet reached my shoulder. Lio follows Teren, because nobody in this family gets to move alone again. Iven lowers himself into the empty chair across from me.
 
 "That was on the wall behind the shelves."
 
