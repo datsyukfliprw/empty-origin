@@ -12,11 +12,7 @@ The image is small, but I can see her broken nose and the dark edge of one braid
 
 Mara has Elena’s drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella’s chalk marks through the hood. A red handle retracts the whole assembly.
 
-Dain makes me use it. The cage slides back through the pipe, and Sella lowers her slate.
-
-“Again,” he says.
-
-We do it twice more. Then Harra takes the apparatus apart to carry to the gallery.
+Dain makes me retract the cage once myself, then Harra takes the apparatus apart to carry to the gallery.
 
 ---
 
@@ -54,9 +50,7 @@ Mara arrives with the notebook in a closed carrying tray. She sets up on a plank
 
 The two-mirror drawing fits the sleeve dimensions. It doesn’t tell us what is on the other side today.
 
-Dain has Mara record the displaced indicator mark beside the old one. Harra checks it against the spindle. The clamp stays where it is.
-
-Dain runs his nail over the chalk line and checks the bolts again.
+Mara records the displaced indicator mark while Harra verifies the spindle and clamp.
 
 Sella takes her shield off her arm before she climbs the stair again. It would block half the doorway. She puts it against the outer wall within reach and checks the way back to the yard.
 
@@ -220,7 +214,7 @@ I give him every useless detail I can remember.
 
 ---
 
-The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn’t tall enough, and the pole wants to roll.
+Harra adds a hood to the far mirror to cut the glare. The cage has to stay level while she fits it, and the pole wants to roll.
 
 Sella braces its wooden cradle against the workshop pier with her forearms. Harra tightens one screw and frowns at the next.
 
