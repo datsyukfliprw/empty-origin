@@ -174,7 +174,7 @@ The sleeve and wall are sound. The place we put the load is not.
 
 “You told me before it pulled the bolt.” She gets a chisel from her bag. “Move your foot.”
 
-I sit outside while she cuts a hardwood seat against clean stone. Dain leans on a lever to test it. Harra makes him do it again with his weight farther out.
+I sit outside while she cuts a hardwood seat against clean stone and makes Dain load-test it with a lever.
 
 Through the door I see Sella by the boundary rope. She looks up, sees me sitting, and turns back to the yard. I am grateful she doesn’t come over, then angry she hasn’t.
 
@@ -246,7 +246,7 @@ Then Harra needs the steps, and we move.
 
 ---
 
-I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop before I have put it away. Dain has the washer in a shallow dish beside his drawing. She reads his account, picks up the dish, and tilts it to examine the linen.
+I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop, reads Dain’s account, and examines the returned washer and cord.
 
 “Captain Rusk will be here tomorrow,” she says. “She’s bringing the lifting rig.”
 
