@@ -12,7 +12,7 @@ Breakfast, not murder. Sella cuts food like she expects it to insult her.
 
 She comes into view with bread in one hand and cheese in the other. Her hair is tied back badly, soot streaks one cheek, and one sleeve is torn at the elbow.
 
-Beautiful. Annoying.
+Beautiful, which is annoying.
 
 Some reckless part of me supplies *mine*. I put a lid on that before it grows teeth.
 
@@ -284,7 +284,7 @@ The forge track answers for me.
 
 "Then no powered work today."
 
-Today. Not forever.
+The word *today* is the part I hold on to.
 
 She splints the ankle and makes me promise to call before I stand.
 
@@ -386,7 +386,7 @@ Harra smiles.
 
 "We can build it."
 
-That changes the room.
+The room shifts around the possibility.
 
 The thing we carried out of East Relief is no longer just salvage.
 
@@ -446,7 +446,7 @@ I fold the paper along its old crease.
 
 No hesitation.
 
-It hurts because she means it.
+The clean certainty in her yes catches under my ribs.
 
 "Then take it."
 
@@ -622,7 +622,7 @@ Harra looks at me.
 
 My pulse jumps.
 
-No ability. No nameplate. Just people with hands on real things waiting for my decision.
+There is no ability or nameplate to hide behind, only people with their hands on real things waiting for my decision.
 
 "Release far latch."
 
@@ -732,7 +732,7 @@ Harra smiles. Pell swears softly. Oret studies the prototype as if the answer mi
 
 That matters enough that I leave it alone.
 
-Maybe the dungeon ended at the spill channel. Maybe it ended when we found the shoe. Maybe it ends here, when what we survived becomes something another person can build.
+I do not know whether the System counted the spill channel, the shoe, or this moment when what we survived becomes something another person can build. I cannot tell where one lesson ended and the next began.
 
 Tolliver steps closer.
 
@@ -868,11 +868,7 @@ Of course she sees.
 
 Her head stays against me. I put my hand into her hair.
 
-Not apology.
-
-Not possession.
-
-Just contact.
+I put my hand into her hair because I want the contact, not because it can fix or claim anything.
 
 Four days. Two to build. Three off the ankle. Iven waiting across a boundary that cuts rope, wax, and ash. Rusk somewhere out there with a claim she has not abandoned. Level five. Three reserve out of seven.
 
