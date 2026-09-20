@@ -1,98 +1,90 @@
 CHAPTER TWENTY-THREE
 
-The discouraging observation is mine.
+I find the discouraging observation before breakfast, which gives me nearly an hour to decide not to say it.
 
-I know that before breakfast, which is unfortunate, because I spend breakfast trying not to say it.
+Harra has the cut half of the ash frame on the kitchen table. The sidepiece is smooth where the boundary passed through it and ugly where the trapped pin twisted before the cut. Beside it lies her new drawing: shorter pin, adjustable shoe, wider bearing plate. It is a better frame in every useful way except the one that matters this morning.
 
-Harra has the cut half of the ash frame on the table. The severed sidepiece is clean where the boundary passed through it and ugly where the trapped pin twisted before the cut. Beside it sits her new drawing: shorter pin, adjustable shoe, wider bearing plate.
+"The shoe wants spring steel," she says.
 
-A better frame. A frame we cannot currently build.
+Pell studies the materials list. "How much?"
 
-“The shoe wants spring steel,” Harra says.
+"Not money."
 
-Pell looks at the materials list. “How much?”
+"That is rarely a comforting answer."
 
-“Not money.”
+"Rusk had two strips in her repair chest. I saw them when we changed the keeper on the lower block."
 
-“That is rarely a comforting answer.”
+Rusk left yesterday. Nobody says that because we all know it, and because I have another problem folded inside my copying sheets.
 
-“Rusk had two strips in her repair chest. I saw them when we changed the keeper on the lower block.”
+The near anchor did not move during yesterday's failed test. The chain did not slip. The frame did not break because we held too long. But when I copied Dain's board last night, I found the first vibration mark sitting in the wrong place: before the far pin caught, before the frame was fully supported, before any load should have transferred across the span. A little shiver in the stone, then another.
 
-Nobody says anything for a moment. Rusk left yesterday. I look down at my bread. There is another problem. I found it last night while copying the test marks.
+It might be nothing. I have spent enough time around old works to know that *might* is often the most expensive word available.
 
-The near anchor did not move. The chain did not slip. The frame did not fail because we pulled too late.
+Pell rubs two fingers over her forehead. "Can we substitute?"
 
-But the vibration line on Dain’s board begins before the far pin catches. A little shiver in the stone. One mark. Then another.
+Harra shakes her head. "Iron will take a set. Wood flexes too much. I need something that returns."
 
-The kind of thing I could call meaningless because I want it to be meaningless.
+"Greyward," Vey says.
 
-I say nothing. Pell rubs two fingers over her forehead. “Can we substitute?”
+"Three days if somebody rides hard, buys immediately, and comes straight back," Tolliver says.
 
-Harra shakes her head. “Iron will take a set. Wood flexes too much. I need something that returns.”
+Iven's tank is still below the old stain. Nobody turns that into a number of days, because we have already agreed not to comfort ourselves with arithmetic we do not understand. Three days still sounds like three days.
 
-Vey says, “Greyward.”
+Sella reaches across me, steals my cup, and drinks from it.
 
-“Three days if somebody rides hard, buys immediately and comes straight back,” Tolliver says.
+"You have your own."
 
-Iven’s tank level is lower than the old stain. Nobody turns it into days. We have already agreed not to lie with arithmetic. Three days still sounds like three days. Sella reaches for my cup and drinks from it without asking.
+"This one was closer."
 
-I stare at her.
+"That is theft."
 
-“What?”
+"Report me."
 
-“You have your own.”
+Pell says my name. When I look up, she is watching me. So is Dain.
 
-“This one was closer.”
+Not accusing. Waiting.
 
-“That is theft.”
+I put down my bread.
 
-“Report me.”
+"There was vibration before the catch."
 
-Pell says, “Maya.” I look up. She is watching me. So is Dain. Not accusing. Worse. Waiting. I put the bread down.
+Harra's hand stops over the drawing. Dain says, "How much?"
 
-“There was vibration before the catch.”
+"Two marks on the board. Maybe three. I thought the frame was settling."
 
-Harra goes still. Dain says, “How much?”
+"You thought?"
 
-“Two marks on the board. Maybe three. I thought it was the frame settling.”
+"I hoped."
 
-“You thought?”
+There is no useful way to make that answer prettier. I pull the copied sheet from my papers and flatten it beside the broken ash.
 
-“I hoped.”
+"Here. First tremor is before Mara's second bell, before far support. Then another after."
 
-The word leaves a bad taste.
+Harra bends over the page. Sella puts my cup down. Dain traces the sequence once with the blunt end of his pencil.
 
-I pull the copied sheet from my papers and flatten it beside the broken ash.
+"You copied this last night?"
 
-“Here. The first tremor is before Mara’s second bell. Before far support. Then again after.”
+"Yes."
 
-Harra leans over it. Sella stops stealing breakfast. Dain traces the marks.
+"And left it off the first report."
 
-“You copied this last night?”
+"Yes."
 
-“Yes.”
+"Why?"
 
-“And didn’t put it on the first report.”
+Because a shorter pin and a better shoe are fixable. Because a chamber that starts shivering before load crosses is not the same kind of problem. Because Iven is nine days away with less water than he had yesterday, and I am nineteen, and I am tired of every answer opening its mouth and showing me another row of teeth.
 
-“No.”
+"I didn't want it to matter."
 
-“Why?”
+Dain looks at me for a second, then nods. He does not forgive me or scold me. He just pulls the sheet closer.
 
-Because I wanted one problem. Because a shorter pin and a better shoe are fixable. Because stone vibrating before load crosses means the chamber itself may be reacting.
+"Now it does."
 
-Because Iven is on the other side and his water is dropping and I am nineteen and tired of every answer growing teeth.
-
-“I didn’t want it to be important.”
-
-Dain nods once. Not forgiving. Not angry. Just accepting the useful part.
-
-“Now it is.”
-
-The measure opens without asking.
+The measure opens across my vision.
 
 **[PROGRESS: 18 / 18]**
 
-The line brightens. I stop breathing. Then the text folds inward.
+The line brightens. My breath catches, and the text folds inward before I can say anything.
 
 **[WARDER ADVANCEMENT]**
 
@@ -102,366 +94,336 @@ The line brightens. I stop breathing. Then the text folds inward.
 
 **[CURRENT RESERVE: 5 / 6]**
 
-No refill. No miraculous ankle. No new power arriving with trumpets. Just more room.
+No refill. No miraculous ankle. No new ability arriving with fanfare. Just one more point of room inside a thing I still do not understand.
 
-And the unpleasant certainty that telling the truth counted more than wanting to be right.
+I close the measure.
 
-I close the measure. Sella catches my face.
+Sella catches my face immediately. "What?"
 
-“What?”
+"Four."
 
-“Four.”
+Her smile appears before she can stop it. Then she glances at the vibration sheet. "You would level while admitting something terrible."
 
-Her smile appears instantly. Then she looks at the paper again.
+"My timing remains excellent."
 
-“Of course you level while admitting something awful.”
+"Your timing has a disease."
 
-“My timing remains impeccable.”
+Tolliver's mouth shifts at one corner. "Congratulations."
 
-“Your timing is diseased.”
-
-Tolliver’s mouth shifts. Not quite a smile.
-
-“Congratulations.”
-
-I expect more. He does not make it more. That is becoming a habit.
+That is all he says, and I am grateful for the all of it.
 
 ---
 
-Rusk sends a message before noon. Not personally. That would require the world to be kind enough to make villains convenient.
+Rusk manages to reach into the house before noon without physically being here, which feels unfair.
 
-A carrier comes in from the west road with a folded notice for Pell and a second for Harra.
+A carrier comes in from the west road with one folded notice for Pell and another for Harra. The first is a claim warning. The second is a price.
 
-The first is a claim warning. The second is a price. Harra reads hers aloud.
+Harra reads hers aloud. "Two tempered strips, one new keeper set, one sixteen-link light chain. Four pieces."
 
-“Two tempered strips, one new keeper set, one sixteen-link light chain. Four pieces.”
+Pell laughs once. Nobody else does.
 
-Pell laughs. Nobody joins her.
+"Four."
 
-“Four.”
+"She's charging for distance," Vey says.
 
-“She’s charging for distance,” Vey says.
+"She left yesterday."
 
-“She left yesterday.”
+"She knows we need it today."
 
-“She knows we need it today.”
+Harra turns the paper over. "There is more."
 
-Harra turns over the page.
+Rusk will sell the spring strips at ordinary price if Rook recognizes her first-examination right on recovered inner iron from the lower station.
 
-“There is more.”
+Pell's laugh disappears.
 
-Of course there is.
+"That claim is still disputed."
 
-Rusk will sell the spring strips at ordinary price if Rook recognizes her first examination right on recovered inner iron from the lower station.
+"Yes."
 
-Pell’s laugh stops.
+"Then the price is four."
 
-“That claim is still disputed.”
+Harra folds the notice. I look at the severed frame on the table and feel something in me go hot and helpless.
 
-“Yes.”
+Rusk has found a way to make Iven's rescue touch her claim without touching the rescue itself. She can call it salvage law, ordinary price, examination rights, whatever respectable words she likes. The result is the same: wait three days, pay four pieces, or give her a handhold on whatever we recover below.
 
-“Then the price is four.”
+Efficient. I hate efficiency when it belongs to someone else.
 
-Harra nods. I look at the broken frame.
+Tolliver takes a folded paper from inside his coat. "She also sent me something."
 
-Rusk does not need to be here to put a hand around the rescue.
+My stomach tightens before I can stop it. Sella sees that, and so does he. He puts the paper on the table between us instead of keeping it in his hand.
 
-Efficient. I hate efficiency when it belongs to someone else. Tolliver says, “She also sent me something.” He takes a folded paper from inside his coat. My stomach tightens. Sella notices. He notices her noticing.
+"The west-road job. Different owner this time."
 
-Then he puts the paper on the table where all of us can see it.
+Pell reads the name. "Verren Holt."
 
-No private corridor. No edited version later.
+Vey swears softly.
 
-“The west-road job,” he says. “Different owner named this time.”
+"Who?"
 
-Pell reads the name.
+"Broker. Salvage, wool, grain when he can get it cheap enough. He's bought claims from Rusk before."
 
-“Verren Holt.”
+Tolliver nods. "He wants me to find a wagon that left the old south cut eight days ago. Three pieces now, three on location."
 
-Vey swears softly. I know that means something.
+"That's a lot."
 
-“Who?”
+"Yes."
 
-“Broker,” he says. “Salvage, wool, grain when he can get it cheap enough. He has bought claims from Rusk before.”
+"You could go."
 
-Tolliver nods.
+"I could."
 
-“He wants me to find a wagon that left the old south cut eight days ago. He is offering three pieces now, three on location.”
+He meets my eyes. "I'm not."
 
-“That is a lot,” I say.
+The relief is immediate enough to embarrass me, so I pick up the posting instead.
 
-“Yes.”
+"Because of us?"
 
-“You could go.”
+"Because the wagon carried two hired cutters who quit at the cut. Holt calls them missing property."
 
-“Yes.”
+The room goes very quiet.
 
-He meets my eyes.
+At the bottom of the page is a second hand beneath Tolliver's note: witnessed, complete offer, no omitted owner, no omitted cargo.
 
-“I am not going.”
+"I asked the carrier if this was the whole posting," Tolliver says. "Then I asked him to sign that answer."
 
-Something inside me eases and immediately annoys me for easing.
+He turns the paper toward Pell.
 
-“Because of us?”
+"Holt and Rusk are working the same road. You should have a copy."
 
-“Because the wagon carried two hired cutters who quit at the cut. Holt’s letter calls them missing property.”
-
-Silence. Tolliver taps the paper.
-
-“I asked the carrier if this was the complete posting. He said yes. I asked him to sign that answer.”
-
-At the bottom is another hand. Witnessed. Complete offer. No omitted owner. No omitted cargo. Tolliver looks at Pell, not me.
-
-“I thought you should have a copy because Holt and Rusk are working the same road.”
-
-Useful before it is anything else. That is probably why it lands so hard.
+Pell takes it. Nobody praises him. Nobody needs to.
 
 ---
 
-The abandoned works complex is Harra’s idea. Dain hates it first. That makes me trust it more.
+The East Relief Works are Harra's idea, which Dain hates on sight. That improves my opinion of the plan for almost thirty seconds.
 
-“There is no reason the east pressure annex still has intact flex stock,” he says.
+"There is no reason the pressure annex still has intact flex stock," he says.
 
-“There is no reason it doesn’t.”
+"There is no reason it doesn't."
 
-“It flooded twelve years ago.”
+"It flooded twelve years ago."
 
-“Upper rooms did not.”
+"The upper rooms didn't."
 
-“The lower gallery cracked.”
+"The lower gallery cracked."
 
-“We don’t need the lower gallery.”
+"We don't need the lower gallery."
 
-“What we need is a tempered return shoe.”
+"What we need is a tempered return shoe."
 
-Harra spreads an old service map over the table. Not Fallow Reach. Rook’s region.
+Harra spreads an old service map across the table. Two ridges north and east, beyond Bera's fields and a strip of coppice, a faded box sits on an old pressure line.
 
-Two ridges north and east, beyond the drained field and a strip of coppice, sits a small boxed mark attached to an old pressure line.
+EAST RELIEF WORKS.
 
-EAST RELIEF WORKS. The ink is faded. The route is worse.
+The service road washed out years ago. A footpath remains above it. Harra walked part of the approach six years back and turned around when the upper floor shifted under a pack mule.
 
-One service road washed out. A footpath remains above it. Harra walked part of the approach six years ago and turned back when the upper floor shifted under a pack mule.
+Pell looks at her. "And this is your recommendation?"
 
-“That is your recommendation?” Pell asks.
+"My recommendation is Greyward."
 
-“My recommendation is Greyward.”
+"And if we cannot wait three days?"
 
-“And if we cannot wait three days?”
+Harra taps the faded square.
 
-Harra taps the map.
+Dain points to a note written beside it. "What's that?"
 
-“Then this.”
-
-Dain points to a note.
-
-“What is that?”
-
-Harra leans closer.
-
-“Vibration warning.”
+Harra leans closer. "Vibration warning."
 
 I stop liking the map.
 
-“What kind?”
+"What kind?"
 
-“Old pressure works used counterweighted floor shutters. If the main line broke, sections dropped to isolate a rupture.”
+"Counterweighted isolation shutters. If the main pressure line ruptured, floor sections dropped and sealed off the break."
 
-Sella says, “Sections of floor.”
+Sella looks up. "Floor sections."
 
-“Yes.”
+"Yes."
 
-“That is an insane way to phrase holes.”
+"You mean holes."
 
-“They were doors when they worked.”
+"They were doors when they worked."
 
-“And now?”
+"And now?"
 
-Harra looks at the twelve-year-old flood notation.
+Harra glances at the flood notation. "Now we find out."
 
-“Now we find out.”
+Dain looks at me, then at the copied tremor marks beside the frame.
 
-Dain looks at me. I know why. My copied vibration marks. The rescue chamber shivered before load.
+The annex used the same regional pressure system. If anything there was built to move under vibration and keep carrying load, it may contain exactly the hardware Harra needs. It may also tell us whether the shiver in our rescue chamber is ordinary old machinery or the first sign of something worse.
 
-The old annex may contain the kind of flex hardware designed for moving supports under pressure.
+Pell asks, "Who goes?"
 
-Same regional infrastructure. Same engineering language. Maybe not coincidence. Maybe exactly the place to learn whether it is coincidence. Pell says, “Who goes?” Harra answers first.
+"Me," Harra says.
 
-“Me.”
+"Me," Sella says.
 
-Sella: “Me.”
+Tolliver adds, "Me."
 
-Tolliver: “Me.”
+Three heads turn toward me. My ankle contributes its opinion with a dull pulse from yesterday's stairs.
 
-Three heads turn toward me. My ankle answers before I do. A dull ache from yesterday’s stairs. I hate my body for having facts. The mender arrives twenty minutes later and hates all of us equally.
+The mender arrives twenty minutes later and dislikes the plan with admirable consistency.
 
-“No field.”
+"No field."
 
-I sit on the edge of the bench.
+"The annex isn't a field."
 
-“The annex is not a field.”
+"It is farther than the field."
 
-“It is farther than the field.”
+"There may be floors."
 
-“There may be floors.”
+"That is worse."
 
-“That is worse.”
+"What if I ride?"
 
-“What if I ride?”
+"No."
 
-“No.”
+"What if somebody carries me?"
 
-“What if I am carried?”
+Tolliver's eyes flick toward me.
 
-Tolliver’s eyes move to mine. I point at him.
+I point at him. "Do not."
 
-“Do not.”
+"I didn't say anything."
 
-“I didn’t say anything.”
+"You were thinking structurally."
 
-“You thought structurally.”
+The mender makes me stand, walk, rise onto my toes, turn, and walk again. The ankle is stiff rather than swollen, and when she presses along the outside the pain is less than yesterday. Harra explains the route: upper annex only, no flooded gallery, no load carrying, no jumping unless the building develops a personal grudge and retreat becomes interesting.
 
-The mender makes me stand. Walk. Rise onto my toes. Turn. The ankle is stiff but not swollen. She presses along the outside. Pain, but less. Then she asks where exactly we are going. Harra explains the upper annex.
+The mender closes her eyes for a moment.
 
-Not the lower gallery. Not the flooded section. No running unless retreat requires it. No jumping. No load carrying.
+"One controlled walk. Brace. Stick. Somebody else carries your equipment. At the first sharp increase in pain, instability, or swelling, you turn back."
 
-Maya stops at the first increase in pain. If it is sharp, does not settle with rest, or comes with instability or swelling, she turns back.
+"That sounds like permission."
 
-The mender closes her eyes.
+"It is permission with conditions."
 
-“You people make ordinary instructions impossible.”
+"My shield?"
 
-“That sounds like permission.”
+"No."
 
-“It is permission for one controlled walk with a stick, a brace, and somebody else carrying your equipment.”
+"This is not practice."
 
-“My shield?”
+"No."
 
-“No.”
-
-I open my mouth.
-
-“No shield practice.”
-
-“This isn’t practice.”
-
-“No.”
-
-I hate when people use my own honesty against me. Sella pats my knee. I consider ending the relationship. Briefly.
+Sella pats my knee. I consider our relationship under review.
 
 ---
 
-We define the objective before anyone packs. Harra needs one of three things: A tempered return shoe from an intact isolation shutter. A spring strip long enough to forge one. Or the old maintenance specification showing an alternative material and shape.
+We define the expedition before anyone packs, because I have developed a deep suspicion of plans invented while standing in dangerous places.
 
-Any one of those makes the trip worthwhile. Anything else is salvage we leave unless it is necessary to exit. That rule causes Vey physical pain. He survives. Retreat conditions:
+Harra needs one of three things: a tempered return shoe from an intact isolation shutter, a spring strip long enough to forge one, or an old maintenance specification that gives her another material and shape. Anything else stays where it is unless we need it to get out.
 
-If my ankle pain sharpens or does not settle with a stop and recheck, or if instability or swelling appears, I turn back with one person.
+Vey looks physically pained by this rule.
 
-If a floor section shifts after being marked stable, the expedition ends.
+The rest is familiar enough that Dain does not make us recite a page of procedure. My ankle gets one stop and recheck if it worsens; sharp pain or instability sends me back with one person. If a marked floor section moves, if we lose a secure route to the entrance, or if we find fresh occupation, we leave. My reserve does not drop below two while I am on the active route.
 
-If we cannot establish a secure route back to the entrance, we do not go deeper.
+Harra adds one condition herself.
 
-If reserve drops below two before the objective is located, I leave the active route.
+"If we hear repeated heavy movement we cannot identify, we do not follow it."
 
-If the site shows fresh human occupation, we withdraw and decide what to do from outside.
-
-If we hear repeated heavy movement we cannot identify, we do not chase it.
-
-Harra writes the last one herself.
-
-“Why that one?” I ask.
+"Why that one?"
 
 She rolls the map.
 
-“Because things live there.”
+"Because things live there."
 
-“What things?”
+"What things?"
 
-“Things that like vibration.”
+"Things that like vibration."
 
-I look at Sella. She looks delighted.
+Sella's expression brightens in a way no sensible person's should.
 
-“You knew.”
+"You knew."
 
-“I knew there were knockers.”
+"I knew there were knockers."
 
-“That is a terrible name.”
+"That is a terrible name."
 
-“They knock.”
+"They knock."
 
-“On what?”
+"On what?"
 
-Harra lifts her pack.
+Harra lifts her pack. "Usually whatever moved."
 
-“Usually whatever moved.”
-
-Fantastic. No. I refuse to give the universe the satisfaction.
+I refuse to give the universe a punch line.
 
 ---
 
-We leave after midday. Not for the dungeon. For the approach.
+We leave after midday for the old maintenance shelter below the annex, planning to enter the works at first light.
 
-Harra wants us at the old maintenance shelter before dark, then inside the annex at first light.
+Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries inside the works belong to the job, not to us. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
 
-Pell pays the day’s wages before we go because our current extension ends tonight.
+Then comes the line I read twice.
 
-Eight bits for me. Twelve for Sella. Ten for Tolliver. Then she puts a second sheet on the table. A new contract.
+NOBODY OWNS ANOTHER PERSON'S BODY, LABOR BEYOND THE TERM, OR FUTURE ROUTE RIGHTS.
 
-Two days, beginning tomorrow. Recovery expedition. Eight bits a day for me, twelve for Sella, ten for Tolliver.
+Pell notices my pause. "Too much?"
 
-Same room and food protection if we return late. Medical treatment covered for injuries incurred in the works.
+"No."
 
-Recovered rescue components belong to Rook until Iven is out, after which ownership is reviewed.
+I sign.
 
-Personal finds must be declared before division. Nobody owns another person’s body, labor beyond the term, or future route rights. I read that line twice. Pell notices.
+Sella and Tolliver sign after me. Harra signs as expedition lead. Pell adds one more sentence beneath the terms: FIELD DECISIONS FOLLOW THE PERSON ASSIGNED TO THAT DECISION.
 
-“Too much?”
+Harra gets structure. Sella gets immediate fighting response. Tolliver gets route security outside the works.
 
-“No.”
+"And me?" I ask.
 
-I sign. Sella signs. Tolliver signs. Harra signs as expedition lead. Then Pell adds another line. FIELD DECISIONS FOLLOW THE PERSON ASSIGNED TO THAT DECISION.
+Pell glances at the broken frame.
 
-“What does that mean?” I ask.
+"When your Warder work is what keeps someone moving, you decide whether it holds or releases."
 
-“It means Harra decides structure. Sella decides immediate fighting response. Tolliver decides route security outside the works.”
-
-“And me?”
-
-Pell looks at the broken frame on the table.
-
-“You decide hold or release when your Warder work is the thing keeping someone moving.”
-
-My mouth goes dry. That is not a title. It feels worse. I sign beside the amendment.
+My mouth goes dry. I sign beside the amendment anyway.
 
 ---
 
-The maintenance shelter is a stone box with half a roof. We reach it before sunset. My ankle hurts. Not more than when we left. That is apparently the standard by which adventure is allowed now. Harra checks it anyway.
+The maintenance shelter is a stone box with half a roof and just enough intact wall to make the wind choose sides. We reach it before sunset.
 
-Sella checks it after her. Tolliver does not check it. He asks.
+My ankle hurts, but no more than when we left. Harra checks the brace while I sit on a fallen lintel. Sella checks it after her, because apparently my leg has become public infrastructure.
 
-“How is it?”
+Tolliver stops beside me. "How is it?"
 
-“Annoyed.”
+"Annoyed."
 
-“That is not a measurement.”
+"That isn't a measurement."
 
-“It is the one you get.”
+"It is the one you get."
 
-He nods.
+He considers that, then nods. "Tell me if it changes."
 
-“Tell me if it becomes worse.”
+Then he goes to help Harra clear broken tile away from the doorway.
 
-He leaves the decision with me. I hate how much I notice.
+We eat cold bread, hard cheese, and apples in a place built for workers who have been dead longer than I have been alive. Through the missing half of the roof I can see the first stars. Sella lies beside me under one blanket. Harra snores near the door. Tolliver takes first watch.
 
-We eat cold bread, hard cheese and apples in a place built for dead workers.
+I am almost asleep when something knocks from the ridge above us.
 
-Through the broken roof I can see the first stars. Sella lies beside me under one blanket. Harra snores near the door. Tolliver takes first watch.
+Once.
 
-I am almost asleep when I hear a sound from the ridge above us.
+A pause.
 
-Knock. Pause. Knock. Pause. Three quick taps. Tolliver is on his feet before the third. Sella’s hand closes around mine. Harra wakes without speaking. The sound comes again. Not from the door. From underground. Knock. Knock. Knock.
+Again.
 
-My measure flickers at the edge of sight. Not a notification. A nameplate, far below where no person should be visible.
+Then three quick taps.
+
+Tolliver is on his feet before the third. Sella's hand closes around mine, and Harra wakes without making a sound.
+
+The knocking comes again.
+
+Not from the door. Not from the trees.
+
+From underground.
+
+My measure flickers at the edge of sight. No notification, just a nameplate far below where no person should be visible.
 
 **[HOLLOW KNOCKER, LV. 6]**
 
-Then it vanishes. Sella whispers, “Tomorrow should be fun.” I whisper back, “Your standards are diseased.” She smiles in the dark. I do not. Tomorrow we go inside.
+Then it vanishes.
+
+Beside me, Sella whispers, "Tomorrow should be fun."
+
+"Your standards are diseased."
+
+She smiles in the dark.
+
+I do not.
+
+Tomorrow we go inside.
