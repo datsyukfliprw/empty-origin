@@ -378,7 +378,7 @@ My mouth goes dry. I sign beside the amendment anyway.
 
 The maintenance shelter is a stone box with half a roof and just enough intact wall to make the wind choose sides. We reach it before sunset.
 
-My ankle hurts, but no more than when we left. Harra checks the brace while I sit on a fallen lintel. Sella checks it after her, because apparently my leg has become public infrastructure.
+My ankle hurts, but no more than when we left. Harra checks the brace while I sit on a fallen lintel. Sella checks it after her, because my leg has become public infrastructure by committee.
 
 Tolliver stops beside me. "How is it?"
 
