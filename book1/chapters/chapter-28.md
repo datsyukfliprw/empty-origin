@@ -100,11 +100,7 @@ He smiles.
 
 ---
 
-The first operation is not crossing.
-
-It is measuring.
-
-Again.
+The first operation is measuring. Again.
 
 We lower the frame to the near staging ledge without putting the nose into the boundary.
 
@@ -136,15 +132,11 @@ Good.
 
 He draws the thin guide cord to his side.
 
-No permanent support.
-
-No load.
+No permanent support. No load.
 
 The boundary brightens around it.
 
-Not light exactly.
-
-A wrongness in the air.
+Not light exactly. A wrongness in the air.
 
 My skin prickles.
 
@@ -246,17 +238,13 @@ The near anchor stays quiet.
 
 I breathe.
 
-Not relief.
-
-Breath.
-
-Important distinction.
+Not relief. Breath.
 
 Harra says, “Load test.”
 
 We put one sand sack onto the rescue board.
 
-Not a person.
+Not a person yet.
 
 Tolliver moves it out with the haul sled.
 
@@ -310,11 +298,7 @@ Clean.
 
 One successful cycle.
 
-Nobody cheers.
-
-Professionals.
-
-Terrified professionals.
+Nobody cheers. Terrified professionals.
 
 ---
 
@@ -420,11 +404,7 @@ Vey is arguing with her.
 
 Rusk’s voice reaches faintly down the stone.
 
-Not shouting.
-
-Worse.
-
-Calm.
+Worse than shouting: calm.
 
 “I have not entered the lower chamber.”
 
@@ -450,9 +430,7 @@ That is the point.
 
 Maybe she thinks we will choose the answers.
 
-Maybe I would have, two weeks ago.
-
-I hate that possibility.
+Two weeks ago, maybe I would have. I hate that.
 
 Harra says, “Maya.”
 
@@ -634,9 +612,7 @@ Iven is one step from it.
 
 My ankle aches inside the brace.
 
-Not sharp.
-
-Background.
+Not sharp. Background.
 
 I can stand.
 
@@ -712,9 +688,7 @@ The twist reduces.
 
 Sella takes the near end of the rescue tether.
 
-Not pulling.
-
-Ready.
+Ready, not pulling.
 
 Tolliver has the board haul.
 
@@ -850,13 +824,9 @@ Near limit.
 
 Dain: “Vibration five.”
 
-Not green.
+Not green. Amber, and we do not have amber.
 
-Amber.
-
-We do not have amber.
-
-We have continue or abort.
+Continue or abort.
 
 Harra says, “Maya.”
 
@@ -1160,13 +1130,7 @@ Cut.
 
 My pulse is wild.
 
-No System text.
-
-No reward.
-
-Good.
-
-Not yet.
+No System text. Good.
 
 Harra kneels beside the near anchor.
 
