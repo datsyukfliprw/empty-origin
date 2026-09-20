@@ -338,10 +338,6 @@ She folds the note.
 
 “That is why I am telling you now.”
 
-Not asking permission.
-
-Good.
-
 I make myself say the next part.
 
 “If it runs long, you go.”
