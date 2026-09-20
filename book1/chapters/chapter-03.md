@@ -44,7 +44,7 @@ The words came through cleanly. I repeat them in my head, waiting for the rest o
 
 He waits. I shift my weight, and his eyes follow the movement. I wish he would ask something else.
 
-“What do you run,” he says again, identical, no help added.
+“What do you run?” he says again, identical, no help added.
 
 “I don’t understand the question.”
 
