@@ -16,7 +16,7 @@ Behind her, the lower service door stands open for the first time since it was b
 
 ---
 
-The stair smells like wet iron. Not rot, not mold, nothing rank: iron and old water and the particular dust that comes off stone when nobody has walked on it long enough for the air to settle.
+The stair smells like wet iron, old water, and the particular dust that comes off stone when nobody has walked on it long enough for the air to settle. Nothing rotten or moldy. Nothing rank.
 
 Dain and Harra have already marked the damaged steps, the missing rail, and the wheel recess above the chamber. Nobody crossed the boundary while the interval was moving. That is the only reason I am allowed down here at all, and *allowed* is doing a great deal of work in that sentence.
 
@@ -112,7 +112,7 @@ Dain orders the near end lowered onto the Rook support block, and the frame sett
 
 "Sound," Harra answers, and Renn repeats it.
 
-For one impossible second the frame is supported on both sides. Not by the boundary. By stone, in two places, in two worlds that are apparently one. Nothing is tied through. Nothing is moving. I understand entirely why every stupid part of me wants to step onto it.
+For one impossible second the frame is supported on both sides, each end resting on stone while the boundary carries nothing. Nothing is tied through. Nothing is moving. I understand entirely why every stupid part of me wants to step onto it.
 
 ---
 
@@ -142,7 +142,7 @@ One link. The runner arrives at a dead run.
 
 "Below mark!"
 
-Red was already red. Now it means something else.
+Red was already red, but the runner's face makes the color feel heavier.
 
 "Abort," I say, and Dain has said it before the word is out of my mouth.
 
@@ -170,7 +170,7 @@ The near half of the ash frame lies in our chamber. The far half sits on Iven's 
 
 The guide line never crossed the edge. Harra had detached it from the frame before the independent support test, exactly as planned.
 
-We lost a frame. Not the block, not a hand, not a person. I repeat that to myself on the way down the stairs until it begins to sound true.
+We lost a frame and nothing else. The block is intact. Every hand is intact. Every person is intact. I repeat that to myself on the way down the stairs until it begins to sound true.
 
 Mara reaches the chamber before I do, because I am slow on the stairs and nobody comments on it. Dain is sitting on the floor with his back against the wall, staring at the cut ash, and Renn is standing over him.
 
