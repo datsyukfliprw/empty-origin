@@ -1,6 +1,6 @@
 # Chapter ledger
 
-**Current manuscript:** *Empty Origin*, 32 chapters, **97,048 whitespace-counted words**, synchronized September 20, 2026. Canonical chapter text governs if an older checkpoint note conflicts with a later chapter entry.
+**Current manuscript:** *Empty Origin*, 32 chapters, **96,655 whitespace-counted words**, synchronized September 20, 2026. Canonical chapter text governs if an older checkpoint note conflicts with a later chapter entry.
 
 This ledger originated with the September 19 cold-review revision and now includes the completed manuscript through Chapter Thirty-Two. Earlier checkpoint language is historical where later chapter entries supersede it. Chapters remain the authority. Entries distinguish observed events from testimony and proposals.
 
