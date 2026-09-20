@@ -22,9 +22,7 @@ The stair smells like wet iron.
 
 Not rot. Not mold. Iron and old water and the dust that comes off stone when nobody walks on it for years.
 
-Dain has already gone down once with Harra. They marked every step. Two are cracked near the inside edge. One landing has a missing rail. The wheel recess is beyond the bend. The chamber is below that.
-
-Nobody crossed the boundary. Nobody even approached it while the interval was changing. That is why I am allowed to go. Allowed is doing work here.
+Dain and Harra have already marked the damaged steps, the missing rail, and the wheel recess above the chamber. Nobody crossed the boundary while the interval changed. That is why I am allowed to go. Allowed is doing work here.
 
 The mender examines my ankle again, makes me stand, makes me rise onto both toes, then tells me I may manage indoor stairs with a handrail and another person present.
 
@@ -52,11 +50,7 @@ Not in the chamber, not while afraid, and not after somebody has already put a b
 
 Dain writes them large.
 
-If the boundary begins contracting before the test load reaches the far support, withdraw.
-
-If the outlet pulse drops past the marked lower threshold, withdraw. If either anchor moves, withdraw. If Harra calls line, stop. If Iven calls stop, stop. If anyone loses visual contact with the person below, stop.
-
-No body or hand crosses the edge. Nobody improvises because an object is “almost there.”
+If the boundary contracts early, the outlet drops past threshold, an anchor moves, visual contact is lost, or either Harra or Iven calls stop, we withdraw. No body or hand crosses the edge. Nobody improvises because an object is “almost there.”
 
 Mara reads the list. Then she adds one. NO SECOND TRY TODAY AFTER EQUIPMENT LOSS. Dain looks at her.
 
@@ -114,21 +108,13 @@ Not because I am doing anything. Because somewhere below, the world is opening w
 
 ---
 
-The test object is a frame, not a bridge. Harra says this six times.
-
-Two ash sidepieces. Cross-braced. Narrow enough to pass the chamber approach. Strong enough to hold a weighted sack. Too narrow for a person to mistake for safe footing unless that person is an idiot.
+The test object is a narrow cross-braced ash frame, not a bridge. Harra says this often enough that even my brain stops trying to promote it.
 
 We have measured Iven’s landing.
 
 He has cleared a place beside the gray door and braced one end of his bed-frame strip against the wall.
 
-The plan sounds sane when written down.
-
-Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook’s side.
-
-Iven uses his strip to catch the far nose once it appears and lower it onto the landing, then releases it. Nobody touches the boundary, and no line remains tensioned across it.
-
-If the frame can rest independently on both structures, we learn something useful about geometry and load.
+The plan sounds sane when written down. Harra advances the frame from our side; Iven catches the far nose and lowers it onto his landing, leaving no line tensioned across the boundary. If it can rest independently on both structures, we learn something useful about geometry and load.
 
 If not, we lose a frame. That was easier to say at the table.
 
