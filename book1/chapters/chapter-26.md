@@ -1,742 +1,688 @@
 CHAPTER TWENTY-SIX
 
-I wake because my ankle has developed a religion. Its central doctrine is pain. Its sacred text is every stupid decision I made yesterday.
+I wake because my ankle has developed a religion. Its central doctrine is pain, and its sacred text appears to be a complete record of yesterday's decisions.
 
-I lie under two blankets in the maintenance shelter and stare at the rafters while my left foot throbs in time with my pulse.
+Gray light leaks around the shelter shutters while I lie under two blankets and wait for my left foot to stop throbbing in time with my pulse. It does not. Somewhere nearby, a knife whispers against wood.
 
-Gray light leaks around the shutters. Somebody is awake. A knife whispers against wood. Not threatening. Breakfast.
+Breakfast, not murder. Sella cuts food like she expects it to insult her.
 
-I know this because Sella cuts food like she expects it to offend her.
+"Morning," she says.
 
-“Morning,” she says.
+"Debatable."
 
-I do not move.
-
-“That depends.”
-
-“On?”
-
-“Whether the ridge has relocated overnight.”
-
-“No.”
-
-“Then I object.”
-
-She comes into view with a heel of bread in one hand and a slice of cheese in the other.
-
-Her hair is tied back badly. There is soot on one cheek from yesterday. One sleeve is torn at the elbow.
+She comes into view with bread in one hand and cheese in the other. Her hair is tied back badly, soot streaks one cheek, and one sleeve is torn at the elbow.
 
 Beautiful. Annoying.
 
-Some reckless part of me supplies *mine*, and I shut it down before it grows teeth.
+Some reckless part of me supplies *mine*. I put a lid on that before it grows teeth.
 
-Sella crouches beside my bedroll.
+She crouches beside the bedroll. "How bad?"
 
-“How bad?”
+"Worse."
 
-“On a scale?”
+"Sharp?"
 
-“Words.”
+"When I move it."
 
-“Worse.”
+"Hot?"
 
-“Sharp?”
+"Not really."
 
-“When I move it.”
+"Can you put weight on it?"
 
-“Hot?”
+"I can put weight on anything once."
 
-“Not really.”
+Her expression goes flat.
 
-“Can you put weight on it?”
+"No," I admit.
 
-“I can put weight on anything once.”
+Yesterday I could limp. Then I could lean. Then Tolliver helped me down the ridge because I asked. This morning, standing sounds like a negotiation I am not going to win.
 
-Her expression flattens.
+Sella hands me the bread.
 
-“That was not the question.”
+"Harra says we make Rook by afternoon if we stop pretending you're walking."
 
-“No.”
+"I'm not being carried."
 
-The word sits there. I hate it.
+From the dead hearth, Tolliver says, "All right."
 
-Yesterday I could limp. Then I could lean. Then Tolliver had his arm around my waist because I asked him to help me down the ridge.
+He is restringing his bow and does not look at me. That should make the answer easier.
 
-This morning, the idea of standing feels like negotiating with a hostile government. Sella hands me the bread.
+It does not.
 
-“Harra says we make Rook by afternoon if we stop pretending you are walking.”
+Sella takes a bite of cheese. "You can ride the salvage."
 
-“I am not being carried.”
+Harra looks up from the recovered return shoe. "No."
 
-A voice from the other side of the shelter says, “All right.” Tolliver. I close my eyes.
+"It has a harness."
 
-He is sitting near the dead hearth, restringing his bow. He does not look at me.
+"It has a carrying frame. For iron."
 
-That should make the answer easier. It does not. Sella bites her cheese.
+"I'm lighter than iron."
 
-“You can ride the salvage.”
+"Not enough lighter."
 
-Harra, already awake at the table, looks up from the recovered return shoe.
-
-“No.”
-
-Sella points at it.
-
-“It has a harness.”
-
-“It has a carrying frame. For iron.”
-
-“I am lighter than iron.”
-
-“Not enough lighter.”
-
-“I appreciate the confidence.”
+"Very reassuring."
 
 Harra returns to the specification plate.
 
-The plate is the size of a serving tray, green-black with age, one corner eaten by corrosion. She cleaned the worst grime off it last night. In morning light the incised lines are clearer.
+In morning light, the old incisions are clearer: pressure isolation, resonance faults, connected stone. Iven's chamber shivered before the frame caught. East Relief woke under repeated load. Not proof, but the first explanation we have that does more than repeat the symptoms.
 
-Pressure isolation. Resonance faults. Connected stone. The words have been sitting behind my eyes since I read them. Iven’s chamber shivered before the ash frame caught. The East Relief Works woke under repeated load. Not proof.
+"Show me the fault section again."
 
-But maybe the first explanation that does more than describe what happened. I set the bread down.
+Sella points the cheese at me. "Eat."
 
-“Show me the fault section again.”
+"Both."
 
-Sella says, “Eat.”
+"Food first."
 
-“Both.”
+"You are becoming controlling."
 
-“Food first.”
+"Yes."
 
-“You are becoming controlling.”
+She smiles without apology.
 
-“Yes.”
-
-She smiles without warmth. I eat.
+I eat.
 
 ---
 
-We leave the shelter an hour later. I do not walk. Tolliver carries me. I resent how much simpler the accurate sentence is.
+An hour later, we leave the shelter.
 
-He kneels in front of the shelter steps with his back to me and says, “If you want.”
+I do not walk.
 
-If you want. The choice sits with me. My ankle throbs.
+Tolliver kneels in front of the steps with his back to me. "If you want."
 
-The path down from the ridge is wet, uneven and steep enough that using a walking stick would be theater.
+The path is wet, steep, and broken enough that a walking stick would be theater. My ankle pulses while I look at his shoulders.
 
-I look at Sella. She lifts both eyebrows. Very helpful.
+Sella raises both eyebrows. Harra has already vetoed every method involving the salvage frame.
 
-Harra has the return shoe lashed into its frame and the plate wrapped against her pack. She has already vetoed the salvage-rider proposal.
+There are choices that exist mostly so you can resent them before making the obvious one.
 
-There are choices that exist only so you can resent them before making the obvious one.
+"Fine."
 
-“Fine,” I say.
+Tolliver waits.
 
-Tolliver waits. I understand why after half a second. He is waiting for the rest.
+Right. The rest of the sentence.
 
-“Yes. Carry me.”
+"Yes. Carry me."
 
-He turns his head enough that I can see his profile.
+He glances back. "On my back?"
 
-“On my back?”
+Heat crawls up my neck. This should not be remotely erotic. My ankle is swollen, my clothes smell like old water, and I have mud dried into places mud should never reach.
 
-Heat climbs my face. This should not be erotic. My ankle is swollen. I smell like a dungeon. There is dried mud on my pants. My body disagrees with the entire argument.
+My body declines the argument.
 
-“Yes.”
+"Yes."
 
-He braces one knee. I put my arms around his shoulders. He catches behind my thighs and stands. Effortless is an insulting word. Not because there is no effort. Because there is not enough.
+He braces one knee. I put my arms around his shoulders. His hands settle behind my thighs, firm and careful, and he stands with an amount of effort I find insulting.
 
-My weight settles against his back and he adjusts once, hands firm under my legs, then starts down the path.
+Sella walks beside us.
 
-I have spent days wanting him to stop deciding for me. Now every step is my choice. That is the problem. Sella walks beside us. She looks at his hands. Then at my face. Then smiles. I hate her.
+Her eyes go to his hands, then to my face.
 
-“Comfortable?” she asks.
+She smiles.
 
-“No.”
+I hate her.
 
-Tolliver says, “Liar.” I tighten one arm around his shoulder.
+"Comfortable?" she asks.
 
-“Do not become confident.”
+"No."
 
-His laugh moves through his back into my chest. This is going to kill me before the ankle does.
+"Liar," Tolliver says.
 
----
+I tighten one arm around his shoulder. "Do not become confident."
 
-The ridge path gives us one last reminder that the East Relief Works is not finished with us.
+His laugh moves through his back into my chest.
 
-Not a monster. Worse. Mud.
-
-A section of trail has slumped overnight where runoff crossed under an old retaining wall. The drop is only three feet, but the remaining shelf is narrow and tilted toward the ditch.
-
-Harra stops. Tolliver stops with her. Sella looks at me.
-
-I am currently attached to another human being and therefore not qualified for dignity.
-
-“Put me down.”
-
-Tolliver does. Carefully. On sound ground. No argument. Harra tests the shelf with the pry bar. The outer edge crumbles.
-
-“No load there.”
-
-I look uphill. The retaining wall has old iron eyes set into it at waist height. Two are rusted through. One is not.
-
-“Line high,” I say.
-
-Harra follows my look.
-
-“We can handrail it.”
-
-“Not the outer edge. Tie to the good eye, stay against the wall.”
-
-Tolliver says, “I go first.”
-
-“Yes.”
-
-Sella looks at him. “Because?”
-
-“Because if the eye pulls, I am the cheapest one here.”
-
-Harra says, “Your bow is worth more than you.”
-
-“Thank you.”
-
-“Objectively.”
-
-He crosses. The shelf shifts under his second step. Not much. Enough. He freezes. I watch the load. Wall side holds. Outer side wants to peel.
-
-“Left shoulder in,” I say.
-
-He leans into the wall. The shelf settles. He reaches the far side and turns. No monster. No ability. Just a correct route. Harra crosses with the shoe. Sella crosses next. Then Tolliver comes back.
-
-“For me?” I ask.
-
-“For the pack.”
-
-He takes mine. Then looks at me. I stare at the shelf. My ankle pulses. Choice is not the same as proving I can suffer.
-
-“Back,” I say.
-
-He kneels. I climb on. Sella watches from the far side. Her expression is unreadable for two breaths.
-
-Then she reaches out when we arrive and takes my hand while Tolliver lowers me.
-
-Not because she needs to. Because she wants contact. I squeeze once. Her fingers squeeze back. Nobody solves anything. We keep moving.
+This is going to kill me before the ankle does.
 
 ---
 
-Rook sees us before we reach the yard. Mara comes out first. Then Pell. Then two workers.
+The ridge path gets one final vote on our expedition.
 
-Then half the settlement, because apparently four people returning dirty from an abandoned works complex with one person being carried counts as entertainment.
+A section has slumped overnight where runoff passed beneath an old retaining wall. The drop is only three feet, but the surviving shelf tilts toward the ditch and crumbles when Harra tests the edge.
 
-Mara’s eyes go straight to my foot.
+Tolliver sets me down on sound ground.
 
-“No.”
+I look uphill. Three old iron eyes are sunk into the retaining wall. Two are rusted through. One is not.
 
-I have not said anything.
+"High line," I say.
 
-“That is unfair.”
+Harra follows my gaze. "Handrail."
 
-“Inside.”
+"Stay against the wall. The outer edge is going."
 
-Harra lifts the wrapped return shoe.
+Tolliver clips in first.
 
-“We have it.”
+"Because?" Sella asks.
 
-Mara points at the kitchen door.
+"If the eye pulls, I'm cheapest."
 
-“Inside.”
+Harra glances at his bow. "Objectively false."
 
-“The specification plate too.”
+He crosses anyway. On the second step, the shelf shifts.
 
-“Harra.”
+He freezes.
 
-Harra goes inside. Authority recognized. I feel less singled out.
+"Left shoulder in."
 
-Mara has brought the house mender to the west kitchen room. Tolliver carries me in and sets me on the bed.
+He leans into the wall. The load settles toward the stone instead of the crumbling edge, and he reaches the far side without anything dramatic happening.
 
-The mender unwraps my ankle. Her silence gets worse with every layer. Sella leans against the wall. Tolliver stays by the door until the mender says, “Out.” He leaves. Immediately. I hate how much I notice.
+Harra crosses with the shoe. Sella follows.
 
-The mender presses two fingers along the outside of my ankle. Pain flashes. I hiss.
+Tolliver comes back.
 
-“Here?”
+"For me?"
 
-“Yes.”
+"For the pack."
 
-She moves lower.
+He takes mine, then waits.
 
-“Yes.”
+I look at the shelf, then at my ankle.
+
+Choice is not the same thing as proving I can suffer.
+
+"Back," I say.
+
+He kneels.
+
+When we reach the far side, Sella takes my hand while he lowers me. She does not need to. I squeeze once. Her fingers answer.
+
+We keep moving.
+
+---
+
+Rook sees us before we reach the yard.
+
+Mara comes out first, then Pell, then two workers, then enough people to make returning from an abandoned works complex feel like a public performance.
+
+Mara's eyes go directly to my foot.
+
+"No."
+
+"I haven't said anything."
+
+"Inside."
+
+Harra lifts the wrapped return shoe. "We have it."
+
+Mara points toward the kitchen.
+
+"The specification plate too."
+
+"Harra."
+
+Harra goes inside.
+
+I feel much less singled out.
+
+The house mender is waiting in the west room. Tolliver carries me to the bed and sets me down. The mender unwraps the ankle in silence, each layer somehow worsening her opinion of me.
+
+Sella leans against the wall.
+
+Tolliver stays by the door until the mender says, "Out."
+
+He goes.
+
+She presses along the outside of my ankle. Pain flashes hard enough to make me hiss.
+
+"Here?"
+
+"Yes."
+
+Lower.
+
+"Yes."
 
 Higher.
 
-“Less.”
+"Less."
 
-She turns my foot one finger-width. I grab the blanket.
+She turns the foot one finger-width.
 
-“Do that again and I become violent.”
+I grab the blanket. "Do that again and I become violent."
 
-“No fracture sign I can feel. More swelling. You loaded it after it worsened?”
+"No fracture sign I can feel. More swelling. You loaded it after it worsened?"
 
 I look at the wall.
 
-“Maya.”
+"Maya."
 
-“Yes.”
+"Yes."
 
-“How much?”
+"How much?"
 
-“Some.”
+"Some."
 
-Sella says, “She rode Tolliver down the ridge.” The mender looks at me.
+Sella says, "She rode Tolliver down the ridge."
 
-“That is not loading.”
+The mender looks at me. "That is not loading."
 
-“I walked before that.”
+"I walked before that."
 
-“How much?”
+"How much?"
 
-“Dungeon amount.”
+"Dungeon amount."
 
 Sella snorts. The mender does not.
 
-“Three days. No stairs. No rough ground. No shield. No Stepguard.”
+"Three days. No stairs, no rough ground, no shield, no Stepguard."
 
-“What about flat indoor—”
+"What about flat indoor—"
 
-“No.”
+"No."
 
-“That seems punitive.”
+"I can Brace without walking."
 
-“It is treatment.”
+Her stare could strip paint.
 
-“I can Brace without walking.”
+"Can you Brace without your body taking load?"
 
-The mender gives me a look sharp enough to remove paint.
+The forge track answers for me.
 
-“Can you Brace without your body taking load?”
+"No."
 
-I think of the forge track. The pressure through my shoulders. The way the floor felt under both feet.
+"Then no powered work today."
 
-“No.”
+Today. Not forever.
 
-“Then no powered work today.”
+She splints the ankle and makes me promise to call before I stand.
 
-Today. Not forever. I cling to that.
+I promise.
 
-She wraps the ankle tighter, adds a stiff side splint and makes me promise to call before standing.
+I even mean it.
 
-I promise. I mean it. Mostly.
+Mostly.
 
 ---
 
-The dungeon contract ends at Pell’s table. Not ceremonially. There is stew.
+The expedition contract ends over stew.
 
-Harra puts the return shoe in the middle of the table on folded cloth.
+Harra puts the recovered return shoe in the middle of Pell's table on folded cloth. It is ugly in exactly the right way: tempered metal, a deep spring seat, nothing glowing, nothing mystical, just engineering that survived twelve years underground with creatures trying to eat our feet.
 
-Everybody stares at it. It is ugly. Beautifully ugly.
+Pell touches the edge. "This fits?"
 
-Tempered metal, curved at one end, with a spring seat cut deep into the back. Nothing mystical. Nothing glowing.
+"Not directly," Harra says.
 
-A piece of engineering that survived twelve years in a place full of things that wanted to eat our feet.
+Pell's face falls.
 
-Pell touches the edge.
+"It gives me the geometry. The spring strip gives me the temper."
 
-“This fits?”
+Then she sets down the specification plate.
 
-Harra says, “Not directly.” Pell’s face falls.
+"And this may tell us why the first frame felt wrong before it caught."
 
-“It gives me the geometry.”
+Dain and Oret are at the table now. I explain the vibration marks again, briefly this time. Harra shows them the passage on resonance faults.
 
-She unwraps the spring strip.
+Dain rests two fingers on the plate. "Can wake isolation sections."
 
-“And the temper.”
+"Can," Harra says.
 
-Then the specification plate.
+"Not will."
 
-“And this may give us why the first frame felt wrong before it caught.”
+"Correct."
 
-I shift in my chair. Mara allowed the chair under the mender’s rules. Chair is civilization. Pell looks at me.
+Oret leans closer. "So the chamber could be feeding load into something we cannot see."
 
-“You said vibration.”
+"Or receiving it from the far side."
 
-“Yes.”
+Pell looks toward the floor as though Iven is directly below us. "Does that make this worse?"
 
-“What kind?”
+"It makes it less unknown."
 
-“Before the pin caught. Not from the boundary cutting it. Earlier.”
+Everyone looks at me.
 
-I hate saying it. I hate more that I did not say it immediately the first time. Harra taps the plate.
+I wish I had said something more comforting.
 
-“Repeated loading can wake isolation sections through connected stone.”
+Harra turns the return shoe in her hands. "If the frame is transmitting load into old stone, stronger is not automatically better."
 
-Dain is at the table now, fingers resting on the plate without using whatever contact sense he uses on wet masonry.
+"A rigid bridge couples both sides," Oret says.
 
-“Can.”
+The phrase lands.
 
-“Yes.”
+I look at the shoe, then at Harra's earlier drawing.
 
-“Not will.”
+"What if the far foot can move?"
 
-“Yes.”
+"Move how?"
 
-Oret leans closer.
+"Not come loose. Give."
 
-“So the lower chamber could be passing load into something we are not seeing.”
+I use my hands because the words are not enough.
 
-Harra nods.
+"Short pin. Shoe under it. Spring behind. If the landing pitches or the stone moves, the foot takes the change instead of levering the whole span."
 
-“Or something on the receiving side is feeding back.”
+Harra pulls scrap paper toward herself and starts drawing.
 
-Pell looks toward the floor as if Iven is directly beneath us.
+Oret stands.
 
-“Does that make it worse?”
+Dain leans over her shoulder.
 
-“No,” I say.
+Pell forgets the stew.
 
-Everyone looks at me. I take a breath.
+On the third sketch, the support becomes a short steel nose seated in a shallow shoe with a bounded spring behind it.
 
-“It makes it less unknown.”
+"Adjustable foot," Harra says.
 
-That is not the same as safer. I have learned enough to know the difference. Harra turns the return shoe over.
+"That was already the next design."
 
-“The ash frame failed because the far pin was too long and the receiving pitch pulled it down. We knew that. But if the frame was also transmitting load into the old stone, then making the next one stronger could make the wrong problem worse.”
-
-Oret’s eyes narrow.
-
-“A rigid bridge.”
-
-“Yes.”
-
-“Couples both sides.”
-
-“Yes.”
-
-I look at the shoe. Release under load.
-
-A structure that can sit on both sides without insisting they become one thing.
-
-“What if the far foot can move?”
-
-Harra looks at me.
-
-“Move how?”
-
-“Not slide loose. Give.”
-
-I use both hands because words are failing.
-
-“Short pin. Shoe under it. Spring behind. Enough travel that if the landing pitches or the stone moves, it unloads instead of levering the whole frame.”
-
-Harra does not answer. She pulls a scrap of paper toward herself. Draws. Oret stands. Dain leans over. Pell forgets the stew. Sella watches me. Not the drawing. Me. Tolliver is on the other side of the table.
-
-He is doing the same thing. I try not to notice. I fail. Harra draws three versions. Crosses out two.
-
-On the third, the far support is a short steel nose seated into a shallow shoe with a return spring behind it.
-
-“Adjustable foot,” she says.
-
-“That was already the next design.”
-
-“Yes.”
+"Yes."
 
 She taps the spring.
 
-“This makes the adjustment live under load.”
+"This makes the adjustment live under load."
 
-“Is that good?”
+"Good?"
 
-“It can be.”
+"It can be."
 
-“Comforting.”
+"That is a dangerous phrase."
 
-“If the travel is bounded.”
+"If the travel is bounded, the pin cannot escape, and the spring is replaceable—"
 
-“Less comforting.”
+"Back up."
 
-“If the spring is replaceable.”
+Harra smiles.
 
-“Back up.”
-
-Harra smiles. A little.
-
-“We can build it.”
+"We can build it."
 
 That changes the room.
 
-The thing we went into East Relief to find has become more than metal. It has become a design.
+The thing we carried out of East Relief is no longer just salvage.
+
+It is a way forward.
 
 ---
 
-Pell pays the contract after lunch. Not me directly. The party.
+Pell pays the expedition after lunch.
 
-Harra refuses to count the salvaged return shoe as wage because it belongs to the rescue work.
+Sixteen new bits for me, the two days at eight each. Mara records the payment separately from the day we were paid before leaving, because she has correctly identified arithmetic as one of the most dangerous forces in the house.
 
-Sella calls her unbearably honorable. Harra says yes.
+Pell offers the same daily rates for frame work, contact, and the rescue itself. Food, room, property, and treatment terms remain unchanged.
 
-The two expedition days are settled at eight bits each. My Day Eighteen wage was paid before we left.
+I ask for it in writing.
 
-Sixteen new bits. Mara marks the earlier payment separately so neither of us counts it twice.
+Mara is already pulling out paper when a runner arrives with a message for Sella.
 
-The expedition agreement ends tonight. Pell asks us to stay for frame work, contact and the rescue at the same daily rates, with food, room, property and treatment terms unchanged.
+She reads it once.
 
-I agree and ask for it in writing. Mara pulls out a fresh form, but Harra needs the specification before she has put a date on it.
+Then again.
 
-There is also another problem. Sella gets a message.
+Her mouth changes.
 
-A runner brings it while Harra is at the forge and I am trapped at the kitchen table with my splinted foot on a stool.
+I wait.
 
-Sella reads the folded note once. Then again. Her mouth changes. Not fear. Decision. I wait. She hands it to me. The script is neat and slanted.
+Finally she hands it to me.
 
-A team out of Dower Ford needs a route guard and second scout eastbound.
+A team out of Dower Ford needs a route guard and second scout eastbound. Departure in four days. Two weeks guaranteed, with an option to continue farther.
 
-Departure in four days. Good rate. Two weeks guaranteed. Option to continue farther. I read it twice.
+I read the note twice.
 
-“You wanted moving work.”
+"You wanted moving work."
 
-“Yes.”
+"Yes."
 
-“You should answer.”
+"You should answer."
 
-“I know.”
+"I know."
 
-Four days. My ankle has three days of no loading under the mender’s orders. The rescue does not have a date. Iven is still there. Sella sits beside me. Not close enough to touch. That feels deliberate.
+Four days.
 
-“I can ask them to hold one day,” she says.
+My ankle gets three days of no loading. The rescue does not have a date. Iven is still behind the boundary.
 
-“For me?”
+Sella sits beside me, leaving more space between us than usual.
 
-“For my answer.”
+"I can ask them to hold my answer one day."
 
-I look at the note.
+"For me?"
 
-“Do you want the job?”
+"For my answer."
 
-“Yes.”
+I fold the paper along its old crease.
 
-No hesitation. It hurts exactly because she means it.
+"Do you want the job?"
 
-“Then take it.”
+"Yes."
+
+No hesitation.
+
+It hurts because she means it.
+
+"Then take it."
 
 Her eyes lift.
 
-“That easy?”
+"That easy?"
 
-“No.”
+"No."
 
-I fold the paper along the existing crease.
+I put the note on the table.
 
-“I said I wanted to go with you after Iven is out if the opportunity still exists. I meant it. I am not asking you to turn down another job because our rescue keeps moving.”
+"I said I wanted to go with you after Iven is out, if the opportunity still exists. I meant it. I am not asking you to turn down a job because our rescue keeps moving."
 
-“Maya.”
+"Maya."
 
-“I am not.”
+"I'm not."
 
-She studies me.
+The forge yard rings with three hammer strikes, a pause, then two. Harra's rhythm.
 
-The room is quiet enough that I can hear somebody hammering in the forge yard.
+Sella puts her hand on my knee, above the splint.
 
-Three strikes. Pause. Two. Harra’s rhythm. Sella reaches over and puts her hand on my knee. Above the bad ankle.
+"I can accept and still leave in four days."
 
-“I can accept and still leave in four days.”
+"Yes."
 
-“Yes.”
+"You might come."
 
-“You might come.”
+"Yes."
 
-“Yes.”
+"You might not."
 
-“You might not.”
+That one hurts more.
 
-The words hurt.
+"Yes."
 
-“Yes.”
+"And if you do, there is still him."
 
-“And if you do, there is still him.”
+She does not look toward the yard.
 
-She does not look toward the yard. She does not have to. I put my hand over hers.
+She does not need to.
 
-“Yes.”
+I cover her hand with mine.
 
-Sella closes her eyes for one second. Then opens them.
+"Yes."
 
-“Good.”
+Sella closes her eyes for one second.
 
-“That did not sound good.”
+"Good."
 
-“It sounded true.”
+"That did not sound good."
 
-She stands. I catch her fingers before she can go. She looks down.
+"It sounded true."
 
-“I want you,” I say.
+She stands. I catch her fingers before she gets away.
 
-Her face softens. Not enough to erase the rest.
+"I want you."
 
-“I know.”
+Her face softens.
 
-“I do not want you to feel temporary.”
+"I know."
 
-“I know.”
+"I don't want you to feel temporary."
 
-“That is worse.”
+"I know."
 
-“Yes.”
+"That is worse."
 
-She bends and kisses me. Her mouth stays on mine long enough that I stop thinking anyway. When she pulls back, her forehead touches mine.
+"Yes."
 
-“I am taking the job,” she says.
+She bends and kisses me.
 
-“Okay.”
+Slow enough that I stop trying to solve it.
 
-“I am not leaving today.”
+When she pulls back, her forehead rests against mine.
 
-“Okay.”
+"I'm taking the job."
 
-“And if you make me drag the truth out of you later, I will throw you into a ditch.”
+"Okay."
 
-“There are kinder relationship models.”
+"I'm not leaving today."
 
-“Not ours.”
+"Okay."
 
-She leaves to send her answer. My chest hurts in a place the mender cannot splint.
+"And if you make me drag the truth out of you later, I will throw you into a ditch."
+
+"There are kinder relationship models."
+
+"Not ours."
+
+She leaves to send her answer.
+
+My chest hurts in a place the mender cannot splint.
 
 ---
 
-By late afternoon Harra has built a table-sized version of the new far foot.
+By late afternoon, Harra has built a table-sized version of the new far foot.
 
-Of course she has. I am summoned to the forge yard. Mara says no. Harra says she does not need me standing. Mara says that is what people say before Maya stands. I am offended by how accurate this is.
+Of course she has.
 
-They carry the chair. Not me. The chair.
+I am summoned to the forge yard. Mara says no. Harra says she only needs me to look. Mara says that is what people say before Maya stands.
 
-I remain in it while Tolliver and Pell lift the entire thing down the two kitchen steps.
+I am offended by the accuracy.
 
-“This is worse than being carried,” I say.
+They carry the chair.
 
-Tolliver says, “You chose the chair.”
+Not me.
 
-“I chose nothing about the procession.”
+The chair.
 
-Pell grunts under the back legs.
+Tolliver and Pell lift the whole thing down the kitchen steps with me still in it.
 
-“Complain lighter.”
+"This is worse than being carried."
 
-The forge yard has become a model of the lower chamber. Two stone blocks. A narrow ash rail between them. The recovered return shoe has not been cut. Harra used scrap steel for the prototype and copied its angle.
+Tolliver says, "You chose the chair."
 
-A short pin enters the shoe.
+"I did not choose the procession."
 
-Behind it sits a spring made from the recovered strip’s measurements, not the strip itself.
+Pell grunts beneath the back legs. "Complain lighter."
 
-She points.
+The forge yard has become a model of the lower chamber: two stone blocks, an ash rail between them, a short pin entering a scrap-steel shoe copied from the recovered piece. Behind it sits a spring built to the same dimensions, but not from the salvage strip itself.
 
-“Far end can compress a finger and a half. No more. Side lips stop lateral escape. Pin cannot project past the shoe.”
+Harra points.
 
-Oret has rigged a hanging weight above the far block. Dain has a measuring cord. Mara has her arms crossed. Sella returns from the runner post and takes a place behind my chair. Tolliver stands beside the near block.
+"Finger and a half maximum travel. Side lips stop escape. Pin cannot project through the shoe."
 
-Harra says, “We load the rail. Then we shift the far block.”
+Oret has a hanging test weight. Dain has a measuring cord. Mara has crossed arms. Sella returns from the runner post and stands behind my chair. Tolliver takes the near block.
 
-“Like the sloped landing.”
+The first two tests are beautifully boring.
 
-“Yes.”
+Harra shifts the far block on the third, adding a rough stone under one side to mimic Iven's sloped landing.
 
-“If it binds?”
+The pin seats crooked.
 
-“We stop.”
+The spring compresses unevenly.
 
-“If the spring jumps?”
+The ash rail starts to twist.
 
-“We stop.”
+I feel it in my stomach before I can explain why.
 
-“If the block moves more than the mark?”
+"Stop."
 
-“We stop.”
+Harra freezes on the weight line.
 
-Mara says, “If Maya stands, we stop.” Everyone nods. Traitors.
+Tolliver checks the near support. "Holding."
 
-The first two tests are boring in the best possible way. Half a finger of compression, then a full finger under more weight. Harra shifts the far block. The shoe gives; the near block does not.
+"That is the problem."
 
-Oret says, “Again.” Third test.
+Harra follows the twist.
 
-Harra adds a rough stone under one side of the far shoe to mimic the receiving pitch.
+The misalignment is traveling back through the rail toward the near block. Stronger material would only carry more of it.
 
-Weight down. The pin seats crooked. The spring compresses unevenly. The ash rail begins to twist. I feel it before I understand it. Not with an ability. With yesterday. The track bracket. The moment holding became damage.
+"Unload the far side," Oret says.
 
-“Stop.”
+He reaches for the weight.
 
-Harra’s hand freezes on the weight line. Tolliver looks at the near support.
+"No."
 
-“It is holding.”
+Everyone looks at me.
 
-“That is the problem.”
+I point at the shoe latch.
 
-Harra follows the twist. The rail is carrying the misalignment back toward the near block. If we make it stronger, it will transfer more. Connected stone. False activation.
+"Release the shoe first. If you lift the weight now, the twisted rail snaps back through the pin."
 
-“Unload the far side.”
+Harra's eyes sharpen.
 
-Oret reaches for the weight.
+"Near side?" she asks.
 
-“No.”
-
-They look at me. They look at me because I said it like I know. I point to the spring latch.
-
-“Release the shoe first.”
-
-Harra’s eyes sharpen.
-
-“If we lift the weight first, the twisted rail snaps back through the pin.”
-
-Dain says, “And strikes the far block.”
-
-“Maybe.”
-
-Harra looks at Tolliver.
-
-“Near side?”
-
-He checks the clamp.
-
-“Sound.”
+Tolliver checks the clamp. "Sound."
 
 Harra looks at me.
 
-“Call it.”
+"Call it."
 
-My pulse kicks. No ability. People with hands on real things are waiting for my decision.
+My pulse jumps.
 
-“Release far latch.”
+No ability. No nameplate. Just people with hands on real things waiting for my decision.
 
-Harra pulls. The shoe jumps one inch. The spring takes the twist. The rail settles. Then Oret removes the weight. Nothing breaks. Harra stares at the model. Then at me.
+"Release far latch."
 
-“That is it.”
+Harra pulls it.
 
-“What?”
+The shoe jumps an inch. The spring takes the twist, the rail settles, and only then does Oret remove the weight.
 
-“The order.”
+Nothing breaks.
 
-“Release before unload.”
+Harra stares at the model.
 
-Dain nods.
+Then at me.
 
-“Otherwise the structure carries the stored turn.”
+"That is the order."
 
-Release under load. I look down at my splinted ankle. The lesson followed me home.
+Dain nods. "Release before unload."
+
+Otherwise the structure carries the stored turn.
+
+I look down at my splinted foot.
+
+Apparently the lesson followed me home.
 
 ---
 
-They rebuild the test. Harra wants one powered run. Mara says no. I say no before she can. That surprises everyone. Especially me.
+They rebuild the test.
 
-“My reserve is not the limiting resource,” I say. “My foot is.”
+Harra wants one powered run.
 
-Mara’s expression changes by one degree. Approval from Mara feels like being knighted by weather. Oret does the loaded test manually. Harra runs the release order. Three times. The foot gives. The rail survives. The near block stays quiet.
+Mara says no.
 
-A prototype. Better than yesterday. Enough for one day.
+I say no first.
 
-I open my measure because I want to know what the System thinks of enough.
+That surprises everybody, including me.
+
+"My reserve is not the limiting resource. My foot is."
+
+Mara's expression changes by about one degree.
+
+Approval from Mara feels like being knighted by weather.
+
+Oret runs the loaded sequence manually. Harra releases in the new order.
+
+Three times.
+
+The foot gives.
+
+The rail survives.
+
+The near block stays quiet.
+
+I open my measure.
 
 **[MAYA SZCZEPANIAK, LV. 4]**
 
 **[PROGRESS: 22 / 22]**
 
-I stop breathing. Sella sees my face.
+I stop breathing.
 
-“What?”
+Sella sees my face. "What?"
 
 The next line appears.
 
@@ -746,166 +692,220 @@ Then:
 
 **[WARDER, LV. 5]**
 
-The pressure in my chest changes. Not pain. Space. Capacity. I check reserve.
+Something in my chest opens wider.
+
+I check reserve.
 
 **[RESERVE: 3 / 7]**
 
-No refill. Good. No miracle ankle. Also good. I flex my toes. Still hurts. Mara points at me.
+No refill.
 
-“Do not test it.”
+No miracle ankle.
 
-“I moved my toes.”
+Good on both counts.
 
-“You had the face.”
+I flex my toes.
 
-“What face?”
+Mara points at me. "Do not test it."
 
-“The one before you do something foolish.”
+"I moved my toes."
 
-Sella says, “She has several.” Tolliver is looking at the measure even though he cannot see the words.
+"You had the face."
 
-“Level?”
+"What face?"
 
-I nod.
+"The one before you do something foolish."
 
-“Five.”
+Sella says, "She has several."
 
-Harra smiles. Pell swears softly. Oret says, “From the model?”
+Tolliver is looking at me even though he cannot see the measure.
 
-“I do not know.”
+"Level?"
 
-That matters. I look at the prototype. The dungeon did not end when we crossed the spill channel. It did not end when we found the shoe. Maybe it ends here. When what we survived becomes something another person can use.
+"Five."
 
-The System gives me no new ability. No glowing sword. No fanfare. Seven reserve capacity. A number. And the knowledge that I reached it without holding until something broke. Tolliver steps closer. Not too close.
+Harra smiles. Pell swears softly. Oret studies the prototype as if the answer might be written there.
 
-His eyes move over me with an intensity that makes my skin remember every place his hands were this morning.
+"From the model?" he asks.
 
-“You earned that.”
+"I don't know."
 
-My mouth goes dry. Sella is behind me. I can feel her there without looking. Complicated has become too small a word.
+That matters enough that I leave it alone.
 
-“Do not make it weird,” I say.
+Maybe the dungeon ended at the spill channel. Maybe it ended when we found the shoe. Maybe it ends here, when what we survived becomes something another person can build.
 
-Tolliver’s mouth moves. Almost a smile.
+Tolliver steps closer.
 
-“I did not say anything weird.”
+His eyes move over me with an intensity that makes my skin remember this morning.
 
-“You thought it.”
+"You earned that."
 
-“Yes.”
+My mouth goes dry.
 
-Sella laughs. Real laughter this time. I turn enough to see her. She shakes her head.
+"Do not make it weird."
 
-“I leave you alone for one message.”
+One corner of his mouth lifts. "I did not say anything weird."
 
-“No one did anything.”
+"You thought it."
 
-“That is the problem.”
+"Yes."
 
-My face burns. Harra bangs a tool against the table.
+Sella laughs behind me.
 
-“Take your romance away from my prototype.”
+Harra bangs a tool against the table. "Take your romance away from my prototype."
 
-Pell looks scandalized. Mara does not. Oret pretends to study the spring. Tolliver steps back. Immediately. Because I did not invite him closer. That matters more than the heat. Maybe that is why the heat is there at all.
+Pell looks scandalized. Mara does not. Oret suddenly finds the spring fascinating.
 
----
+I cover my face with one hand.
 
-At dusk, Iven gets the news. Not the level. The shoe.
-
-Harra and I stay at the kitchen table while Renn carries our pages to Dain at the upper glass. Mara copies the replies when he brings them down. The sleeve still gives us pictures, not voices.
-
-Iven’s first answer comes back beneath Harra’s drawing. *You went into East Relief?*
-
-“Unfortunately,” Sella says. Mara writes it for him.
-
-The next trip brings a question about the forge. Harra answers that we found enough of it. Iven’s reply is one word.
-
-*Mad.*
-
-“Yes,” Harra says.
-
-Renn says he laughed when Dain showed him the answer. I close my eyes and try to imagine the sound.
-
-Harra sends the short-pin drawing and release order. No person crosses until the full frame passes dry tests and a bounded chamber test. Iven acknowledges each page before Dain changes it.
-
-Then he asks about me. *Is the girl still hurt?*
-
-“I have a name.”
-
-Mara’s pen waits above the paper.
-
-“Tell him I am improving strategically.”
-
-She makes a noise, but writes it. When Renn returns, he says Iven laughed again, then coughed hard enough to brace himself against the rail.
-
-That takes the humor out of the kitchen.
-
-His tank is still below the old stain. We have its dimensions and his latest depth mark, not a trustworthy count of days left.
-
-“We need two days to build properly,” Harra says.
-
-“At least,” Mara says.
-
-“Then a dry load sequence,” Oret adds.
-
-“And chamber vibration measurement before span,” Dain has written beneath the last contact note.
-
-Mara sends the whole estimate, without turning it into a promise. Iven underlines *two days* on his reply. Nothing more.
-
-Sella’s team leaves in four. My ankle gets three days of no loading. The numbers line up badly.
-
-I take the pencil. *We do it right.* On Renn’s last trip, Iven’s answer is copied beneath mine. *Good.* Just that. Good.
+At least nobody mentions my expression.
 
 ---
 
-Night settles over Rook. Two moons rise over the yard.
+At dusk, Iven gets the news.
 
-I sit in the west kitchen doorway because Mara has permitted exactly this much rebellion: chair, foot up, no stairs.
+Not the level.
 
-Sella sits on the threshold beside me. Tolliver is across the yard helping Harra carry the prototype back under cover. He lifts one end. Harra lifts the other. No one needs me. This used to feel like failure.
+The shoe.
 
-Tonight it feels almost like trust. Sella rests her head against my knee, carefully above the splint.
+Renn carries pages between the kitchen and the upper glass while Mara copies Iven's replies. Harra sends the short-pin drawing, the bounded travel, the release order, and the rule that no person crosses until the full frame survives dry tests and a chamber test.
 
-“I accepted,” she says.
+Iven's first response is written beneath the drawing.
 
-“The job.”
+*You went into East Relief?*
 
-“Yes.”
+"Unfortunately," Sella says.
 
-“Four days?”
+Mara writes that back.
 
-“Yes.”
+The next reply asks about the forge. Harra tells him we found enough of it.
 
-I look at Tolliver. He sets the prototype down. Looks up. Finds me looking. Neither of us looks away immediately. Sella sees. Of course she sees. Her head stays against me. My hand goes into her hair. Not apology. Not possession. Contact.
+*Mad,* Iven writes.
 
-Four days. Two days to build. Three days off the ankle. Iven waiting across a boundary that cuts rope, wax and ash. Captain Rusk somewhere out there with a claim she has not abandoned. Level five. Three reserve out of seven.
+"Yes," Harra says.
 
-No new ability.
+Renn reports that he laughed, then coughed hard enough to brace himself against the rail.
 
-A stronger frame that may fail if we misunderstand what the old stone is doing.
+The room changes.
 
-This is not a clean board. It is not supposed to be. Sella turns her face and kisses the inside of my wrist.
+His water is lower again.
 
-“Do not spend tonight solving all of it,” she says.
+We still refuse to turn the tank into a false deadline.
 
-“I was not.”
+Harra needs two days to build properly. Oret wants a dry load sequence. Dain wants chamber vibration measured before any span goes in.
 
-“You were making the face.”
+Mara sends the estimate exactly as it is.
 
-“What face?”
+Iven underlines *two days*.
 
-“The one before you do something foolish.”
+Then asks about me.
+
+*Is the girl still hurt?*
+
+"I have a name."
+
+Mara's pen waits.
+
+"Tell him I am improving strategically."
+
+She writes it with obvious disapproval.
+
+Renn comes back smiling. "He laughed."
+
+Then, quieter: "Coughed again."
+
+Sella's team leaves in four days.
+
+My ankle gets three days.
+
+The numbers line up badly.
+
+I take the pencil.
+
+*We do it right.*
+
+On Renn's last trip, Iven sends one word back beneath mine.
+
+*Good.*
+
+---
+
+Night settles over Rook with two moons above the yard.
+
+Mara permits me exactly this much rebellion: chair in the west kitchen doorway, foot up, no stairs.
+
+Sella sits on the threshold beside me.
+
+Across the yard, Tolliver and Harra carry the prototype under cover. He lifts one end. She lifts the other.
+
+No one needs me.
+
+A week ago, that would have felt like failure.
+
+Tonight it feels almost peaceful.
+
+Sella rests her head against my knee, carefully above the splint.
+
+"I accepted."
+
+"The job."
+
+"Yes."
+
+"Four days?"
+
+"Yes."
+
+I look across the yard.
+
+Tolliver sets the prototype down, looks up, and catches me looking.
+
+Neither of us turns away immediately.
+
+Sella sees.
+
+Of course she sees.
+
+Her head stays against me. I put my hand into her hair.
+
+Not apology.
+
+Not possession.
+
+Just contact.
+
+Four days. Two to build. Three off the ankle. Iven waiting across a boundary that cuts rope, wax, and ash. Rusk somewhere out there with a claim she has not abandoned. Level five. Three reserve out of seven.
+
+Sella turns her face and kisses the inside of my wrist.
+
+"Do not spend tonight solving all of it."
+
+"I wasn't."
+
+"You were making the face."
+
+"What face?"
+
+"The one before you do something foolish."
 
 I stare down at her.
 
-“Mara said that.”
+"Mara said that."
 
-“She is wise.”
+"Mara is wise."
 
-“Treason everywhere.”
+"Treason everywhere."
 
-Sella smiles. Across the yard, Tolliver hears none of this. Good. Some things are still mine. I lean back in the chair and let the night be unfinished. Tomorrow Harra builds. Tomorrow I rest. The day after that, we test.
+She smiles.
 
-And after that, if the old works allow it, we go back to the boundary.
+Across the yard, Tolliver hears none of it.
 
-Not to hold it open. To build something smart enough to survive letting go.
+Good.
+
+Some things are still mine.
+
+I lean back and let the night remain unfinished.
+
+Tomorrow Harra builds. Tomorrow I rest. The day after, we test.
+
+After that, if the old works allow it, we go back to Iven.
