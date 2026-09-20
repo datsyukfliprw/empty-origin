@@ -18,9 +18,9 @@ The canonical chapter files govern. `WORKING_DRAFT.md` was kept synchronized wit
 | Continuity | GREEN after repair | One concrete East Relief ankle-rule contradiction was repaired. No new timeline, rescue-state, injury-state, relationship-state, or property-state contradiction was identified in the material reviewed. |
 | System mechanics | GREEN after repair | One Stepguard definition/use mismatch was repaired. Level advancement, reserve capacity, current reserve, injury persistence, and technique recognition remain coherent through the ending. |
 | Romance | GREEN structurally, line cleanup still useful | Sella remains a full relationship rather than a bridge to Tolliver. Tolliver's payoff is earned through changed behavior and Maya's explicit choice. Some narration still explains agency/consent after the scene has already shown it. |
-| Pacing / chapter function | AMBER | The completed architecture works. The remaining opportunity is compression, especially repeated testing, procedural explanation, and interpretive aftermath rather than structural rebuilding. |
-| Voice / repetition | AMBER, first cleanup applied | Maya's voice remains strong, but the final third overuses several familiar rhetorical scaffolds. Surgical trims were applied in Chapters 23, 24, 25 and 27. A broader line pass can still remove echoes without flattening her. |
-| Dialogue fingerprint | GREEN with two watch items | Maya, Tolliver, Sella, Harra, Mara, Rusk and Vey are readily distinguishable. Dain/Oret and, occasionally, Iven/Maya occupy closer rhythmic territory and should be watched in a final dialogue-only pass. |
+| Pacing / chapter function | GREEN after targeted compression | Chapters 26–28 and 32 received an aggressive line-compression pass, followed by a continuous 20–29 procedural reread. Decision-bearing measurements remain; repeated explanation was reduced. |
+| Voice / repetition | GREEN for this revision stage | Surgical cleanup now covers Chapters 23–30 and 32, with the heaviest compression in 26–28 and 32. The final third retains Maya's voice while reducing visible rhetorical scaffolding. |
+| Dialogue fingerprint | GREEN | A dialogue-only pass confirmed Dain and Oret are already differentiated by function: Dain diagnoses pressure, stone, propagation and boundary state; Oret tracks load path, spring travel, fabrication and test sequence. No artificial verbal quirks were added. |
 
 ## 1. Continuity audit
 
@@ -318,20 +318,24 @@ Reference repair:
 Compilation:
 
 - `WORKING_DRAFT.md` synchronized after all chapter edits.
-- Current compiled count after these changes: **101,231 words**.
+- Current compiled count after these changes: **100,830 words**.
 - Root `README.md` headline count updated.
 
 ## Recommended next execution order
 
 Do not start another structural rewrite.
 
-The highest-value remaining sequence is:
+Completed in this pass:
 
-1. complete the late-book line compression pass, focusing first on Chapters 26-28 and 32
-2. run a dialogue-only pass for Dain/Oret and any Maya/Sella joke-rhythm collisions
-3. reread Chapters 20-29 as one uninterrupted procedural/action chain and remove repeated explanations of rules the reader already knows
-4. reread Chapters 29-32 as one emotional denouement chain to make sure Sella's grief, Tolliver's payoff and Maya's settlement each get distinct emotional space
-5. copyedit after developmental wording stops moving
-6. proof the final compiled manuscript, then beta/ARC test with actual adult LitRPG and romantasy readers
+1. aggressive line compression of Chapters 26–28 and 32
+2. uninterrupted Chapters 20–29 procedural/action reread
+3. Dain/Oret dialogue-only fingerprint pass
+4. Chapters 29–32 emotional denouement reread and targeted trimming
+
+Highest-value remaining sequence:
+
+1. run a true copyedit for grammar, punctuation, usage, consistency and residual word echoes without developmental rewriting
+2. proof the final compiled manuscript after copyedit changes stop moving
+3. beta/ARC test with actual adult LitRPG and romantasy readers, then repair only repeated response patterns rather than isolated taste notes
 
 The manuscript does not need a new spine. It needs the existing spine cleaned until the reader stops seeing the scaffolding.
