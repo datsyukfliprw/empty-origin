@@ -2,7 +2,7 @@
 
 **Status date:** September 20, 2026  
 **Current position:** **Focused post–cold-read revision pass — next immediate work**  
-**Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,894 whitespace-counted words**.
+**Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **95,824 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
 
@@ -21,7 +21,7 @@ The immediate job is **not another developmental rewrite**. It is now to read th
 - [x] Complete the major Chapters Twenty–Thirty-Two rewrite.
 - [x] Rebuild `WORKING_DRAFT.md` after the latest NCA batch through Chapter Twenty-Nine.
 - [x] Rebuild `WORKING_DRAFT.md` one final time from all 32 canonical chapter files.
-- [x] Recalculate the manuscript word count (**96,894**) and propagate it through active project metadata.
+- [x] Recalculate the manuscript word count (**95,824**) and propagate it through active project metadata.
 - [x] Update `README.md`.
 - [x] Update `PROJECT_NOTES.md`.
 - [x] Update `CHAPTER_LEDGER.md`.
@@ -53,11 +53,11 @@ Record only findings that are present in the current manuscript. Do not resurrec
 
 ## Immediate next revisions — cold-review consensus
 
-**Status: NEXT / READY**
+**Status: IN PROGRESS — Step 1 complete; Step 2 next**
 
 These are the only focused editorial revisions currently proposed. This is **polish and compression, not a developmental rewrite**.
 
-1. **Tighten Chapters 20–29.** Cut repeated testing, measurement, contract, safety, and rescue-procedure explanation once the reader already understands the process.
+1. **COMPLETE — Tighten Chapters 20–29.** Cut repeated testing, measurement, contract, safety, and rescue-procedure explanation once the reader already understands the process.
 2. **Reduce repeated voice tics.** Trim recurring constructions such as “the face,” “I contain multitudes,” one-word banter, and repeated joke/cadence patterns across the ensemble.
 3. **Give Sella’s departure more breathing room.** Make sure the transition into the Tolliver payoff does not read as an emotional handoff or permission slip.
 4. **Keep Earth emotionally alive.** Add only a few brief, well-placed reminders of Maya’s parents, Liam, Missouri, and the cost of what she has lost.
