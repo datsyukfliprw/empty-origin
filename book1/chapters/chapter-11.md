@@ -194,7 +194,7 @@ At the first long stop she gives me a lesson against the side of an old stone ca
 
 “You need to know when you’ve lost it,” she says. “Don’t spend because you wanted the first stance to work.”
 
-We practice moving away, setting again, and admitting when I haven’t got it. Nothing flashes or advances; by the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
+We practice moving away, setting again, and admitting when I haven’t got it. Nothing flashes; by the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
 
 The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper’s report that a temporary grate was fitted before dawn.
 
@@ -228,7 +228,7 @@ She is somewhere in her forties, with graying hair pinned badly enough that I ca
 
 “Wash,” she says, pointing toward a basin. “Soap is underneath. Dry thoroughly. No wet hands on the paper.”
 
-Vey introduces me while I obey. Mara waits through my last name, then asks me to say it again. She gets closer on the second attempt.
+Vey introduces me while I wash carefully around the wrapped knuckles and dry both hands. Mara waits through my last name, then asks me to say it again. She gets closer on the second attempt.
 
 “You have your agreement?”
 
@@ -284,7 +284,7 @@ I look up.
 
 “She did leave it.” Mara glances toward Vey. “After we refused to release it.”
 
-The room seems to tighten around the three of us.
+Vey looks at Mara. Mara keeps one stained finger on the inventory line.
 
 Vey says, “I did not tell you she abandoned her claim.”
 
