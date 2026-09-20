@@ -2,7 +2,7 @@
 
 ## Authority and purpose
 
-This file records the author's current governing development direction for **Empty Origin** and the ongoing series. It is a planning authority for future drafting and targeted revision. Written chapter files remain canon for events that have already happened; unwritten beats below are provisional until dramatized.
+This file records the author's governing development direction for **Empty Origin** and the ongoing series. **Book One is now complete through Chapter Thirty-Two.** Any Book One beat described below as future or unwritten is a historical planning note and is superseded by the chapter files. The broader series principles remain useful for future drafting and targeted revision.
 
 This plan supplements:
 
