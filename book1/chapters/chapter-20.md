@@ -224,15 +224,7 @@ Then she looks at me, and Pell looks at me, and I put my pencil down because I k
 
 "I know."
 
-"I can pay you two more days at the same rate. Copy work, contact, no field duty. Food and room continue."
-
-"Sixteen bits."
-
-"Yes."
-
-"Same property terms? Same right to stop an assignment?"
-
-"Yes to both."
+"Two more days. Same rate, same terms. Copy work and contact. No field duty."
 
 "Return cart?"
 
@@ -240,11 +232,11 @@ Pell gives me a look that lasts long enough to become an answer on its own. "You
 
 Greyward. The word has changed shape while I was not watching it, and I have to sit with that for a second before I can make my mouth work.
 
-"Still in writing," I say.
+"Still in writing."
 
-"Still in writing." She almost smiles, and Mara pulls a fresh page toward herself without being asked.
+"Still in writing." Mara is already pulling a fresh page toward herself.
 
-Sella is leaning against the hearth with her arms folded. Tolliver sits beside the flour chest with one boot braced against it. Pell looks at them next and offers Sella two more days at the same rate, and Tolliver the same, and Tolliver asks what happens after.
+Pell offers Sella and Tolliver the same extension. Tolliver asks what happens after.
 
 Pell looks at Rusk, and Rusk picks the root off the table again. "After, I leave unless somebody hires me."
 
