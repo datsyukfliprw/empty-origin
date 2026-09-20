@@ -14,13 +14,13 @@ The stores shed smells of old leather. Shields lean against a broken wagon wheel
 
 “No,” she says.
 
-“You haven't seen me hold it.”
+“You haven’t seen me hold it.”
 
 “I can see your wrist.”
 
-I put it down. My wrist keeps trembling after I've let go.
+I put it down. My wrist keeps trembling after I’ve let go.
 
-The green shield is narrower, wood faced in hide, with a metal strip around the edge and a padded rest behind it. Harra shows me an old gouge that doesn't go through and makes me look along the boards for warping. The straps have been replaced. One buckle has three extra holes for an arm like mine.
+The green shield is narrower, wood faced in hide, with a metal strip around the edge and a padded rest behind it. Harra shows me an old gouge that doesn’t go through and makes me look along the boards for warping. The straps have been replaced. One buckle has three extra holes for an arm like mine.
 
 “Three pieces, fitted,” she says. “Pell approved the stores sale. Yours afterward.”
 
@@ -36,7 +36,7 @@ Twenty-four bits. I count out the three pieces.
 
 Sella says nothing. I look at her, hoping for the kind of insider signal that means an offer is secretly terrible. She lifts one shoulder. She checks the rim of another shield and sets it back.
 
-I slide my left arm through and settle the weight close. It is still heavy. It doesn't pull me apart the way the round one did. When Sella presses the face, I feel the force reach the floor before my shoulder tries to take all of it.
+I slide my left arm through and settle the weight close. It is still heavy. It doesn’t pull me apart the way the round one did. When Sella presses the face, I feel the force reach the floor before my shoulder tries to take all of it.
 
 I take three pieces from my pouch.
 
@@ -54,9 +54,9 @@ Forward. Out. Slowly over my head. I can reach high enough, but the last part dr
 
 “There,” she says. “Below that today.”
 
-“It isn't sharp.”
+“It isn’t sharp.”
 
-“Don't reach that high with weight on it.”
+“Don’t reach that high with weight on it.”
 
 We work behind the kitchen, on a broad patch of packed ground away from the carts. Her relief has taken the boundary. We have an hour before Dain wants her at the north collector.
 
@@ -88,23 +88,23 @@ My excitement rearranges itself.
 
 “And lasts two breaths. One short straight step, forward or back. You start it already knowing where the foot will go.”
 
-“That's expensive.”
+“That’s expensive.”
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I've chosen; anything outside that line still gets me.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
 “No. The patterns fight each other.”
 
-“Finish one. Set the other. Don't try to fix a broken Stepguard by pouring more into it.”
+“Finish one. Set the other. Don’t try to fix a broken Stepguard by pouring more into it.”
 
 She draws a second line beside the first, wide enough for my feet, and has me walk it without the shield. Then with the shield. Then while she presses lightly against it. Each time I want to lift my foot high enough to feel brave, she tells me to make it smaller.
 
 I keep trying to lengthen the step. Six inches would barely get me out of a cast circle. Sella puts her boot across the line and makes me start again.
 
-After a while my body understands what my head has been arguing with. The weight stays connected if I don't hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
+After a while my body understands what my head has been arguing with. The weight stays connected if I don’t hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
 
 “There,” she says. “Remember that.”
 
@@ -118,13 +118,13 @@ Sella watches my face.
 
 “I think so.”
 
-“Two if you commit. Even if you fall out of it. We're keeping the push light.”
+“Two if you commit. Even if you fall out of it. We’re keeping the push light.”
 
 I nod, set my shield, and spend.
 
 The hold catches. Pressure runs down the line, through the back of my arm and into my heel, then changes as I begin to move. For half a step I am doing it.
 
-Sella's hand drifts toward the rim.
+Sella’s hand drifts toward the rim.
 
 I turn the shield to follow.
 
@@ -186,7 +186,7 @@ I look from the line to my shield. Six inches of dirt. A whole new thing my body
 
 I had forgotten. I look at the five marks and laugh.
 
-I put the shield down carefully, straighten, and throw both arms around her before my shoulder reminds me to keep one lower. She catches me around the waist. I kiss her, badly at first because I'm smiling too hard, then properly when she turns her head and pulls me a little closer.
+I put the shield down carefully, straighten, and throw both arms around her before my shoulder reminds me to keep one lower. She catches me around the waist. I kiss her, badly at first because I’m smiling too hard, then properly when she turns her head and pulls me a little closer.
 
 Her palm is warm through the back of my tunic. I pull her closer. Her buckle presses into my stomach, and neither of us moves it.
 
@@ -198,7 +198,7 @@ When we stop, she looks pleased in a way that has very little to do with the les
 
 She brushes a grain of dirt from my cheek. I want to follow her hand. Instead I lean into it until her thumb stills against my skin.
 
-We stay there long enough for the kitchen door to open and a woman with a bucket to tell us we're standing in the drainage run.
+We stay there long enough for the kitchen door to open and a woman with a bucket to tell us we’re standing in the drainage run.
 
 Sella picks up her shield. I pick up mine.
 
@@ -228,15 +228,15 @@ A woman arrives while he is explaining, carrying a sack of clotted roots. I reco
 
 The woman pours a little of the sack onto the wall. Pale roots, black rot, a bulb that gives under her thumb.
 
-“That row stood through last year,” she says. “We raised it. Now the collector's backed over the path.”
+“That row stood through last year,” she says. “We raised it. Now the collector’s backed over the path.”
 
 “You own that field?”
 
-“Rent it. Rent's due whether I get a crop or not.”
+“Rent it. Rent’s due whether I get a crop or not.”
 
 I look at the dead roots while black water drips from her thumb onto an old stain on her skirt.
 
-“If you cut toward the wash,” she tells Dain, “take the old barrow track. The soil beneath those willows won't carry you.”
+“If you cut toward the wash,” she tells Dain, “take the old barrow track. The soil beneath those willows won’t carry you.”
 
 Tolliver moves a mark on his sketch to show the track.
 
@@ -258,7 +258,7 @@ She puts the roots back into her sack. It takes longer than pouring them out.
 
 Sella sends her answer east that afternoon.
 
-I see her at the carrier's cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. Still, it feels as though a road has closed under my feet.
+I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. Still, it feels as though a road has closed under my feet.
 
 When she turns, I am still standing there.
 
@@ -282,7 +282,7 @@ She looks at the papers in my hand.
 
 I shut my mouth.
 
-“I knew when I sent it,” she says. “But don't tell me it's only three days. I have to find another opening now.”
+“I knew when I sent it,” she says. “But don’t tell me it’s only three days. I have to find another opening now.”
 
 I tuck the sheets against my chest.
 
@@ -290,21 +290,21 @@ I tuck the sheets against my chest.
 
 She looks at me.
 
-“There's a flat roof over the pantry,” I add, too quickly. “I can get food.”
+“There’s a flat roof over the pantry,” I add, too quickly. “I can get food.”
 
 She looks at me for a moment and begins to smile.
 
-“After the meal,” she says. “I'll ask about the roof.”
+“After the meal,” she says. “I’ll ask about the roof.”
 
 ---
 
 The second sluicewright reaches Rook before the evening meal.
 
-Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn't ask to see the mysterious door first. He asks where the field water comes in.
+Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn’t ask to see the mysterious door first. He asks where the field water comes in.
 
 Within ten minutes they are arguing over the old wash channel.
 
-I understand perhaps a third. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret use Tolliver's measured points instead of assuming. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
+I understand perhaps a third. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret use Tolliver’s measured points instead of assuming. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
 
 Oret will watch the downstream outlet. Dain will control the inlet. Harra will lift the little screen and clear the notch. Tolliver and Sella will cover the two banks, with another house guard beside the workers. I will keep the movable screen steady at its end, behind my shield, while Harra gets her tool in. If the ground moves, the cut closes and we withdraw along the track.
 
@@ -320,7 +320,7 @@ We get permission for the roof.
 
 It is less romantic than I imagined: a shallow platform over the pantry, reached by a short ladder, with a rail on two sides and drying onions on the third. The kitchen woman makes us promise not to step on the onions. Sella brings bread, I bring sliced turnip and the heel of cheese left from supper, and neither of us makes a claim about the view.
 
-The shield is propped beside my bed. My day's pay lies beneath the purse, still uncounted.
+The shield is propped beside my bed. My day’s pay lies beneath the purse, still uncounted.
 
 Sella sits beside me with her boots stretched out, off duty and smelling faintly of the soap she used to wash the dust from her arms. She has a mending needle stuck through a strip of cloth.
 
@@ -328,15 +328,15 @@ Sella sits beside me with her boots stretched out, off duty and smelling faintly
 
 “My cuff is coming off.”
 
-“We're on an outing.”
+“We’re on an outing.”
 
 “Hold this, will you?”
 
-I hold the cuff while she stitches. Above the yard the evening sky turns a color I don't have a useful name for, pale gold with a greenish edge. I can hear Dain and Oret still arguing below us. Oret keeps saying a number Dain won't accept.
+I hold the cuff while she stitches. Above the yard the evening sky turns a color I don’t have a useful name for, pale gold with a greenish edge. I can hear Dain and Oret still arguing below us. Oret keeps saying a number Dain won’t accept.
 
 Sella asks me about the gulls again. This time I tell her the part where my father lost the rest of his fries and tried to pretend that had been the plan. She laughs with the thread between her fingers, then waits while I remember something else.
 
-I tell her about my mother's car smelling of sunscreen all the way home. About sand appearing in a shoe a week later. I have to stop once. She waits until I can continue.
+I tell her about my mother’s car smelling of sunscreen all the way home. About sand appearing in a shoe a week later. I have to stop once. She waits until I can continue.
 
 The first moon rises above the east roof, pale and broad. The smaller one is already there. I mistook it for a star the first clear night. Tonight I can see its edge.
 
@@ -346,9 +346,9 @@ Sella puts down the needle.
 
 “Sometimes.”
 
-She looks at the two moons, then at me. I don't know how to explain missing something as large as a sky.
+She looks at the two moons, then at me. I don’t know how to explain missing something as large as a sky.
 
-“I'm not thinking about it now,” I say.
+“I’m not thinking about it now,” I say.
 
 She puts her hand beside mine on the roof. I move closer until our shoulders touch.
 
