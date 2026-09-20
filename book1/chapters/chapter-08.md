@@ -18,59 +18,59 @@ Outside, the gutters are running from rain I slept through. Greyward has been wa
 
 Ordway is unlocking her till box when I arrive.
 
-"You're early."
+“You’re early.”
 
-"It was mentioned."
+“It was mentioned.”
 
-She gives me the salt tub. "Check for damp."
+She gives me the salt tub. “Check for damp.”
 
 I set it on the table, take the cover off, and work the scoop gently through the top. Dry. A few small lumps along one edge, but they break when I press them.
 
-"He didn't send you?" she asks.
+“He didn’t send you?” she asks.
 
-I keep the scoop in my hand. "No."
+I keep the scoop in my hand. “No.”
 
 Ordway fits a pin through the hasp of her box and pushes it under the table.
 
-"He told me about last autumn," I say.
+“He told me about last autumn,” I say.
 
 Her shoulders settle. Nothing dramatic, just the adjustment you make before lifting something you know is heavy.
 
-"How much of it?"
+“How much of it?”
 
-"Half your stall. A debt your husband signed for."
+“Half your stall. A debt your husband signed for.”
 
-"My husband signed for it. I ordered it. It was a good price." She takes the scoop out of my hand and levels the salt. "Then he died, and I couldn't be here and at his bed, and the good price came due."
+“My husband signed for it. I ordered it. It was a good price.” She takes the scoop out of my hand and levels the salt. “Then he died, and I couldn’t be here and at his bed, and the good price came due.”
 
-I look at the cards of thread lined up on the dry side of the table. There are fewer than yesterday. I know that now, know enough to count what she hasn't replaced.
+I look at the cards of thread lined up on the dry side of the table. There are fewer than yesterday. I know that now, know enough to count what she hasn’t replaced.
 
-"Did you pay me because you're frightened of him?"
+“Did you pay me because you’re frightened of him?”
 
 She looks down the row. A boy is trying to hold an awning pole upright while his father ties it, and the pole keeps describing wider and wider circles in the air.
 
-"I paid you because you'd worked," she says.
+“I paid you because you’d worked,” she says.
 
-"You weren't going to."
+“You weren’t going to.”
 
-"No."
+“No.”
 
 She lets that stand between us. It is uncomfortable enough that I almost help her get rid of it.
 
-"A proper house can come after a wage," she says at last. "Tolliver can come after a debt someone gave him authority to collect. Different things. When you named him, I knew which sort I wasn't dealing with."
+“A proper house can come after a wage,” she says at last. “Tolliver can come after a debt someone gave him authority to collect. Different things. When you named him, I knew which sort I wasn’t dealing with.”
 
-"He could have come back."
+“He could have come back.”
 
-"He still could." She pulls the first sack of peas toward her. "I'd have had more to say with your coin already spent."
+“He still could.” She pulls the first sack of peas toward her. “I’d have had more to say with your coin already spent.”
 
 I look at her hands. The knuckles are red from cold, the thumbnail split along one side. I wanted one clean answer I could put next to his and compare. The split nail catches on the sack. I reach to hold it open for her, still unsure what I wanted her to say.
 
-"Thank you," I say.
+“Thank you,” I say.
 
-“Hold the sack open. It's catching.”
+“Hold the sack open. It’s catching.”
 
 She hands me the sack.
 
-An hour later we have customers, and I have sold enough salt to understand why she doesn't let anyone heap the scoop. The margin is hiding in the part everybody wants for free.
+An hour later we have customers, and I have sold enough salt to understand why she doesn’t let anyone heap the scoop. The margin is hiding in the part everybody wants for free.
 
 I am better today. I know where the needles live and which corner of the table lists when somebody leans on it. I recognize the boy buying for his mother before he speaks, and have the white thread in my hand when he asks for black. He points to the black. I exchange them.
 
@@ -82,27 +82,27 @@ I shut it again.
 
 Seven after yesterday’s work, seven after this morning’s. I look at Ordway sorting pins. I could spend another day guessing while she stands close enough to ask.
 
-"How did you choose your run?" I ask Ordway.
+“How did you choose your run?” I ask Ordway.
 
-She is sorting bent pins from straight ones. "Badly. I was thirteen."
+She is sorting bent pins from straight ones. “Badly. I was thirteen.”
 
-"Can you change it?"
+“Can you change it?”
 
-"Costs more work than choosing right the first time."
+“Costs more work than choosing right the first time.”
 
-"What were you?"
+“What were you?”
 
-"A runner. Thought I'd carry messages and see the coast."
+“A runner. Thought I’d carry messages and see the coast.”
 
 I try to picture her thirteen and fail, then try again and get a thin girl with her elbows out, furious that somebody else has a better horse.
 
-"Did you?"
+“Did you?”
 
-"Saw three towns and a man who paid by the mile he admitted I'd walked. My knees still don't like frost." She drops a crooked pin into a separate dish. "You're not choosing one for my stall."
+“Saw three towns and a man who paid by the mile he admitted I’d walked. My knees still don’t like frost.” She drops a crooked pin into a separate dish. “You’re not choosing one for my stall.”
 
-"I didn't say I was."
+“I didn’t say I was.”
 
-"You looked disappointed in your number. People do that when they're trying to make it hurry. You can work a counter without spending your life becoming better at my counter."
+“You looked disappointed in your number. People do that when they’re trying to make it hurry. You can work a counter without spending your life becoming better at my counter.”
 
 I stand with a card of thread between my fingers and feel, for the first time, how big the choice might be.
 
@@ -110,11 +110,11 @@ Nyx was a spellblade because I liked the preview animation. If I hated it, I cou
 
 My knees are going to have to live here.
 
-"Where do people learn?" I ask.
+“Where do people learn?” I ask.
 
-"Yards. Houses. Temples, if you like being cold on purpose. Depends what you want."
+“Yards. Houses. Temples, if you like being cold on purpose. Depends what you want.”
 
-"And if you don't know?"
+“And if you don’t know?”
 
 She looks at me over the pins. “Try the yards. Ask the price before you let them put anything in your hands.”
 
@@ -126,13 +126,13 @@ The trouble begins with a man trying to save half a step.
 
 He has a handcart stacked with sealed jars, a delivery for the oil seller on the opposite row. Ordway sees him coming and moves her basket of spare cloth out of his way without stopping the price she is giving a woman. I pull our little stool under the table. The lane through the middle clears by inches.
 
-The cart's left wheel catches the oil seller's awning rope.
+The cart’s left wheel catches the oil seller’s awning rope.
 
 I see the rope tighten. I see the pole shift. The man heaves the handles sideways to free the wheel, and at the stall beside him a woman is lifting a kettle off a charcoal pan.
 
-"Wait," I say.
+“Wait,” I say.
 
-The pole comes down across the cart. A jar breaks. Oil splashes the kettle woman's apron, the table, the pan beneath her hand.
+The pole comes down across the cart. A jar breaks. Oil splashes the kettle woman’s apron, the table, the pan beneath her hand.
 
 The flame is small at first, a blue curl around the edge of the coals. Then it climbs the spilled oil and the whole front of the table goes orange.
 
@@ -140,13 +140,13 @@ Everybody moves at once.
 
 The kettle hits the ground. Somebody shouts for water. The carter drops the handles and tries to pull the cart backward, but his wheel is still tangled in the rope and the jars roll together with a noise I will hear later when I close my eyes.
 
-"Sand!" Ordway shouts. "Under Hester's table!"
+“Sand!” Ordway shouts. “Under Hester’s table!”
 
 She is already moving. I go after her because her basket catches my knee and because doing what she says is the only useful thing in my head.
 
-Heat strikes my face across the lane. The fallen awning has caught along its edge, and the woman who was holding the kettle is on the ground behind it, pulling at something I can't see. Someone gets a coat over the fire on her apron. Two men grab the cart's handles.
+Heat strikes my face across the lane. The fallen awning has caught along its edge, and the woman who was holding the kettle is on the ground behind it, pulling at something I can’t see. Someone gets a coat over the fire on her apron. Two men grab the cart’s handles.
 
-"Leave it," she screams. "Leave the fucking cart!"
+“Leave it,” she screams. “Leave the fucking cart!”
 
 They stop.
 
@@ -164,25 +164,25 @@ The awning rope runs around the axle, down under the wheel, then back to the peg
 
 I know this feeling. Twelve people trying to fix a wipe in twelve different directions.
 
-"Stop lifting," I say.
+“Stop lifting,” I say.
 
 Nobody hears me.
 
-"STOP LIFTING."
+“STOP LIFTING.”
 
 The carter looks over, furious. I point to the rope beneath his axle.
 
-"That's holding it down. Cut it first."
+“That’s holding it down. Cut it first.”
 
 His eyes follow my hand. He drops one handle, gets a knife off his belt, and kneels.
 
-The burning cloth shifts when the rope parts. The oil seller swears and catches the pole before it can fall farther. A mason takes his place at the cart handles. I get my hands under the lower edge of the overturned table, next to the trapped woman's shoulder, and push.
+The burning cloth shifts when the rope parts. The oil seller swears and catches the pole before it can fall farther. A mason takes his place at the cart handles. I get my hands under the lower edge of the overturned table, next to the trapped woman’s shoulder, and push.
 
 It moves about an inch.
 
 Enough for me to understand how much it weighs. Not enough for her to get out.
 
-"Here," I tell her. "This side. When they lift, come this way."
+“Here,” I tell her. “This side. When they lift, come this way.”
 
 Her eyes open. Over her head, tilted with nothing at all though she is nearly lying down, her plate says **[COOK, LV. 16]**.
 
@@ -200,7 +200,7 @@ I push through it.
 
 The table lifts.
 
-"Now!"
+“Now!”
 
 The men heave. The wheel clears the cloth. She crawls, one elbow and then the other, dragging her legs after her while I hold the table above her back.
 
@@ -210,9 +210,9 @@ On the next breath, the weight begins to return.
 
 She is halfway through.
 
-"Move," I say, and hate myself for saying it because she is moving, she is doing every bit of moving she has, and one boot has caught the hem that is still bunched beneath her knee.
+“Move,” I say, and hate myself for saying it because she is moving, she is doing every bit of moving she has, and one boot has caught the hem that is still bunched beneath her knee.
 
-Ordway reaches past me. Gets a fist in the woman's apron. Pulls.
+Ordway reaches past me. Gets a fist in the woman’s apron. Pulls.
 
 I spend again.
 
@@ -226,19 +226,19 @@ I am sitting in it.
 
 Somebody pulls me up by the back of my woolen shirt. I try to help and discover that my legs are conducting a private discussion about whether we still do that.
 
-"Stand," Ordway says in my ear.
+“Stand,” Ordway says in my ear.
 
 I stand.
 
-She keeps a fist in my sleeve while people shovel sand and stamp out the awning's edges. The whole market is shouting, names and instructions and accusations layered together until I cannot separate them. The cook is sitting against a post with her hands tucked under her arms. Her face is white beneath the soot.
+She keeps a fist in my sleeve while people shovel sand and stamp out the awning’s edges. The whole market is shouting, names and instructions and accusations layered together until I cannot separate them. The cook is sitting against a post with her hands tucked under her arms. Her face is white beneath the soot.
 
 She looks at me.
 
-"Your hair," she says.
+“Your hair,” she says.
 
 I put a hand up. The very ends on one side feel crisp.
 
-"Great," I say, and start laughing.
+“Great,” I say, and start laughing.
 
 It is not a good laugh. Ordway steers me back to our stool and puts me on it, then goes to fetch water I am actually allowed to use.
 
@@ -256,17 +256,17 @@ One makes everybody move back. The other calls for the mender, and at that word 
 
 Ordway pushes me down by the shoulder.
 
-"I'm fine."
+“I’m fine.”
 
-"Then be fine sitting."
+“Then be fine sitting.”
 
 She crouches to look at my face. There is a scrape along the outside of my left forearm, bright and shallow, and the skin across my knuckles is red. My boots are slick with oil. My foot hurts, though in a familiar way that feels almost friendly.
 
-"Open your measure," she says.
+“Open your measure,” she says.
 
 I hesitate.
 
-She notices. "Not your name. Just look. Tell me what you've got left."
+She notices. “Not your name. Just look. Tell me what you’ve got left.”
 
 I touch my throat. Find the number.
 
@@ -278,13 +278,13 @@ I miss everything underneath it the first time because all I can see is that it 
 
 I make a noise.
 
-Ordway's hand closes on my wrist. "How much?"
+Ordway’s hand closes on my wrist. “How much?”
 
-"One."
+“One.”
 
-"Out of?"
+“Out of?”
 
-"Four."
+“Four.”
 
 I read it again to be certain.
 
@@ -296,9 +296,9 @@ I read it again to be certain.
 
 There is no fanfare. No gold light. My arms hurt, my hair smells like a terrible electrical problem, and in front of me the universe has put a two where the one was.
 
-"I leveled," I say.
+“I leveled,” I say.
 
-"Yes. I can see."
+“Yes. I can see.”
 
 She says it so ordinarily that I nearly cry.
 
@@ -310,11 +310,11 @@ I look up at Ordway. She can see the two without my telling her. So can everyone
 
 I let the measure close.
 
-"Did it fill you?" Ordway asks.
+“Did it fill you?” Ordway asks.
 
-"No."
+“No.”
 
-“Keep that one. Getting another level won't fill you.”
+“Keep that one. Getting another level won’t fill you.”
 
 She stands and turns toward the warden who is coming down the row. I recognize him before he recognizes me. Heavy face, strap on the shoulder, the same tired eyes that looked at my bare feet in the gateway.
 
@@ -322,77 +322,77 @@ Bertran.
 
 His gaze passes over me, goes up, then comes down again.
 
-"You," he says.
+“You,” he says.
 
-"That keeps happening."
+“That keeps happening.”
 
 Ordway makes a small noise that might be a cough.
 
-Bertran looks at the smoke, at the cook, at me. "Where's the young man you came in with?"
+Bertran looks at the smoke, at the cook, at me. “Where’s the young man you came in with?”
 
-"I don't know."
+“I don’t know.”
 
-"You're working here?"
+“You’re working here?”
 
-"Yes."
+“Yes.”
 
-"For her?"
+“For her?”
 
-"For me," Ordway says. "She saw the rope. Hester would still be under there if she hadn't."
+“For me,” Ordway says. “She saw the rope. Hester would still be under there if she hadn’t.”
 
-"I've heard." His eyes return to my plate. "You've had a busy morning."
+“I’ve heard.” His eyes return to my plate. “You’ve had a busy morning.”
 
-I could leave it there. I can feel the opportunity to say nothing opening in front of me, familiar and warm. He hasn't asked about Skell's. He hasn't asked why I am here without Tolliver. There is still enough smoke to hide an entire conversation.
+I could leave it there. I can feel the opportunity to say nothing opening in front of me, familiar and warm. He hasn’t asked about Skell’s. He hasn’t asked why I am here without Tolliver. There is still enough smoke to hide an entire conversation.
 
-"I need to change something in your book," I say.
+“I need to change something in your book,” I say.
 
 Ordway goes quiet beside me.
 
-"What something?"
+“What something?”
 
-"The part where he answers for me. He helped me get here. I didn't understand what else you were writing down."
+“The part where he answers for me. He helped me get here. I didn’t understand what else you were writing down.”
 
 Bertran looks from me to Ordway.
 
-"Is there trouble?"
+“Is there trouble?”
 
 “He put me down as his. I want that changed.”
 
 He rubs the side of his nose with one broad finger. Behind him a warden begins arguing with the carter about where to leave the damaged cart, and the ordinary world tries very hard to reclaim him.
 
-"Where are you sleeping?"
+“Where are you sleeping?”
 
-I describe the tavern and my room at the back. "Tonight's paid. I paid it."
+I describe the tavern and my room at the back. “Tonight’s paid. I paid it.”
 
-"And you'll have her tomorrow?" he asks Ordway.
+“And you’ll have her tomorrow?” he asks Ordway.
 
-"If she's got hands enough to count with."
+“If she’s got hands enough to count with.”
 
-"She has," I say.
+“She has,” I say.
 
 Neither of them looks at me.
 
-I stand. "I'm right here."
+I stand. “I’m right here.”
 
-Bertran's eyes return to my face. After a moment he nods.
+Bertran’s eyes return to my face. After a moment he nods.
 
-"Come to the gatehouse after the midday bell. Bring your keeper or your employer. If they're willing to attest to what you've told me, we can amend the person responsible for your stay."
+“Come to the gatehouse after the midday bell. Bring your keeper or your employer. If they’re willing to attest to what you’ve told me, we can amend the person responsible for your stay.”
 
-"To me?"
+“To me?”
 
-"We'll discuss that with the book open. It doesn't give you an origin. It doesn't give you leave to stay forever."
+“We’ll discuss that with the book open. It doesn’t give you an origin. It doesn’t give you leave to stay forever.”
 
-"I didn't ask for forever."
+“I didn’t ask for forever.”
 
 “After midday, then.”
 
 He goes back to the cart. I sit down again before Ordway can make me.
 
-"Can you come?" I ask.
+“Can you come?” I ask.
 
 She looks at her stall. The thread is where we left it. The salt is covered. Somebody has put the lid over the peas while we were across the lane, and I have no idea who.
 
-"After I close," she says.
+“After I close,” she says.
 
 I nod because anything else is going to come out embarrassingly.
 
@@ -404,97 +404,97 @@ Tolliver finds me counting needles with both sleeves rolled up.
 
 He comes down the middle quickly enough that I see three people move before I see him. His attention goes from the burned awning to the stool, then lands on me so hard that I feel it.
 
-"Maya."
+“Maya.”
 
-"I'm fine."
+“I’m fine.”
 
 He reaches the table, catches himself, and puts both hands flat on its edge instead of on me.
 
-"You're burned."
+“You’re burned.”
 
-"Mostly inconvenienced. The mender looked."
+“Mostly inconvenienced. The mender looked.”
 
 She did. She dabbed something cool on my knuckles, told me I had used more luck than skin, and moved on to Hester, whose apron had saved her from much worse. Ordway told the warden to put the small treatment against the fire account. I do not yet know whose money that is. I intend to find out.
 
-Tolliver's gaze lifts to my plate.
+Tolliver’s gaze lifts to my plate.
 
 His eyes widen. I sit straighter on the stool.
 
-"Two," he says.
+“Two,” he says.
 
-“Two.” I can't keep from smiling.
+“Two.” I can’t keep from smiling.
 
 He lets out a breath, almost a laugh, and for a moment the table might be the only sensible thing between us. I want to show him every part of it. Where the rope caught. How I held the table. The exact second I found the reserve without opening the ring.
 
 I stop with my hand above the needles. Let him ask.
 
-"I kept one," I say.
+“I kept one,” I say.
 
-He nods. "Good."
+He nods. “Good.”
 
 I look down at the needles before that can become worth more than it should.
 
-"I'm going to the gatehouse after the bell. Ordway's coming. To correct the entry."
+“I’m going to the gatehouse after the bell. Ordway’s coming. To correct the entry.”
 
 His hands stay where they are.
 
-"What did you tell them?"
+“What did you tell them?”
 
-"That I didn't agree to belong to anybody."
+“That I didn’t agree to belong to anybody.”
 
-"I told you—"
+“I told you—“
 
-"I know what you told me. I want the book to tell it too."
+“I know what you told me. I want the book to tell it too.”
 
-Ordway is beside us now. She doesn't say anything. Tolliver looks at her, then at the stall, and there is a moment I cannot read because it belongs to a season before I arrived.
+Ordway is beside us now. She doesn’t say anything. Tolliver looks at her, then at the stall, and there is a moment I cannot read because it belongs to a season before I arrived.
 
 He takes his hands off the table.
 
-"I'll go with you if they need me."
+“I’ll go with you if they need me.”
 
-It is a better answer than I expected. I am trying to decide what to do with it when someone behind him says, "Before that, perhaps a word."
+It is a better answer than I expected. I am trying to decide what to do with it when someone behind him says, “Before that, perhaps a word.”
 
 The man is dressed in a brown coat with covered buttons. He is perhaps forty, with a narrow beard and ink along the side of one finger, and his boots have none of the market on them. Above his head hangs **[FACTOR, LV. 18]**.
 
 He waits for me to look at him before he comes any closer.
 
-"Master Vey," Tolliver says. "I told you I'd bring her the terms."
+“Master Vey,” Tolliver says. “I told you I’d bring her the terms.”
 
-"And here I am with them."
+“And here I am with them.”
 
 The factor holds a folded sheet between two fingers. There is a small black bird impressed in a seal at the bottom. I notice the bird because looking at it is easier than looking at him.
 
-"I haven't agreed to go anywhere," I say.
+“I haven’t agreed to go anywhere,” I say.
 
-"Understood."
+“Understood.”
 
 He lays the paper on the table, clear of the salt. Tolliver watches his hand.
 
-"Take it," Vey says. "Read it. Have someone else read it. You'll find the length of service on the first page, compensation on the second, and the conditions for leaving on the third."
+“Take it,” Vey says. “Read it. Have someone else read it. You’ll find the length of service on the first page, compensation on the second, and the conditions for leaving on the third.”
 
-"It's folded," I say. "I haven't found any pages yet."
+“It’s folded,” I say. “I haven’t found any pages yet.”
 
-He smiles without showing his teeth. "A fair correction."
+He smiles without showing his teeth. “A fair correction.”
 
 I do not touch it.
 
-"What's so useful about level one?"
+“What’s so useful about level one?”
 
-His eyes flick upward. "Level two, now. Congratulations."
+His eyes flick upward. “Level two, now. Congratulations.”
 
-"That isn't the question."
+“That isn’t the question.”
 
 The smile goes, leaving something more attentive.
 
-"There are several kinds of useful," he says. "I would like to establish which applies to you before we waste each other's afternoon."
+“There are several kinds of useful,” he says. “I would like to establish which applies to you before we waste each other’s afternoon.”
 
-"We're working," Ordway says.
+“We’re working,” Ordway says.
 
-"Then I'll be brief."
+“Then I’ll be brief.”
 
 He reaches inside his coat.
 
-Tolliver moves half a step, just enough to put his shoulder between the man's hand and me. Vey stops, glances at him, and withdraws his hand slowly.
+Tolliver moves half a step, just enough to put his shoulder between the man’s hand and me. Vey stops, glances at him, and withdraws his hand slowly.
 
 What he brings out is a small leather wallet. Soft, hand-stitched, ordinary. He opens it and takes out something the size of a bank card.
 
@@ -508,18 +508,18 @@ MISSOURI.
 
 I forget to breathe.
 
-Beside me, Tolliver says something. I don't hear it. There are numbers on the card and a red mark near the corner and a signature beneath the photograph, and I am reaching before I know my hand has moved.
+Beside me, Tolliver says something. I don’t hear it. There are numbers on the card and a red mark near the corner and a signature beneath the photograph, and I am reaching before I know my hand has moved.
 
 Vey leaves it on the table. He lets me pick it up.
 
 Plastic. It bends slightly between my fingers. The familiar weight of it is almost nothing.
 
-"Do you know what that is?" he asks.
+“Do you know what that is?” he asks.
 
-I look at the woman's face. She has stood in a building on my planet, irritated by a camera and a queue and somebody asking her to take her glasses off. There had been a road outside. Cars in a parking lot. Somebody had printed this and put it in her hand.
+I look at the woman’s face. She has stood in a building on my planet, irritated by a camera and a queue and somebody asking her to take her glasses off. There had been a road outside. Cars in a parking lot. Somebody had printed this and put it in her hand.
 
 I cannot make my voice work the first time.
 
 The second time, it does.
 
-"Where is she?"
+“Where is she?”
