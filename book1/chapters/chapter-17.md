@@ -206,7 +206,7 @@ She comes to the table and studies the drawing. “There’s no place to stand.�
 
 I wait for her to look at me. She keeps talking to Dain.
 
-They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My pay, lodging, and return passage stay unchanged. I sign beneath the new dates.
+They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My eight bits a day, lodging, and return passage stay unchanged. Sella gets twelve bits a day for guard work; Tolliver gets ten for survey and field support. We are all hired through the same last day. I sign beneath the new dates.
 
 Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
@@ -266,4 +266,6 @@ I want him to say he won’t. Behind him, a crew member tests the tackle chain w
 
 He gives me a tired look. “I do know her kind of work, Maya.”
 
-That is what frightens me. I leave him beside the well and take my money upstairs.
+The folded paper disappears back inside his coat. Rusk asked him because he knows exactly how to do her kind of work.
+
+I leave him beside the well and take my money upstairs.
