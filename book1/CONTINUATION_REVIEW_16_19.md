@@ -1,5 +1,7 @@
 # Repository review and continuation — Chapters Sixteen–Nineteen
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 ## Review outcome
 
 The active project has a clear authority chain: canonical chapters, compiled reading copy, cumulative overview and ledger, then provisional editorial/series plans. The imported snapshots and writing system remain separate. Review focused on that structure, the current story record, recent manuscript scenes, author preferences and the planned continuation; this is not a new line edit of all fifteen earlier chapters.
