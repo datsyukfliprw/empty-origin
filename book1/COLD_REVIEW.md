@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Historical manuscript snapshot.** This report applies to the manuscript state it reviewed and is preserved for provenance only. Do not use it as a current repair list without re-verifying the issue against the synchronized 32-chapter *Empty Origin* manuscript (**96,894 words**, September 20, 2026). Current next steps are in [PUBLICATION_ROADMAP.md](PUBLICATION_ROADMAP.md).
+
 # Cold reader review — Chapters One–Nineteen
 
 Read September 19, 2026. Scope: the complete current manuscript, approximately 63,791 words. The individual chapter text matches WORKING_DRAFT.md apart from whitespace. I read the project README to identify the active manuscript, but did not consult previous reviews, the story overview, the ledger, or future plot plans. This is an assessment of the unfinished book as it currently reads, not of whether it fulfills a plan. No manuscript changes made.
