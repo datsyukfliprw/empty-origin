@@ -1018,7 +1018,7 @@ He notices. His eyes drop off my plate and onto my face, and if I got anything o
 
 “How old are you?”
 
-“She’s...” Tolliver starts.
+“She’s…” Tolliver starts.
 
 “I asked her.”
 
@@ -12664,7 +12664,7 @@ The damper slows.
 
 Clang.
 
-...
+…
 
 Clang.
 
@@ -13122,7 +13122,7 @@ The smile goes.
 
 “Yes.”
 
-“He also makes you...” She gestures vaguely at my entire body.
+“He also makes you…” She gestures vaguely at my entire body.
 
 “Please do not diagnose me in a dungeon.”
 
