@@ -1,15 +1,17 @@
-# The Unheld Warder
+# Empty Origin
 
 **Book One of Maya's ongoing story**
 
-Selected September 19, 2026, after reviewing the canonical Chapters One–Nineteen.
+Selected as the working publication title on September 20, 2026, after the completed thirty-two-chapter manuscript and current market/title review were considered.
 
-“Unheld” names Maya's original vulnerability: no recognized origin, no holding, and nobody the local institutions will accept as answerable for her. Over the book it becomes a choice about independence. “Warder” names the power she earns and the obligations she chooses. Together, the words connect the progression, rescue, and relationships: she learns to hold a place for others without becoming somebody's property.
+“Empty Origin” begins as a literal System fact: Maya's ORIGIN field is blank. In the world around her, that blank space is socially dangerous because people expect an origin to identify who can answer for her, claim her, employ her, or protect her.
 
-The title fits the existing manuscript and its intended permanent life in this world. It does not depend on an unwritten rare class, a return to Earth, or a particular romantic endgame. “Unheld Warder” is a book title, not a new System designation.
+Across Book One, the phrase changes meaning. Maya begins without a recognized origin, household, or institutional place. By the ending, the field is still blank, but she has paid housing, owned equipment, earned money, chosen relationships, a class she earned, and a job she accepted on her own terms. The title therefore carries both the LitRPG/System hook and the book's emotional argument without renaming the Warder class.
 
-Optional descriptive subtitle for a listing: **A LitRPG Adventure**. This is separate from the title. No series name is assigned here.
+The System run remains **Warder**. “Empty Origin” is the Book One title, not a System designation.
 
-One-sentence pitch: Stranded in a world that can read her level before learning her name, nineteen-year-old Maya becomes a novice Warder and helps plan a rescue through a broken gate while fighting to keep her future her own.
+Optional descriptive subtitle for listings where useful: **A LitRPG Fantasy Adventure**. This is separate from the title. No final series name is assigned here.
 
-This is an editorial naming decision; title uniqueness and marketplace availability have not been checked.
+One-sentence pitch: Stranded in a world that can read her level before learning her name, nineteen-year-old Maya becomes a Warder, helps rescue a man trapped inside broken transit ruins, and learns that a blank origin does not mean she belongs nowhere.
+
+Marketplace metadata, subtitle use, series naming, and final retailer packaging remain separate publication decisions.
