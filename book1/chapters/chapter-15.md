@@ -388,7 +388,7 @@ Then he holds up a packet.
 
 White, creased, with a blue edge. He has flattened it carefully so we can see the writing. I read *DRINKING WATER* and part of a volume printed beneath. The rest is too small or hidden by his hand.
 
-I tell them exactly that. No brand I can name. No date I can read.
+I tell them exactly that. I can't name the brand or make out a date.
 
 Plastic shines where his thumb presses it.
 
