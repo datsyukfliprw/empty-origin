@@ -4,29 +4,11 @@ The second frame is less of a frame.
 
 That is progress.
 
-Harra removes the rigid near clamp and replaces it with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free unless somebody deliberately releases it.
+Harra replaces the rigid near clamp with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free without a deliberate release. Oret replaces the cut crossbrace while Dain watches the stone for any answer from below.
 
-Oret replaces the cut crossbrace.
-
-Dain checks the stone after every hammer strike because the old mechanism below has reminded us that it is still part of the conversation.
-
-The first dry cycle is ugly.
-
-The near sleeve slides too fast. Harra adds friction leather.
-
-Second cycle, better.
-
-Third, the far shoe releases cleanly.
-
-On the fourth, they skew the load on purpose. The rail settles instead of twisting. The vibration pointer reaches three scratches, then falls.
+The first dry cycle is ugly. The near sleeve slides too fast, so Harra adds friction leather. By the fourth, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They run it twice more.
 
 No knock comes from below.
-
-"Again," Harra says.
-
-Mara says it too.
-
-So they do.
 
 By the sixth cycle, the frame moves the way it was supposed to move yesterday.
 
@@ -76,45 +58,17 @@ That makes me angry enough to become calm.
 
 "The boundary nearly reached Iven," I say. "We aborted before it did."
 
-Rusk looks at me.
-
-"And now you want another attempt."
+Rusk looks at me. "And now you want another attempt."
 
 "Yes."
 
 "Why?"
 
-I point at the near sleeve.
+I point to the new sleeve, then the far shoe. "Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles."
 
-"Because that did not exist an hour ago."
+"You are injured, level five, and you attempted a human crossing after one day of prototype work."
 
-Then the far shoe.
-
-"Because the release bound under rigid load and now the near end can travel."
-
-Then the pointer.
-
-"Because the changed design has six clean dry cycles."
-
-Rusk's eyes narrow.
-
-"You are level five."
-
-"News travels."
-
-"You are injured."
-
-"Also public knowledge."
-
-"You attempted a human crossing after one day of prototype work."
-
-"Multiple dry cycles."
-
-"Still."
-
-Pell cuts in. "State your demand."
-
-Rusk does.
+"State your demand," Pell says.
 
 "Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly."
 
@@ -122,9 +76,7 @@ There it is.
 
 Jointly.
 
-Safety and custody wearing the same coat.
-
-Maybe she means the safety part. That does not make the custody part disappear.
+Safety and custody wearing the same coat. Maybe she means the safety part. That does not make the custody part disappear.
 
 I look through the opening.
 
@@ -304,31 +256,11 @@ She gives me the belt.
 
 The second attempt begins almost quietly.
 
-Pressure rising.
+Pressure rising. Vibration still. Landing dry.
 
-Vibration still.
+The frame seats with one finger at the far shoe and half at the near sleeve. Iven wears the belt, one cloth water flask, and his papers tied flat against his chest. No cabinet. No bed-frame strip. No salvaged answers.
 
-Landing dry.
-
-The frame seats.
-
-The far shoe takes one finger. The near sleeve half.
-
-Iven puts on the belt with no metal except what cannot be avoided in his clothes. His papers are tied flat against his chest. He has one cloth water flask.
-
-He brings no cabinet, no bed-frame strip, no salvaged answers, only himself and the papers against his chest. That has to be enough.
-
-Sella checks the belt.
-
-Tolliver checks the haul.
-
-Harra checks both releases.
-
-Dain watches pressure.
-
-Oret watches the pointer.
-
-I stand with one hand resting lightly on the near rail, feeling only ordinary movement.
+Sella checks the belt, Tolliver the haul, Harra both releases. I rest one hand lightly on the near rail and feel only ordinary movement.
 
 "Call," Harra says.
 
