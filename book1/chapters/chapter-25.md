@@ -32,9 +32,7 @@ Sella closes her eyes for a second.
 
 Behind us, one of the dropped plates begins to rise.
 
-A pale head appears in the gap. Then another. Nameplates flicker too quickly to count cleanly, all level six. The stone stalls halfway up under the weight of whatever is gathering beneath it.
-
-Not a route.
+A pale head appears in the gap. Then another. Nameplates flicker too quickly to count cleanly, all level six. The stone stalls halfway up under the weight of whatever is gathering beneath it. That way is gone.
 
 "Forge," I say.
 
@@ -122,9 +120,7 @@ The forge is enormous in the way industrial spaces are enormous: not grand, just
 
 Three cold furnaces line one wall. A central trench runs black with water. Chains hang from ceiling tracks, and the wooden parts of the old worktables have rotted away, leaving iron frames standing by themselves.
 
-At the far end, a narrow stair climbs toward a square of gray daylight.
-
-Exit.
+At the far end, a narrow stair climbs toward a square of gray daylight, the exit we need.
 
 Between us and it, half the floor is gone.
 
@@ -140,11 +136,7 @@ Harra tests the nearest rail with the pry bar. Rust flakes into the dark.
 
 "Good. Our terminology is improving."
 
-Something scrapes below us.
-
-Slow.
-
-Heavy.
+Something scrapes below us, slow enough that each drag feels heavy.
 
 Nobody looks down immediately. This is the best decision we make all morning.
 
@@ -212,9 +204,7 @@ Harra calls it a vibration decoy, which proves engineers should not be allowed t
 
 The heaviest loose furnace door becomes our weight. Tolliver hauls it up. Sella wedges a broken stool leg beneath the release. When kicked free, the door will drop in three short jerks as damaged links pass the hook, then leave the damper swinging against the chimney frame.
 
-Three large impacts, followed by smaller ones.
-
-Enough, we hope, to tell the borer the wrong story.
+Three large impacts followed by smaller ones should, we hope, tell the borer the wrong story.
 
 Harra will ride the trolley frame with the salvage and two iron table rails for a temporary deck. Once she reaches the far landing, she can secure the return line and bring the frame back for us.
 
@@ -570,7 +560,7 @@ My chest tightens. "To what?"
 
 "That."
 
-There it is. Not an ultimatum. Not permission either. Just a thing between us that has become too large to pretend is furniture.
+There it is: a thing between us that has become too large to pretend is furniture. She is not giving me an ultimatum or permission. She is making sure I stop pretending I missed it.
 
 I reach for her hand.
 
@@ -610,7 +600,7 @@ The rescue chamber shivered before the frame caught.
 
 The East Relief Works woke under load.
 
-Same regional system. Not proof, but enough to carry home.
+Same regional system. It proves nothing yet, but I want Harra to see it.
 
 "We take it," Harra says.
 
@@ -676,11 +666,7 @@ Then another line appears.
 
 **[TECHNIQUE RECOGNITION: RELEASE UNDER LOAD]**
 
-Not an ability.
-
-Recognition.
-
-The System has named something I did.
+It is not an ability, just the System putting a name to something I did.
 
 Across the shelter, Tolliver rebuilds the fire. Sella cuts cheese with the same knife she offered as emotional support against a level-nine monster. Harra has set the return shoe beside her like a baby.
 
