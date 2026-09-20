@@ -1,6 +1,6 @@
 CHAPTER SEVENTEEN
 
-The captain arrives holding a horse's face.
+The captain arrives holding a horse’s face.
 
 One hand on its cheek, the other curled into the head strap. Behind it, a cart leans in a rut with two long timber legs lashed above the load. Each time the horse backs, a timber swings toward the gatepost.
 
@@ -10,9 +10,9 @@ The driver pulls. A man at the rear starts pushing.
 
 “Bren, leave it.”
 
-He stops. She waits until the horse's feet settle, then walks it sideways while two crew members put a plank under the wheel. The cart comes level with a long wooden groan.
+He stops. She waits until the horse’s feet settle, then walks it sideways while two crew members put a plank under the wheel. The cart comes level with a long wooden groan.
 
-**[SALVAGER, LV. 23]** hangs above her head. She has close-cropped hair going gray over one ear and a scar pulling down one corner of her mouth. She wipes horse spit on her trousers before shaking Pell's hand.
+**[SALVAGER, LV. 23]** hangs above her head. She has close-cropped hair going gray over one ear and a scar pulling down one corner of her mouth. She wipes horse spit on her trousers before shaking Pell’s hand.
 
 Six crew members. A chain tackle with a casing the size of a bucket. At its end hangs a hook I could fit both hands through.
 
@@ -34,15 +34,15 @@ We finish before midday. Thirty-six written pages, the associated labels, a shee
 
 “Before the winter.”
 
-I keep a finger under the pears while Mara sands the copy. Then she closes the notebook and lays Elena's card beside it.
+I keep a finger under the pears while Mara sands the copy. Then she closes the notebook and lays Elena’s card beside it.
 
-Pell still hasn't ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide a woman owns her own face. Instead I watch her write another reminder and file it with the claim.
+Pell still hasn’t ruled on the card. One of the old inventory witnesses is upriver, Mara says. I want to ask how long it takes to decide a woman owns her own face. Instead I watch her write another reminder and file it with the claim.
 
 Outside the records room, two young men are waiting.
 
-“I'm Teren,” the taller one says. “This is Lio.”
+“I’m Teren,” the taller one says. “This is Lio.”
 
-“Iven's—”
+“Iven’s—”
 
 “We know who our father is,” Lio says.
 
@@ -60,11 +60,11 @@ I spend most of the contact outside.
 
 Dain has checked the washer again. Harra has examined the wet cord. There is no visible damage, but the water stained it gray. The little dish sits beside the frame while Teren takes his turn at the glass.
 
-Lio waits with me on the wall. His brother's coat lies across his knees.
+Lio waits with me on the wall. His brother’s coat lies across his knees.
 
 “Does he look old?”
 
-“I didn't know him before.”
+“I didn’t know him before.”
 
 His boot scrapes the ground.
 
@@ -76,7 +76,7 @@ His boot scrapes the ground.
 
 I look at the coat. Teren has worn a hole through one elbow and stitched a patch over it from the inside.
 
-“Yes,” I say. “Older than the drawing Mara showed me. His hair's gray. He's been cutting his beard himself.”
+“Yes,” I say. “Older than the drawing Mara showed me. His hair’s gray. He’s been cutting his beard himself.”
 
 Lio picks at the patch. He nods without looking up.
 
@@ -96,7 +96,7 @@ I see Iven in it, boots clearing the broken stair, Mara reaching before the slin
 
 Rusk lays her terms on an upturned crate.
 
-She will supply the rig and crew for the retrieval. Rook supplies materials and access. In return her company gets a season's exclusive use of the opening, first claim on unattended recoveries, and custody of anything brought through until examined.
+She will supply the rig and crew for the retrieval. Rook supplies materials and access. In return her company gets a season’s exclusive use of the opening, first claim on unattended recoveries, and custody of anything brought through until examined.
 
 “Anything?” I ask.
 
@@ -110,15 +110,15 @@ Mara takes the paper.
 
 “A mender can examine him here.”
 
-Rusk looks at Dain. “You said the water comes from somewhere you can't identify. You don't know what he's been drinking. You don't know what lives in the rooms with him.”
+Rusk looks at Dain. “You said the water comes from somewhere you can’t identify. You don’t know what he’s been drinking. You don’t know what lives in the rooms with him.”
 
 I can see Dain considering it. I remember the packets that made Iven sick.
 
-“And if the mender says he's well?” I ask.
+“And if the mender says he’s well?” I ask.
 
-“We'd still need his account of the place.”
+“We’d still need his account of the place.”
 
-“What if he won't give it to you?”
+“What if he won’t give it to you?”
 
 “The term is thirty days.”
 
@@ -126,15 +126,15 @@ Mara folds the page so hard it creases through the middle of the clause.
 
 “No.”
 
-Rusk holds out her hand for the paper. Mara doesn't give it back. Pell takes it from her instead.
+Rusk holds out her hand for the paper. Mara doesn’t give it back. Pell takes it from her instead.
 
-“Removal of specified iron,” Pell says. “That's what we contracted. Not ownership of the route.”
+“Removal of specified iron,” Pell says. “That’s what we contracted. Not ownership of the route.”
 
 “You stopped removal.”
 
 “We found a living man.”
 
-“You found a valuable road.” Rusk points toward the gallery. “Don't ask me to pretend you haven't.”
+“You found a valuable road.” Rusk points toward the gallery. “Don’t ask me to pretend you haven’t.”
 
 A worker tries to catch her eye from beside the rig. She raises a finger to make him wait.
 
@@ -152,13 +152,13 @@ Vey looks at her back. Then at the custody clause.
 
 “This is not a chest.”
 
-“No.” He puts the paper down. “I won't witness it.”
+“No.” He puts the paper down. “I won’t witness it.”
 
 Rusk gathers her copy. “Three days on the redirected work. Those are paid. After that I need wages or another job.”
 
 “Price the rescue in money,” Pell says.
 
-“I haven't seen a place to put the feet yet.”
+“I haven’t seen a place to put the feet yet.”
 
 She goes to her waiting worker. Within minutes the tackle is in a fenced corner of the yard, her apprentice chaining the entrance.
 
@@ -168,7 +168,7 @@ Pell has six uncommitted pieces in the works chest.
 
 Dain asks her to repeat the number.
 
-“Six after the three days Dain asked for,” she says. “Those wages are set aside. So is the seed purchase. If I spend either, someone else doesn't get paid.”
+“Six after the three days Dain asked for,” she says. “Those wages are set aside. So is the seed purchase. If I spend either, someone else doesn’t get paid.”
 
 “Advance on rents?”
 
@@ -176,13 +176,13 @@ She points through the window at the flooded fields.
 
 “House reserve,” Mara says.
 
-“I've sent twice. The owners want the original drainage work completed before they'll release another allocation.”
+“I’ve sent twice. The owners want the original drainage work completed before they’ll release another allocation.”
 
-Dain pushes his drawing across the table, hard enough to knock Vey's sleeve.
+Dain pushes his drawing across the table, hard enough to knock Vey’s sleeve.
 
 “The original work could drown us.”
 
-“Put that in the letter,” Pell says. “I've run out of ways to say it.”
+“Put that in the letter,” Pell says. “I’ve run out of ways to say it.”
 
 For a moment nobody moves. Then Vey puts three pieces beside the drawing.
 
@@ -190,7 +190,7 @@ For a moment nobody moves. Then Vey puts three pieces beside the drawing.
 
 Pell takes the coins before he can change his mind.
 
-The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace, missing the old junction entirely. Tolliver's levels say it should fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the rest.
+The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace, missing the old junction entirely. Tolliver’s levels say it should fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the rest.
 
 He needs guards. A fitter. Someone at the movable screen while Harra opens the notch.
 
@@ -200,9 +200,9 @@ Sella looks at me from the doorway.
 
 “With you there,” I add.
 
-She comes to the table and studies the drawing. “There's no place to stand.”
+She comes to the table and studies the drawing. “There’s no place to stand.”
 
-“We'll lay boards,” Dain says.
+“We’ll lay boards,” Dain says.
 
 “Then show me the boards before you put her on them.”
 
@@ -210,15 +210,15 @@ I wait for her to look at me. She keeps talking to Dain.
 
 They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without another full reading.
 
-Sella's pen stops over the last date. It is the day she was meant to leave east.
+Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
 She signs anyway.
 
 ---
 
-Tolliver is beside Rusk's cart when I come out with my last reading wage. Six pieces earned, plus the Greyward coins. Enough to buy something useful if I stop counting everything as nights in a bed.
+Tolliver is beside Rusk’s cart when I come out with my last reading wage. Six pieces earned, plus the Greyward coins. Enough to buy something useful if I stop counting everything as nights in a bed.
 
-Rusk gives him a folded paper. He reads it, asks a question I can't hear, and puts it inside his coat.
+Rusk gives him a folded paper. He reads it, asks a question I can’t hear, and puts it inside his coat.
 
 I wait by the well until he sees me.
 
@@ -228,17 +228,17 @@ I wait by the well until he sees me.
 
 “For her?”
 
-“Once I'm finished here.”
+“Once I’m finished here.”
 
 I look at the fenced rig. “You heard what she asked for.”
 
 “I did.”
 
-“And you're taking it?”
+“And you’re taking it?”
 
 “Tracking. The west road. Looking for a missing team and their wagon.”
 
-“You'd believe her about what you're looking for?”
+“You’d believe her about what you’re looking for?”
 
 His face changes.
 
@@ -252,17 +252,17 @@ I step closer. “Because I read the paper.”
 
 “So did I.”
 
-He takes it out and offers it. I don't reach for it.
+He takes it out and offers it. I don’t reach for it.
 
 We stand with the folded sheet between us until he puts it away.
 
-“I'm here for these three days,” he says. “I'll do the work I agreed to.”
+“I’m here for these three days,” he says. “I’ll do the work I agreed to.”
 
 “And after that?”
 
-“I haven't signed hers.”
+“I haven’t signed hers.”
 
-I want him to say he won't. Behind him, a crew member tests the tackle chain while Rusk shows the apprentice a flaw near the hook.
+I want him to say he won’t. Behind him, a crew member tests the tackle chain while Rusk shows the apprentice a flaw near the hook.
 
 “Be careful,” I say.
 
