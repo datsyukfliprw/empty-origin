@@ -8149,11 +8149,7 @@ The near half drops onto our chamber floor.
 
 Iven's half lands on his side.
 
-No pull.
-
-No twist.
-
-A clean diagonal through wax.
+It parts on a clean diagonal without pulling or twisting.
 
 Harra had drilled a tiny hole near the center and filled it with black pigment.
 
@@ -8459,9 +8455,7 @@ The station tests continue without me climbing to the gallery.
 
 Iven measures his tank.
 
-Dain converts nothing.
-
-That is important.
+Dain refuses to turn the measurement into a prediction.
 
 We know the dimensions in Iven's old local rule. We know the current water depth and the stain above it. We do not know consumption before he began measuring, leakage, refill, or whether the tank feeds anything else.
 
@@ -8667,13 +8661,7 @@ The block becomes Rook's.
 
 The captain leaves before sunrise.
 
-No custody.
-
-No season.
-
-No exclusive rights.
-
-Just a used piece of equipment with somebody else's grease still in the links.
+What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else's grease still in the links, not Rusk's labor or an exclusive claim on what she can do next.
 
 I think I understand why Pell looks happier about that than she did when the fields started draining.
 
