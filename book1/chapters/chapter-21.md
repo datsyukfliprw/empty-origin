@@ -96,9 +96,7 @@ The station tests continue without me climbing to the gallery.
 
 Iven measures his tank.
 
-Dain converts nothing.
-
-That matters. We know the tank dimensions, current depth, and old stain. We do not know earlier consumption, leakage, refill, or whether the tank feeds anything else.
+Dain refuses to turn the measurement into a prediction. We know the tank dimensions, current depth, and old stain. We do not know earlier consumption, leakage, refill, or whether the tank feeds anything else.
 
 So nobody tells Mara her brother has thirteen days of water.
 
@@ -292,7 +290,7 @@ Harra snatches the coins before she can change her mind.
 
 The block becomes Rook's. The captain leaves before sunrise.
 
-No custody. No season. No exclusive rights. Just a used piece of equipment with somebody else's grease still in the links.
+What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else's grease still in the links, not Rusk's labor or an exclusive claim on what she can do next.
 
 I think I understand why Pell looks happier about that than she did when the fields started draining.
 
