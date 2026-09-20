@@ -92,9 +92,9 @@ He looks down at my hand, still halfway between us.
 
 “I don’t know if I can do it like that.”
 
-I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he didn’t want what I was offering.
+I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he might not want what I was offering.
 
-He does not tell me to choose or turn my wanting into his permission to give. He keeps his own boundary, which is harder to argue with than anger.
+He does not tell me to choose. He tells me what he may not stay for. I stand there with my hand hanging between us and no argument that fits.
 
 “Tell me when you know.”
 
