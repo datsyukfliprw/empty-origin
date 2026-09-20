@@ -848,11 +848,9 @@ Then me.
 
 Tolliver insists on being last.
 
-Not because I am Maya.
+Someone has to operate the brake.
 
-Because someone has to operate the brake.
-
-That distinction matters.
+For once, the reason is structural.
 
 I step into the iron frame.
 
@@ -1111,10 +1109,6 @@ My chest tightens.
 “To what?”
 
 “That.”
-
-Not jealousy.
-
-Not accusation.
 
 A boundary not yet drawn.
 
