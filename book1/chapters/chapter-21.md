@@ -20,9 +20,7 @@ The drainage throat still hangs from Rusk's chain. New stone supports stand unde
 
 ---
 
-At midday, after two days off rough ground, the mender comes to reassess the ankle.
-
-The mender comes after breakfast and makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
+Late that morning the mender comes to reassess the ankle. She makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
 
 "Again."
 
@@ -30,7 +28,7 @@ The mender comes after breakfast and makes me walk the length of the west passag
 
 "Again."
 
-I turn. The ankle is stiff and weak rather than sharp, which is apparently the distinction the whole morning depends on. Flat and centered, it holds. Rolled outward, it answers.
+I turn. The ankle is stiff and weak instead of sharp, a distinction the mender cares about much more than I do. Flat and centered, it holds. Rolled outward, it answers.
 
 "No field," she says. "No shield practice. No gallery stairs. Three steps with a rail if someone is beside you. No more."
 
@@ -124,7 +122,7 @@ Harra straightens off the wall. "Sell?"
 
 "Then enjoy being unrobbed."
 
-They argue about it for six minutes, and it is beautiful. For once the thing being priced is actually a thing: chain, hook, rust, a missing keeper. They settle at two pieces and four bits.
+They argue about it for six minutes, and it is beautiful. For once the price is attached to iron: chain, hook, rust, a missing keeper. They settle at two pieces and four bits.
 
 Twenty bits. Pell has almost nothing loose. I do.
 
@@ -158,7 +156,7 @@ Pell looks happier about that than she did when the fields started draining.
 
 ---
 
-Tolliver finds me in the pantry passage after supper, carrying the fare sheet and three copies of the station plan, because flat indoor walking has apparently converted me into a clerk with ambitions.
+Tolliver finds me in the pantry passage after supper, carrying the fare sheet and three copies of the station plan, because flat indoor walking has converted me into a clerk with ambitions.
 
 He takes two of the sheets out of my hands.
 
@@ -320,7 +318,7 @@ She nods. "And if he is out?"
 
 I swallow. "Yes."
 
-Her eyes close briefly, and it is not relief exactly, more like something that had been holding still for a long time deciding it is allowed to stop. When she opens them I tell her I still don't know what any of it means about Tolliver, and she says she knows, and that she still wants east even if I don't come, and I say okay, and she says okay, and the word turns out to be small enough to carry.
+Her eyes close briefly. Her shoulders loosen on the breath she lets out. When she opens them I tell her I still don't know what any of it means about Tolliver, and she says she knows, and that she still wants east even if I don't come. I say okay. She says okay. We leave it there.
 
 ---
 
