@@ -4892,7 +4892,7 @@ Later he kisses me in the kitchen doorway while somebody behind us complains abo
 
 I remember Sella again halfway up the stairs.
 
-That should make one of them smaller. It doesn’t. The wanting sits differently in me, which is not the same thing as less.
+I keep expecting kissing Tolliver to make Sella easier to ignore. It hasn’t. I can still see her across the room with her arms folded, making the carrier start his price over, and I still want to know what she’d say if I asked her to dance.
 
 Upstairs, I lay Dain’s corrected drawing beside Elena’s. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
@@ -4948,7 +4948,7 @@ She puts me on a dry patch beside her, outside the gallery while the fitters fin
 
 Four days until the crew, yesterday. Three now.
 
-Some part of me had expected the light to stop that count.
+I had expected a light behind the sealed shutter to buy more than that.
 
 Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena’s measurements while Harra comes down to collect a smaller wrench.
 
@@ -5074,7 +5074,7 @@ I pick a bit of barley out of the stew with the spoon, then put it back.
 
 “Yes.”
 
-She doesn’t tell me it will be. I am grateful and angry at once, tired of carrying both.
+She doesn’t tell me it will be. I scrape my spoon against the bowl harder than I need to, then make myself stop before I chip it. I’m glad she didn’t lie to me. I hate that she didn’t.
 
 “Was Elena right?”
 
@@ -5196,7 +5196,7 @@ I can’t see the whole person. A sleeve, dark at the cuff. The side of a head, 
 
 “I don’t know.”
 
-I want to shout. There is a person beyond the wall, and my whole body has already begun the breath.
+I want to shout. There is a person beyond the wall, and I have already dragged in a breath hard enough to hurt.
 
 Dain touches my sleeve.
 
@@ -5278,7 +5278,7 @@ He has Mara bring a slate.
 
 We wait through the afternoon.
 
-Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth’s slight inward draw doesn’t change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
+Dain limits each look to a short interval. Between them Harra checks the sleeve and clamp; the chalk lines stay aligned, and the cloth keeps its slight inward pull. Nobody turns the wheel.
 
 I write *HELLO* large on the slate, with Mara’s local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
 
@@ -5394,7 +5394,7 @@ I take the broken chalk and give her the larger piece.
 
 We tell him very little before the light begins to narrow.
 
-Both sons are living. Mara can bring news. Dain is at the wheel, holding the present setting. No one has entered the chamber. The letters on his board say he has food and water, that he cannot reach the arch from where he stands without stepping beyond the rail onto a section of stair we cannot see.
+Both sons are living. Mara can bring news. Dain is in charge of the wheel, and the present setting is clamped. No one has entered the chamber. The letters on his board say he has food and water, that he cannot reach the arch from where he stands without stepping beyond the rail onto a section of stair we cannot see.
 
 *Missing below third.*
 
@@ -5402,7 +5402,7 @@ He underlines it. I picture the fourth step we counted in the mirror and ask Dai
 
 “Could be a break across it. Could be another flight. Ask him to show us tomorrow. No guessing with feet.”
 
-Tomorrow goes through Mara visibly.
+Mara’s fingers tighten on the slate at the word *tomorrow*.
 
 “We can’t leave him there.”
 
@@ -5612,7 +5612,7 @@ He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
 I want to call him back.
 
-I wasn’t prepared to want Sella and still hate the shape of his back going away. One feeling has not had the courtesy to cancel the other.
+If Sella asked me tomorrow, I would still say yes. My chest aches anyway as Tolliver disappears down the stairs.
 
 I open my door instead. My measure blurs the first time I try to read it.
 
@@ -5886,7 +5886,7 @@ On my table lies the sketch we made from Iven’s measurements. The broken stair
 
 I set my candle beside it and take out a clean page.
 
-Tomorrow he can show us what is beyond that door. He has been living there for an amount of time neither of us can name, deciding which packets are safe and listening to noises beyond boarded windows. I have been asking him whether there is a way home.
+Tomorrow he can show us what is beyond that door. He has been living there for an amount of time neither of us can name, deciding which packets are safe and listening to noises beyond boarded windows. I have spent days looking past him for a way home.
 
 At the top of the page I write a different question to show him first.
 
