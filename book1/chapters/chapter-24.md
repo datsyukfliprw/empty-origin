@@ -382,9 +382,9 @@ If we let them build rhythm beneath him, they may drop the plate completely.
 
 I have no shield.
 
-The pattern does not care about the object.
+Sella made me learn this part anyway.
 
-It cares about facing, support and one straight step.
+The pattern belongs to the step: facing, support and one straight line.
 
 I did not know that.
 
@@ -577,6 +577,8 @@ Sella touches the edge of the wrap.
 She hands me water.
 
 I drink.
+
+By the time Harra stands, the extra ache has eased back to where it was at the entrance.
 
 Tolliver is three paces away, facing the corridor.
 
