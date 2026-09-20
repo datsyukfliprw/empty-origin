@@ -16,7 +16,7 @@ My foot finds something buried and sharp, and my weight is already on it before 
 
 The pain arrives a full second late, bright and specific along the arch of my left foot. I go down onto one knee in the muck, grab my ankle with both hands, and haul my foot into my lap. It’s too dark to see much. What I can see is a clean line about two inches long, open, filling slowly.
 
-“No no no no.”
+“No, no, no, no.”
 
 Some part of me observes that I’m bleeding, that bleeding is a debuff, and that debuffs tick, and I laugh once at how useless six years of raid logic has turned out to be. The sound comes out ugly enough that I stop.
 
