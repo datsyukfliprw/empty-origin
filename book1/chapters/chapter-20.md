@@ -80,7 +80,7 @@ Being barred from the gallery turns out not to make me essential to it. Mara rea
 
 My job is the table. I hate it until the first numbers come down.
 
-Renn puts Dain's slip beside Oret's. Boundary narrow, outlet low. Iven reports the gray door still visible, the uncovered window bright, no change in the tank since dawn. Tolliver's note follows: collector high by two finger-widths after the night rain. I set the three of them side by side and something in my chest sharpens.
+Renn puts Dain's slip beside Oret's. Boundary narrow, outlet low. Iven reports the gray door still visible, the uncovered window bright, no change in the tank since dawn. Tolliver's note follows: collector high by two finger-widths after the night rain. I set the three slips side by side and lean closer.
 
 "Again," I tell Renn.
 
@@ -164,11 +164,7 @@ I write it without the word. A rising threshold and a falling threshold, differe
 
 The copper-strip test gives us measurements from both sides without ever spanning the boundary. Harra advances her notched strip from Rook; later Iven uses his bed-frame messenger and landing stones to give us a second reference.
 
-It is enough to settle the next question.
-
-The dimensions of his rooms match the old Fallow Reach service floor closely enough that Oret recognizes the plan across the kitchen table when he comes in after dusk with mud to the elbows.
-
-Dain has drawn the old Fallow Reach service floor from Oret's memory on one sheet and Iven's rooms on another. We lay them together. The stair turns the right way. The wall thickness is right. The dead side passage sits where Oret says there was once a pressure room. The gray door occupies a place where the station plan had a freight opening before he was born.
+When Oret comes in after dusk with mud to the elbows, Dain lays his remembered Fallow Reach service floor over the plan built from Iven's measurements. The stair turns the right way. The wall thickness matches. The dead side passage sits where Oret remembers a pressure room, and the gray door occupies a freight opening from the old plan.
 
 Somebody changed it. Somebody carried pieces of my world into an abandoned works station nine days from here and fitted them into a wall.
 
