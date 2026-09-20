@@ -1,0 +1,41 @@
+name: Manuscript ARC maintenance
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/manuscript-arc-maintenance.yml'
+      - 'tools/arc_repair_2026_09_19.py'
+permissions:
+  contents: write
+concurrency:
+  group: manuscript-arc-maintenance
+  cancel-in-progress: false
+jobs:
+  manuscript:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Apply reviewed repair recipe when present
+        run: |
+          if test -f tools/arc_repair_2026_09_19.py; then
+            python3 tools/arc_repair_2026_09_19.py
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add book1 README.md
+            if ! git diff --cached --quiet; then
+              git commit -m 'Apply focused clean-reader repairs and rebuild manuscript'
+              git push origin HEAD:main
+            fi
+          fi
+      - name: Package versioned manuscript snapshot
+        run: |
+          mkdir -p /tmp/warder-export
+          git archive --format=zip -o /tmp/warder-export/warder-repository.zip HEAD
+          git rev-parse HEAD > /tmp/warder-export/SOURCE_COMMIT.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: warder-manuscript-snapshot
+          path: /tmp/warder-export/
+          retention-days: 7
