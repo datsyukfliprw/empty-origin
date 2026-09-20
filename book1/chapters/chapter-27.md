@@ -36,15 +36,7 @@ I look at Tolliver, who is repairing a leather strap at the other end of the tab
 
 Sella snorts.
 
-I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven's receiving-side sketch, the old pressure map, and Harra's charcoal notes.
-
-How much movement can the far shoe absorb before it hits its stop?
-
-How much vibration reaches the near anchor under a crooked load?
-
-What happens if the boundary contracts while a person is on the frame?
-
-That one sits badly in my stomach.
+I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven's receiving-side sketch, the old pressure map, and Harra's charcoal notes. The questions are narrower now: how much movement the shoe can absorb, how much vibration reaches the anchor, and what happens if the boundary moves under a person instead of sand.
 
 Iven is not a test weight.
 
@@ -278,35 +270,15 @@ Nothing resolves just because both of us are being reasonable. Terrible design c
 
 ---
 
-The second day of rest is worse because I feel better.
+The second day of rest is worse because I feel better. The swelling is down, the ankle moves without making me see God, and the mender rewards this triumph with flat indoor walking and a stick. Still no stairs, rough ground, or powered loading.
 
-The swelling is down. I can flex the ankle without seeing God. The mender is unmoved.
-
-"No stairs."
-
-"I didn't ask."
-
-"No rough ground."
-
-"I know."
-
-"No powered loading."
-
-"I know."
-
-She studies me.
-
-"You are learning."
+"You are learning," she says.
 
 "Do not sound surprised."
 
 "I have evidence."
 
-She rewraps the ankle more lightly and allows flat indoor walking with the stick.
-
-I make three laps of the kitchen, because freedom has become humiliatingly small.
-
-On the fourth, Tolliver appears in the doorway with a coil of new line.
+I make three laps of the kitchen because freedom has become humiliatingly small. On the fourth, Tolliver appears in the doorway with a coil of new line.
 
 "You are limping."
 
@@ -314,9 +286,7 @@ On the fourth, Tolliver appears in the doorway with a coil of new line.
 
 "You limped less on the second lap."
 
-I stop.
-
-"That is rude."
+I stop. "That is rude."
 
 "Yes."
 
@@ -334,47 +304,15 @@ Nobody comments.
 
 ---
 
-The dry test uses sacks of wet sand.
+The dry test uses wet sand: Iven's weight, then gear, then extra load for the way frightened people grab whatever is near. They skew the frame and cycle the release until, on the fifth run, the near brace squeaks.
 
-One Iven.
+I raise my hand. Harra stops.
 
-Then Iven plus gear.
+The frame has not moved. The anchor has, less than a nail-width.
 
-Then Iven plus the weight of somebody grabbing him badly.
+Oret points to the packing wedge. "Wood compressed."
 
-Harra objects to the last one.
-
-Sella says, "You have never met a frightened person."
-
-Harra adds the weight.
-
-They load, skew, release the far latch, unload. Again. Again.
-
-On the fifth cycle, the near brace squeaks.
-
-I raise my hand.
-
-Harra stops.
-
-The frame has not moved.
-
-The anchor has, less than a nail-width.
-
-Dain crouches and touches the stone. "No crack."
-
-"Then why?" Pell asks.
-
-Oret points to the packing wedge.
-
-"Wood compressed."
-
-Harra swears.
-
-A compressing shim moved the anchor while everybody was staring at the machine. Exactly the sort of small thing that kills people.
-
-They replace it with an iron-backed wedge.
-
-The next cycles stay quiet.
+Harra swears. A shim moved while everybody was staring at the machine, exactly the sort of small thing that kills people. They replace it with an iron-backed wedge, and the next cycles stay quiet.
 
 My measure flickers at the edge of sight.
 
@@ -566,43 +504,7 @@ I do not want the person who nearly turned the only Earth objects I have ever se
 
 ---
 
-On the third morning, the mender lets me walk to the yard and back.
-
-Flat ground. Brace on the ankle. No shield. No ability.
-
-She watches every step.
-
-"How is it?"
-
-"Sore."
-
-"Same soreness?"
-
-"Yes."
-
-"Sharp?"
-
-"No."
-
-"Unstable?"
-
-"No."
-
-She has me turn, rise halfway onto my toes, and sit.
-
-Then she gives me the sentence I have been waiting for.
-
-"Limited loading tomorrow."
-
-My chest lifts.
-
-"Meaning?"
-
-"Flat route. Brace. No running. No jumping. No Stepguard unless failure leaves you no safer option."
-
-"What about Brace?"
-
-"One planned use."
+On the third morning, the mender lets me walk to the yard and back. The ankle stays sore but stable, which finally earns me limited loading tomorrow: flat route, no running or jumping, no Stepguard unless the alternative is worse, and one planned use of Brace.
 
 "That is strangely specific."
 
@@ -616,23 +518,13 @@ Fair.
 
 "Carried."
 
-I grimace.
-
 "Medical cruelty."
 
 "Medical consequence."
 
 I agree.
 
-Tomorrow is rescue day.
-
-Sella leaves after midday.
-
-The pressure trend near dawn is expected to give us a widening interval.
-
-Expected, not promised.
-
-Harra's frame has passed the dry tests. Dain has no accumulating vibration at the near anchor. Iven has measured his landing twice. Two-finger travel. Short pin. Release before unload.
+Tomorrow is rescue day. Sella leaves after midday. The pressure trend near dawn may give us a widening interval, and the frame has passed its dry tests.
 
 I write three letters on my wrist in charcoal.
 
