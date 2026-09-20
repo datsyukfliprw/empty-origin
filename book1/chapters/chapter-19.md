@@ -224,7 +224,7 @@ It surprises me to discover that I am.
 
 The first water is brown and slow, a thin tongue pushing dead leaves ahead of it. Harra works a knot of roots loose. I lift my end of the screen while she shifts hers into the next slot, then lower it again when the overlap is restored.
 
-No reserve. Just work.
+Nothing powered. Just work.
 
 She nods once without taking her eyes off the bar.
 
