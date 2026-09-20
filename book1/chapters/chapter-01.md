@@ -1,20 +1,20 @@
 CHAPTER ONE
 
-“Don't follow me. Wait for the fire.”
+“Don’t follow me. Wait for the fire.”
 
 Vharos has almost nothing left in his health bar. Neither do I. Twelve of us have spent three hours learning how to die in this room, and Liam is about to die trying to heal me.
 
-“Nyx, you're out of range.”
+“Nyx, you’re out of range.”
 
 “I know. Stay there.”
 
-Black flame spreads across the obsidian between my character and the raid. There's a gap opening on the left, the same gap that killed me on the last pull. I keep my thumb off Blink. My damage numbers stop. For one horrible second I can see the argument we're going to have if this costs us the record.
+Black flame spreads across the obsidian between my character and the raid. There’s a gap opening on the left, the same gap that killed me on the last pull. I keep my thumb off Blink. My damage numbers stop. For one horrible second I can see the argument we’re going to have if this costs us the record.
 
 The flame thins.
 
 “Now. Left. Everyone left.”
 
-Nyx flashes through first. I turn the camera, count the bodies coming behind her, and start hitting the boss again before I've finished counting. Liam's heal lands. Somebody is yelling the last percent into my ear as if the game needs encouragement.
+Nyx flashes through first. I turn the camera, count the bodies coming behind her, and start hitting the boss again before I’ve finished counting. Liam’s heal lands. Somebody is yelling the last percent into my ear as if the game needs encouragement.
 
 “HE’S DOWN! HE’S FUCKING DOWN!”
 
@@ -32,7 +32,7 @@ On my monitor, Vharos the Undying collapses to his knees in a storm of black fir
 
 “Somebody send it to Derek.”
 
-“Don't,” I say, laughing into my hand. The bedroom wall is thin enough that I can hear my neighbor's television through it. “Let him find it.”
+“Don’t,” I say, laughing into my hand. The bedroom wall is thin enough that I can hear my neighbor’s television through it. “Let him find it.”
 
 A notification flashes in the corner of the screen.
 
@@ -78,7 +78,7 @@ My stomach growls loudly enough that Liam hears it through the mic.
 
 I look toward the kitchen. Technically. “Fuck you.”
 
-More laughter follows me into the kitchen, headset hanging off one ear. Seven steps from my desk, eight if I avoid the floorboard that sounds like a dying goose. The refrigerator hums beneath a cabinet door that hasn't closed properly since I moved in three months ago. Inside: ranch, three eggs, pickles, one slice of cheese, and a takeout container I am unwilling to acknowledge as mine. My emergency energy drink waits behind the milk.
+More laughter follows me into the kitchen, headset hanging off one ear. Seven steps from my desk, eight if I avoid the floorboard that sounds like a dying goose. The refrigerator hums beneath a cabinet door that hasn’t closed properly since I moved in three months ago. Inside: ranch, three eggs, pickles, one slice of cheese, and a takeout container I am unwilling to acknowledge as mine. My emergency energy drink waits behind the milk.
 
 Mom stood in this spot on move-in day with both refrigerator doors open.
 
@@ -96,7 +96,7 @@ Something crashed upstairs. We all looked at the ceiling.
 
 Dad waited a beat. “Convincing.”
 
-My bedroom at their house is probably cleaner than this entire apartment. Mom would feed me. Dad would pretend he wasn't checking the oil in my car every time I visited. Another year there and I could save enough to transfer somewhere better than community college.
+My bedroom at their house is probably cleaner than this entire apartment. Mom would feed me. Dad would pretend he wasn’t checking the oil in my car every time I visited. Another year there and I could save enough to transfer somewhere better than community college.
 
 I nudge the crooked cabinet shut with my shoulder. It swings open again. Mine, at least.
 
@@ -130,7 +130,7 @@ The boss’s corpse still sprawls across my screen. Discord is still going, my s
 
 Better hair, obviously.
 
-I set the plate beside my keyboard and the phone faceup by my mouse pad. By the time I've settled the headset over both ears, Liam wants another run.
+I set the plate beside my keyboard and the phone faceup by my mouse pad. By the time I’ve settled the headset over both ears, Liam wants another run.
 
 Derek joins our voice channel just in time to say, “Absolutely fucking not.”
 
@@ -138,7 +138,7 @@ Derek joins our voice channel just in time to say, “Absolutely fucking not.”
 
 “I have class at nine,” I say around a mouthful.
 
-“Nyx, it's two fifteen.”
+“Nyx, it’s two fifteen.”
 
 “Six hours of sleep. Practically responsible.”
 
@@ -178,9 +178,9 @@ ManaAddict: streamer loot
 
 Derek: i hate this game
 
-I equip it. Gold pulses through the blade's black fractures, lighting Nyx's hand.
+I equip it. Gold pulses through the blade’s black fractures, lighting Nyx’s hand.
 
-“You're checking whether it matches,” Liam says.
+“You’re checking whether it matches,” Liam says.
 
 The violet glow on her shoulders looks awful beside it.
 
@@ -200,7 +200,7 @@ The laugh fades. My chair seems to lean beneath me, and I set the fork down befo
 
 The monitor is suddenly too bright. Embers in the throne room sharpen into orange needles. A high tone starts inside my ears; I lift an earcup, but it stays.
 
-I look at the eggs. When did I buy them? Last week? I can't find the purchase in my head.
+I look at the eggs. When did I buy them? Last week? I can’t find the purchase in my head.
 
 “I think I poisoned myself.”
 
@@ -246,11 +246,11 @@ I push my chair back because I need to do something, and getting water is the fi
 
 “Maya, call your parents.”
 
-“I'm nineteen.”
+“I’m nineteen.”
 
 “What the fuck does that have to do with anything?”
 
-There should be an answer. I can feel one, but the words won't come.
+There should be an answer. I can feel one, but the words won’t come.
 
 My eyes drift back to the monitor. Nyx stands exactly where I left her, silver-white hair, black armor, new saber burning gold at her hip, Vharos on the dark floor behind her. Chat keeps moving. I focus on a message long enough to recognize my own name. The rest smears.
 
@@ -262,7 +262,7 @@ I try again, catch one earcup with my fingers, and drag it off. It lands beside 
 
 My phone is less than a foot away. I know what to do. Pick it up. Call somebody.
 
-My arm moves several inches before the muscles give out. My fingertips scrape the desk. I try again, staring at the phone's black screen. My elbow trembles. Nothing.
+My arm moves several inches before the muscles give out. My fingertips scrape the desk. I try again, staring at the phone’s black screen. My elbow trembles. Nothing.
 
 I stop trying to remember when I bought the eggs.
 
@@ -280,7 +280,7 @@ Liam’s voice leaks from the headset beside me, joined by several others now, t
 
 I know my address. Of course I know my address. I try to give it to them, and nothing useful leaves my mouth.
 
-I can see Nyx's boots from here. The lower edge of her armor, firelight on obsidian. I try to lift my head enough to see the rest, and nothing happens.
+I can see Nyx’s boots from here. The lower edge of her armor, firelight on obsidian. I try to lift my head enough to see the rest, and nothing happens.
 
 Class at nine. I need to call Mom. My phone.
 
@@ -334,7 +334,7 @@ I look toward the forest. There has to be something beyond it. A road. A campgro
 
 I turn, listening. No engine, no traffic, no voices. Just rain striking leaves.
 
-Kansas City doesn't have mountains.
+Kansas City doesn’t have mountains.
 
 Maybe someone moved me. Drugged me. But Liam was there, and the stream was running. Someone would have seen.
 
