@@ -2,7 +2,7 @@
 
 **Current manuscript:** *Empty Origin*, 32 chapters, **97,048 whitespace-counted words**, synchronized September 20, 2026. Canonical chapter text governs if an older checkpoint note conflicts with a later chapter entry.
 
-Live continuity record for the September 19 cold-review revision through Chapter Nineteen. Earlier reviews and archived drafts are historical. Chapters remain the authority. Updated sections distinguish observed events from testimony and proposals; no current relationship endgame or return to Earth is implied.
+This ledger originated with the September 19 cold-review revision and now includes the completed manuscript through Chapter Thirty-Two. Earlier checkpoint language is historical where later chapter entries supersede it. Chapters remain the authority. Entries distinguish observed events from testimony and proposals.
 
 ## Chapter 01
 
