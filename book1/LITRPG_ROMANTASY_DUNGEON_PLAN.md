@@ -2,7 +2,7 @@
 
 ## Authority and purpose
 
-This file records the author's current governing development direction for **The Unheld Warder** and the ongoing series. It is a planning authority for future drafting and targeted revision. Written chapter files remain canon for events that have already happened; unwritten beats below are provisional until dramatized.
+This file records the author's current governing development direction for **Empty Origin** and the ongoing series. It is a planning authority for future drafting and targeted revision. Written chapter files remain canon for events that have already happened; unwritten beats below are provisional until dramatized.
 
 This plan supplements:
 
