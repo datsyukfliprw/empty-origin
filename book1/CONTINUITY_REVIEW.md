@@ -1,5 +1,7 @@
 # Continuity review and Chapters Thirteen–Fifteen
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 Reviewed the twelve active chapters, project authority, overview, ledger, editorial direction, prior revision report, and supplied prose/ledger instructions before continuing. Canonical edits are in `chapters/`; `WORKING_DRAFT.md` has been rebuilt from all fifteen chapters. The imported writing system and original export snapshots were not edited.
 
 ## Resolved findings
