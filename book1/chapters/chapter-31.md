@@ -1,10 +1,90 @@
 CHAPTER THIRTY-ONE
 
-Tolliver does not move. For one terrible second, I think I have miscalculated so badly that I will need to leave the region. Then he says, "To what?" The bastard knows. He also knows I need to say it.
+The next night, Tolliver is in the same yard.
+
+Different shirt.
+
+Same woodpile.
+
+I resent the consistency.
+
+He sees me crossing toward him and sets the axe down before I say anything. I have spent most of the day inventorying bent iron with Harra and pretending I was not also inventorying my own motives.
+
+It was not efficient.
+
+"You told me to answer a question," I say.
+
+His expression changes by almost nothing.
+
+"I did."
+
+"Ask it again."
+
+He studies me for one long second.
+
+"Would you still want me if Sella came back tomorrow?"
+
+"Yes."
+
+The answer is immediate this time.
+
+That matters.
+
+His shoulders go still.
+
+I keep going.
+
+"I would want her too."
+
+"I know."
+
+"I might be very confused."
+
+"I know."
+
+"I might cry again."
+
+"I assumed."
+
+"Rude."
+
+"Accurate."
+
+I step closer.
+
+"None of that changes the answer."
+
+His eyes drop to my mouth.
+
+Then come back.
+
+"What are you doing tonight?" I ask.
+
+"Nothing I cannot change."
+
+Heat opens low in me.
+
+There it is.
+
+Not because he rescued me from grief.
+
+Because he waited outside it.
+
+"Change it."
+
+Tolliver does not move.
+
+For one terrible second, I think I have miscalculated so badly that I will need to leave the region.
+
+Then he says, "To what?"
+
+The bastard knows.
+
+He also knows I need to say it.
 
 "You."
 
-His shoulders go still. His pupils widen. I keep going before courage discovers an exit.
+His pupils widen. I keep going before courage discovers an exit.
 
 "I want to be with you tonight."
 
@@ -14,7 +94,7 @@ His shoulders go still. His pupils widen. I keep going before courage discovers 
 
 "Not because Sella left."
 
-Her name still hurts. Less sharply than nine days ago, but enough.
+Her name still hurts. Less sharply than ten days ago, but enough.
 
 "No."
 
