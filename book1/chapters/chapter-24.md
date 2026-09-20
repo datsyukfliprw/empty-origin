@@ -28,7 +28,7 @@ Tolliver crouches beneath the overhang and studies the mud. The last rain has so
 
 One retreat condition cleared.
 
-Harra takes a pry bar from his pack while I stand nearby with the walking stick the mender inflicted on me. My shield is back at Rook because apparently medical authority outranks dignity.
+Harra takes a pry bar from his pack while I stand nearby with the walking stick the mender inflicted on me. My shield is back at Rook because medical authority has won its argument with dignity.
 
 She works the bar toward the latch side. I look at the door again.
 
