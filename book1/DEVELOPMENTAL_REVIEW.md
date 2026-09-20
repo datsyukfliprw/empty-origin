@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Historical manuscript snapshot.** This report applies to the manuscript state it reviewed and is preserved for provenance only. Do not use it as a current repair list without re-verifying the issue against the synchronized 32-chapter *Empty Origin* manuscript (**96,894 words**, September 20, 2026). Current next steps are in [PUBLICATION_ROADMAP.md](PUBLICATION_ROADMAP.md).
+
 # Developmental review — series foundation
 
 > **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
