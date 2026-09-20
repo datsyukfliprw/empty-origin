@@ -16,9 +16,9 @@ She draws the scrap closer with one finger. Her nail has a split near the edge. 
 
 There are six distinct pieces of writing. Mara sees me count them.
 
-“I wasn't examining it very closely.”
+“I wasn’t examining it very closely.”
 
-“I'm sorry.”
+“I’m sorry.”
 
 She shakes her head once. “So am I.”
 
@@ -26,9 +26,9 @@ Vey stands by the window with his hands behind his back. For once he has nothing
 
 I turn the scrap without lifting it. Blank on the other side.
 
-“It doesn't say when the pulling stopped. Or why. I don't know if—”
+“It doesn’t say when the pulling stopped. Or why. I don’t know if—”
 
-“I know what you don't know.”
+“I know what you don’t know.”
 
 The words come sharply. She shuts her eyes.
 
@@ -36,7 +36,7 @@ The words come sharply. She shuts her eyes.
 
 We sit until a clerk arrives with paper. Mara sets out a ruler and ink and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
 
-I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena's signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
+I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena’s signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
 
 At the door she says, “He had two sons.”
 
@@ -44,7 +44,7 @@ I turn back.
 
 “Iven. One was small enough that we had to explain more than once.”
 
-“I'll be careful what I say.”
+“I’ll be careful what I say.”
 
 “Yes,” she says. “Please.”
 
@@ -54,7 +54,7 @@ My room is above the west kitchen. It has a narrow bed, a peg, and a shutter ope
 
 Supper is downstairs with people who have opinions about flour deliveries. Nobody asks whether Iven is alive. Nobody knows that I have spent half the afternoon considering a length of rope with a person at the other end.
 
-Tolliver is at the far end of the table. He moves a jug so I can set my bowl down, but doesn't turn the empty place beside him into an invitation I have to refuse. I sit there because I want to.
+Tolliver is at the far end of the table. He moves a jug so I can set my bowl down, but doesn’t turn the empty place beside him into an invitation I have to refuse. I sit there because I want to.
 
 “Paid?” I ask.
 
@@ -62,19 +62,19 @@ He taps his purse. “Two pieces. Sella too.”
 
 “Are you going back?”
 
-“Eventually. Dain wants someone to walk the lower channel with him the day after tomorrow. Tracks, bank damage, animal holes. I've taken two days, paid by the day. After that I haven't decided.”
+“Eventually. Dain wants someone to walk the lower channel with him the day after tomorrow. Tracks, bank damage, animal holes. I’ve taken two days, paid by the day. After that I haven’t decided.”
 
-“You don't have to stay because I'm here.”
+“You don’t have to stay because I’m here.”
 
-“I haven't asked you to pay me.” He tears his bread too hard; a piece drops onto the floor. He bends to retrieve it.
+“I haven’t asked you to pay me.” He tears his bread too hard; a piece drops onto the floor. He bends to retrieve it.
 
 I turn the bone over with my spoon, looking for the meat beneath it.
 
-“I don't know what I want you to do.”
+“I don’t know what I want you to do.”
 
-“Then don't decide tonight.”
+“Then don’t decide tonight.”
 
-I push my bowl away. When someone asks him to pass the jug, he doesn't hear them the first time.
+I push my bowl away. When someone asks him to pass the jug, he doesn’t hear them the first time.
 
 After supper I mend the tooth holes with a needle borrowed from the kitchen. The stitches are uneven and much too close together. I tug the seam twice. Nothing opens, so I return the needle.
 
@@ -84,7 +84,7 @@ I sleep with the repaired sack under the bed instead of beneath my head.
 
 The notebook arrives in a shallow wooden tray.
 
-Mara puts it on the records-room table the next morning, then sets a separate dish beside it containing a pen cap, a rusted metal clip, and two tags tied to lengths of cord. Vey places Elena's card in the dish and Mara records its return in front of me.
+Mara puts it on the records-room table the next morning, then sets a separate dish beside it containing a pen cap, a rusted metal clip, and two tags tied to lengths of cord. Vey places Elena’s card in the dish and Mara records its return in front of me.
 
 I want to take it, put it with my shirt, have one more object from a world with traffic lights.
 
@@ -102,21 +102,21 @@ I open the cover.
 
 The first page contains a list of measurements, a rough conversion between local units and meters, and an English sentence boxed in the margin.
 
-*Do not trust the old map's north.*
+*Do not trust the old map’s north.*
 
-“Oh, good,” I say. “She's been here.”
+“Oh, good,” I say. “She’s been here.”
 
-Mara's mouth moves.
+Mara’s mouth moves.
 
 “She said that often. Usually with worse words.”
 
-The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding a measuring line. Tiny calculations crowd the edges; an argument takes half a page. Then I hit a word I can't decipher and ask Mara to hold the page toward the light.
+The next pages are drainage notes. Culvert widths. A badly drawn beetle beside a calculation. A list of people owed meals for holding a measuring line. Tiny calculations crowd the edges; an argument takes half a page. Then I hit a word I can’t decipher and ask Mara to hold the page toward the light.
 
 Some technical words slow me down. Reading English does not make me an engineer. I write *head* on my paper and explain to Mara that here it seems to mean something about water height or pressure, not a body part. She fetches Dain before I turn an uncertain definition into a confident mistake.
 
 He arrives with a wooden cup and a limp that takes a moment to settle after he sits. **[SLUICEWRIGHT, LV. 24]**. His beard is short and almost entirely white. Two fingers on his left hand end at the first joint.
 
-“That Elena's?”
+“That Elena’s?”
 
 “Yes,” Mara says.
 
@@ -124,13 +124,13 @@ He sets down the cup with unnecessary care.
 
 I show him the sketch. He traces the lines with a clean sliver of wood, keeping his hands off the page.
 
-“Water stacked above you,” he says. “More stack, more shove. What's she arguing about?”
+“Water stacked above you,” he says. “More stack, more shove. What’s she arguing about?”
 
 “Whether the water on this side can get high enough to do what she saw.”
 
 He studies the numbers.
 
-“It couldn't. I told her that.”
+“It couldn’t. I told her that.”
 
 “She wrote it down.”
 
@@ -144,7 +144,7 @@ For the next hour he helps us separate things Elena measured from things she gue
 
 There is no welcome message for the next person from Earth. No explanation of how to get here or how to leave. Elena has recorded wages in the back, crossed out a shopping list, and spent nearly half a page trying to describe coffee to someone who recommended burnt barley.
 
-I run a finger along the edge of that page. My first closing shift, I spilled steamed milk down my apron and hid in the walk-in because I couldn't stop crying. The manager thought I'd burned myself. I let her.
+I run a finger along the edge of that page. My first closing shift, I spilled steamed milk down my apron and hid in the walk-in because I couldn’t stop crying. The manager thought I’d burned myself. I let her.
 
 Elena has crossed out one description and tried again underneath. I linger until Mara asks whether I need Dain for this part.
 
@@ -168,15 +168,15 @@ I read the sentence twice before translating it aloud.
 
 Dain leans forward.
 
-“She did tell me the first part. Thought she meant an old feeder we'd never found.”
+“She did tell me the first part. Thought she meant an old feeder we’d never found.”
 
 “Did you see the grit?”
 
 “Yes. Cleaned it out myself. Twice.”
 
-“Was it different from what's in your river?”
+“Was it different from what’s in your river?”
 
-“Different from what comes down here. That doesn't tell you how far it traveled.”
+“Different from what comes down here. That doesn’t tell you how far it traveled.”
 
 I nod. He has seen what is written on my face and is being careful with it.
 
@@ -190,7 +190,7 @@ Dain recognizes it immediately.
 
 He nods.
 
-There are two sets of writing beside it. Local dimensions in a tidy hand that may be Mara's. An English annotation crammed between them and the binding.
+There are two sets of writing beside it. Local dimensions in a tidy hand that may be Mara’s. An English annotation crammed between them and the binding.
 
 *Secondary inlet still under load with first gate shut. Closing upstream does not isolate. Lock inner wheel before bypass test.*
 
@@ -198,7 +198,7 @@ Dain holds the sliver of wood motionless above the page.
 
 “Read that again.”
 
-I do, more slowly. Then I explain isolate as best I can. Stop something from still getting into the place you're working.
+I do, more slowly. Then I explain isolate as best I can. Stop something from still getting into the place you’re working.
 
 He gets up.
 
@@ -216,7 +216,7 @@ Outside, the mill makes enough noise that I have to hurry to hear him.
 
 “You said the sluice was closed.”
 
-“The sluice is closed. Nobody's supposed to touch the inner wheel.”
+“The sluice is closed. Nobody’s supposed to touch the inner wheel.”
 
 He takes the corner beside a stack of tiles faster than his limp ought to allow. I slow to keep from slipping in the mud.
 
@@ -232,7 +232,7 @@ Dain puts his fingers in his mouth and whistles.
 
 Both workers turn. One lets go of the lever; the other keeps it where it is.
 
-“Hold there,” Dain calls. “Don't move it back yet.”
+“Hold there,” Dain calls. “Don’t move it back yet.”
 
 He walks to a narrow sight box set into the stone. A little iron rod protrudes from the top, marked with pale lines. It shakes hard enough to make a ticking sound.
 
@@ -254,13 +254,13 @@ Dain looks over his shoulder.
 
 “Sella, clear the towpath below the outlet. Everybody up to the yard. Walk them. No running.”
 
-She is moving before he's finished. She hands me the end of the rope as she unhooks it from the nearest post.
+She is moving before he’s finished. She hands me the end of the rope as she unhooks it from the nearest post.
 
-“Across the path behind me. Let the workers come up. Don't let anyone down.”
+“Across the path behind me. Let the workers come up. Don’t let anyone down.”
 
 I take it in my good hand.
 
-There are five people below, two of them carrying a long rake between them. Sella calls them by their work rather than their names. They know she means them. She gets the pair turned first so they don't swing the rake into anyone else.
+There are five people below, two of them carrying a long rake between them. Sella calls them by their work rather than their names. They know she means them. She gets the pair turned first so they don’t swing the rake into anyone else.
 
 A woman approaches from the yard with a bucket.
 
@@ -268,7 +268,7 @@ A woman approaches from the yard with a bucket.
 
 “I use the lower pump.”
 
-“They're clearing it.”
+“They’re clearing it.”
 
 She looks over my head at my plate.
 
@@ -308,9 +308,9 @@ Eventually Dain stands.
 
 “Which gate?”
 
-“That's what I'm going to establish before anyone puts a hand near it.”
+“That’s what I’m going to establish before anyone puts a hand near it.”
 
-Sella takes the rope back from me and knots it to the post. My hand has gone stiff from holding it, although I haven't pulled against anything at all.
+Sella takes the rope back from me and knots it to the post. My hand has gone stiff from holding it, although I haven’t pulled against anything at all.
 
 “You spent?” she asks.
 
@@ -328,7 +328,7 @@ A woman in a green coat arrives carrying a rolled plan. Her plate reads **[STEWA
 
 She asks Dain whether the test caused damage.
 
-“I won't know until the indicators stay quiet and we check the outer fittings.”
+“I won’t know until the indicators stay quiet and we check the outer fittings.”
 
 “Was anybody below the closure?”
 
@@ -346,7 +346,7 @@ Only after those instructions are settled does she look at me.
 
 “Can you show me precisely what it says?”
 
-“It's in the records room.”
+“It’s in the records room.”
 
 “Mara can bring the copy.” She turns to Vey. “You said six days.”
 
@@ -358,7 +358,7 @@ Pell unrolls her plan on a crate. One corner has been patched with a different c
 
 “In five, a crew arrives to remove the inner wheel and its spindle. We need the lower chamber safe before they cut out the assembly. The bypass is meant to carry drainage permanently.”
 
-“You're taking it apart.”
+“You’re taking it apart.”
 
 “It has been shut for four years. We still have fields under water twice a season and a works budget paying men to inspect a lock.”
 
@@ -366,11 +366,11 @@ Pell unrolls her plan on a crate. One corner has been patched with a different c
 
 “So does every culvert on this land.”
 
-“That's not what I mean.”
+“That’s not what I mean.”
 
 “No,” she says. “I understand what you mean. Vey has explained what you recognized.”
 
-The mill wheel groans behind us. I hate hearing that he has explained me to another person, even when it's part of the job I agreed to.
+The mill wheel groans behind us. I hate hearing that he has explained me to another person, even when it’s part of the job I agreed to.
 
 “What if taking it apart opens it?” I ask.
 
@@ -388,9 +388,9 @@ Dain puts his cup on the corner of the plan. Somehow he brought it all the way f
 
 Pell considers him.
 
-“Agreed. But tell me what you need to understand it. Don't hand me another four years.”
+“Agreed. But tell me what you need to understand it. Don’t hand me another four years.”
 
-Mara arrives with the copied page. Pell reads it, asks me about three words, then has Mara add the suspension to the works instructions in writing. The removal crew is still due in five days. Cutting now depends on Dain's clearance.
+Mara arrives with the copied page. Pell reads it, asks me about three words, then has Mara add the suspension to the works instructions in writing. The removal crew is still due in five days. Cutting now depends on Dain’s clearance.
 
 Mara finishes the second line. I read it over her shoulder to make sure the clearance is there, then step back against the crate.
 
@@ -398,11 +398,11 @@ Before Pell leaves, I ask whether Elena knew they might remove it.
 
 “The present order is mine. Elena left before I became steward.”
 
-“So you're not the person who kept her chest.”
+“So you’re not the person who kept her chest.”
 
-“No. I'm the person with the unresolved claim in my accounts.”
+“No. I’m the person with the unresolved claim in my accounts.”
 
-“It's her identification in there.”
+“It’s her identification in there.”
 
 “Then submit that finding with the item number. I can review it.”
 
@@ -414,9 +414,9 @@ By evening the ink has dried black along my middle finger. I have to cover the p
 
 Dain returns with the inspection results. Visible fittings intact, access lock untouched, inner-wheel indicator a fraction off its old mark. He shows us the difference on his drawing. Whatever moved beneath the yard left a mark they can measure.
 
-Mara puts his account beside our translated warning. We finish the adjoining copies, leaving the difficult technical words for him. Before she closes the book, I take the card's item number and submit my statement for Pell: the photograph, dates, and address identify a personal driving credential. Maya Szczepaniak, who used to lose her own ID beneath takeout menus, signs herself as the person who knows.
+Mara puts his account beside our translated warning. We finish the adjoining copies, leaving the difficult technical words for him. Before she closes the book, I take the card’s item number and submit my statement for Pell: the photograph, dates, and address identify a personal driving credential. Maya Szczepaniak, who used to lose her own ID beneath takeout menus, signs herself as the person who knows.
 
-Mara adds it to Elena's claim. The card stays in its dish.
+Mara adds it to Elena’s claim. The card stays in its dish.
 
 At the pay desk, a clerk gives me one piece.
 
@@ -432,7 +432,7 @@ My measure, when I check in my room, has changed too.
 
 **[RUN: WARDER]**
 
-I don't know when the two progress arrived. The wall practice, the work, the yard. There is no helpful receipt.
+I don’t know when the two progress arrived. The wall practice, the work, the yard. There is no helpful receipt.
 
 I write the numbers on my copy paper, with the date Mara taught me. My knuckles are closing. When I reach to set the paper aside, my shoulder catches and I have to lower my arm slowly.
 
@@ -448,7 +448,7 @@ After supper I find Tolliver on the outside stair, replacing the binding on an a
 
 He turns the arrow slowly between his fingers. Below us the kitchen door stands open, letting out light and an argument about who took the clean pot.
 
-“Dain's changed tomorrow's work,” he says. “We're checking the outer banks only. Sella's on the closure path. I'll be back before the evening meal unless he finds a problem.”
+“Dain’s changed tomorrow’s work,” he says. “We’re checking the outer banks only. Sella’s on the closure path. I’ll be back before the evening meal unless he finds a problem.”
 
 “Thank you for telling me.”
 
@@ -462,7 +462,7 @@ For a while I watch his hands. I have watched those hands do a lot of things: dr
 
 “She frightened me.”
 
-“She's had practice.”
+“She’s had practice.”
 
 I laugh. He sets the arrow aside before turning toward me.
 
@@ -472,13 +472,13 @@ I move my hand along the step until my little finger touches his.
 
 He looks at our hands.
 
-“I thought you'd be angry about today,” I say.
+“I thought you’d be angry about today,” I say.
 
 “Were you hoping?”
 
 “No.”
 
-His hand stays beside mine. “Vey gets six days. I couldn't get you to listen for one.”
+His hand stays beside mine. “Vey gets six days. I couldn’t get you to listen for one.”
 
 “You sold him what you knew about me.”
 
@@ -486,7 +486,7 @@ His hand stays beside mine. “Vey gets six days. I couldn't get you to listen f
 
 The kitchen door bangs below us. I should go inside. Instead I look at his mouth, at the little scar near it, and he catches me doing it.
 
-“I'm trying,” he says.
+“I’m trying,” he says.
 
 “I can see that.”
 
@@ -498,7 +498,7 @@ There is an edge to the question. I want him to stop asking me to make him feel 
 
 He sits back down. I kiss him before I can turn this into another argument.
 
-For a second he doesn't move. Then his hand closes against my waist and he kisses me back, hard enough that I grip the seam of his coat. The wool scratches my wrist. I shift closer and feel the heat of his leg along mine.
+For a second he doesn’t move. Then his hand closes against my waist and he kisses me back, hard enough that I grip the seam of his coat. The wool scratches my wrist. I shift closer and feel the heat of his leg along mine.
 
 I had forgotten how much I could want someone sitting right there, and how stupidly difficult it could be to get closer.
 
@@ -512,21 +512,21 @@ He looks back at me. I can feel myself going red.
 
 Later, when I put my hand against his chest, he lets me move back. My shoulder hurts. His mouth is reddened, and I keep looking at it instead of finding the words.
 
-“I'm going upstairs.”
+“I’m going upstairs.”
 
 “Alone?”
 
 “Yes.”
 
-He takes his hand from my waist. I stand, then bend to kiss him once more. I don't know whether that makes anything clearer.
+He takes his hand from my waist. I stand, then bend to kiss him once more. I don’t know whether that makes anything clearer.
 
 In my room, I lean against the bolted door, shoulder aching, and grin when I touch my mouth.
 
-Eventually I wash, set out tomorrow's clothes, and take the notebook copies from my sack.
+Eventually I wash, set out tomorrow’s clothes, and take the notebook copies from my sack.
 
 I read the first measurement twice without taking it in. My mouth still feels warm. I turn to the last sheet.
 
-On the last page we copied, below a set of measurements, Elena has drawn the stair again. I hadn't looked closely while we were racing the test. Four steps, a flat place, then an empty square outlined twice.
+On the last page we copied, below a set of measurements, Elena has drawn the stair again. I hadn’t looked closely while we were racing the test. Four steps, a flat place, then an empty square outlined twice.
 
 Beside it are three English lines.
 
