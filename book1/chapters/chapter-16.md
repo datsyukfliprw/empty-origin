@@ -6,17 +6,17 @@ Iven needs a saw.
 
 Mara writes the next question before I finish speaking. Beyond the mirror, her brother lets go of the rail and disappears through the gray door. She keeps the slate raised for a moment, then lowers it to her lap.
 
-“He could tell us where he's going.”
+“He could tell us where he’s going.”
 
 I pretend to check the copy beneath my hand.
 
-It is my fifth reading day. Four reserve, an aching shoulder, and a man waiting for a tool we still don't know how to give him. Harra's mirror-rod extension rests against the gallery wall, a brass washer tied between its forked prongs.
+It is my fifth reading day. Four reserve, an aching shoulder, and a man waiting for a tool we still don’t know how to give him. Harra’s mirror-rod extension rests against the gallery wall, a brass washer tied between its forked prongs.
 
 Iven comes back dragging a length of metal. Two shorter pieces hang from it at right angles. He puts one end on the rail and lifts the other for us to see.
 
 “Bed frame,” I say.
 
-Dain takes my place. Through the hood I hear him breathing, then the scrape of Mara's chalk as he asks about the joints.
+Dain takes my place. Through the hood I hear him breathing, then the scrape of Mara’s chalk as he asks about the joints.
 
 One is stuck. The long strip would reach over the broken stair if Iven could get it free. He wants to carry a line across.
 
@@ -24,11 +24,11 @@ One is stuck. The long strip would reach over the broken stair if Iven could get
 
 The answer comes back underlined.
 
-*No. I'm a sluicewright.*
+*No. I’m a sluicewright.*
 
 Dain laughs once, sharply, and Mara glares at him. He bends to the glass again. I watch the back of his neck redden.
 
-We show Iven the shape of our access. He knew the lower passage; he has been looking for us down there. Dain's drawing puts us above the chamber, with a sleeve through the wall and a rod reaching down to the arch. Iven studies it, then points to the floor beneath his own feet.
+We show Iven the shape of our access. He knew the lower passage; he has been looking for us down there. Dain’s drawing puts us above the chamber, with a sleeve through the wall and a rod reaching down to the arch. Iven studies it, then points to the floor beneath his own feet.
 
 He has three intact steps. The next is broken across its width, leaving a tilted corner. After that, nothing until a lower stub near the opening.
 
@@ -46,7 +46,7 @@ Iven points behind him, through the gray door. His next drawing shows a thick st
 
 Dain leans closer. “Can he inspect the back?”
 
-Iven is already turning his mirror that way. I have to catch Mara's sleeve before she wipes the question off.
+Iven is already turning his mirror that way. I have to catch Mara’s sleeve before she wipes the question off.
 
 “Leave it. Let him answer.”
 
@@ -66,15 +66,15 @@ He pulls a burr from the cord and flicks it away.
 
 “Did you?”
 
-I know what he means. I wish we weren't standing where anyone could walk past us.
+I know what he means. I wish we weren’t standing where anyone could walk past us.
 
 “Yes.”
 
 He nods. His mouth tightens at one corner. I reach for his sleeve, and he shifts the coil between us.
 
-“Don't do that because you think you should.”
+“Don’t do that because you think you should.”
 
-“I wasn't.”
+“I wasn’t.”
 
 “All right.”
 
@@ -82,17 +82,17 @@ But he keeps the cord there.
 
 Inside the workshop Harra drops something metal. We both look toward the noise. I could go and ask whether she needs me. He could go back to work. Neither of us moves.
 
-“I'm not going to stop seeing her,” I say.
+“I’m not going to stop seeing her,” I say.
 
 “I heard you.”
 
-“And I don't want to stop seeing you.”
+“And I don’t want to stop seeing you.”
 
 He looks down at my hand, still halfway between us.
 
-“I don't know if I can do it like that.”
+“I don’t know if I can do it like that.”
 
-I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he didn't want what I was offering.
+I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he didn’t want what I was offering.
 
 He does not tell me to choose or turn my wanting into his permission to give. He keeps his own boundary, which is harder to argue with than anger.
 
@@ -110,17 +110,17 @@ She hands me the lower end of the extension.
 
 ---
 
-The probe reaches farther than the mirror. Harra has fitted it to a separate cradle, so moving one won't move the other. The brass washer hangs on a short loop of linen cord. If the fork gets to the opening, we can put the washer through and pull it back.
+The probe reaches farther than the mirror. Harra has fitted it to a separate cradle, so moving one won’t move the other. The brass washer hangs on a short loop of linen cord. If the fork gets to the opening, we can put the washer through and pull it back.
 
 An object from here. There and back.
 
 I watch it while she tightens the fittings.
 
-“Don't wind that around your finger,” she says.
+“Don’t wind that around your finger,” she says.
 
 I let go of the loose cord.
 
-The bolts take the rod's weight. My job is to stop the cradle twisting while she lowers the tip. There is a catch beneath it; I practice letting the handle go until I can do it without trying to soften the drop.
+The bolts take the rod’s weight. My job is to stop the cradle twisting while she lowers the tip. There is a catch beneath it; I practice letting the handle go until I can do it without trying to soften the drop.
 
 Harra tests a pin between her fingers. For a moment a pale line shows beneath its surface. She turns it toward the light and swears.
 
@@ -130,7 +130,7 @@ Harra tests a pin between her fingers. For a moment a pale line shows beneath it
 
 “You can see inside it?”
 
-“If I'm holding it. And if it's worked metal.” She rubs her thumb against her trousers. “Costs a point. I wish the smith would stop giving me reasons to spend them.”
+“If I’m holding it. And if it’s worked metal.” She rubs her thumb against her trousers. “Costs a point. I wish the smith would stop giving me reasons to spend them.”
 
 She tests the replacement. No pale line this time. It goes into the cradle.
 
@@ -140,7 +140,7 @@ Two days ago I would have wanted her run instead of mine. Now I press my forearm
 
 At the gallery Iven raises an open hand to show he understands. He stays above the missing stair with his mirror propped on the rail.
 
-Harra feeds the extension through beside the viewing rod. I can't see the tip from my place at the cradle. Dain calls the marks as they pass the sleeve.
+Harra feeds the extension through beside the viewing rod. I can’t see the tip from my place at the cradle. Dain calls the marks as they pass the sleeve.
 
 “Down.”
 
@@ -150,7 +150,7 @@ The handle steadies. Beneath the side shoe, a little pale dust falls onto the fl
 
 I watch it for half a breath. Then the pressure changes against my arm.
 
-“Something's moving.”
+“Something’s moving.”
 
 “Where?” Harra asks.
 
@@ -176,7 +176,7 @@ The sleeve and wall are sound. The place we put the load is not.
 
 I sit outside while she cuts a hardwood seat against clean stone. Dain leans on a lever to test it. Harra makes him do it again with his weight farther out.
 
-Through the door I see Sella by the boundary rope. She looks up, sees me sitting, and turns back to the yard. I am grateful she doesn't come over, then angry she hasn't.
+Through the door I see Sella by the boundary rope. She looks up, sees me sitting, and turns back to the yard. I am grateful she doesn’t come over, then angry she hasn’t.
 
 When Harra calls, I go inside.
 
@@ -192,7 +192,7 @@ Harra advances the rod.
 
 The washer crosses the bright edge.
 
-I stop breathing. Ordinary brass swings above the lower stair on Iven's side, its shadow on the pale wall.
+I stop breathing. Ordinary brass swings above the lower stair on Iven’s side, its shadow on the pale wall.
 
 Iven lifts his board.
 
@@ -208,11 +208,11 @@ I touch it. Warm from the chamber, rough where Dain drilled the hole, linen damp
 
 “Tomorrow,” Dain says.
 
-“It's still open.”
+“It’s still open.”
 
 He catches my wrist before I can reach for the cord again.
 
-“It's narrowing.”
+“It’s narrowing.”
 
 At the glass, the strip has thinned. Iven has his hand on the rail, waiting to see what we will do. The fork would fit now. In another few minutes it might not.
 
@@ -248,7 +248,7 @@ Then Harra needs the steps, and we move.
 
 I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop before I have put it away. Dain has the washer in a shallow dish beside his drawing. She reads his account, picks up the dish, and tilts it to examine the linen.
 
-“Captain Rusk will be here tomorrow,” she says. “She's bringing the lifting rig.”
+“Captain Rusk will be here tomorrow,” she says. “She’s bringing the lifting rig.”
 
 “Good,” Dain says.
 
@@ -256,7 +256,7 @@ I collect my fifth reading wage on the way to supper. Pell finds us outside the 
 
 He sets down his pen.
 
-“The removal contract,” Pell says. “The iron was part of her payment. She's been on the road with six people and that rig while we've changed the work.”
+“The removal contract,” Pell says. “The iron was part of her payment. She’s been on the road with six people and that rig while we’ve changed the work.”
 
 “Then buy it back,” Mara says.
 
@@ -268,7 +268,7 @@ The question comes out sharply. Pell puts the dish down before continuing.
 
 Mara looks away. I stare at the brass washer. I had thought the hard part would be finding a way through.
 
-Vey reads the captain's dispatch over Pell's shoulder. He is quiet for longer than I like.
+Vey reads the captain’s dispatch over Pell’s shoulder. He is quiet for longer than I like.
 
 “What does she want?” I ask.
 
