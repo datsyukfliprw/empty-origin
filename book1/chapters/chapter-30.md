@@ -164,15 +164,9 @@ His eyes go to Sella.
 
 She says, “I need ten minutes.”
 
-He nods.
+He nods and leaves.
 
-Not wounded.
-
-Not proprietary.
-
-Not pretending he does not understand what those ten minutes are.
-
-He leaves.
+He understands what those ten minutes are.
 
 I watch him cross the yard.
 
@@ -180,13 +174,7 @@ Sella watches me watch him.
 
 There it is.
 
-No lower chamber.
-
-No Iven waiting.
-
-No structure trying to kill us.
-
-No reason to avoid it.
+No emergency left to hide behind.
 
 I turn back.
 
@@ -404,11 +392,7 @@ There is nothing to defend against.
 
 No accusation I can dismantle.
 
-She is not asking me to stop being bisexual.
-
-Not asking me to pick a gender.
-
-Not even asking me to pick a person.
+She is not asking me to erase Tolliver or pick a person.
 
 She is telling me what kind of waiting will hollow her out.
 
@@ -962,11 +946,7 @@ Lio steals Vey’s pen.
 
 Life continues with insulting competence.
 
-Tolliver is around.
-
-Not constantly.
-
-Not strategically absent either.
+Tolliver is around without orbiting me.
 
 He eats at the same table.
 
@@ -1010,11 +990,7 @@ This man is dangerous in very specific ways.
 
 I walk closer.
 
-No limp.
-
-No wrap.
-
-No excuse.
+No limp. No wrap.
 
 “What did Sella say to you?”
 
@@ -1054,11 +1030,7 @@ People inside.
 
 Windows lit.
 
-No emergency.
-
-No blood.
-
-No reason.
+No emergency to blame.
 
 Good.
 
@@ -1075,8 +1047,6 @@ Then come back up.
 Heat opens low in me.
 
 There it is.
-
-Not because he took.
 
 Because he waited.
 
