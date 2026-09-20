@@ -448,11 +448,11 @@ Her face softens.
 
 "I don't want you to feel temporary."
 
-"I know."
+"Then don't make promises for me because you're afraid I'll leave."
 
-"That is worse."
+That lands exactly where it should.
 
-"Yes."
+"Okay."
 
 She bends and kisses me.
 
@@ -648,13 +648,9 @@ Mara points at me. "Do not test it."
 
 "I moved my toes."
 
-"You had the face."
+"You were about to do more."
 
-"What face?"
-
-"The one before you do something foolish."
-
-Sella says, "She has several."
+Sella says, "She absolutely was."
 
 Tolliver is looking at me even though he cannot see the measure.
 
@@ -810,17 +806,13 @@ Sella turns her face and kisses the inside of my wrist.
 
 "I wasn't."
 
-"You were making the face."
-
-"What face?"
-
-"The one before you do something foolish."
+"You were already halfway through tomorrow."
 
 I stare down at her.
 
-"Mara said that."
+"That is an accusation."
 
-"Mara is wise."
+"It is an observation."
 
 "Treason everywhere."
 
