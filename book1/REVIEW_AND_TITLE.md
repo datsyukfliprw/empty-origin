@@ -1,5 +1,7 @@
 # The Unheld Warder — manuscript review
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 Reviewed September 19, 2026. Scope: all nineteen canonical chapter files, 60,776 whitespace-separated words including headings, System displays, and the author insertion comment. This is an unfinished first book. Project direction was consulted; this is not a blind review. Future plans are not credited as completed scenes.
 
 ## Verdict
