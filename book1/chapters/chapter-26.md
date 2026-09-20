@@ -216,65 +216,9 @@ Harra goes inside.
 
 I feel much less singled out.
 
-The house mender is waiting in the west room. Tolliver carries me to the bed and sets me down. The mender unwraps the ankle in silence, each layer somehow worsening her opinion of me.
-
-Sella leans against the wall.
-
-Tolliver stays by the door until the mender says, "Out."
-
-He goes.
-
-She presses along the outside of my ankle. Pain flashes hard enough to make me hiss.
-
-"Here?"
-
-"Yes."
-
-Lower.
-
-"Yes."
-
-Higher.
-
-"Less."
-
-She turns the foot one finger-width.
-
-I grab the blanket. "Do that again and I become violent."
-
-"No fracture sign I can feel. More swelling. You loaded it after it worsened?"
-
-I look at the wall.
-
-"Maya."
-
-"Yes."
-
-"How much?"
-
-"Some."
-
-Sella says, "She rode Tolliver down the ridge."
-
-The mender looks at me. "That is not loading."
-
-"I walked before that."
-
-"How much?"
-
-"Dungeon amount."
-
-Sella snorts. The mender does not.
-
-"Three days. No stairs, no rough ground, no shield, no Stepguard."
-
-"What about flat indoor—"
-
-"No."
+The house mender is waiting in the west room. Tolliver carries me to the bed, then leaves when ordered. By the time the wrap is off, the verdict is obvious: more swelling, no fracture sign she can feel, and three days without stairs, rough ground, shield work, Stepguard, or powered loading.
 
 "I can Brace without walking."
-
-Her stare could strip paint.
 
 "Can you Brace without your body taking load?"
 
@@ -284,9 +228,7 @@ The forge track answers for me.
 
 "Then no powered work today."
 
-The word *today* is the part I hold on to.
-
-She splints the ankle and makes me promise to call before I stand.
+The word *today* is the part I hold on to. She splints the ankle and makes me promise to call before I stand.
 
 I promise.
 
@@ -394,13 +336,9 @@ It is a way forward.
 
 ---
 
-Pell pays the expedition after lunch.
+Pell pays the expedition after lunch: sixteen new bits for my two days. Mara records it separately from the earlier extension because she has correctly identified arithmetic as one of the most dangerous forces in the house.
 
-Sixteen new bits for me, the two days at eight each. Mara records the payment separately from the day we were paid before leaving, because she has correctly identified arithmetic as one of the most dangerous forces in the house.
-
-Pell offers the same daily rates for frame work, contact, and the rescue itself. Food, room, property, and treatment terms remain unchanged.
-
-I ask for it in writing.
+Pell keeps our existing rates and house terms for frame work, contact, and the rescue. I ask for it in writing.
 
 Mara is already pulling out paper when a runner arrives with a message for Sella.
 
@@ -788,13 +726,9 @@ Renn reports that he laughed, then coughed hard enough to brace himself against 
 
 The room changes.
 
-His water is lower again.
+His water is lower again. We still refuse to turn the tank into a false deadline.
 
-We still refuse to turn the tank into a false deadline.
-
-Harra needs two days to build properly. Oret wants a dry load sequence. Dain wants chamber vibration measured before any span goes in.
-
-Mara sends the estimate exactly as it is.
+Harra needs two days to build and test properly. Mara sends the estimate exactly as it is.
 
 Iven underlines *two days*.
 
