@@ -450,7 +450,7 @@ His eyebrows rise.
 
 "You're not allowed to be stupid with it."
 
-"Fair."
+"Accepted."
 
 He stands and unties them. I watch. Every bit of composure he stole from me becomes revenge fuel. He is hard. Very. My mouth goes dry. Tolliver catches exactly where I am looking.
 
@@ -728,7 +728,7 @@ I blink.
 
 "You asked for truth."
 
-Fair. He looks at the ceiling.
+That lands cleanly. He looks at the ceiling.
 
 "I don't know what I can live with until I'm living with it."
 
@@ -772,7 +772,7 @@ His eyes move across my face.
 
 "It is not obvious to you."
 
-Rude. Correct.
+Accurate enough to sting.
 
 "I communicate through atmosphere."
 
@@ -822,10 +822,10 @@ One eyebrow rises.
 
 "I thought you wanted me in control."
 
-"I contain multitudes."
+"Both can be true."
 
-"That phrase again."
+"Convenient."
 
-"Get used to it."
+"Extremely."
 
 I swing a leg over him. He lets me. For now. The knowledge makes me smile. Tomorrow I will still be Level Six. Warder. Homesick. In love with a woman somewhere on the east road. Falling harder for the man beneath me. Still mine, even when I choose not to be.
