@@ -108,7 +108,7 @@ The shield is not present to defend itself. We settle at twenty-eight bits in ca
 
 "Yes."
 
-She nods. Fair. I slide three pieces and four bits back across for the room. The rest goes into my purse. It is heavier than any amount of money I have owned here. Not enough to make me rich. Enough that tomorrow does not belong to whoever feeds me. Mara turns the next page.
+She nods. She knows exactly why. I slide three pieces and four bits back across for the room. The rest goes into my purse. It is heavier than any amount of money I have owned here. Not enough to make me rich. Enough that tomorrow does not belong to whoever feeds me. Mara turns the next page.
 
 "Now the card."
 
@@ -198,7 +198,7 @@ The door opens behind us. Iven walks in carrying a cup. Actually walks. Slowly. 
 
 "That does not improve them."
 
-Rude. He points at the symbol.
+I take that personally. He points at the symbol.
 
 "I thought it was a mason mark. Dain says it is not."
 
@@ -292,11 +292,11 @@ Vey looks almost proud.
 
 "Good."
 
-"Do not make that face."
+"Do not look pleased with yourself."
 
-"What face?"
+"I am merely attentive."
 
-"The one where you take credit for me becoming difficult."
+"You're taking credit for me becoming difficult."
 
 "I would never."
 
@@ -530,7 +530,7 @@ His eyebrows lift.
 
 "You planned that."
 
-"I contain multitudes."
+"I occasionally plan ahead."
 
 He groans. Below us, Harra shouts that if we are really taking the ridge job, she wants two pack frames, a proper rope inventory, and written authority to refuse any idiot who tries to make her carry decorative iron. I lean over the wall.
 
