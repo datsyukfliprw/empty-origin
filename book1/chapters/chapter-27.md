@@ -10,19 +10,7 @@ I hate it.
 
 On the first morning after East Relief, Harra brings the full-size frame past the west kitchen window in pieces.
 
-Not assembled.
-
-Pieces.
-
-Two ash side rails.
-
-Cross-bracing.
-
-The near anchor head.
-
-The new far shoe copied from the recovered return fitting.
-
-A spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
+Not assembled. Pieces: two ash side rails, cross-bracing, the near anchor head, the new far shoe and a spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
 
 I am sitting at the table with my left foot on a stool.
 
@@ -77,12 +65,6 @@ Sella snorts.
 I return to the stack of copied measurements in front of me.
 
 This is my job.
-
-Not stairs.
-
-Not shield.
-
-Not Brace.
 
 Paper.
 
@@ -299,10 +281,6 @@ Enough.
 Harra moves the stop bolts to two-finger travel.
 
 One problem reduced.
-
-Not solved.
-
-Reduced.
 
 That word is becoming my religion.
 
@@ -526,21 +504,7 @@ Foot up.
 
 Of course.
 
-The frame is longer than the first.
-
-Not heavier by much.
-
-Smarter.
-
-Near support locks to the existing stone anchor head without crossing the boundary.
-
-Far support carries the spring shoe.
-
-The middle section has a shallow cradle for a narrow rescue board.
-
-Not a bridge anyone leaves in place.
-
-A temporary independently supported path that can be withdrawn from both ends.
+The frame is longer than the first, not much heavier, and smarter: near anchor head, spring shoe, shallow cradle for the rescue board. Temporary. Independently supported. Built to come back out.
 
 Iven will control the far catch.
 
@@ -564,11 +528,7 @@ I appreciate the insult.
 
 The dry test uses sacks of wet sand.
 
-One Iven.
-
-Then one Iven plus gear.
-
-Then one Iven plus someone grabbing him badly.
+One Iven. Then Iven plus gear. Then Iven plus the weight of somebody grabbing him badly.
 
 Harra says that last test is unrealistic.
 
@@ -584,11 +544,7 @@ Release far latch.
 
 Then unload.
 
-Again.
-
-Again.
-
-Again.
+They repeat the sequence.
 
 On the fifth cycle, the near brace squeaks.
 
@@ -618,13 +574,9 @@ Oret points to the packing wedge.
 
 Harra swears.
 
-Not the frame.
+Not the frame. The shim.
 
-The shim.
-
-A tiny thing.
-
-The kind of tiny thing that kills people because the large parts look impressive.
+A tiny thing, exactly the kind that kills people while the impressive parts look fine.
 
 They replace it with an iron-backed wedge.
 
@@ -891,8 +843,6 @@ She almost smiles.
 “I get injured quickly too.”
 
 “I noticed.”
-
-Not affection.
 
 Professional assessment.
 
