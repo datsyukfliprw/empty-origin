@@ -824,10 +824,6 @@ Sella smiles without humor.
 
 Tolliver accepts it.
 
-No contest.
-
-No masculinity crisis.
-
 Useful.
 
 Harra rigs a retrieval line to Sella's belt that will not tighten unless she pulls twice.
