@@ -9692,9 +9692,7 @@ Sella closes her eyes for a second.
 
 Behind us, one of the dropped plates begins to rise.
 
-A pale head appears in the gap. Then another. Nameplates flicker too quickly to count cleanly, all level six. The stone stalls halfway up under the weight of whatever is gathering beneath it.
-
-Not a route.
+A pale head appears in the gap. Then another. Nameplates flicker too quickly to count cleanly, all level six. The stone stalls halfway up under the weight of whatever is gathering beneath it. That way is gone.
 
 "Forge," I say.
 
@@ -9782,9 +9780,7 @@ The forge is enormous in the way industrial spaces are enormous: not grand, just
 
 Three cold furnaces line one wall. A central trench runs black with water. Chains hang from ceiling tracks, and the wooden parts of the old worktables have rotted away, leaving iron frames standing by themselves.
 
-At the far end, a narrow stair climbs toward a square of gray daylight.
-
-Exit.
+At the far end, a narrow stair climbs toward a square of gray daylight, the exit we need.
 
 Between us and it, half the floor is gone.
 
@@ -9800,11 +9796,7 @@ Harra tests the nearest rail with the pry bar. Rust flakes into the dark.
 
 "Good. Our terminology is improving."
 
-Something scrapes below us.
-
-Slow.
-
-Heavy.
+Something scrapes below us, slow enough that each drag feels heavy.
 
 Nobody looks down immediately. This is the best decision we make all morning.
 
@@ -9872,9 +9864,7 @@ Harra calls it a vibration decoy, which proves engineers should not be allowed t
 
 The heaviest loose furnace door becomes our weight. Tolliver hauls it up. Sella wedges a broken stool leg beneath the release. When kicked free, the door will drop in three short jerks as damaged links pass the hook, then leave the damper swinging against the chimney frame.
 
-Three large impacts, followed by smaller ones.
-
-Enough, we hope, to tell the borer the wrong story.
+Three large impacts followed by smaller ones should, we hope, tell the borer the wrong story.
 
 Harra will ride the trolley frame with the salvage and two iron table rails for a temporary deck. Once she reaches the far landing, she can secure the return line and bring the frame back for us.
 
@@ -10126,7 +10116,7 @@ Harra can shift it with the trolley chain and the recovered shoe, but not quickl
 
 The old foreman's office has one door, stone walls, and no floor seams.
 
-Harra checks the ceiling. Tolliver checks the ventilation opening. Sella looks under the desk, because apparently this is who we are now.
+Harra checks the ceiling. Tolliver checks the ventilation opening. Sella looks under the desk, because this is who we are now.
 
 Clear.
 
@@ -10230,7 +10220,7 @@ My chest tightens. "To what?"
 
 "That."
 
-There it is. Not an ultimatum. Not permission either. Just a thing between us that has become too large to pretend is furniture.
+There it is: a thing between us that has become too large to pretend is furniture. She is not giving me an ultimatum or permission. She is making sure I stop pretending I missed it.
 
 I reach for her hand.
 
@@ -10270,7 +10260,7 @@ The rescue chamber shivered before the frame caught.
 
 The East Relief Works woke under load.
 
-Same regional system. Not proof, but enough to carry home.
+Same regional system. It proves nothing yet, but I want Harra to see it.
 
 "We take it," Harra says.
 
@@ -10336,11 +10326,7 @@ Then another line appears.
 
 **[TECHNIQUE RECOGNITION: RELEASE UNDER LOAD]**
 
-Not an ability.
-
-Recognition.
-
-The System has named something I did.
+It is not an ability, just the System putting a name to something I did.
 
 Across the shelter, Tolliver rebuilds the fire. Sella cuts cheese with the same knife she offered as emotional support against a level-nine monster. Harra has set the return shoe beside her like a baby.
 
@@ -10370,7 +10356,7 @@ Breakfast, not murder. Sella cuts food like she expects it to insult her.
 
 She comes into view with bread in one hand and cheese in the other. Her hair is tied back badly, soot streaks one cheek, and one sleeve is torn at the elbow.
 
-Beautiful. Annoying.
+Beautiful, which is annoying.
 
 Some reckless part of me supplies *mine*. I put a lid on that before it grows teeth.
 
@@ -10642,7 +10628,7 @@ The forge track answers for me.
 
 "Then no powered work today."
 
-Today. Not forever.
+The word *today* is the part I hold on to.
 
 She splints the ankle and makes me promise to call before I stand.
 
@@ -10744,7 +10730,7 @@ Harra smiles.
 
 "We can build it."
 
-That changes the room.
+The room shifts around the possibility.
 
 The thing we carried out of East Relief is no longer just salvage.
 
@@ -10804,7 +10790,7 @@ I fold the paper along its old crease.
 
 No hesitation.
 
-It hurts because she means it.
+The clean certainty in her yes catches under my ribs.
 
 "Then take it."
 
@@ -10980,7 +10966,7 @@ Harra looks at me.
 
 My pulse jumps.
 
-No ability. No nameplate. Just people with hands on real things waiting for my decision.
+There is no ability or nameplate to hide behind, only people with their hands on real things waiting for my decision.
 
 "Release far latch."
 
@@ -11002,7 +10988,7 @@ Otherwise the structure carries the stored turn.
 
 I look down at my splinted foot.
 
-Apparently the lesson followed me home.
+The dungeon lesson followed me home whether I wanted it or not.
 
 ---
 
@@ -11090,7 +11076,7 @@ Harra smiles. Pell swears softly. Oret studies the prototype as if the answer mi
 
 That matters enough that I leave it alone.
 
-Maybe the dungeon ended at the spill channel. Maybe it ended when we found the shoe. Maybe it ends here, when what we survived becomes something another person can build.
+I do not know whether the System counted the spill channel, the shoe, or this moment when what we survived becomes something another person can build. I cannot tell where one lesson ended and the next began.
 
 Tolliver steps closer.
 
@@ -11224,13 +11210,7 @@ Sella sees.
 
 Of course she sees.
 
-Her head stays against me. I put my hand into her hair.
-
-Not apology.
-
-Not possession.
-
-Just contact.
+Her head stays against me. I put my hand into her hair because I want the contact, not because it can fix or claim anything.
 
 Four days. Two to build. Three off the ankle. Iven waiting across a boundary that cuts rope, wax, and ash. Rusk somewhere out there with a claim she has not abandoned. Level five. Three reserve out of seven.
 
@@ -11276,7 +11256,7 @@ People say this to injured people because the true sentence is meaner: rest is w
 
 I hate it.
 
-On our first full morning back at Rook, Harra carries the rescue frame past the west kitchen window in pieces. Two ash rails. Cross-bracing. Near anchor head. New far shoe. Spring housing. Oret apparently forged half of it before breakfast because sleep is optional after level twenty.
+On our first full morning back at Rook, Harra carries the rescue frame past the west kitchen window in pieces. Two ash rails. Cross-bracing. Near anchor head. New far shoe. Spring housing. Oret forged what looks like half of it before breakfast. Level twenty must come with an exemption from sleep.
 
 I sit at the table with my left foot on a stool.
 
@@ -11368,9 +11348,7 @@ Her eyes narrow.
 
 She takes the paper to Harra.
 
-I hate victories that walk away without me.
-
-Still a victory.
+I hate that this victory walks away without me, but it is still a victory.
 
 ---
 
@@ -11546,7 +11524,7 @@ She kisses my hair.
 
 No solution appears.
 
-Apparently adult relationships are allowed to remain unsolved. A terrible design choice.
+Nothing resolves just because both of us are being reasonable. Terrible design choice.
 
 ---
 
@@ -11596,13 +11574,7 @@ He puts down the line.
 
 Outside, under canvas, the full rescue frame is finally assembled: longer than the first one, not much heavier, and built to come apart instead of dragging two pieces of stone into an argument.
 
-I am allowed to watch the dry tests from the doorway.
-
-Chair.
-
-Foot up.
-
-Of course.
+I am allowed to watch the dry tests from the doorway, in the chair again with my foot up while everyone else gets to touch the machinery.
 
 Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the person crossing. I call hold or release.
 
@@ -11636,9 +11608,7 @@ Harra stops.
 
 The frame has not moved.
 
-The anchor has.
-
-Less than a nail-width.
+The anchor has, less than a nail-width.
 
 Dain crouches and touches the stone. "No crack."
 
@@ -11650,11 +11620,7 @@ Oret points to the packing wedge.
 
 Harra swears.
 
-Not the impressive part.
-
-The shim.
-
-Exactly the sort of small thing that kills people while everybody is staring at the machine.
+A compressing shim moved the anchor while everybody was staring at the machine. Exactly the sort of small thing that kills people.
 
 They replace it with an iron-backed wedge.
 
@@ -11668,9 +11634,7 @@ For once, I am not interested in being rewarded for paying attention.
 
 ---
 
-Captain Rusk returns before sunset.
-
-Not with six crew this time. Three. No shear legs. One mule with tackle and a covered bundle.
+Captain Rusk returns before sunset with three crew instead of six, no shear legs, and one mule carrying tackle and a covered bundle.
 
 Pell meets her halfway across the yard.
 
@@ -11748,11 +11712,7 @@ Rusk looks at me.
 
 "If the extraction brings disputed fittings across, you leave them in place or put them into joint hold pending hearing."
 
-There it is.
-
-Not a wall.
-
-A hand on the box after we open it.
+There it is. Rusk has not put a wall in front of the rescue. She has put a hand on the box we may open afterward.
 
 I think of the gray door in Iven's room. The EXIT sign. The Earth-made fasteners. The objects that should not be here and therefore might be the only physical proof that somebody, somehow, crossed the same impossible distance I did.
 
@@ -12008,17 +11968,7 @@ There are too many clocks in the room.
 
 I stop looking at all of them.
 
-Pressure.
-
-Vibration.
-
-Landing.
-
-Three conditions.
-
-One job.
-
-Bring him home alive.
+Pressure, vibration, landing. Three things to watch, and beneath all of them one job: bring him home alive.
 
 CHAPTER TWENTY-EIGHT
 
@@ -12094,9 +12044,7 @@ The frame stays on the near ledge while Iven catches the far guide loop with his
 
 "Guide only."
 
-We have all become unbearable.
-
-Good.
+We have all become unbearable about the procedure, which is exactly what I want today.
 
 He draws the thin cord to his side without taking load. Harra raises one hand.
 
@@ -12194,11 +12142,7 @@ He puts it on a third time.
 
 I love her.
 
-The thought arrives without warning and without qualification.
-
-Not new.
-
-Just suddenly impossible to pretend I have not known it.
+The thought arrives without warning and feels less like discovery than getting caught by something I already knew.
 
 Sella glances toward me, eyes softening for half a second, then turns back to Iven.
 
@@ -12274,11 +12218,7 @@ Sella's voice goes flat. "And Iven?"
 
 "No."
 
-Tolliver looks at me.
-
-Not telling.
-
-Waiting.
+Tolliver looks at me and waits for my call.
 
 Iven has heard enough.
 
@@ -12290,11 +12230,7 @@ Harra answers immediately. "None."
 
 Behind him, the imported cabinet catches the gray light.
 
-Maybe it holds nothing.
-
-Maybe it holds everything.
-
-The uncertainty is the part that hurts.
+I have no idea what it holds, and the uncertainty is the part that hurts.
 
 "Iven comes with clothes, papers, food, water, and non-iron personal things," I say.
 
@@ -12306,17 +12242,7 @@ Iven lifts the bed-frame strip. "This?"
 
 He lets it fall.
 
-The small sound of metal hitting stone lands in my chest harder than it should.
-
-There.
-
-That is the cost.
-
-Not theoretical.
-
-Not later.
-
-Today, the mystery stays on the far side.
+The small sound of metal hitting stone makes the cost immediate: today, the mystery stays on the far side so Iven can come out clean.
 
 "Continue," I say.
 
@@ -12392,9 +12318,7 @@ Tolliver looks over.
 
 He accepts the answer and looks back to the line.
 
-My body chooses this exact moment to find that attractive.
-
-I hate timing.
+The fact that he accepts it without taking over lands somewhere inconvenient. I put it away.
 
 ---
 
@@ -12654,13 +12578,7 @@ The frame jerks.
 
 Iven falls clear on his side.
 
-Alive.
-
-Far side.
-
-Not rescued.
-
-Alive.
+He is alive on the far side. The rescue failed. He did not.
 
 The severed brace disappears into whatever exists between here and there.
 
@@ -13020,17 +12938,13 @@ Pell hears it too.
 
 Rusk steps back from the line.
 
-Not defeated.
-
-Contained.
-
-Good enough.
+Rusk is not defeated, only contained, and I can live with that for the next hour.
 
 ---
 
 Sella finds me alone for perhaps thirty seconds before the second attempt.
 
-Thirty seconds is apparently what romance gets today.
+Today romance gets exactly thirty seconds.
 
 I am checking the rescue belt when she takes it from my hands.
 
@@ -13082,7 +12996,7 @@ Sella stops breathing.
 
 So do I.
 
-Excellent timing.
+Perfect. I confess love with a rescue crew waiting twenty steps away.
 
 "You absolute asshole."
 
@@ -13150,15 +13064,7 @@ The far shoe takes one finger. The near sleeve half.
 
 Iven puts on the belt with no metal except what cannot be avoided in his clothes. His papers are tied flat against his chest. He has one cloth water flask.
 
-No cabinet.
-
-No bed-frame strip.
-
-No salvaged answers.
-
-Just him.
-
-That is enough.
+He brings no cabinet, no bed-frame strip, no salvaged answers, only himself and the papers against his chest. That has to be enough.
 
 Sella checks the belt.
 
@@ -13290,9 +13196,7 @@ The near sleeve is already at one.
 
 The frame goes rigid.
 
-Not because the design failed.
-
-Because both places we gave it to move have been used.
+The design did what it could. We have simply used every inch of travel we gave it.
 
 Vibration climbs to six.
 
@@ -13356,9 +13260,7 @@ I set both forearms against the near anchor shoe and Brace.
 
 **6 / 7 → 5 / 7**
 
-Not the frame.
-
-The anchor shoe.
+I am holding the anchor shoe, not the whole frame.
 
 One breath of load so Harra can open the near release.
 
@@ -13408,9 +13310,7 @@ Then he hauls again.
 
 Sella never lets go of the tether.
 
-They are not saving the frame.
-
-They are saving him.
+Nobody wastes a hand trying to preserve the frame; every adjustment serves Iven.
 
 The boundary cuts the last empty piece of board.
 
@@ -13436,19 +13336,7 @@ Possibly me.
 
 I push up on my hands.
 
-Iven is on our side.
-
-All of him.
-
-Alive.
-
-No music.
-
-No light.
-
-No System announcement.
-
-A tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
+Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
 
 Iven lifts his head and looks at me.
 
@@ -13472,15 +13360,11 @@ He tries to sit.
 
 She pushes him flat.
 
-He looks offended.
-
-Good.
-
-Offended is alive.
+He looks offended, so ordinarily irritated that relief almost knocks the breath out of me.
 
 My ankle is still screaming.
 
-The mender notices because apparently bodies have no secrets from her.
+The mender notices because bodies have no secrets from her.
 
 "You."
 
@@ -13505,8 +13389,6 @@ My ankle votes.
 "Fine. He can carry me."
 
 Tolliver waits.
-
-Of course he does.
 
 "Can I?"
 
@@ -13542,11 +13424,7 @@ Dain is watching the dead pointer.
 
 Tolliver's eyes meet mine.
 
-Trust has become something warmer and more dangerous.
-
-Later.
-
-Not now.
+The trust between us has changed temperature. I can deal with that later, when nobody is bleeding or vomiting.
 
 I rest my head against his shoulder for exactly one breath.
 
@@ -13608,9 +13486,7 @@ Then another line appears.
 
 I stare at it.
 
-Not because the phrase is profound.
-
-Because I know exactly which moment it means.
+The phrase itself is plain. What catches me is knowing exactly which moment the System means.
 
 The measure closes.
 
@@ -13624,9 +13500,7 @@ Rusk still has her claim.
 
 Tolliver is standing ten feet away with somebody else's blood on one sleeve.
 
-Nothing is solved.
-
-Everything is different.
+The list of unsolved problems is still ridiculous, but the shape of my life has changed anyway.
 
 "Level?" Sella asks.
 
@@ -13740,11 +13614,7 @@ Rusk nods once.
 
 "I assumed."
 
-She leaves.
-
-No speech.
-
-No threat.
+She leaves without a speech or threat.
 
 Paperwork survives everything.
 
