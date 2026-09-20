@@ -5986,9 +5986,9 @@ He looks down at my hand, still halfway between us.
 
 “I don’t know if I can do it like that.”
 
-I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he didn’t want what I was offering.
+I lower it. I had imagined anger, maybe apologizing for how I told him. I had not imagined him simply deciding he might not want what I was offering.
 
-He does not tell me to choose or turn my wanting into his permission to give. He keeps his own boundary, which is harder to argue with than anger.
+He does not tell me to choose. He tells me what he may not stay for. I stand there with my hand hanging between us and no argument that fits.
 
 “Tell me when you know.”
 
@@ -6128,7 +6128,7 @@ I put my hand down, then bring it straight back to my throat.
 
 **[RUN: WARDER]**
 
-Five spaces. Two full. I hold them open until Sella comes down the steps.
+Five reserve marks now. Two full. I keep the measure open until Sella comes down the steps.
 
 “You saw?” I ask.
 
@@ -6378,7 +6378,7 @@ She comes to the table and studies the drawing. “There’s no place to stand.�
 
 I wait for her to look at me. She keeps talking to Dain.
 
-They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My pay, lodging, and return passage stay unchanged. I sign beneath the new dates.
+They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My eight bits a day, lodging, and return passage stay unchanged. Sella gets twelve bits a day for guard work; Tolliver gets ten for survey and field support. We are all hired through the same last day. I sign beneath the new dates.
 
 Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
@@ -6438,7 +6438,9 @@ I want him to say he won’t. Behind him, a crew member tests the tackle chain w
 
 He gives me a tired look. “I do know her kind of work, Maya.”
 
-That is what frightens me. I leave him beside the well and take my money upstairs.
+The folded paper disappears back inside his coat. Rusk asked him because he knows exactly how to do her kind of work.
+
+I leave him beside the well and take my money upstairs.
 
 CHAPTER EIGHTEEN
 
@@ -6534,7 +6536,7 @@ My excitement rearranges itself.
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Put that foot on ground that shifts, turn, jump, or reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
@@ -6600,7 +6602,7 @@ We walk it first.
 
 On the next attempt I watch the ground instead of her hand.
 
-Sella presses straight into the center this time. I choose the patch of ground, let the front foot slide forward, and follow the pressure instead of her hand. Two points leave me. The shield stays where I intended while my weight moves beneath it.
+Sella presses straight into the center this time. I choose the patch of ground, step the front foot forward, and follow the pressure instead of her hand. Two points leave me. The shield stays where I intended while my weight moves beneath it.
 
 One breath. Foot settles.
 
@@ -6696,7 +6698,7 @@ She puts the roots back into her sack. It takes longer than pouring them out.
 
 Sella sends her answer east that afternoon.
 
-I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. Still, it feels as though a road has closed under my feet.
+I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. I watch the cart go through the gate. Five days ago that note would have carried her toward a job; now it closes one.
 
 When she turns, I am still standing there.
 
@@ -6746,7 +6748,7 @@ Bera offers to show the sound path. Pell agrees to pay her for the morning and k
 
 It feels different hearing my name among the jobs. I try the position with an empty frame while Harra corrects my stance and Sella drills the retreat.
 
-No reserve. I only have one left, and tomorrow needs more than my enthusiasm.
+No powered practice. I only have one reserve left, and tomorrow needs more than my enthusiasm.
 
 ---
 
@@ -6820,7 +6822,7 @@ The answer comes out too fast. I make myself breathe.
 
 “Yes,” I say again. “Very.”
 
-Something in her face loosens, as though she has been holding a door open and waiting to know whether I meant to walk through it.
+Her shoulders ease. She had been waiting for the second answer.
 
 I catch the front of her tunic and pull her back to me.
 
@@ -6850,11 +6852,9 @@ Getting undressed is less graceful than I imagined. My skirt catches under me. H
 
 Then her tunic is on the floor.
 
-I have seen women naked before. Locker rooms. Bedrooms. Ordinary bodies when nobody is trying to make them mean anything.
+I have seen women naked before. Locker rooms. Bedrooms. Ordinary bodies I could look at without forgetting where my hands were.
 
-This is not that.
-
-Sella watches me watching her. There is no embarrassment in it, but there is attention. A question she is letting me answer without words.
+Sella watches me watching her, and suddenly I have no idea where to put mine. She doesn’t look embarrassed. She looks attentive, waiting.
 
 I put my hand on her breast.
 
@@ -6918,9 +6918,9 @@ I cover my face with one hand.
 
 I start laughing and then her fingers move over my clit and the laugh breaks into something else.
 
-There is no room left for embarrassment. Only sensation.
+The heat in my face stops mattering when she moves again.
 
-Her mouth against my breast. Her thigh warm against mine. The rasp of her breathing near my ear. Her fingers learning what makes me tense and what makes me open, not with the efficient precision she uses teaching shield work, but with patience. Curiosity. Pleasure in the fact that I am losing mine.
+Her mouth against my breast. Her thigh warm against mine. The rasp of her breathing near my ear. Her fingers learning what makes me tense and what makes me open, not with the efficient precision she uses teaching shield work, but with patience and curiosity and obvious pleasure in the fact that I am losing mine.
 
 When I grab her wrist, she stops immediately.
 
@@ -6930,7 +6930,7 @@ When I grab her wrist, she stops immediately.
 
 She does.
 
-The pressure builds slowly enough that I feel every part of it. My body gathers around her hand. My thoughts narrow until there is nothing left to rationalize, nothing to compare, nothing to be useful for.
+The pressure builds slowly enough that I feel every part of it. My body gathers around her hand. My thoughts finally stop skittering. I can feel her hand, her mouth at my breast, the sheet twisted in my fist, and I don’t have to do anything except stay with it.
 
 I come with my face turned into her neck, biting down on a sound that escapes anyway.
 
@@ -6976,13 +6976,9 @@ The word comes rougher than mine did.
 
 I smile against her skin and keep going.
 
-The first taste of her makes something hot and startled twist through me. Then she moves beneath my mouth and there is no room for observation.
+The first taste of her makes something hot and startled twist through me. Then her hips lift into my mouth, and I stop trying to notice anything except what makes her do it again.
 
-I learn her badly at first.
-
-Then better.
-
-Her hand tightens in my hair when my tongue finds the place that makes her hips lift. I stay there. She says my name once, sharp enough that I feel it in my chest, and again when she comes.
+I learn her badly at first, then better. Her hand tightens in my hair when my tongue finds the place that makes her hips lift. I stay there. She says my name once, sharp enough that I feel it in my chest, and again when she comes.
 
 Afterward I crawl up beside her and discover that smugness is much easier to recognize from the inside.
 
