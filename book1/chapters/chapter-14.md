@@ -8,9 +8,9 @@ She is across the workshop with a slate against her chest. Three fingers raised.
 
 The image is small, but I can see her broken nose and the dark edge of one braid. I bend closer until Harra catches my sleeve.
 
-“Stay back. I'll move the glass.”
+“Stay back. I’ll move the glass.”
 
-Mara has Elena's drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella's chalk marks through the hood. A red handle retracts the whole assembly.
+Mara has Elena’s drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella’s chalk marks through the hood. A red handle retracts the whole assembly.
 
 Dain makes me use it. The cage slides back through the pipe, and Sella lowers her slate.
 
@@ -24,7 +24,7 @@ At the headwall, the new iron clamp is visible from the gallery door.
 
 It grips the square upper end of a spindle that comes through the floor, with a bar laid across two stone sockets so the whole thing cannot turn. Dain shows me the chalk witness lines where iron meets iron. Below it, through a narrow gap between boards, I can see the top of a much larger wheel in darkness. Nobody can reach that wheel from here without lifting the floor.
 
-“The clamp holds this setting,” he says. “Not the one before the test. We'd have to move it to put it back. We're not moving it.”
+“The clamp holds this setting,” he says. “Not the one before the test. We’d have to move it to put it back. We’re not moving it.”
 
 I nod.
 
@@ -38,21 +38,21 @@ A knife of light across dusty stone. I have seen brighter cracks under bathroom 
 
 Sella touches the doorframe beside my shoulder.
 
-“You're blocking the steps.”
+“You’re blocking the steps.”
 
 “Sorry.”
 
 “Stand here.”
 
-She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn't turn away.
+She puts me on a dry patch beside her, outside the gallery while the fitters finish. Down in the yard, Pell is talking to a man whose trousers are mud-stained to the knees. He has brought drowned seedlings in a basket. Even from up here I can see the way he holds them out and the way she doesn’t turn away.
 
 Four days until the crew, yesterday. Three now.
 
 Some part of me had expected the light to stop that count.
 
-Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena's measurements while Harra comes down to collect a smaller wrench.
+Mara arrives with the notebook in a closed carrying tray. She sets up on a plank across two trestles in the yard, under a cloth awning beside the stair. We finish checking Elena’s measurements while Harra comes down to collect a smaller wrench.
 
-The two-mirror drawing fits the sleeve dimensions. It doesn't tell us what is on the other side today.
+The two-mirror drawing fits the sleeve dimensions. It doesn’t tell us what is on the other side today.
 
 Dain has Mara record the displaced indicator mark beside the old one. Harra checks it against the spindle. The clamp stays where it is.
 
@@ -72,7 +72,7 @@ Air goes into the wall.
 
 I stand behind the frame with my hands on my own skirt.
 
-“Steady,” Dain says. He isn't speaking to me.
+“Steady,” Dain says. He isn’t speaking to me.
 
 Harra feeds the caged mirror through the sleeve until a mark on the rod reaches its mouth. She stops there, fixes the stop collar, then steps aside.
 
@@ -92,7 +92,7 @@ I describe the water, the dark arch, the strip of light. My voice sounds like so
 
 Dain adjusts a fraction farther.
 
-The strip widens in the mirror. It hasn't changed size in the arch; we are looking more directly into it. I can see four steps, a landing, part of a pale wall beyond. The steps are edged with dark bands. On the landing is a metal rail with a right-angle turn, its paint chipped around the bend.
+The strip widens in the mirror. It hasn’t changed size in the arch; we are looking more directly into it. I can see four steps, a landing, part of a pale wall beyond. The steps are edged with dark bands. On the landing is a metal rail with a right-angle turn, its paint chipped around the bend.
 
 My hand lifts off my skirt.
 
@@ -108,7 +108,7 @@ I pull back so fast my hair catches on the hood.
 
 “What?” Sella asks.
 
-I can't get the strands loose. I keep pulling at them with stupid, weak fingers while the mirror sits there showing a room that should be on my planet.
+I can’t get the strands loose. I keep pulling at them with stupid, weak fingers while the mirror sits there showing a room that should be on my planet.
 
 “Hold still.”
 
@@ -120,7 +120,7 @@ The word is still there.
 
 Dain looks toward the sleeve. “A way out?”
 
-“That's what the sign says.”
+“That’s what the sign says.”
 
 I look at the bar on the door. My college has bars like that. Every store, every back corridor. A boring door whose whole job is being there when you need to leave.
 
@@ -138,11 +138,11 @@ My eyes water. I blink and the door swims back into focus.
 
 Dain asks about the stair. I make myself look below the sign.
 
-“Four steps and a landing. There could be more below what we can see. I can't tell if they're wet.”
+“Four steps and a landing. There could be more below what we can see. I can’t tell if they’re wet.”
 
-“Elena's sketch?”
+“Elena’s sketch?”
 
-“Too little detail to match the door.” My eyes go back to the red letters. “That's English, though. The door looks like doors where I come from.”
+“Too little detail to match the door.” My eyes go back to the red letters. “That’s English, though. The door looks like doors where I come from.”
 
 Mara writes it down. I watch her pen stop short of naming a place.
 
@@ -154,7 +154,7 @@ We take turns at the hood. Dain describes the rail in words that mean constructi
 
 No one asks which part.
 
-She takes her copy back outside and sits where the light doesn't have to be explained.
+She takes her copy back outside and sits where the light doesn’t have to be explained.
 
 ---
 
@@ -170,19 +170,19 @@ I sit on the low wall with my bowl balanced between my knees. Sella sits beside 
 
 I pick a bit of barley out of the stew with the spoon, then put it back.
 
-“I've stood in a hundred places like that. I couldn't tell you which one if you showed me a picture. There should be a floor plan on the wall. A bin. Somebody leaving a box under a sign that tells them not to.”
+“I’ve stood in a hundred places like that. I couldn’t tell you which one if you showed me a picture. There should be a floor plan on the wall. A bin. Somebody leaving a box under a sign that tells them not to.”
 
 “Could be farther round.”
 
 “Yes.”
 
-She doesn't tell me it will be. I am grateful and angry at once, tired of carrying both.
+She doesn’t tell me it will be. I am grateful and angry at once, tired of carrying both.
 
 “Was Elena right?”
 
 “About the lights.”
 
-“Then that's one thing.”
+“Then that’s one thing.”
 
 I look at her. She has set her bread on her knee without taking a bite.
 
@@ -220,7 +220,7 @@ I give him every useless detail I can remember.
 
 ---
 
-The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn't tall enough, and the pole wants to roll.
+The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn’t tall enough, and the pole wants to roll.
 
 Sella braces its wooden cradle against the workshop pier with her forearms. Harra tightens one screw and frowns at the next.
 
@@ -232,7 +232,7 @@ Dain is washing grease from the lens cloths. Sella starts to lower the cradle.
 
 All three look at me. I regret sounding eager. I am eager anyway.
 
-“Bench takes the weight,” Sella says. “You keep it against the pier. It can't go far, but if it turns, her screw goes crooked.”
+“Bench takes the weight,” Sella says. “You keep it against the pier. It can’t go far, but if it turns, her screw goes crooked.”
 
 “I can do that.”
 
@@ -254,7 +254,7 @@ One breath. Harra turns the screw.
 
 Two. “Done,” she says.
 
-I end the hold and step back. The cradle stays against the pier under her hand. My shoulder pulls, but the old ache doesn't sharpen.
+I end the hold and step back. The cradle stays against the pier under her hand. My shoulder pulls, but the old ache doesn’t sharpen.
 
 Sella notices me noticing.
 
@@ -262,11 +262,11 @@ Sella notices me noticing.
 
 “Better.”
 
-I had checked a full four this morning. Three now. I keep the number to myself, pleased in a way I can't make casual.
+I had checked a full four this morning. Three now. I keep the number to myself, pleased in a way I can’t make casual.
 
 Harra carries the assembly out. Sella stays long enough to tap the place on the pier where my forearms were.
 
-“How's your arm?”
+“How’s your arm?”
 
 “Better.”
 
@@ -284,7 +284,7 @@ Then fingers close around the painted bend.
 
 A hand.
 
-“There's somebody there.”
+“There’s somebody there.”
 
 The gallery stills around me.
 
@@ -292,17 +292,17 @@ The gallery stills around me.
 
 “By the rail. Beyond the steps.”
 
-I can't see the whole person. A sleeve, dark at the cuff. The side of a head, mostly gray hair. They lean toward the opening, but the edge of black stone hides their face.
+I can’t see the whole person. A sleeve, dark at the cuff. The side of a head, mostly gray hair. They lean toward the opening, but the edge of black stone hides their face.
 
 “Can they see us?”
 
-“I don't know.”
+“I don’t know.”
 
 I want to shout. There is a person beyond the wall, and my whole body has already begun the breath.
 
 Dain touches my sleeve.
 
-“We can't hear their room. Speak normally first.”
+“We can’t hear their room. Speak normally first.”
 
 “Hello?”
 
@@ -328,7 +328,7 @@ I watch the rectangle tilt. The person pauses, moves it back, then holds.
 
 My mouth has gone dry.
 
-There are two mirrors between my face and the sleeve, another beyond the arch. I can't work out what they see, so I put my hand beside the viewing glass and raise two fingers.
+There are two mirrors between my face and the sleeve, another beyond the arch. I can’t work out what they see, so I put my hand beside the viewing glass and raise two fingers.
 
 Nothing.
 
@@ -372,7 +372,7 @@ The rail stands empty.
 
 I keep my hand beside the glass until my arm shakes. I want the person back badly enough that if Dain offered me the wheel now, I might forget every agreement we made.
 
-He doesn't offer.
+He doesn’t offer.
 
 He has Mara bring a slate.
 
@@ -380,9 +380,9 @@ He has Mara bring a slate.
 
 We wait through the afternoon.
 
-Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth's slight inward draw doesn't change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
+Dain limits each look to a short interval, shutter closed between them so Harra can check the sleeve and the clamp. The chalk lines stay aligned. The cloth’s slight inward draw doesn’t change. Nobody spends reserve trying to hold the opening, and nobody turns the wheel.
 
-I write *HELLO* large on the slate, with Mara's local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
+I write *HELLO* large on the slate, with Mara’s local word beneath it. Dain checks its reflection with a hand mirror in the yard, then has us hold it beside the viewing glass. My head keeps blocking the image. Harra moves me, and at last the words have a clear path through.
 
 The next time I look, the person has returned.
 
@@ -394,7 +394,7 @@ Three broad marks cover it, followed by another word. Local script. I get the sa
 
 I read it aloud.
 
-Dain shuts his eyes briefly. “They want to know who's at the wheel.”
+Dain shuts his eyes briefly. “They want to know who’s at the wheel.”
 
 “Write your name.”
 
@@ -408,13 +408,13 @@ I wait for another word. Instead the person lowers themselves until their face a
 
 A man. Gray beard, one side cut much shorter than the other. Dark hollows beneath his eyes. His mouth is moving.
 
-I can't hear him.
+I can’t hear him.
 
-“Tell him we can't hear,” Dain says.
+“Tell him we can’t hear,” Dain says.
 
 I relay it to Mara. She writes. We hold it up.
 
-The man's mouth stops moving. He looks down, then away from us. For several seconds nothing is visible except one hand pressed flat against the rail.
+The man’s mouth stops moving. He looks down, then away from us. For several seconds nothing is visible except one hand pressed flat against the rail.
 
 When the board comes back, there is a name on it.
 
@@ -422,4 +422,4 @@ When the board comes back, there is a name on it.
 
 Mara catches the doorpost. Her pen falls onto the stone.
 
-I have spent all day making words into answers. For the first time, I can't make myself read them aloud.
+I have spent all day making words into answers. For the first time, I can’t make myself read them aloud.
