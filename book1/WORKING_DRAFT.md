@@ -13700,21 +13700,159 @@ He looks at his sons.
 
 ---
 
-The mender keeps me off the ankle for six more days. Six. I negotiate that into five and a half by walking perfectly on the sixth morning while she watches me with open hostility. Flat ground first. Then stairs. Two days later, light shield work. Normal walking comes back in pieces so small I almost miss how much I missed it. The first morning I cross from my room to breakfast without anybody carrying me, I nearly cry over a hallway. I do not. Barely. Sella sends no message.
+The mender keeps me off the ankle for six more days.
 
-There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people's heads. On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where Sella and I sat with the onions between us. I can still point to the place my heel nearly landed.
+Six.
 
-I spend twenty minutes composing a letter in my head before remembering I do not know where she will sleep tomorrow, let alone where to send it. Loving someone on a road has terrible administrative support. At breakfast the next morning, somebody asks if the place across from me is free. I say yes before realizing it had become Sella's without either of us deciding that. I eat with somebody else's elbow there and discover grief is petty enough to care about benches. I work.
+I negotiate that into five and a half by walking perfectly on the sixth morning while she watches me with open hostility. Flat ground first. Then stairs. Two days later, light shield work. Normal walking comes back in pieces so small I almost miss how much I missed it.
 
-Harra makes me catalog the surviving rescue parts. Pell makes me sit through hearing preparation over Rusk's claim. Vey brings copies. Iven gives a formal account. Teren interrupts twice. Lio steals Vey's pen. Life continues with insulting competence. Tolliver is around without orbiting me. He eats at the same table. Helps Harra move iron when asked. Takes route jobs that keep him away most of the day. He does not touch me. At first, I am grateful. Then I am annoyed. Then I become annoyed that I am annoyed.
+The first morning I cross from my room to breakfast without anybody carrying me, I nearly cry over a hallway.
 
-On the ninth night after Sella leaves, I find him in the yard splitting kindling. His shirt sleeves are rolled. His forearms are doing deeply unnecessary things. I have survived another world, a dungeon, a collapsing rescue frame, and emotional honesty. None of these provide immunity to forearms. He looks up.
+I do not.
+
+Barely.
+
+Sella sends no message.
+
+There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people's heads. Knowing that does not stop me from looking toward the gate whenever wheels enter the yard.
+
+On the third day, I find one of her hair ties under my bed.
+
+It is a stupid thing. A strip of dark cloth knotted once where she shortened it. I sit on the floor with it in my palm until my ankle starts complaining and the mender catches me there.
+
+She looks at the cloth.
+
+Then at me.
+
+For once, she does not say anything rude.
+
+Worse.
+
+"Don't," I tell her.
+
+"I did not speak."
+
+"Your face did."
+
+"My face is medically neutral."
+
+"Your face is a crime."
+
+She helps me up anyway.
+
+I put the tie in the top drawer beside my Earth shirt. Not hidden. Not displayed. Just there.
+
+That turns out to be harder.
+
+---
+
+On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof.
+
+The onions are still there.
+
+Of course they are.
+
+The world has the decency to ruin relationships and the indecency to preserve vegetables.
+
+I sit where Sella sat the night she told me she would leave. The roof tile is colder now. My ankle tolerates the climb. I can still point to the place my heel nearly landed in the onions when she made me laugh.
+
+For a while I eat bread and look east.
+
+Then I take out one of my notebooks.
+
+I write:
+
+*Sella.*
+
+Nothing else comes.
+
+I try again.
+
+*I miss you.*
+
+Too small.
+
+*I love you and I am furious that you are gone and proud that you went and I hate that those are all the same sentence.*
+
+Too much.
+
+I scratch nothing out.
+
+That is new.
+
+I add:
+
+*Iven is sleeping through the night. Teren cheats at cards. Lio has stolen two more pens from Vey. Harra says the frame can be rebuilt but not before the hearing. My ankle is mostly functional. Tolliver is being infuriatingly respectful.*
+
+I stare at that last line.
+
+Then below it:
+
+*I hate that I noticed.*
+
+My face gets hot even though nobody is here.
+
+I close the book.
+
+There is still nowhere to send it.
+
+Loving someone on a road has terrible administrative support.
+
+I leave the page intact anyway.
+
+---
+
+At breakfast the next morning, somebody asks if the place across from me is free.
+
+I say yes before realizing it had become Sella's without either of us deciding that.
+
+A stoneworker named Nemm sits there and spends ten minutes explaining why the kitchen ruins oats.
+
+I hate him for three of those minutes.
+
+Then he makes a good point about salt and becomes merely unfortunate.
+
+Grief is petty enough to care about benches.
+
+I work.
+
+Harra makes me catalog the surviving rescue parts. Pell makes me sit through hearing preparation over Rusk's claim. Vey brings copies. Iven gives a formal account. Teren interrupts twice. Lio steals Vey's pen again.
+
+Life continues with insulting competence.
+
+Tolliver is around without orbiting me. He eats at the same table. Helps Harra move iron when asked. Takes route jobs that keep him away most of the day.
+
+He does not touch me.
+
+At first, I am grateful.
+
+Then I am annoyed.
+
+Then I become annoyed that I am annoyed.
+
+None of those feelings are Sella's fault.
+
+That matters.
+
+---
+
+On the ninth night after Sella leaves, I find Tolliver in the yard splitting kindling.
+
+His shirt sleeves are rolled. His forearms are doing deeply unnecessary things.
+
+I have survived another world, a dungeon, a collapsing rescue frame, and emotional honesty. None of these provide immunity to forearms.
+
+He looks up.
 
 "Maya."
 
 "I need to ask you something."
 
-The axe goes down immediately. Full attention. Dangerous man.
+The axe goes down immediately.
+
+Full attention.
+
+Dangerous man.
 
 "Ask."
 
@@ -13736,29 +13874,269 @@ I stop.
 
 "That does not make it yours."
 
-I stare at him. Infuriating. Correct. Worse because correct.
+I stare at him.
+
+Infuriating.
+
+Correct.
+
+Worse because correct.
 
 "Fine."
 
-He waits. I had a second question. It becomes harder now that he is looking at me. The yard is dark except for two wall lamps. People are inside. Windows glow. No emergency to blame. Good. I take one more step.
+He waits.
 
-"What are you doing tonight?"
+I should leave.
 
-His eyes drop to my mouth. Then return to mine.
+Instead I look at his hands.
 
-"Nothing I cannot change."
+"Why haven't you touched me?"
 
-Heat opens low in me. There it is. Because he waited.
+He goes still.
 
-"Change it."
+The question sounds different in the yard than it did in my head.
+
+"Because you were hurt."
+
+"I'm not now."
+
+"Because she left."
+
+My chest tightens.
+
+"That is not contagious."
+
+"No."
+
+"Then what?"
+
+He leans the axe against the block.
+
+"When you lost Earth, you grabbed whatever made the floor stop moving."
+
+The words sting because they are true enough to be dangerous.
+
+"I am not grabbing you."
+
+"I know."
+
+"Do you?"
+
+"Yes."
+
+He does not soften it.
+
+"I wanted you before she left."
+
+My pulse jumps.
+
+"I want you now."
+
+Worse.
+
+"But I am not going to make the first night after you stop crying about someone else into proof that you chose me."
+
+Anger arrives fast enough to be useful.
+
+"I have not been crying every night."
+
+"I know."
+
+"How would you know?"
+
+"Your walls are not that thin."
+
+That almost makes me laugh.
+
+Almost.
+
+He takes one step closer and stops outside reach.
+
+"If you want me, tell me when you can answer one question."
+
+I fold my arms.
+
+"I already hate this."
+
+"Would you still want me if Sella's wagon came back through that gate tomorrow?"
+
+The yard goes quiet.
+
+Not actually.
+
+Somebody laughs inside the kitchen. A horse shifts in the stable. Wind moves a loose shutter.
+
+But inside me, quiet.
+
+I picture it because he made me.
+
+The wagon.
+
+Sella jumping down.
+
+Her mouth.
+
+Her hands.
+
+The stupid hair tie in my drawer.
+
+The ache is immediate.
+
+So is the wanting standing three feet in front of me.
+
+That scares me more than if one erased the other.
+
+Tolliver watches my face.
+
+I could answer quickly.
+
+I do not.
+
+Good.
+
+He nods once.
+
+"That's why."
+
+I hate him.
+
+Specifically.
+
+With focus.
+
+"You're very pleased with yourself."
+
+"No."
+
+"Your face is."
+
+"My face is medically neutral."
+
+I stare.
+
+He stole that from the mender.
+
+The bastard.
+
+A laugh escapes me before I can stop it.
+
+His mouth moves.
+
+"Go to bed, Maya."
+
+"Do not tell me what to do."
+
+"Stay up, then."
+
+"Asshole."
+
+"Yes."
+
+I turn away furious enough to walk perfectly.
+
+At the door, I look back.
+
+He has picked up the axe again.
+
+Not watching me leave.
+
+Not making the moment bigger.
+
+I go upstairs alone.
+
+I miss Sella.
+
+I want Tolliver.
+
+For the first time, I stop treating those facts like they are fighting for the same chair.
 
 CHAPTER THIRTY-ONE
 
-Tolliver does not move. For one terrible second, I think I have miscalculated so badly that I will need to leave the region. Then he says, "To what?" The bastard knows. He also knows I need to say it.
+The next night, Tolliver is in the same yard.
+
+Different shirt.
+
+Same woodpile.
+
+I resent the consistency.
+
+He sees me crossing toward him and sets the axe down before I say anything. I have spent most of the day inventorying bent iron with Harra and pretending I was not also inventorying my own motives.
+
+It was not efficient.
+
+"You told me to answer a question," I say.
+
+His expression changes by almost nothing.
+
+"I did."
+
+"Ask it again."
+
+He studies me for one long second.
+
+"Would you still want me if Sella came back tomorrow?"
+
+"Yes."
+
+The answer is immediate this time.
+
+That matters.
+
+His shoulders go still.
+
+I keep going.
+
+"I would want her too."
+
+"I know."
+
+"I might be very confused."
+
+"I know."
+
+"I might cry again."
+
+"I assumed."
+
+"Rude."
+
+"Accurate."
+
+I step closer.
+
+"None of that changes the answer."
+
+His eyes drop to my mouth.
+
+Then come back.
+
+"What are you doing tonight?" I ask.
+
+"Nothing I cannot change."
+
+Heat opens low in me.
+
+There it is.
+
+Not because he rescued me from grief.
+
+Because he waited outside it.
+
+"Change it."
+
+Tolliver does not move.
+
+For one terrible second, I think I have miscalculated so badly that I will need to leave the region.
+
+Then he says, "To what?"
+
+The bastard knows.
+
+He also knows I need to say it.
 
 "You."
 
-His shoulders go still. His pupils widen. I keep going before courage discovers an exit.
+His pupils widen. I keep going before courage discovers an exit.
 
 "I want to be with you tonight."
 
@@ -13768,7 +14146,7 @@ His shoulders go still. His pupils widen. I keep going before courage discovers 
 
 "Not because Sella left."
 
-Her name still hurts. Less sharply than nine days ago, but enough.
+Her name still hurts. Less sharply than ten days ago, but enough.
 
 "No."
 
