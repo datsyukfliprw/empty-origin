@@ -2,7 +2,7 @@ CHAPTER THIRTEEN
 
 Dain draws a door in spilled flour and puts his breakfast on the other side of it.
 
-“That's you,” he says, pointing to the door. “That's the part you want to look at.”
+“That’s you,” he says, pointing to the door. “That’s the part you want to look at.”
 
 “Your egg.”
 
@@ -12,11 +12,11 @@ The yolk runs into the flour. I pull my copied page away from his plate.
 
 He draws another line with the handle of his spoon. The kitchen table rocks under his hand. Around us people finish eating and collect tools. My second reading day has not started, and I am trying to get to the important part before he finishes breakfast.
 
-“The service passage goes here. Wheel stands back around this bend, above the chamber floor. Man at the wheel can't see through the arch. Elena was right about that.”
+“The service passage goes here. Wheel stands back around this bend, above the chamber floor. Man at the wheel can’t see through the arch. Elena was right about that.”
 
 “Could somebody hold a mirror at the bend?”
 
-“Yes. Somebody could stand in the passage we closed because water rose over a man's head.”
+“Yes. Somebody could stand in the passage we closed because water rose over a man’s head.”
 
 I look at the flour. “Right.”
 
@@ -24,21 +24,21 @@ I look at the flour. “Right.”
 
 He stops chewing. Then he draws a short line above the door.
 
-“There's an inspection gallery. Separate stair from the yard. It has a sleeve through the chamber wall for checking the gate seat. We used to put a lamp through it. Mirror on a rod, sometimes.”
+“There’s an inspection gallery. Separate stair from the yard. It has a sleeve through the chamber wall for checking the gate seat. We used to put a lamp through it. Mirror on a rod, sometimes.”
 
 “You already have one?”
 
 “Had. Mirrors break.”
 
-“But the hole's still there.”
+“But the hole’s still there.”
 
-“Yes, if the gallery hasn't shifted.” He wipes the spoon on his bread. “I'll inspect the upper access after the bank walk. If it's sound, I can see what the sleeve gives us without unbarring the service passage. Nothing turns. Nobody goes down to the chamber.”
+“Yes, if the gallery hasn’t shifted.” He wipes the spoon on his bread. “I’ll inspect the upper access after the bank walk. If it’s sound, I can see what the sleeve gives us without unbarring the service passage. Nothing turns. Nobody goes down to the chamber.”
 
 I pull the bench out and sit. My knee hits the table, which shifts his cup through our diagram.
 
 “Sorry. If you look through it now, what will you see?”
 
-“I don't know.”
+“I don’t know.”
 
 “But it was closed.”
 
@@ -46,7 +46,7 @@ I pull the bench out and sit. My knee hits the table, which shifts his cup throu
 
 The locked cover and the thing beyond it are farther apart than I had understood.
 
-I turn my sheet over. “Can you draw it on something I won't eat?”
+I turn my sheet over. “Can you draw it on something I won’t eat?”
 
 He finds a pencil stub in his coat and puts it beside my sheet.
 
@@ -56,9 +56,9 @@ By the time Tolliver comes in, I have made the gallery twice as large as it shou
 
 Tolliver leans over the back of my bench. “Planning improvements?”
 
-“Dain says I've drawn through a hill.”
+“Dain says I’ve drawn through a hill.”
 
-His mouth is close to my temple. My attention goes there so fast I lose the end of Dain's next sentence. Tolliver waits until the old man bends over the corrected drawing, then touches two fingers to the back of my hand.
+His mouth is close to my temple. My attention goes there so fast I lose the end of Dain’s next sentence. Tolliver waits until the old man bends over the corrected drawing, then touches two fingers to the back of my hand.
 
 “Morning,” he says, quietly enough that it belongs to me.
 
@@ -66,23 +66,23 @@ His mouth is close to my temple. My attention goes there so fast I lose the end 
 
 He smells of soap and the leather of his bow strap. Last night comes back in pieces: the stair under my legs, his thumb at my waist, the breath he took before I kissed him again. I want to pull him down beside me. Dain knocks the spoon against the table.
 
-“Tolliver. The long measure. It's behind the door.”
+“Tolliver. The long measure. It’s behind the door.”
 
 Tolliver straightens and looks toward the door.
 
 He goes to fetch it. I watch him get through the kitchen doorway without turning to check whether I follow.
 
-Dain folds my drawing. “Ask Mara whether Elena tried the sleeve. I don't remember what she left in the book.”
+Dain folds my drawing. “Ask Mara whether Elena tried the sleeve. I don’t remember what she left in the book.”
 
 ---
 
 She did try it.
 
-The entry is six written pages beyond the warning, between a calculation neither Mara nor I can explain without Dain and a complaint about a blister on Elena's heel. Mara has numbered the written pages on loose slips, thirty-six of them, so we can finally stop describing our place as the one after the beetle.
+The entry is six written pages beyond the warning, between a calculation neither Mara nor I can explain without Dain and a complaint about a blister on Elena’s heel. Mara has numbered the written pages on loose slips, thirty-six of them, so we can finally stop describing our place as the one after the beetle.
 
 The unfinished pages wait with their slips sticking out of the tray. Today we follow the works entries.
 
-*Upper sleeve. Mirror sees near jamb, floor. Can't see around the return. Need elbow beyond inner face.*
+*Upper sleeve. Mirror sees near jamb, floor. Can’t see around the return. Need elbow beyond inner face.*
 
 Underneath, a little drawing shows a rod with a hinged end. Elena has crossed it out.
 
@@ -108,25 +108,25 @@ Mara makes room for the next sheet. “Read the rest.”
 
 There are sleeve measurements, a note about a stone projection, and three attempts to fit the geometry through a round hole. The last uses two fixed mirrors. There is no result beside it.
 
-“Proposed,” I say before Mara writes anything. “She hasn't said she built this.”
+“Proposed,” I say before Mara writes anything. “She hasn’t said she built this.”
 
 Mara adds the word.
 
 Farther down, the handwriting changes. Smaller, less space between lines. A date in local script follows the date on the accident statement.
 
-*He kept asking whether the light meant morning. I told him I didn't know. Remember that if I start pretending I knew anything.*
+*He kept asking whether the light meant morning. I told him I didn’t know. Remember that if I start pretending I knew anything.*
 
 I hold the page flat at its clean margin.
 
 “Who?” Mara asks.
 
-“She doesn't say.”
+“She doesn’t say.”
 
 But I can see her deciding. Her pen stays just above the copy, waiting.
 
-“I think she means Iven,” I say. “I can't put his name in the sentence for her.”
+“I think she means Iven,” I say. “I can’t put his name in the sentence for her.”
 
-“Then don't.”
+“Then don’t.”
 
 Mara writes what is there. Outside, a cart rolls past the window with one bad wheel, a little silence between every knock. When it has gone, she asks me to continue.
 
@@ -134,7 +134,7 @@ The next entry is less kind to hope.
 
 *Same wheel mark did not give the same water. Two readings, a day apart. Temperature changed. Mark is a place to start, not an address.*
 
-I say *address* and my hand moves toward the scrap in my clothes, Elena's name and the Missouri dates. I don't touch it. I still have ink on my fingers.
+I say *address* and my hand moves toward the scrap in my clothes, Elena’s name and the Missouri dates. I don’t touch it. I still have ink on my fingers.
 
 “So even if you put it back,” Mara says.
 
@@ -144,9 +144,9 @@ I say *address* and my hand moves toward the scrap in my clothes, Elena's name a
 
 “Yes.”
 
-I hate that she is better at this distinction than I am. I want a dial with one number that means the street outside my apartment, a road I can complain about instead of one I don't know exists.
+I hate that she is better at this distinction than I am. I want a dial with one number that means the street outside my apartment, a road I can complain about instead of one I don’t know exists.
 
-Mara sands the copy. “We'll ask him about the readings.”
+Mara sands the copy. “We’ll ask him about the readings.”
 
 We keep working. Two labels describe outlet samples; one matches the warm water and pale grit, the other has no surviving sample. Another tag reads *not brass?* and is tied to a greenish washer. I translate the question mark too.
 
@@ -158,7 +158,7 @@ Sella is eating an onion like an apple.
 
 I find her beside the closure rope with a heel of bread, a knife, and the expression of someone who has been asked whether the lower pump is open enough times to consider moving it personally.
 
-“That's horrifying,” I tell her.
+“That’s horrifying,” I tell her.
 
 She looks at the onion. “Small ones are sweet.” She offers a slice.
 
@@ -168,9 +168,9 @@ She grins and offers me the bread. I have brought my own food from the kitchen. 
 
 The sight box is quiet. Below the rope, the locked iron cover lies over the service stair. A second, narrower stair climbs along the bank to a squat stone building I had taken for a shed. Now that Dain has put it on paper, I can see how the upper gallery sits above the chamber, how a wall could hide a whole drop from someone standing in this yard.
 
-“I'd like another lesson,” I say.
+“I’d like another lesson,” I say.
 
-“Good. I'd like another guard. Neither of us gets what she wants until someone relieves me.”
+“Good. I’d like another guard. Neither of us gets what she wants until someone relieves me.”
 
 “What about here?”
 
@@ -180,15 +180,15 @@ She looks down at my hands. The linen has come off; the skin beneath is pink and
 
 She puts her bread on the wall and makes me stand with my forearms against a square pier. I know this part. My body takes more convincing.
 
-“Don't spend.”
+“Don’t spend.”
 
-“I wasn't going to.”
+“I wasn’t going to.”
 
 “You got the face.”
 
 “What face?”
 
-“You're holding your breath. Again.”
+“You’re holding your breath. Again.”
 
 I let it out through my nose.
 
@@ -196,7 +196,7 @@ We practice the step, reset, weight through my legs. When someone approaches, sh
 
 When she returns, I ask, “Is there a way to move while holding Brace?”
 
-“There are moving holds. You haven't got this one yet.”
+“There are moving holds. You haven’t got this one yet.”
 
 “Cruel but accurate.”
 
@@ -216,17 +216,17 @@ She presses against my hip while I hold the ordinary stance. On her count I take
 
 The second time I do it right.
 
-“Now spend one. End it yourself on two. I'll count.”
+“Now spend one. End it yourself on two. I’ll count.”
 
 The pattern opens easily. That is the seductive part. No password, no loading screen, just the right arrangement of body and attention, and the stone feels connected to the ground through me.
 
-One breath. Sella's hand rests lightly at my waist.
+One breath. Sella’s hand rests lightly at my waist.
 
 Two.
 
 I stop feeding the hold. Pressure returns to my muscles; I step back as we practiced, and for once none of me ends up sitting down.
 
-Sella's hand lifts away.
+Sella’s hand lifts away.
 
 “There.”
 
@@ -238,9 +238,9 @@ Only one more than last night, but I know what I did this time. At least one use
 
 “Without spending.”
 
-“My arm's shaking.”
+“My arm’s shaking.”
 
-“Stop, then. You're going to strain it.”
+“Stop, then. You’re going to strain it.”
 
 She lifts her arm to adjust the strap beneath her collar. Sweat has darkened the cloth, and I see the pale skin beneath it. I look away too late.
 
@@ -258,13 +258,13 @@ She gives me perhaps two seconds to do something with that, enough to become com
 
 Her eyebrows rise. “What?”
 
-“No. I just— You said three years on caravans. I didn't know whether you'd had a birthday since.”
+“No. I just— You said three years on caravans. I didn’t know whether you’d had a birthday since.”
 
 “Twenty-one. Summer birthday. You?”
 
 “Nineteen.”
 
-“I'd have guessed younger.”
+“I’d have guessed younger.”
 
 My face gets hotter.
 
@@ -282,35 +282,35 @@ Tolliver carries a wooden measure with mud halfway up it. Dain carries a covered
 
 “Found a feeder?” I ask.
 
-“Found a discharge,” Dain says. “Don't give it a direction it hasn't earned.”
+“Found a discharge,” Dain says. “Don’t give it a direction it hasn’t earned.”
 
 He lets me smell the jar. Warm stone, faintly sour water, nothing I can name as another planet. Fine pale grit has begun to settle at the bottom.
 
-“There’s a little outlet under the east bank,” Tolliver says. “Above the main pool. Couldn't see it from the road. Warm water's killed the grass around the lip.”
+“There’s a little outlet under the east bank,” Tolliver says. “Above the main pool. Couldn’t see it from the road. Warm water’s killed the grass around the lip.”
 
 “New?”
 
-“Bare patch isn't. Fresh silt over the old roots is.”
+“Bare patch isn’t. Fresh silt over the old roots is.”
 
-Dain takes the jar back. “We'll measure it again tomorrow. No one puts anything down it. Might be carrying water from the chamber. Might be a separate spring.”
+Dain takes the jar back. “We’ll measure it again tomorrow. No one puts anything down it. Might be carrying water from the chamber. Might be a separate spring.”
 
 I bring him the page about the same mark giving different water. He sets the jar beside it and reads, then carries both toward the upper building.
 
 At the upper building he leaves me outside with Tolliver while he and two house workers inspect the stair and gallery. The door has its own seal, a crust of wax across a cord. Dain has Mara brought to record its opening. Below us, the service cover remains locked.
 
-It takes most of an hour. I sit on the stair and read Tolliver the mirror entry. He stops scraping mud from the measure at the part about Dain's wife.
+It takes most of an hour. I sit on the stair and read Tolliver the mirror entry. He stops scraping mud from the measure at the part about Dain’s wife.
 
-“I won't suggest borrowing another,” he says.
+“I won’t suggest borrowing another,” he says.
 
 Dain comes out dusty and annoyed, which I choose to take as encouraging.
 
-“Upper stone's sound. Dry landing. Sleeve cover holds. There's light beyond it.”
+“Upper stone’s sound. Dry landing. Sleeve cover holds. There’s light beyond it.”
 
 My fingers tighten on the paper.
 
 “What kind?”
 
-“A strip at the shutter edge. White. I didn't open it.”
+“A strip at the shutter edge. White. I didn’t open it.”
 
 “Could it be daylight?”
 
@@ -318,13 +318,13 @@ My fingers tighten on the paper.
 
 I look at the solid bank behind him. He looks too.
 
-Pell arrives while he is reading Elena's proposed two-mirror arrangement. She hears about the light, then the outlet, then asks what they cost her. Dain says an inspection mirror from the fitting chest, timber for a frame, and two workers tomorrow. She gives him all three.
+Pell arrives while he is reading Elena’s proposed two-mirror arrangement. She hears about the light, then the outlet, then asks what they cost her. Dain says an inspection mirror from the fitting chest, timber for a frame, and two workers tomorrow. She gives him all three.
 
 “No turning the inner wheel,” he says. “I want a restraint on the upper spindle before we expose the sleeve. The old tooth stays missing. This is a separate clamp.”
 
 “Can you fit it from the gallery?”
 
-“Yes. Socket's above the floor. Provided the face is sound once we clean it.”
+“Yes. Socket’s above the floor. Provided the face is sound once we clean it.”
 
 “Then that first. Observation after you approve the fitting.”
 
@@ -332,7 +332,7 @@ I start to speak, but Pell turns toward Dain.
 
 “Can she observe from outside the controls?”
 
-“Behind the frame,” Dain says. “I need her if there's writing.”
+“Behind the frame,” Dain says. “I need her if there’s writing.”
 
 Pell looks at me. “You can refuse. Your reading agreement stands.”
 
@@ -346,9 +346,9 @@ She reminds him that the removal crew comes in four days. He says he remembers. 
 
 I take my pay upstairs before supper. The clerk has left ink on the edge of the coin.
 
-Tolliver finds me at supper before the stew has cooled. He has been paid for his first survey day; he tells me when I ask, without showing me a sum I haven't earned the right to count. Tomorrow is the second. After that, he says, Dain might want an escort when the removal crew inspects the outer route.
+Tolliver finds me at supper before the stew has cooled. He has been paid for his first survey day; he tells me when I ask, without showing me a sum I haven’t earned the right to count. Tomorrow is the second. After that, he says, Dain might want an escort when the removal crew inspects the outer route.
 
-“You don't have to keep finding work here,” I tell him.
+“You don’t have to keep finding work here,” I tell him.
 
 “I know where the road is.”
 
@@ -360,7 +360,7 @@ I leave my knee against his.
 
 Across the room Sella is arguing with a carrier over an eastbound fare. He spreads both hands; she folds her arms and makes him start again. I listen longer than I mean to. Tolliver follows my glance.
 
-“She'll get it down,” he says.
+“She’ll get it down,” he says.
 
 “Is she leaving?”
 
@@ -374,11 +374,11 @@ Later he kisses me in the kitchen doorway while somebody behind us complains abo
 
 I remember Sella again halfway up the stairs.
 
-That should make one of them smaller. It doesn't. The wanting sits differently in me, which is not the same thing as less.
+That should make one of them smaller. It doesn’t. The wanting sits differently in me, which is not the same thing as less.
 
-Upstairs, I lay Dain's corrected drawing beside Elena's. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
+Upstairs, I lay Dain’s corrected drawing beside Elena’s. The sleeve is a small circle on both pages. Beyond it he has drawn blank space where her arch stands.
 
-I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven't learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
+I hold a finger over that space. Light might be a mineral, a trick of water, something ordinary here that I haven’t learned to recognize. My head knows this. My hand keeps trying to cover the distance between two bits of ink.
 
 Before bed I write down the part Dain said twice.
 
