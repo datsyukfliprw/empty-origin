@@ -1,4 +1,4 @@
-# Book One — completion plan
+# Book One — historical completion plan
 
 ## Status and controlling direction
 
