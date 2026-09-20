@@ -6,7 +6,7 @@ People say this to injured people because the true sentence is meaner: rest is w
 
 I hate it.
 
-On our first full morning back at Rook, Harra carries the rescue frame past the west kitchen window in pieces. Two ash rails. Cross-bracing. Near anchor head. New far shoe. Spring housing. Oret apparently forged half of it before breakfast because sleep is optional after level twenty.
+On our first full morning back at Rook, Harra carries the rescue frame past the west kitchen window in pieces. Two ash rails. Cross-bracing. Near anchor head. New far shoe. Spring housing. Oret forged what looks like half of it before breakfast. Level twenty must come with an exemption from sleep.
 
 I sit at the table with my left foot on a stool.
 
@@ -324,13 +324,7 @@ He puts down the line.
 
 Outside, under canvas, the full rescue frame is finally assembled: longer than the first one, not much heavier, and built to come apart instead of dragging two pieces of stone into an argument.
 
-I am allowed to watch the dry tests from the doorway.
-
-Chair.
-
-Foot up.
-
-Of course.
+I am allowed to watch the dry tests from the doorway, in the chair again with my foot up while everyone else gets to touch the machinery.
 
 Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the person crossing. I call hold or release.
 
@@ -390,9 +384,7 @@ For once, I am not interested in being rewarded for paying attention.
 
 ---
 
-Captain Rusk returns before sunset.
-
-Not with six crew this time. Three. No shear legs. One mule with tackle and a covered bundle.
+Captain Rusk returns before sunset with three crew instead of six, no shear legs, and one mule carrying tackle and a covered bundle.
 
 Pell meets her halfway across the yard.
 
