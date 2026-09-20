@@ -796,11 +796,7 @@ Mara shouts my name.
 
 I can hold.
 
-That is the trap.
-
-Again.
-
-Always.
+Same trap.
 
 I release.
 
