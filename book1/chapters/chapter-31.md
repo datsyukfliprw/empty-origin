@@ -312,7 +312,7 @@ His thumb circles until the nipple tightens beneath it. Then he pinches. Not har
 
 "Off."
 
-He pulls it over his head. I have seen him shirtless. Apparently not enough. Lean, but not slight. Shoulders, chest, old pale scar along one side. The body that carried me like I weighed nothing. The body that spent weeks refusing to use that fact against me. I put both hands on him. He lets me explore for three breaths. Then catches my wrists again.
+He pulls it over his head. I have seen him shirtless. Not enough. Lean, but not slight. Shoulders, chest, old pale scar along one side. The body that carried me like I weighed nothing. The body that spent weeks refusing to use that fact against me. I put both hands on him. He lets me explore for three breaths. Then catches my wrists again.
 
 "Bed."
 
