@@ -10446,13 +10446,7 @@ Tolliver looks at Pell, not me.
 
 “I thought you should have a copy because Holt and Rusk are working the same road.”
 
-Costly transparency.
-
-Not romantic.
-
-Not for me.
-
-Useful anyway.
+Useful before it is anything else.
 
 That is probably why it lands so hard.
 
@@ -10832,11 +10826,7 @@ He nods.
 
 “Tell me if it becomes worse.”
 
-No touching.
-
-No argument.
-
-No decision made for me.
+He leaves the decision with me.
 
 I hate how much I notice.
 
@@ -11725,10 +11715,6 @@ Harra points to Tolliver.
 Sella smiles without humor.
 
 Tolliver accepts it.
-
-No contest.
-
-No masculinity crisis.
 
 Useful.
 
@@ -12894,11 +12880,9 @@ Then me.
 
 Tolliver insists on being last.
 
-Not because I am Maya.
+Someone has to operate the brake.
 
-Because someone has to operate the brake.
-
-That distinction matters.
+For once, the reason is structural.
 
 I step into the iron frame.
 
@@ -13157,10 +13141,6 @@ My chest tightens.
 “To what?”
 
 “That.”
-
-Not jealousy.
-
-Not accusation.
 
 A boundary not yet drawn.
 
@@ -15379,10 +15359,6 @@ So does she.
 She folds the note.
 
 “That is why I am telling you now.”
-
-Not asking permission.
-
-Good.
 
 I make myself say the next part.
 
