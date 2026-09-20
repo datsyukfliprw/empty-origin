@@ -1,10 +1,6 @@
 CHAPTER TWENTY-FOUR
 
-The East Relief Works has a front door.
-
-This is disappointing.
-
-I was promised a dungeon.
+The East Relief Works has a front door. This is disappointing. I was promised a dungeon.
 
 The door is iron-banded oak, swollen in its frame and tilted far enough that the lower corner has carved a crescent through the stone threshold. Somebody painted a red hand across it years ago.
 
@@ -12,11 +8,7 @@ The hand has six fingers.
 
 “That seems encouraging,” I say.
 
-Harra pushes on the door.
-
-Nothing.
-
-Sella touches the painted hand.
+Harra pushes on the door. Nothing. Sella touches the painted hand.
 
 “Worker mark?”
 
@@ -34,33 +26,13 @@ Tolliver studies the ground.
 
 “No recent tracks.”
 
-He points to old depressions in the mud under the overhang.
+He points to old depressions in the mud under the overhang. Deer. Something broad-footed. Us, from five minutes ago. No boots fresher than last rain. One retreat condition cleared. Harra takes a pry bar from Tolliver’s pack.
 
-Deer.
-
-Something broad-footed.
-
-Us, from five minutes ago.
-
-No boots fresher than last rain.
-
-One retreat condition cleared.
-
-Harra takes a pry bar from Tolliver’s pack.
-
-I am carrying a walking stick.
-
-This remains humiliating.
-
-The green shield is back at Rook because the mender won.
+I am carrying a walking stick. This remains humiliating. The green shield is back at Rook because the mender won.
 
 I have a knife, six reserve capacity, five current reserve and a new level that has given me exactly one useful gift so far:
 
-People expect more from me.
-
-Wonderful.
-
-Harra gets the pry bar into the gap.
+People expect more from me. Wonderful. Harra gets the pry bar into the gap.
 
 “Load here.”
 
@@ -76,41 +48,11 @@ Harra glances at me.
 
 “The top is carrying sideways. Push there and the stone goes.”
 
-She looks.
-
-Then nods.
+She looks. Then nods.
 
 “Lower corner.”
 
-Tolliver moves immediately.
-
-No debate.
-
-No “Are you sure?”
-
-He sets his shoulder where Harra points.
-
-Sella joins him.
-
-Harra levers.
-
-The door opens one inch.
-
-Something knocks from inside.
-
-Everybody stops.
-
-Knock.
-
-Knock.
-
-Knock.
-
-Not close.
-
-Not far.
-
-Somewhere under us.
+Tolliver moves immediately. No debate. No “Are you sure?” He sets his shoulder where Harra points. Sella joins him. Harra levers. The door opens one inch. Something knocks from inside. Everybody stops. Knock. Knock. Knock. Not close. Not far. Somewhere under us.
 
 Harra says, “Still want your dungeon?”
 
@@ -118,51 +60,13 @@ Harra says, “Still want your dungeon?”
 
 ---
 
-Inside, the air tastes of wet stone and old metal.
-
-The first room is not dramatic.
-
-Benches.
-
-Hooks.
-
-Three cracked helmets.
-
-A wall of pegs.
-
-A drainage groove clogged with pale mineral crust.
-
-One skeleton.
-
-That makes it more dramatic.
+Inside, the air tastes of wet stone and old metal. The first room is not dramatic. Benches. Hooks. Three cracked helmets. A wall of pegs. A drainage groove clogged with pale mineral crust. One skeleton. That makes it more dramatic.
 
 It lies under a collapsed shelf, long since stripped of anything useful. The bones are brown with age. A ring of green corrosion stains one wrist.
 
-Sella stops beside it.
+Sella stops beside it. Not afraid. Respectful. Harra removes her cap. Tolliver does the same. I follow half a second late. Nobody says a prayer. I do not know the right one. We step around the bones.
 
-Not afraid.
-
-Respectful.
-
-Harra removes her cap.
-
-Tolliver does the same.
-
-I follow half a second late.
-
-Nobody says a prayer.
-
-I do not know the right one.
-
-We step around the bones.
-
-The second doorway opens onto a maintenance corridor divided by black iron ribs.
-
-The floor is made of square stone plates.
-
-Each plate has a metal pin at one corner.
-
-Harra crouches.
+The second doorway opens onto a maintenance corridor divided by black iron ribs. The floor is made of square stone plates. Each plate has a metal pin at one corner. Harra crouches.
 
 “Isolation floor.”
 
@@ -182,15 +86,7 @@ Harra points to the pins.
 
 “Old works were built by people who had never met Maya,” Sella says.
 
-I glare at her.
-
-Tolliver coughs.
-
-He is laughing.
-
-Quietly.
-
-Traitor.
+I glare at her. Tolliver coughs. He is laughing. Quietly. Traitor.
 
 ---
 
@@ -198,43 +94,9 @@ We do not walk onto the first plate.
 
 Harra takes a coil of thin line and ties a stone to the end.
 
-She tosses it.
+She tosses it. The stone hits the center of the plate. Nothing. She pulls it back. Again. Nothing. Third time. The plate drops. Not far. Six inches. Enough to expose darkness around the edges. Then something below strikes it. Hard.
 
-The stone hits the center of the plate.
-
-Nothing.
-
-She pulls it back.
-
-Again.
-
-Nothing.
-
-Third time.
-
-The plate drops.
-
-Not far.
-
-Six inches.
-
-Enough to expose darkness around the edges.
-
-Then something below strikes it.
-
-Hard.
-
-The plate jumps.
-
-Sella’s knife is in her hand.
-
-Another strike.
-
-Knock.
-
-The floor settles.
-
-I stare into the black gap.
+The plate jumps. Sella’s knife is in her hand. Another strike. Knock. The floor settles. I stare into the black gap.
 
 “Knocker.”
 
@@ -250,21 +112,7 @@ Harra nods.
 
 “No.”
 
-I appreciate her commitment to morale.
-
-The plate slowly rises back into place.
-
-Not machinery.
-
-Something beneath it pushes.
-
-I can see pale fingers in the gap.
-
-Too many joints.
-
-Then they vanish.
-
-A nameplate flashes.
+I appreciate her commitment to morale. The plate slowly rises back into place. Not machinery. Something beneath it pushes. I can see pale fingers in the gap. Too many joints. Then they vanish. A nameplate flashes.
 
 **[HOLLOW KNOCKER, LV. 6]**
 
@@ -280,37 +128,13 @@ Harra looks at me.
 
 “Only when it touches the gap.”
 
-Tolliver’s bow is already in his hand.
-
-He does not nock.
-
-No target.
-
-No wasting an arrow into stone.
-
-Competence is attractive.
-
-This is inconvenient.
+Tolliver’s bow is already in his hand. He does not nock. No target. No wasting an arrow into stone. Competence is attractive. This is inconvenient.
 
 ---
 
-The corridor rule becomes clear after twenty minutes.
+The corridor rule becomes clear after twenty minutes. Movement makes them curious. Weight makes them test. Repeated impact makes them gather. We learn this without anybody losing a leg, which feels like success. Harra marks each plate after three light tests.
 
-Movement makes them curious.
-
-Weight makes them test.
-
-Repeated impact makes them gather.
-
-We learn this without anybody losing a leg, which feels like success.
-
-Harra marks each plate after three light tests.
-
-One chalk slash: held the test stone. Not yet cleared for a person.
-
-Two: shifted but returned. No stepping there.
-
-X: no.
+One chalk slash: held the test stone. Not yet cleared for a person. Two: shifted but returned. No stepping there. X: no.
 
 Harra circles a single slash only after the plate takes a person’s weight without shifting. The plate that dropped gets an X; she picks another line along the wall.
 
@@ -318,13 +142,7 @@ We move one person at a time.
 
 Tolliver first because he is light on his feet and can cover the next doorway.
 
-Harra second because structure.
-
-Me third because I am apparently the person everyone wants in the middle.
-
-Sella last because she can move backward while watching behind us.
-
-The first six plates hold. Harra circles their marks.
+Harra second because structure. Me third because I am apparently the person everyone wants in the middle. Sella last because she can move backward while watching behind us. The first six plates hold. Harra circles their marks.
 
 The seventh still has only the provisional slash. Tolliver eases his front boot onto it.
 
@@ -332,115 +150,35 @@ It shifts.
 
 “Stop,” I say.
 
-He freezes.
-
-Not after asking why.
-
-Not after finishing the step.
-
-Immediately.
-
-The plate lowers a finger.
-
-A pale hand appears at the seam.
-
-I feel pressure in the corridor.
-
-Not magic exactly.
-
-Load.
+He freezes. Not after asking why. Not after finishing the step. Immediately. The plate lowers a finger. A pale hand appears at the seam. I feel pressure in the corridor. Not magic exactly. Load.
 
 The old system and the creature and Tolliver’s weight all arguing about what gets to stay where.
 
-Brace wants to happen.
-
-I do not use it.
-
-Not yet.
+Brace wants to happen. I do not use it. Not yet.
 
 “Back,” I say.
 
-Tolliver moves his weight to the rear foot.
-
-The plate stops.
+Tolliver moves his weight to the rear foot. The plate stops.
 
 “Again.”
 
-He shifts another inch.
-
-The hand below slaps the stone.
-
-Knock.
-
-Sella mutters, “It knows.”
-
-Something strikes the plate behind Tolliver. Its pin keeps it level.
-
-Two creatures.
-
-Maybe three.
+He shifts another inch. The hand below slaps the stone. Knock. Sella mutters, “It knows.” Something strikes the plate behind Tolliver. Its pin keeps it level. Two creatures. Maybe three.
 
 If we let them build rhythm beneath him, they may drop the plate completely.
 
 “Stepguard,” I say to myself.
 
-I have no shield.
+I have no shield. Sella made me learn this part anyway. The pattern belongs to the step: facing, support and one straight line. I have never tried it without a shield.
 
-Sella made me learn this part anyway.
-
-The pattern belongs to the step: facing, support and one straight line.
-
-I have never tried it without a shield.
-
-The shape is the one Sella taught me. I can feel it waiting.
-
-I move onto the safe plate behind him.
-
-Sella catches my coat.
+The shape is the one Sella taught me. I can feel it waiting. I move onto the safe plate behind him. Sella catches my coat.
 
 “Ankle.”
 
 “Straight.”
 
-She lets go.
+She lets go. Choice. Mine. I commit. Reserve pulls. **5 / 6 → 3 / 6** The pattern catches around my stance. No shield. No wall. Just the line I have chosen. Forward. One short step. The shifting plate accepts my foot.
 
-Choice.
-
-Mine.
-
-I commit.
-
-Reserve pulls.
-
-**5 / 6 → 3 / 6**
-
-The pattern catches around my stance.
-
-No shield.
-
-No wall.
-
-Just the line I have chosen.
-
-Forward.
-
-One short step.
-
-The shifting plate accepts my foot.
-
-Pressure hits from below.
-
-The world tries to make my knee buckle.
-
-Stepguard holds my facing.
-
-Not the floor.
-
-Me.
-
-I catch Tolliver’s belt with one hand.
-
-His head turns.
+Pressure hits from below. The world tries to make my knee buckle. Stepguard holds my facing. Not the floor. Me. I catch Tolliver’s belt with one hand. His head turns.
 
 “Do not help me,” I say.
 
@@ -450,47 +188,13 @@ Good answer.
 
 “Move when I say.”
 
-Another knock beneath us.
-
-The plate drops another finger.
-
-The pattern is already burning toward its second breath.
+Another knock beneath us. The plate drops another finger. The pattern is already burning toward its second breath.
 
 “Now.”
 
-He steps back past me.
+He steps back past me. I release. The plate falls as my weight leaves it. A pale head punches into the gap. Sella’s knife flashes. Not into the creature. Across its reaching fingers. It jerks back. The plate slams shut.
 
-I release.
-
-The plate falls as my weight leaves it.
-
-A pale head punches into the gap.
-
-Sella’s knife flashes.
-
-Not into the creature.
-
-Across its reaching fingers.
-
-It jerks back.
-
-The plate slams shut.
-
-I step onto sound stone.
-
-My ankle holds.
-
-My reserve does not refill.
-
-My heart is trying to leave through my throat.
-
-Tolliver looks at me.
-
-Not frightened for me.
-
-Not angry.
-
-Something hotter and more dangerous.
+I step onto sound stone. My ankle holds. My reserve does not refill. My heart is trying to leave through my throat. Tolliver looks at me. Not frightened for me. Not angry. Something hotter and more dangerous.
 
 “You saw that before I did,” he says.
 
@@ -498,73 +202,29 @@ Something hotter and more dangerous.
 
 “You were right.”
 
-No qualification.
-
-No lecture about risk.
-
-He turns to Harra.
+No qualification. No lecture about risk. He turns to Harra.
 
 “Mark it dead.”
 
-My face is warm.
-
-Sella notices.
-
-Of course she notices.
-
-She says nothing.
-
-That is somehow worse.
+My face is warm. Sella notices. Of course she notices. She says nothing. That is somehow worse.
 
 ---
 
 We return along the six circled plates. Every pin stays seated. At the entrance, Harra checks the separate maintenance stair before clearing it for us.
 
-We take the upper route.
-
-The lower route is shorter.
+We take the upper route. The lower route is shorter.
 
 It is also blocked by the plate that dropped, with more X marks beyond it.
 
 The upper route climbs a maintenance stair cut into the wall, then crosses a narrow gallery above the isolation trench.
 
-My ankle likes the climb less than I do.
+My ankle likes the climb less than I do. At the landing I stop. Not because anyone orders me. Because the rule said increase in pain means stop and check. The pain has increased. Small. Real. I lean on the stick.
 
-At the landing I stop.
-
-Not because anyone orders me.
-
-Because the rule said increase in pain means stop and check.
-
-The pain has increased.
-
-Small.
-
-Real.
-
-I lean on the stick.
-
-Sella watches me.
-
-Tolliver watches the gallery.
-
-Harra watches the stair.
-
-Nobody says it.
-
-I hate them all for being decent.
+Sella watches me. Tolliver watches the gallery. Harra watches the stair. Nobody says it. I hate them all for being decent.
 
 “Five minutes,” I say.
 
-Harra nods.
-
-We sit.
-
-I loosen the ankle wrap and check for swelling.
-
-None.
-
-Sella touches the edge of the wrap.
+Harra nods. We sit. I loosen the ankle wrap and check for swelling. None. Sella touches the edge of the wrap.
 
 “Pain?”
 
@@ -580,31 +240,15 @@ Sella touches the edge of the wrap.
 
 “Then five.”
 
-She hands me water.
-
-I drink.
+She hands me water. I drink.
 
 By the time Harra stands, the extra ache has eased back to where it was at the entrance.
 
-Tolliver is three paces away, facing the corridor.
-
-He does not hover.
-
-This may be his most seductive behavior yet.
-
-I need a head injury.
+Tolliver is three paces away, facing the corridor. He does not hover. This may be his most seductive behavior yet. I need a head injury.
 
 ---
 
-The gallery leads to a pressure room.
-
-The door is open.
-
-That is the first bad sign.
-
-The second is the red mineral line across the floor.
-
-The third is the dead knocker pinned under a fallen wheel.
+The gallery leads to a pressure room. The door is open. That is the first bad sign. The second is the red mineral line across the floor. The third is the dead knocker pinned under a fallen wheel.
 
 It is roughly human-sized if a human had been assembled by someone who resented joints. Pale skin. Long forearms. Flat face. No visible eyes.
 
@@ -620,61 +264,19 @@ Tolliver points to gouges on the wall.
 
 “Not from the wheel.”
 
-Three long cuts.
+Three long cuts. High. Something larger. We all stop being amused. Inside the room stands what we came for. An isolation shutter frame mounted vertically in the wall. Its return shoe is intact.
 
-High.
-
-Something larger.
-
-We all stop being amused.
-
-Inside the room stands what we came for.
-
-An isolation shutter frame mounted vertically in the wall.
-
-Its return shoe is intact.
-
-Harra makes a sound I have never heard from her before.
-
-Joy.
-
-Pure, indecent mechanical joy.
+Harra makes a sound I have never heard from her before. Joy. Pure, indecent mechanical joy.
 
 “There.”
 
-She crosses half the room before Dain’s voice appears in my head.
-
-No.
-
-Not Dain.
-
-My own memory of him.
-
-Do not mistake visible for safe.
+She crosses half the room before Dain’s voice appears in my head. No. Not Dain. My own memory of him. Do not mistake visible for safe.
 
 “Wait.”
 
-Harra stops.
+Harra stops. Again, immediately. Everybody is getting very good at making me uncomfortable. I point to the floor. The red mineral line is not random. It arcs from the shutter to the opposite wall. On one side, dust.
 
-Again, immediately.
-
-Everybody is getting very good at making me uncomfortable.
-
-I point to the floor.
-
-The red mineral line is not random.
-
-It arcs from the shutter to the opposite wall.
-
-On one side, dust.
-
-On the other, clean stone.
-
-Something moves through here.
-
-Regularly.
-
-Tolliver studies the marks.
+On the other, clean stone. Something moves through here. Regularly. Tolliver studies the marks.
 
 “Drag.”
 
@@ -688,49 +290,15 @@ Harra looks at the wall mechanism.
 
 “There is no pressure.”
 
-Harra touches the pipe beside the frame.
-
-It hums.
-
-Very faint.
-
-There is pressure.
-
-Somewhere.
-
-The works is not dead.
-
-It is wounded.
-
-That is worse.
+Harra touches the pipe beside the frame. It hums. Very faint. There is pressure. Somewhere. The works is not dead. It is wounded. That is worse.
 
 ---
 
-We test the room.
-
-Stone on a line.
-
-First toss.
-
-Nothing.
-
-Second.
-
-Nothing.
-
-Third.
-
-The shutter arm moves.
-
-Fast.
+We test the room. Stone on a line. First toss. Nothing. Second. Nothing. Third. The shutter arm moves. Fast.
 
 A black iron bar sweeps waist-high across the room and slams into the opposite stop.
 
-The stone explodes.
-
-Sella says, “I dislike old engineers.”
-
-Harra is staring at the mechanism.
+The stone explodes. Sella says, “I dislike old engineers.” Harra is staring at the mechanism.
 
 “It resets after load.”
 
@@ -742,17 +310,7 @@ Harra is staring at the mechanism.
 
 “From the far side.”
 
-Of course.
-
-The return shoe is on the near side.
-
-The release lever is on the far side.
-
-Between them is the sweep path.
-
-Tolliver says, “I can cross after it fires.”
-
-Harra shakes her head.
+Of course. The return shoe is on the near side. The release lever is on the far side. Between them is the sweep path. Tolliver says, “I can cross after it fires.” Harra shakes her head.
 
 “Unknown reset time.”
 
@@ -760,11 +318,7 @@ Sella says, “I can.”
 
 “No,” I say.
 
-Both of them look at me.
-
-Annoyance flashes through Sella.
-
-Good.
+Both of them look at me. Annoyance flashes through Sella. Good.
 
 I would rather annoy her than watch her get folded by a metal arm.
 
@@ -776,21 +330,7 @@ Harra nods slowly.
 
 “So we stop treating it like a trap and treat it like a machine.”
 
-I look at the shutter frame.
-
-The sweep arm loads when the floor plate takes weight.
-
-The return shoe flexes.
-
-The far lever probably isolates the plate.
-
-The machine needs something to hold against.
-
-Warder.
-
-Hold what can be held.
-
-Not everything.
+I look at the shutter frame. The sweep arm loads when the floor plate takes weight. The return shoe flexes. The far lever probably isolates the plate. The machine needs something to hold against. Warder. Hold what can be held. Not everything.
 
 The right thing.
 
@@ -814,61 +354,25 @@ Harra’s eyes narrow.
 
 “After everyone is clear.”
 
-Tolliver says, “I cross.”
-
-Sella says, “No. I do.”
-
-They look at each other.
-
-I want to scream.
-
-Harra points to Tolliver.
+Tolliver says, “I cross.” Sella says, “No. I do.” They look at each other. I want to scream. Harra points to Tolliver.
 
 “Bow stays useful from this side. Sella is faster at the lever.”
 
-Sella smiles without humor.
-
-Tolliver accepts it.
-
-Useful.
+Sella smiles without humor. Tolliver accepts it. Useful.
 
 Harra rigs a retrieval line to Sella’s belt that will not tighten unless she pulls twice.
 
-No dragging her against her choice.
-
-That detail matters more than it should.
-
-We set the sequence.
-
-Stone triggers.
-
-Arm sweeps.
-
-I Brace it against the stop.
-
-Sella crosses outside the arm’s path.
-
-She pulls the isolation lever.
-
-Harra verifies pressure drop.
+No dragging her against her choice. That detail matters more than it should. We set the sequence. Stone triggers. Arm sweeps. I Brace it against the stop. Sella crosses outside the arm’s path. She pulls the isolation lever. Harra verifies pressure drop.
 
 Then we remove the return shoe.
 
 If anything changes, I release and Sella stays behind the far stone pier until the arm completes.
 
-Nobody crosses back through a moving mechanism.
-
-Simple.
-
-Terrible.
-
-Let’s go.
+Nobody crosses back through a moving mechanism. Simple. Terrible. Let’s go.
 
 ---
 
-The stone hits.
-
-The arm sweeps.
+The stone hits. The arm sweeps.
 
 I set my forearms against the back of it at the stop and Brace.
 
@@ -876,57 +380,13 @@ I set my forearms against the back of it at the stop and Brace.
 
 Pressure runs from the iron through my forearms, shoulders and back into the sill beneath my boots.
 
-Same hold. Different thing trying to move.
-
-For one breath I understand why Warder is not Shieldbearer.
-
-The world is full of things that need holding that are not attacks.
+Same hold. Different thing trying to move. For one breath I understand why Warder is not Shieldbearer. The world is full of things that need holding that are not attacks.
 
 “Sella.”
 
-She moves.
+She moves. Fast. Low. The arm trembles against my Brace. Not moving. Trying. Tolliver says, “Left.” A pale hand emerges from the floor behind her. Sella does not look back. She trusts him. His arrow punches through the hand. The knocker screams.
 
-Fast.
-
-Low.
-
-The arm trembles against my Brace.
-
-Not moving.
-
-Trying.
-
-Tolliver says, “Left.”
-
-A pale hand emerges from the floor behind her.
-
-Sella does not look back.
-
-She trusts him.
-
-His arrow punches through the hand.
-
-The knocker screams.
-
-Not loud.
-
-High.
-
-Wrong.
-
-More knocking answers beneath the room.
-
-Sella reaches the far pier.
-
-Pulls the lever.
-
-Nothing.
-
-Again.
-
-Nothing.
-
-Harra swears.
+Not loud. High. Wrong. More knocking answers beneath the room. Sella reaches the far pier. Pulls the lever. Nothing. Again. Nothing. Harra swears.
 
 “Safety catch!”
 
@@ -934,49 +394,13 @@ Harra swears.
 
 “Below handle!”
 
-Sella drops.
-
-The arm surges.
-
-My Brace bites deeper.
-
-Reserve burns.
-
-No number changes.
-
-One point already spent.
-
-But I can feel the ability nearing its limit.
+Sella drops. The arm surges. My Brace bites deeper. Reserve burns. No number changes. One point already spent. But I can feel the ability nearing its limit.
 
 “Now,” I say.
 
-Not panic.
+Not panic. Information. Sella finds the catch. The lever moves. Pressure vanishes. Not gradually. Gone. The arm becomes dead weight against the stop. My Brace releases by itself. I nearly fall. Tolliver catches my upper arm. Not my waist.
 
-Information.
-
-Sella finds the catch.
-
-The lever moves.
-
-Pressure vanishes.
-
-Not gradually.
-
-Gone.
-
-The arm becomes dead weight against the stop.
-
-My Brace releases by itself.
-
-I nearly fall.
-
-Tolliver catches my upper arm.
-
-Not my waist.
-
-Not hauling me anywhere.
-
-Just enough.
+Not hauling me anywhere. Just enough.
 
 “Sound?”
 
@@ -984,33 +408,13 @@ I plant both feet.
 
 “Yes.”
 
-He lets go.
-
-Immediately.
-
-My pulse does something stupid.
-
-Sella comes back around the pier.
-
-She sees his hand leaving my arm.
-
-Her face changes.
-
-Tiny.
-
-Then she looks at me.
+He lets go. Immediately. My pulse does something stupid. Sella comes back around the pier. She sees his hand leaving my arm. Her face changes. Tiny. Then she looks at me.
 
 “You good?”
 
 “Yes.”
 
-She kisses me.
-
-Right there.
-
-Quick.
-
-Hard.
+She kisses me. Right there. Quick. Hard.
 
 “Good call.”
 
@@ -1018,55 +422,15 @@ Then she turns to Harra.
 
 “Take the damned shoe.”
 
-Tolliver looks away.
-
-Not dramatically.
-
-Just gives us the moment.
-
-I hate that this is becoming complicated.
-
-I hate more that part of me does not want it uncomplicated.
+Tolliver looks away. Not dramatically. Just gives us the moment. I hate that this is becoming complicated. I hate more that part of me does not want it uncomplicated.
 
 ---
 
-Harra removes the return shoe.
-
-Then the spring strip.
+Harra removes the return shoe. Then the spring strip.
 
 Then the specification plate because it is riveted to the frame and she looks ready to commit a felony against history if we leave it.
 
-We have the objective.
-
-We could leave.
-
-We should leave.
-
-Then Tolliver says, “Listen.”
-
-Knocking.
-
-Not below.
-
-Ahead.
-
-Past the far door.
-
-Three knocks.
-
-Pause.
-
-Three.
-
-Pause.
-
-Then a different sound.
-
-Metal striking metal.
-
-Regular.
-
-Harra looks at the recovered shoe.
+We have the objective. We could leave. We should leave. Then Tolliver says, “Listen.” Knocking. Not below. Ahead. Past the far door. Three knocks. Pause. Three. Pause. Then a different sound. Metal striking metal. Regular. Harra looks at the recovered shoe.
 
 Then at the specification plate.
 
@@ -1076,60 +440,12 @@ Then at the specification plate.
 
 “Yes.”
 
-Harra keeps listening.
-
-Metal.
-
-Metal.
-
-Metal.
-
-Something is working.
-
-Tolliver looks at me.
-
-Not for permission.
-
-For my read.
-
-My reserve is two of six.
-
-My ankle hurts more than at the entrance.
-
-We have the rescue component.
+Harra keeps listening. Metal. Metal. Metal. Something is working. Tolliver looks at me. Not for permission. For my read. My reserve is two of six. My ankle hurts more than at the entrance. We have the rescue component.
 
 Retreat condition says objective located, not explore because dungeon.
 
 “We leave,” I say.
 
-Harra exhales.
+Harra exhales. Sella nods. Tolliver turns toward the exit. Then the far door slams shut. The knockers beneath us begin hitting every floor plate at once. The whole room shudders. Harra grabs the recovered shoe. Sella draws her knife. Tolliver nocks.
 
-Sella nods.
-
-Tolliver turns toward the exit.
-
-Then the far door slams shut.
-
-The knockers beneath us begin hitting every floor plate at once.
-
-The whole room shudders.
-
-Harra grabs the recovered shoe.
-
-Sella draws her knife.
-
-Tolliver nocks.
-
-I look at the route we came through.
-
-Three plates drop.
-
-One after another.
-
-The corridor is gone.
-
-Not forever.
-
-Long enough.
-
-The dungeon has decided we are not done.
+I look at the route we came through. Three plates drop. One after another. The corridor is gone. Not forever. Long enough. The dungeon has decided we are not done.
