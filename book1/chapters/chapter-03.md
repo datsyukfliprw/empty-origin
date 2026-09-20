@@ -8,7 +8,7 @@ He looks at my foot.
 
 I want him to come closer. That is how quickly it happens.
 
-He is young, not a teenager but not far past whatever this place does instead, and my brain starts handing me observations in an order that has nothing to do with survival. Dark hair pushed back wet off his forehead. A coat that fits like somebody measured him for it. The fact that he is standing in a soaked forest at dawn looking like he slept somewhere with a roof over him. There is a bow across his back and something shorter riding his hip and a strap running diagonal over his chest, and I get to all of that a solid two seconds after I get to his mouth.
+He is young, not a teenager but not far past whatever this place does instead, and my brain starts handing me observations in an order that has nothing to do with survival. Dark hair pushed back wet off his forehead. A coat that fits like somebody measured him for it. The fact that he is standing in a soaked forest at dawn looking like he slept somewhere with a roof over him. There is a bow across his back and something shorter riding his hip and a strap running diagonally over his chest, and I get to all of that a solid two seconds after I get to his mouth.
 
 I make myself look at the bow again.
 
@@ -62,7 +62,7 @@ He laughs. Barely, a breath out through the nose and a shift at one corner of hi
 
 I follow him down to my own foot. The strip of shirt around my arch has gone from gray to a color I would rather not name, and while I was up here conducting first contact, a thin dark line has been running the outside edge of my sole into the mud. It does not hurt any more than it did an hour ago. I have a strong feeling that is not the good news it sounds like.
 
-He crosses the distance without asking, which after all that careful fifteen feet happens fast, and then he is crouched in front of me with a hand hovering near my ankle. "Can I."
+He crosses the distance without asking, which after all that careful fifteen feet happens fast, and then he is crouched in front of me with a hand hovering near my ankle. "Can I?"
 
 "Yes."
 
