@@ -240,7 +240,7 @@ Vey looks toward the gate road. For the first time, his afternoon seems to have 
 
 “I’m staying tonight,” I tell him. “I can meet you at the tavern afterward. If you have a short agreement for reading, bring that. If you only have this, don’t.”
 
-“Maya—“ Tolliver begins.
+“Maya—” Tolliver begins.
 
 “Are you coming to the gatehouse?”
 
