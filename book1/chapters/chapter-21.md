@@ -20,31 +20,15 @@ The drainage throat still hangs from Rusk's chain. New stone supports stand unde
 
 ---
 
-Late that morning the mender comes to reassess the ankle. She makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
+Late that morning the mender makes me walk the west passage with one hand on the wall. Six steps are fine. The seventh catches. The ankle is stiff and weak instead of sharp, which earns me exactly three indoor steps with a rail and another person beside me. Still no field, shield practice, or gallery stairs.
 
-"Again."
-
-"I thought this was an examination, not revenge."
-
-"Again."
-
-I turn. The ankle is stiff and weak instead of sharp, a distinction the mender cares about much more than I do. Flat and centered, it holds. Rolled outward, it answers.
-
-"No field," she says. "No shield practice. No gallery stairs. Three steps with a rail if someone is beside you. No more."
-
-"I know. I know. I know."
-
-She stares at me long enough that I start to feel examined again.
-
-"What?"
-
-"I am waiting for the argument."
+"I am waiting for the argument," she says.
 
 "I've developed character."
 
 "You've developed bruising."
 
-She keeps me to flat indoor walking otherwise. I take the three-step exception as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
+I take the three-step exception as a victory. Sella calls it permission to cross a room, and we disagree about scale for most of the afternoon.
 
 ---
 
