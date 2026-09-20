@@ -6579,7 +6579,7 @@ My excitement rearranges itself.
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves the support from one planted foot to the next without letting the shield fold during the transfer. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It will take pressure from the facing I've chosen. The other side of my body stays exposed.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I've chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
@@ -10626,7 +10626,7 @@ No jumping.
 
 No load carrying.
 
-Maya turns back at the first increase in pain, instability or swelling.
+Maya stops at the first increase in pain. If it is sharp, does not settle with rest, or comes with instability or swelling, she turns back.
 
 The mender closes her eyes.
 
@@ -10678,7 +10678,7 @@ He survives.
 
 Retreat conditions:
 
-If my ankle worsens, I turn back with one person.
+If my ankle pain sharpens or does not settle with a stop and recheck, or if instability or swelling appears, I turn back with one person.
 
 If a floor section shifts after being marked stable, the expedition ends.
 
@@ -11284,9 +11284,9 @@ If we let them build rhythm beneath him, they may drop the plate completely.
 
 I have no shield.
 
-The pattern does not care about the object.
+Sella made me learn this part anyway.
 
-It cares about facing, support and one straight step.
+The pattern belongs to the step: facing, support and one straight line.
 
 I did not know that.
 
@@ -11479,6 +11479,8 @@ Sella touches the edge of the wrap.
 She hands me water.
 
 I drink.
+
+By the time Harra stands, the extra ache has eased back to where it was at the entrance.
 
 Tolliver is three paces away, facing the corridor.
 
