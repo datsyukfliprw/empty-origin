@@ -396,7 +396,7 @@ The thing is thicker than my wrist and black through the middle.
 
 “Was?” Pell asks.
 
-“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light goes.”
+“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light went.”
 
 “Tomorrow?”
 
@@ -500,7 +500,9 @@ That almost makes it harder.
 
 ---
 
-The extension paper is signed before bed.
+The clerk pays today’s eight bits separately. The extension begins tomorrow.
+
+The new paper is signed before bed.
 
 Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty.
 

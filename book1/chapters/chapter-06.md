@@ -174,7 +174,7 @@ I have no earthly idea whether a piece is a fortune or an insult, and *do not ac
 
 “Two cards of thread and he’s got the money in his fist and he’s been standing there since I got here.”
 
-Her mouth does something small and she puts it away again. “Ordway,” she says, which turns out to be her name and turns out to be how I get called for the next two hours, along with several other things.
+Her mouth does something small and she puts it away again. “Ordway,” she says, giving me her name at last.
 
 The first ten minutes are a disaster held together with string. The prices are simple and the coins are not, and coins are the whole job. The little ones are copper and thin and they come in one size, and I decide inside the first two minutes to call them bits because I have to call them something. The fat dull ones are worth more and I do not know how much more until a woman buys soap and salt and gets change and I watch Ordway’s hand make it, and then I do the sum backward and get eight.
 

@@ -667,7 +667,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 **System / progression / resources:**
 - End observed Maya state LV. 3, 12/18, reserve 4/5. Progress source is not itemized.
 - Lower block belongs to Rook; Harra repairs its missing keeper.
-- No exact personal purse total is counted after the new wages in-scene.
+- Maya explicitly counts fifty-four bits before the Day 16 extension wage and sixty-two after it. She does not contribute to the pooled block purchase.
 
 **Reveals and established facts:**
 - Drainage remedy is operating at planned draw, though crop losses and future maintenance remain real.
@@ -767,12 +767,14 @@ Live continuity record for the September 19 cold-review revision through Chapter
 - Party uses deliberate vibration decoys to redirect Hollow Knockers.
 - Forge crossing is broken above a spill channel containing a LV. 9 Silt Borer.
 - Party rigs an overhead trolley as an exit route.
-- Maya Braces the trolley track, then deliberately releases before the failing bracket tears out; the release saves the support and the party.
+- Maya Braces through direct forearm contact with the track bracket’s low diagonal stay, with her feet on sound stone. Releasing lets the bracket settle without tearing out and frees the trolley from a damaged joint. Harra reaches the far landing once, then finishes its footing; the last passenger crosses after the brake load transfers to the far-side return line.
 - Maya's ankle worsens during her own crossing; she admits the worsening rather than concealing it.
 - In a secured office, Sella explicitly recognizes Tolliver's growing trust in and attraction to Maya's competence and names the unresolved future problem without demanding an immediate answer.
 - Party recovers a resonance-fault specification suggesting damaged pressure systems can transmit false activation through connected stone.
 - Spare salvage is left behind to prioritize rescue-critical materials.
 - Party exits via upper spill gallery.
+- Sella and Maya exchange the two-finger mouth-to-hand “Still here” gesture in the safe room; Chapter 30 recalls it.
+- The office has one door and a small fixed-grate ventilation opening, not two doors.
 
 **System / progression / resources:**
 - Brace spend: 2 → 1/6.
@@ -792,18 +794,18 @@ Live continuity record for the September 19 cold-review revision through Chapter
 **Major movement:**
 - Party returns safely from the maintenance shelter to Rook with the tempered return shoe, spring specification and resonance-fault plate.
 - Maya accepts being carried by Tolliver after he asks and waits for explicit permission; his restraint continues to distinguish current behavior from earlier unilateral control.
-- Mara reassesses the ankle and orders three days of no stairs, rough ground, shield work, Stepguard or powered loading.
+- The house mender reassesses the ankle and orders three days of no stairs, rough ground, shield work, Stepguard or powered loading. Mara enforces those instructions; she remains the keeper and Iven’s sister, not the treating mender.
 - Harra, Oret, Dain and Maya convert the salvage/specification into a bounded spring-loaded far-foot design for the next rescue frame.
 - A table-scale loaded prototype reveals stored twist; Maya correctly calls release of the far latch before unloading the weight, preventing force transfer back through the rail.
 - Sella receives and accepts a route-guard/second-scout job departing east in four days, creating a concrete future clock without ending the relationship in this chapter.
-- Iven is told of the redesign; Harra estimates two days to build properly, then dry load testing and chamber vibration measurement before any spanning attempt.
+- Iven receives the redesign by mirror/slate and runner relay while Maya stays at the ground-floor kitchen table. Harra estimates two days to build properly, then dry load testing and chamber vibration measurement before any spanning attempt.
 
 **System / progression / resources:**
 - Maya advances at 22/22 to **LV. 5**.
 - Reserve capacity increases 6 → 7; current reserve is **3/7** after advancement, with no refill or healing.
 - No new activated ability appears.
 - RELEASE UNDER LOAD remains a recognized technique/judgment, not a separately activated power.
-- Day 18 compensation is settled under the existing agreement; no exact purse total is stated.
+- Day 18 was paid before departure. The two recovery-expedition days, Days 19–20, are paid here at eight bits/day (sixteen bits). Pell orally retains the party from Day 21 at unchanged daily rates and protections; the replacement written form is not completed. No exact total purse is asserted.
 
 **Relationship / trust:**
 - Maya explicitly chooses Tolliver's physical help and notices that he waits for permission, reinforcing chosen rather than imposed control.
@@ -835,7 +837,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 ## Chapter 28
 
-**Opening state:** Dawn rescue window with Maya LV. 5, injury limited but active, and all roles preassigned. Rusk remains above the lower chamber under the negotiated witness arrangement.
+**Opening state:** Dawn rescue window with Maya LV. 5, injury limited but active, and all roles preassigned. Direct audible contact is established and tested from the lower ledge without the bent inspection sleeve in the sound path; the gallery and narrow intervals still use slates. Rusk remains above the lower chamber under the negotiated witness arrangement.
 
 **Major movement:** The full frame seats and passes weighted tests. During the first human crossing, boundary contraction begins at midpoint. The far spring reaches its two-finger hard stop and binds its release while the rigid near clamp transmits twist into the old works, waking a connected isolation mechanism. Maya orders the near clamp opened one notch, which gives the twist somewhere safe to go and frees the far latch. The team aborts successfully; the boundary cuts an empty cross brace after Iven is back on the far landing.
 
@@ -849,7 +851,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 
 **Opening state:** Revised frame has a floating near sleeve, two-finger far spring shoe and sacrificial far board joint. Six dry cycles after redesign remain within limits. Rusk advises delaying for joint inspection but does not gain authority to stop the rescue.
 
-**Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya spends one Brace on the near stone only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
+**Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya Braces through forearm contact with the near anchor shoe and feet on its sound stone bed, keeping the shoe seated only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
 
 **System / progression / resources:** Maya advances to LV. 6 at 26/26 after the rescue. Reserve capacity becomes 8; current reserve is 5/8 after one Brace, with no refill or heal. Technique recognition refines RELEASE UNDER LOAD to CONTROLLED RELEASE. No new activated ability appears. Maya's ankle worsens during the climax.
 
@@ -865,11 +867,11 @@ Live continuity record for the September 19 cold-review revision through Chapter
 - Iven has been rescued and reunited with Teren and Lio. Maya is LV. 6, reserve 5/8, and her left ankle has worsened again. Sella's eastbound crew leaves within the hour.
 
 **Major movement:**
-- Mara keeps Maya off the ankle while Rook begins medical, drainage, evidence, and salvage-claim aftermath.
+- The house mender keeps Maya off the ankle while Rook begins medical, drainage, evidence, and salvage-claim aftermath. Mara remains active in family care and records.
 - Maya and Sella finally discuss the future without an active rescue crisis. Maya admits she nearly asked Sella to stay but deliberately refused to ask while circumstances could pressure the answer.
 - Sella departs east as planned.
 - Iven thanks Maya for prioritizing his life over disputed iron and possible Earth answers. Rusk's claim remains pending.
-- Mara imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard.
+- The house mender imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard. The pantry-roof memory is on the eighth evening after departure, after explicit ladder clearance; the Tolliver encounter remains on the ninth night.
 
 **Character / relationship changes:**
 - Maya and Sella remain in love but do not promise exclusivity, indefinite waiting, or a false clean breakup.
@@ -908,12 +910,12 @@ Live continuity record for the September 19 cold-review revision through Chapter
 ## Chapter 32
 
 **Opening state:**
-- Nine days after Sella's departure and the same morning after Maya and Tolliver's first full sexual encounter.
+- Day 34, the morning after the ninth night following Sella’s departure and Maya and Tolliver’s first full sexual encounter.
 - Maya is LV. 6, Warder, with reserve recovered to 8/8 after days without spending. Her ankle has been cleared for ordinary walking, stairs, light shield work, and Stepguard.
-- Iven is alive at Rook with Teren and Lio. Rusk's preservation claim remains unresolved. Maya's Day Eighteen work extension was never formally rewritten despite continued assignment.
+- Iven is alive at Rook with Teren and Lio. Rusk's preservation claim remains unresolved. The two-day expedition hire was paid and ended on Day 20. The retained-work extension beginning Day 21 was orally agreed but not rewritten.
 
 **Major movement:**
-- Pell, Mara, Vey, Maya and Tolliver reconcile the continued work period in writing. Maya is paid for twelve retained days at eight bits/day, including medically restricted days in which she remained assigned and consulted.
+- Pell, Mara, Vey, Maya and Tolliver reconcile the continued work period in writing. Maya is paid for thirteen retained days, Days 21–33, at eight bits/day, including medically restricted days in which she remained assigned and consulted. Day 34 is settlement and release, not another assigned workday.
 - Maya converts the unused contractual return-cart value into a negotiated four-week Rook room arrangement with a locked storage chest and explicit protections against House ownership of her stored possessions.
 - Elena Ruth Mercer's Missouri identification card is reclassified as personal property retained in error with survey materials. Mara keeps the original in recorded custody for Elena; Maya retains a full copy and English transcription.
 - Rusk's dispute is narrowed to later adjudication of preserved inner iron. It does not provide custody of Iven, exclusive access, or control over copied testimony/plans.
@@ -932,7 +934,7 @@ Live continuity record for the September 19 cold-review revision through Chapter
 **System / progression / resources:**
 - Final visible build: LV. 6; RUN WARDER; RESERVE 8/8 after recovery; Brace and Stepguard remain the two activated abilities; CONTROLLED RELEASE remains recognized technique, not a new ability.
 - No new level, heal, or refill is caused by signing the next job.
-- Maya receives 96 bits / 12 pieces in reconciled wages, then pays 28 bits for four weeks of room/storage. Exact total purse afterward depends on preexisting cash and is not separately asserted.
+- Maya receives 104 bits / 13 pieces for Days 21–33, then pays 28 bits in cash for four weeks of room/storage after the unused return fare is credited. Exact total purse afterward depends on preexisting cash and is not separately asserted.
 - Maya owns her repaired green shield, her records/copies, and her stored personal property. Harra repairs a storage chest and Maya pays four bits for materials.
 
 **Reveals and established facts:**
@@ -952,5 +954,5 @@ Live continuity record for the September 19 cold-review revision through Chapter
 **Ending state:**
 - Book One complete.
 - Maya has paid housing and storage at Rook, owned equipment, copies of key records, money she earned, a repaired relationship with Tolliver, continuing love for Sella, and a chosen paid expedition.
-- She plans to leave Rook in five days, reach Greyward early to see Ordway, then take the ridge-road escort and station-approach job with willing companions.
+- She plans to leave Rook in four days, travel two days by cart, and arrive before the Greyward caravan departs on the sixth day, allowing a visit to Ordway.
 - Final emotional direction: forward is chosen life in this world, not a promised route back to Earth.

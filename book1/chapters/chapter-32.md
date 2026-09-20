@@ -4,7 +4,7 @@ The first thing I do after sleeping with Tolliver is argue about payroll.
 
 This is not how romance novels work.
 
-Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor in four columns.
+Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with thirteen days of retained labor in four columns.
 
 Yet here we are.
 
@@ -48,7 +48,9 @@ Smart man.
 
 I read.
 
-Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe upstairs so I could point at it from bed.
+Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe to the kitchen table so I could point at it with my foot on a stool.
+
+The expedition days and Day Eighteen are crossed through as already paid. This sheet begins with the first recovery morning and ends yesterday. Today is settlement and release, with no new assignment.
 
 The agreement should have been rewritten.
 
@@ -60,19 +62,19 @@ Nobody tries to pretend otherwise.
 
 At the bottom, Pell has written the part I care about.
 
-Twelve days.
+Thirteen days.
 
 Eight bits each.
 
-Ninety-six bits.
+One hundred and four bits.
 
-Twelve pieces.
+Thirteen pieces.
 
 I read it twice.
 
 Then a third time, because getting transported to another world has not cured me of expecting paperwork to bite.
 
-“The medical days count?”
+“Both rest entries count?”
 
 “You remained under my instruction and unavailable for other work because of an injury sustained during this work,” Pell says. “You were also consulted on both days.”
 
@@ -112,7 +114,7 @@ I do not touch it yet.
 
 “Room?”
 
-“Covered through today under the continued work arrangement.”
+“Covered through today under the unused return-passage provision.”
 
 “Food?”
 
@@ -190,7 +192,7 @@ Mara is writing now.
 
 Fast.
 
-Pell rubs one hand over his mouth.
+Pell rubs one hand over her mouth.
 
 “You came here with six bits.”
 
@@ -222,17 +224,17 @@ Pell names a price.
 
 I counter.
 
-He names another.
+She names another.
 
 I point out the room is above a kitchen and the west shutter sticks in rain.
 
-He points out I have personally put three new gouges in the floor with shield fittings.
+She points out I have personally put three new gouges in the floor with shield fittings.
 
 I blame the shield.
 
 The shield is not present to defend itself.
 
-We settle at twenty-eight bits for four weeks, including a locked storage chest in the records annex while I am traveling.
+We settle at twenty-eight bits in cash after the unused return fare is credited: four weeks, including a locked storage chest in the records annex while I am traveling.
 
 Mara adds the property language.
 
@@ -242,7 +244,7 @@ Then I sign.
 
 Only then do I open the purse.
 
-Twelve pieces.
+Thirteen pieces.
 
 I count them.
 
@@ -256,7 +258,7 @@ Pell watches.
 
 “Yes.”
 
-He nods once.
+She nods once.
 
 Fair.
 
@@ -552,9 +554,9 @@ Vey answers.
 
 “There is a caravan leaving Greyward in six days,” Pell says.
 
-I look at him.
+I look at her.
 
-He looks too innocent.
+She looks too innocent.
 
 Suspicious.
 
@@ -672,7 +674,7 @@ I look at Tolliver.
 
 He has not asked to come.
 
-“Are you free in six days?”
+“Are you free to leave in four days?”
 
 “Yes.”
 
@@ -850,7 +852,7 @@ I catch it.
 
 My ankle holds.
 
-Mara cleared me.
+The mender cleared me.
 
 I still test the weight before trusting it.
 
@@ -1184,7 +1186,7 @@ Tolliver watches the ink dry.
 
 “Six days,” he says.
 
-“Five. I want to reach Greyward early and see Ordway.”
+“Four. Two days on the cart. I want to reach Greyward before the caravan leaves and see Ordway.”
 
 His eyebrows lift.
 
@@ -1228,7 +1230,7 @@ None of those things are mine yet.
 
 I fold the contract and tuck it into my notebook.
 
-Five days from now I will leave Rook.
+Four days from now I will leave Rook.
 
 Not because someone bought my service before I understood the terms.
 

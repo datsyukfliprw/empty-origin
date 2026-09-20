@@ -1,8 +1,8 @@
 CHAPTER FOURTEEN
 
-Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Her plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
+Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Harra’s plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
 
-She is across the workshop with a slate against her chest. Three fingers raised. Then one.
+Sella is across the workshop with a slate against her chest. Three fingers raised. Then one.
 
 “One,” I say.
 

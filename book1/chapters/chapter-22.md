@@ -724,7 +724,7 @@ Then load-test the near anchor without spanning.
 
 Then decide.
 
-I sign.
+The clerk pays today’s eight bits before I sign for tomorrow.
 
 The money is becoming less important than the paper. That frightens me differently.
 

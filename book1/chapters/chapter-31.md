@@ -160,7 +160,7 @@ Not touching.
 
 “Stepguard?”
 
-“Mara cleared it this morning.”
+“The mender cleared it this morning.”
 
 His gaze sharpens.
 
@@ -344,7 +344,7 @@ My choice.
 
 My room.
 
-My money paid through the week.
+My room, covered by my own work.
 
 No Household label deciding who owns my wages.
 
@@ -1670,7 +1670,7 @@ When I pull back, the smile is gone.
 
 There it is.
 
-The question no sex scene gets to solve by itself.
+We are still going to have to say this out loud.
 
 I roll onto my back.
 
@@ -1844,7 +1844,7 @@ Harra wants inventory numbers.
 
 Vey wants a statement.
 
-Pell wants to discuss whether my Day Eighteen agreement became meaningless when I worked twelve days past it without anyone updating the paper.
+Pell wants to reconcile the thirteen retained workdays since the expedition hire ended. Same rate, stale paper.
 
 My life is a pile of unresolved administrative fires.
 

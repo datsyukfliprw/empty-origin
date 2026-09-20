@@ -492,7 +492,7 @@ Not loading.
 
 Feeling ordinary movement.
 
-Mara allows that.
+The mender cleared this much.
 
 Barely.
 
@@ -742,7 +742,7 @@ The near sleeve is still at stop.
 
 The frame is trying to wrench sideways.
 
-I Brace.
+I set both forearms against the near anchor shoe, my boots planted on its sound stone bed, and Brace.
 
 One point.
 
@@ -750,7 +750,7 @@ One point.
 
 Not to hold the frame still.
 
-To hold the near stone while Harra releases the sleeve.
+To keep the anchor shoe seated against its stone bed while Harra releases the sleeve.
 
 Different target.
 
@@ -852,7 +852,7 @@ No glowing teleport.
 
 No victory sound.
 
-A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for Mara.”
+A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for the mender.”
 
 Iven lifts his head.
 
@@ -870,7 +870,7 @@ I laugh while I do it.
 
 He smiles.
 
-Then Mara reaches him.
+Then Mara reaches him, with the mender coming down behind her.
 
 ---
 
@@ -878,7 +878,7 @@ Medical work is not cinematic.
 
 It is rude.
 
-Mara orders everyone back.
+The mender orders everyone back except Mara.
 
 Checks Iven’s pupils.
 
@@ -906,7 +906,7 @@ Offended is alive.
 
 My ankle is sharper.
 
-Mara notices because Mara notices every betrayal of the body.
+The mender notices because she notices every betrayal of the body.
 
 “You.”
 
@@ -922,7 +922,7 @@ Mara notices because Mara notices every betrayal of the body.
 
 He stops.
 
-I point at Mara.
+I point at the mender.
 
 “I can move.”
 
@@ -1032,7 +1032,7 @@ The System arrives while Iven is throwing up.
 
 Perfect.
 
-I am sitting with my ankle elevated, holding a cup Mara will not let me drink from until my nausea passes.
+I am sitting with my ankle elevated, holding a cup the mender will not let me drink from until my nausea passes.
 
 The measure opens.
 
@@ -1044,7 +1044,7 @@ I blink.
 
 I did not know the target.
 
-I have not checked since level five.
+I have not checked my progress since level five.
 
 The text folds.
 
@@ -1132,7 +1132,7 @@ Mine probably does too.
 
 “Yes.”
 
-Mara says, “And no using any of it.”
+The mender says, “And no using any of it.”
 
 “I know.”
 
@@ -1218,9 +1218,9 @@ Did not gain exclusive access.
 
 Did not gain control of the rescued man.
 
-Competent opposition can lose without becoming stupid.
+She has read every clause and still has nothing to take from his hands.
 
-I appreciate that against my will.
+I watch until she steps back.
 
 Rusk looks at the ruined frame.
 
@@ -1254,7 +1254,7 @@ Paperwork survives everything.
 
 ---
 
-Mara lets Iven walk the final yard.
+The mender lets Iven walk the final yard.
 
 Barely.
 

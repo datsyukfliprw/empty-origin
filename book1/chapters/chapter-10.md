@@ -70,7 +70,7 @@ He is waiting beside a cart loaded with canvas-wrapped crates. His bow is strung
 
 “Yes,” he says. “I could.”
 
-“If you want it cracked when we brake, yes,” she says.
+“If you want it cracked when we brake, yes,” the carter tells Vey.
 
 Vey moves the chest.
 

@@ -10,7 +10,7 @@ Fair.
 
 My ankle is wrapped again.
 
-Mara has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
+The mender has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
 
 Iven is inside with Teren and Lio.
 
@@ -26,7 +26,7 @@ Sella’s pack sits beside the west wall.
 
 Bad.
 
-She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is strung across her back, and the knife at her thigh is the one she wore the first night we slept together.
+She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is slung across her back, and the knife at her thigh is the one she wore the first night we slept together.
 
 I hate that I notice.
 
@@ -72,7 +72,7 @@ I can feel every inch.
 
 “Walk with me,” she says.
 
-Mara, from across the room: “No.”
+The mender, from across the room: “No.”
 
 Sella turns.
 
@@ -86,7 +86,7 @@ Sella turns.
 
 “Three.”
 
-Mara points at the bench.
+The mender points at the bench.
 
 “You can sit with her outside if Tolliver carries the bench.”
 
@@ -94,7 +94,7 @@ I close my eyes.
 
 Sella laughs.
 
-Mara does not.
+The mender does not.
 
 “This is why healers drink,” I say.
 
@@ -108,19 +108,19 @@ I look at him.
 
 He looks at the bench.
 
-Then at Mara.
+Then at the mender.
 
 “No.”
 
 Good man.
 
-Mara lifts one eyebrow.
+The mender lifts one eyebrow.
 
 Tolliver says, “I’ll carry Maya. The bench is stupid.”
 
 “Thank you,” I say.
 
-Mara points at me.
+The mender points at me.
 
 “You are the stupid part.”
 
@@ -190,7 +190,7 @@ Someone curses at a mule.
 
 Pell comes out of the counting room, sees us, and goes back inside.
 
-Bless him.
+Bless her.
 
 Sella rubs both palms on her thighs.
 
@@ -588,7 +588,7 @@ Sella stands.
 
 I do not.
 
-Mara would kill me before the ankle did.
+The mender would kill me before the ankle did.
 
 Sella shoulders her pack.
 
@@ -706,7 +706,7 @@ For once, everyone lets something hurt without trying to repair it.
 
 Iven wakes after sunset.
 
-Mara allows me upstairs only if I am carried.
+Following the mender’s orders, Mara allows me upstairs only if I am carried.
 
 I am becoming furniture.
 
@@ -898,7 +898,7 @@ Iven looks at his sons.
 
 ---
 
-Mara keeps me off the ankle for six more days.
+The mender keeps me off the ankle for six more days.
 
 Six.
 
@@ -926,7 +926,7 @@ Sella sends no message.
 
 There is no reason she should. The eastbound crew is moving, and the road does not carry little blue bubbles over people’s heads.
 
-On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
+On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
 
 At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella’s without either of us deciding that. I eat with somebody else’s elbow there and discover grief is petty enough to care about benches.
 

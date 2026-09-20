@@ -1,5 +1,14 @@
 # Rescue mechanics — writer's working model
 
+## Completed-book ARC clarifications (September 19, 2026)
+
+- **Brace remains contact-based.** Chapter 24 loads the stopped sweep arm through Maya’s forearms, body and feet on a fixed sill. Chapter 25 uses the reachable diagonal stay of the track bracket. Chapter 29 uses the near anchor shoe with both feet on its stone bed. No remote holding, wall-penetrating target acquisition, healing, refill, or ability that freezes the boundary has been added.
+- **Contact is visual until Chapter 28.** Chapters 26–27 use mirror/slate and runner relay from the upper gallery; Maya remains at the ground-floor kitchen table. At the start of Chapter 28, Dain verifies ordinary audible exchange from the unobstructed lower ledge. Slates remain necessary for the upper gallery and narrowing intervals.
+- **Floor marks are not interchangeable.** A slash only passes a light-object test; a circle records a plate holding a person. Tolliver’s seventh plate was provisional. The circled plates used to retreat remain seated. No certified-stable plate fails and is ignored during the continuation into the upper route.
+- **Trolley sequence:** empty trolley is brought near; Harra carries the table rails and salvage; it catches short of the far landing; contact Brace and release let the bracket settle and clear the damaged joint; Harra arrives once and completes footing; passengers cross singly; the final brake load is transferred to the far-side return line before Tolliver rides.
+
+The historical sections below describe earlier checkpoints and proposals. The completed chapter files and the clarifications above govern later continuation.
+
 This is design material, not an in-world document. The chapters govern canon. Unrevealed explanations remain provisional and must be established through action before a rescue relies on them.
 
 ## Physical arrangement

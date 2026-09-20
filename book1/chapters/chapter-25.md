@@ -384,7 +384,7 @@ She points up.
 
 The ceiling track crosses the channel.
 
-A chain trolley hangs above us, frozen halfway across.
+A chain trolley hangs above us, motionless halfway across.
 
 A square iron frame dangles from it.
 
@@ -401,6 +401,8 @@ Tolliver follows the chain to a capstan.
 Harra examines the gearing.
 
 “Manual. Two people.”
+
+The near track bracket has a diagonal iron stay running down beside the capstan, low enough for me to reach from the solid floor.
 
 Sella says, “And every turn tells the thing downstairs where we are.”
 
@@ -468,6 +470,10 @@ It becomes watchful.
 
 That hurts more.
 
+Harra threads our line through the return pulley by drawing it after the old one, then has Sella and Tolliver bring the empty trolley to us. It creeps down toward the far landing when they ease the brake. They stop with the near bar over solid floor.
+
+The new return line reaches both banks. Once someone is across, we can haul from either end.
+
 ---
 
 We build a liar.
@@ -504,7 +510,7 @@ Tolliver takes the capstan left.
 
 Sella right.
 
-Harra will ride the frame with the salvage because someone must control the trolley brake on the far side.
+Harra will ride the frame with the salvage and the two table rails. Someone has to secure the far landing and take the return line.
 
 I will not.
 
@@ -608,23 +614,15 @@ Clang.
 
 The creature hesitates.
 
-The trolley reaches the far side.
+The trolley catches at a damaged section of track, a yard short of the far landing.
 
-Harra jumps off.
+“Brake!” Harra calls.
 
-“Brake!”
+Tolliver holds it.
 
-She locks it.
+Harra stays in the frame with one leg hooked over the lower bar. Still above the water.
 
-The capstan stops.
-
-We have a suspended frame across the gap.
-
-No deck.
-
-Still no bridge.
-
-Harra starts lashing the two table rails to the frame.
+She starts lashing the two table rails across its base for the rest of us.
 
 Sella says, “That will take time.”
 
@@ -706,7 +704,7 @@ Harra nearly falls.
 
 “Hold!” Sella shouts.
 
-I Brace.
+I press both forearms against the low diagonal stay and Brace.
 
 I do not think first.
 
@@ -716,7 +714,7 @@ Reserve drops.
 
 **2 / 6 → 1 / 6**
 
-The Brace catches the trolley track through the stone support above me.
+The track steadies through the iron against my arms. I feel the load down my back and into the stone beneath my boots.
 
 For one second everything stabilizes.
 
@@ -746,7 +744,7 @@ It will tear out.
 
 Holding harder is the wrong answer.
 
-I learned this yesterday with an ash frame.
+I learned this with the first ash frame.
 
 The world is not subtle.
 
@@ -770,7 +768,7 @@ The track drops four inches.
 
 Harra swears.
 
-The bracket bends instead of breaking.
+The bracket bends instead of breaking. At the changed angle, the trolley wheel clears the damaged joint.
 
 The trolley rolls toward the far side.
 
@@ -836,21 +834,21 @@ This time I know she sees it because she stops laughing.
 
 ---
 
+Harra steps onto the far landing and finishes lashing the second table rail across the frame. She leans her weight onto both.
+
+Tolliver checks the bent near bracket with the pry bar. It has settled against the lower stone shoulder. It no longer moves under the empty trolley.
+
 We cross using the trolley.
 
 One at a time.
 
-Harra sends the frame back empty with the capstan.
+Harra and Tolliver work the return line to bring the frame back empty.
 
 Sella crosses first to help Harra.
 
 Then me.
 
-Tolliver insists on being last.
-
-Someone has to operate the brake.
-
-For once, the reason is structural.
+Tolliver goes last. Until three of us are across, he controls the near brake. After that, Harra and Sella can take the trolley’s weight on the return line from the far landing.
 
 I step into the iron frame.
 
@@ -946,7 +944,7 @@ Harra says, “You are done walking.”
 
 “I noticed.”
 
-Tolliver crosses last.
+Tolliver secures the near brake open only after Harra confirms she has the load on the far line. Then he crosses.
 
 When he steps off the frame, he takes one look at me sitting on the stone with Sella rewrapping my ankle.
 
@@ -976,7 +974,7 @@ The old foreman’s office has one door, stone walls and no floor seams.
 
 Harra checks the ceiling.
 
-Tolliver checks the second exit.
+Tolliver checks the narrow ventilation opening. Too small for any of us; the grate is still fixed.
 
 Sella checks under the desk because apparently we are people who check under desks for monsters now.
 
@@ -1002,17 +1000,17 @@ Still different.
 
 She finishes the wrap.
 
-“You should have turned back at the gallery.”
+“The rest at the gallery helped,” she says.
 
 “Yes.”
 
-“You knew.”
+“When did the ache come back?”
 
-“Yes.”
+“The pressure room. Before we tried to leave.”
 
-“You stayed.”
+“Tell me next time. Not just after something gives.”
 
-“Yes.”
+“I will.”
 
 She ties the knot harder than necessary.
 
@@ -1116,7 +1114,11 @@ A future approaching.
 
 I reach for her hand.
 
-She gives it.
+She gives it, then touches two fingers to her mouth and presses them against the back of my hand.
+
+“Still here.”
+
+I return the gesture. Her fingers curl around mine.
 
 “I meant what I said on the roof.”
 

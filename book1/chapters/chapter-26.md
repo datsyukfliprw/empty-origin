@@ -434,15 +434,15 @@ Authority recognized.
 
 I feel less singled out.
 
-Tolliver carries me to the west kitchen room and sets me on the bed.
+Mara has brought the house mender to the west kitchen room. Tolliver carries me in and sets me on the bed.
 
-Mara unwraps my ankle.
+The mender unwraps my ankle.
 
 Her silence gets worse with every layer.
 
 Sella leans against the wall.
 
-Tolliver stays by the door until Mara says, “Out.”
+Tolliver stays by the door until the mender says, “Out.”
 
 He leaves.
 
@@ -450,7 +450,7 @@ Immediately.
 
 I hate how much I notice.
 
-Mara presses two fingers along the outside of my ankle.
+The mender presses two fingers along the outside of my ankle.
 
 Pain flashes.
 
@@ -488,7 +488,7 @@ I look at the wall.
 
 Sella says, “She rode Tolliver down the ridge.”
 
-Mara looks at me.
+The mender looks at me.
 
 “That is not loading.”
 
@@ -500,7 +500,7 @@ Mara looks at me.
 
 Sella snorts.
 
-Mara does not.
+The mender does not.
 
 “Three days. No stairs. No rough ground. No shield. No Stepguard.”
 
@@ -514,7 +514,7 @@ Mara does not.
 
 “I can Brace without walking.”
 
-Mara gives me a look sharp enough to remove paint.
+The mender gives me a look sharp enough to remove paint.
 
 “Can you Brace without your body taking load?”
 
@@ -582,7 +582,7 @@ Then the specification plate.
 
 I shift in my chair.
 
-Mara allowed chair.
+Mara allowed the chair under the mender’s rules.
 
 Chair is civilization.
 
@@ -750,13 +750,13 @@ Sella calls her unbearably honorable.
 
 Harra says yes.
 
-My Day Eighteen extension is settled under the existing rate.
+The two expedition days are settled at eight bits each. My Day Eighteen wage was paid before we left.
 
-No one says my exact purse total.
+Sixteen new bits. Mara marks the earlier payment separately so neither of us counts it twice.
 
-Thank God.
+The expedition agreement ends tonight. Pell asks us to stay for frame work, contact and the rescue at the same daily rates, with food, room, property and treatment terms unchanged.
 
-I do not want arithmetic to become canon because I am too tired to remember whether I bought dried apples four days ago.
+I agree and ask for it in writing. Mara pulls out a fresh form, but Harra needs the specification before she has put a date on it.
 
 There is also another problem.
 
@@ -802,7 +802,7 @@ I read it twice.
 
 Four days.
 
-My ankle has three days of no loading if Mara gets her way.
+My ankle has three days of no loading under the mender’s orders.
 
 The rescue does not have a date.
 
@@ -940,7 +940,7 @@ When she pulls back, her forehead touches mine.
 
 She leaves to send her answer.
 
-My chest hurts in a place Mara cannot splint.
+My chest hurts in a place the mender cannot splint.
 
 ---
 
@@ -1350,119 +1350,61 @@ Maybe that is why the heat is there at all.
 
 At dusk, Iven gets the news.
 
-Not the level.
+Not the level. The shoe.
 
-The shoe.
+Harra and I stay at the kitchen table while Renn carries our pages to Dain at the upper glass. Mara copies the replies when he brings them down. The sleeve still gives us pictures, not voices.
 
-The spring.
+Iven’s first answer comes back beneath Harra’s drawing.
 
-The new foot.
+*You went into East Relief?*
 
-Harra speaks through the upper observation sleeve while I sit on a stool behind the rail where I can hear him but not climb.
+“Unfortunately,” Sella says. Mara writes it for him.
 
-His voice arrives thin through the gap.
+The next trip brings a question about the forge. Harra answers that we found enough of it. Iven’s reply is one word.
 
-“You went into East Relief?”
+*Mad.*
 
-Sella says, “Unfortunately.”
+“Yes,” Harra says.
 
-“You found the old forge?”
+Renn says he laughed when Dain showed him the answer. I close my eyes and try to imagine the sound.
 
-Harra says, “Enough of it.”
+Harra sends the short-pin drawing and release order. No person crosses until the full frame passes dry tests and a bounded chamber test. Iven acknowledges each page before Dain changes it.
 
-“You’re mad.”
+Then he asks about me.
 
-“Yes.”
-
-A pause.
-
-Then Iven laughs.
-
-It sounds tired.
-
-Alive.
-
-I close my eyes.
-
-Harra explains the redesign.
-
-Short pin.
-
-Bounded spring travel.
-
-Independent supports.
-
-Release order.
-
-No permanent through-line.
-
-No person crosses until the new frame passes dry tests and a bounded chamber test.
-
-Iven listens.
-
-When she finishes, he says, “And the girl?”
-
-I open my eyes.
-
-“What girl?”
-
-“You.”
+*Is the girl still hurt?*
 
 “I have a name.”
 
-“I know. Are you still hurt?”
+Mara’s pen waits above the paper.
 
-Everybody looks at me.
+“Tell him I am improving strategically.”
 
-“I am improving strategically.”
+She makes a noise, but writes it. When Renn returns, he says Iven laughed again, then coughed hard enough to brace himself against the rail.
 
-Mara makes a noise.
+That takes the humor out of the kitchen.
 
-Iven laughs again.
+His tank is still below the old stain. We have its dimensions and his latest depth mark, not a trustworthy count of days left.
 
-Then coughs.
+“We need two days to build properly,” Harra says.
 
-The sound takes the humor out of the room.
+“At least,” Mara says.
 
-His water tank is still below the old stain.
+“Then a dry load sequence,” Oret adds.
 
-We still do not know exact volume.
+“And chamber vibration measurement before span,” Dain has written beneath the last contact note.
 
-We still do not get to pretend that means infinite time.
+Mara sends the whole estimate, without turning it into a promise. Iven underlines *two days* on his reply. Nothing more.
 
-Harra says, “We need two days to build properly.”
+Sella’s team leaves in four. My ankle gets three days of no loading. The numbers line up badly.
 
-Mara says, “At least.”
+I take the pencil.
 
-Oret says, “Then a dry load sequence.”
+*We do it right.*
 
-Dain says, “And chamber vibration measurement before span.”
+On Renn’s last trip, Iven’s answer is copied beneath mine.
 
-Iven is quiet.
-
-“Two days,” he says.
-
-Not agreement.
-
-Not complaint.
-
-Information.
-
-Sella’s eastbound team leaves in four.
-
-My ankle gets three days of no loading.
-
-The numbers line up badly.
-
-I have spent enough time gaming to know that bad timers make people stupid.
-
-I will not let these.
-
-“We do it right,” I say.
-
-Silence.
-
-Then Iven says, “Good.”
+*Good.*
 
 Just that.
 

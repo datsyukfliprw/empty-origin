@@ -1,0 +1,11 @@
+{
+  "source_sha256": "9e202c70ad94ad5ec4b99197e7fbcf3ea1d0a4b577d9a127e6fc6c5be4e6f1c5",
+  "whitespace_word_count": 100303,
+  "chapters": 32,
+  "source_and_compilation": "pass",
+  "epub_manifest_spine_navigation_text": "pass",
+  "epub_sha256": "47cf4d1639eb128e57da2a488bda260fcdafcd5923a8c6b44510d04a395c0dc7",
+  "system_displays_preserved": 97,
+  "scene_breaks_preserved": 158,
+  "scope": "Repeatable source and EPUB checks. PDF and browser checks were performed separately locally."
+}

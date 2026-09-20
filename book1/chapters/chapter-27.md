@@ -8,7 +8,7 @@ Rest is watching everyone else do the work while your body collects the benefit.
 
 I hate it.
 
-On the first morning after East Relief, Harra brings the full-size frame past the west kitchen window in pieces.
+On our first full morning back at Rook, Harra brings the full-size frame past the west kitchen window in pieces.
 
 Not assembled. Pieces: two ash side rails, cross-bracing, the near anchor head, the new far shoe and a spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
 
@@ -244,7 +244,7 @@ Harra follows my eyes.
 
 Harra smiles.
 
-We send him a request through the upper sleeve.
+We send a slate to Dain at the upper glass.
 
 Measure rise over one local foot.
 
@@ -256,17 +256,17 @@ Do not enter the boundary.
 
 Do not hold anything into it.
 
-Iven calls back five minutes later.
+Five minutes later, Renn returns with Iven’s answer copied below our question.
 
 “You people have become very bossy.”
 
-“Experience.”
+I give Renn my answer. “Experience.”
 
-“You were not like this when you arrived.”
+We trade two more messages while Harra checks her drawing. Iven says I was not like this when I arrived. I remind him I was unconscious.
 
-“I was unconscious when I arrived.”
+His answer comes back in Dain’s cramped hand.
 
-“Peaceful days.”
+*Peaceful days.*
 
 Sella laughs from the doorway.
 
@@ -442,7 +442,7 @@ The splint comes off for inspection.
 
 I can flex my ankle without seeing God.
 
-Mara is unmoved.
+The mender is unmoved.
 
 “No stairs.”
 
@@ -858,7 +858,7 @@ I do not want her under the same roof.
 
 ---
 
-The third morning Mara makes me walk.
+The third morning the mender makes me walk.
 
 Not far.
 

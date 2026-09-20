@@ -236,7 +236,7 @@ I do.
 
 I know that before anybody looks at me, so I hate the thought immediately.
 
-My purse has forty-six bits from before the extension. Today’s eight makes fifty-four.
+My purse has fifty-four bits from before the extension. Today’s eight makes sixty-two.
 
 The block would belong to Rook.
 
@@ -406,7 +406,7 @@ It should feel good to hurt him with the sentence. It does a little. Not enough.
 
 The passage smells of flour and cooling stone.
 
-I think of Chapter Seven, though my life does not call it that. I think of him deciding where I slept because he believed deciding was protection.
+I think of him deciding where I slept because he believed deciding was protection.
 
 I think of Rusk asking for custody in writing.
 

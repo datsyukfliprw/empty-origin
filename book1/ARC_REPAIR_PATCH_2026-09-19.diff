@@ -1,0 +1,5132 @@
+--- a/README.md
++++ b/README.md
+@@ -2,13 +2,13 @@
+ 
+ **Book One title: The Unheld Warder.** See the [title and pitch](book1/TITLE.md) and [current manuscript review](book1/REVIEW_AND_TITLE.md).
+ 
+-**Current-version notice (September 19, 2026):** The compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) currently totals **99,593 words**; the individual chapter files remain canonical. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Thirty-Two. Historical reviews retain the counts from their own passes.
++**Current-version notice (September 19, 2026):** The compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) currently totals **100,303 words**; the individual chapter files remain canonical. [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) has been rebuilt directly from those chapter files and is synchronized through Chapter Thirty-Two. Historical reviews retain the counts from their own passes. The [focused ARC repair report](book1/ARC_REPAIR_COMPLETION_2026-09-19.md) records the applied clean-reader repairs and the [dated wage ledger](book1/ARC_WAGE_CHRONOLOGY_2026-09-19.md).
+ 
+ Read **[book1/WORKING_DRAFT.md](book1/WORKING_DRAFT.md)** for the complete Book One manuscript through Chapter Thirty-Two. Individual chapters are in [book1/chapters](book1/chapters).
+ 
+ **Author direction: a longer ongoing series. Maya never returns to Earth; this world is her new life.** Her early homesickness is part of her character arc, not the promised series destination.
+ 
+-Book One now runs through **Chapter Thirty-Two** and has a completed first-draft ending. Chapters Twenty–Twenty-Two total 7,977 words: bounded boundary testing, confirmation of Fallow Reach as the local receiving station, the completed drainage repair, employment/relationship decisions, and the first safely failed spanning test. The working manuscript is **99,593 words across thirty-two chapters**. The [continuation review](book1/CONTINUATION_REVIEW_16_19.md) remains the historical audit for Chapters Sixteen–Nineteen. The earlier [developmental review](book1/DEVELOPMENTAL_REVIEW.md) remains the record of revisions through Fifteen. This is a complete first-draft Book One manuscript; revision and publication work remain.
++Book One now runs through **Chapter Thirty-Two** and has a completed first-draft ending. Chapters Twenty–Twenty-Two total 7,977 words: bounded boundary testing, confirmation of Fallow Reach as the local receiving station, the completed drainage repair, employment/relationship decisions, and the first safely failed spanning test. The working manuscript is **100,303 words across thirty-two chapters**. The [continuation review](book1/CONTINUATION_REVIEW_16_19.md) remains the historical audit for Chapters Sixteen–Nineteen. The earlier [developmental review](book1/DEVELOPMENTAL_REVIEW.md) remains the record of revisions through Fifteen. This is a complete first-draft Book One manuscript; revision and publication work remain.
+ 
+ The [series bible](SERIES_BIBLE.md) provides an expandable eight-book horizon. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) maps the rescue, progression, romance and settlement payoffs still to be written. The [LitRPG + romantasy + dungeon plan](book1/LITRPG_ROMANTASY_DUNGEON_PLAN.md) governs faster progression, dungeon integration, relationship architecture, and explicit-payoff cadence. Future plot details are provisional, not manuscript canon.
+ 
+--- a/book1/CHAPTER_LEDGER.md
++++ b/book1/CHAPTER_LEDGER.md
+@@ -667,7 +667,7 @@
+ **System / progression / resources:**
+ - End observed Maya state LV. 3, 12/18, reserve 4/5. Progress source is not itemized.
+ - Lower block belongs to Rook; Harra repairs its missing keeper.
+-- No exact personal purse total is counted after the new wages in-scene.
++- Maya explicitly counts fifty-four bits before the Day 16 extension wage and sixty-two after it. She does not contribute to the pooled block purchase.
+ 
+ **Reveals and established facts:**
+ - Drainage remedy is operating at planned draw, though crop losses and future maintenance remain real.
+@@ -767,12 +767,14 @@
+ - Party uses deliberate vibration decoys to redirect Hollow Knockers.
+ - Forge crossing is broken above a spill channel containing a LV. 9 Silt Borer.
+ - Party rigs an overhead trolley as an exit route.
+-- Maya Braces the trolley track, then deliberately releases before the failing bracket tears out; the release saves the support and the party.
++- Maya Braces through direct forearm contact with the track bracket’s low diagonal stay, with her feet on sound stone. Releasing lets the bracket settle without tearing out and frees the trolley from a damaged joint. Harra reaches the far landing once, then finishes its footing; the last passenger crosses after the brake load transfers to the far-side return line.
+ - Maya's ankle worsens during her own crossing; she admits the worsening rather than concealing it.
+ - In a secured office, Sella explicitly recognizes Tolliver's growing trust in and attraction to Maya's competence and names the unresolved future problem without demanding an immediate answer.
+ - Party recovers a resonance-fault specification suggesting damaged pressure systems can transmit false activation through connected stone.
+ - Spare salvage is left behind to prioritize rescue-critical materials.
+ - Party exits via upper spill gallery.
++- Sella and Maya exchange the two-finger mouth-to-hand “Still here” gesture in the safe room; Chapter 30 recalls it.
++- The office has one door and a small fixed-grate ventilation opening, not two doors.
+ 
+ **System / progression / resources:**
+ - Brace spend: 2 → 1/6.
+@@ -792,18 +794,18 @@
+ **Major movement:**
+ - Party returns safely from the maintenance shelter to Rook with the tempered return shoe, spring specification and resonance-fault plate.
+ - Maya accepts being carried by Tolliver after he asks and waits for explicit permission; his restraint continues to distinguish current behavior from earlier unilateral control.
+-- Mara reassesses the ankle and orders three days of no stairs, rough ground, shield work, Stepguard or powered loading.
++- The house mender reassesses the ankle and orders three days of no stairs, rough ground, shield work, Stepguard or powered loading. Mara enforces those instructions; she remains the keeper and Iven’s sister, not the treating mender.
+ - Harra, Oret, Dain and Maya convert the salvage/specification into a bounded spring-loaded far-foot design for the next rescue frame.
+ - A table-scale loaded prototype reveals stored twist; Maya correctly calls release of the far latch before unloading the weight, preventing force transfer back through the rail.
+ - Sella receives and accepts a route-guard/second-scout job departing east in four days, creating a concrete future clock without ending the relationship in this chapter.
+-- Iven is told of the redesign; Harra estimates two days to build properly, then dry load testing and chamber vibration measurement before any spanning attempt.
++- Iven receives the redesign by mirror/slate and runner relay while Maya stays at the ground-floor kitchen table. Harra estimates two days to build properly, then dry load testing and chamber vibration measurement before any spanning attempt.
+ 
+ **System / progression / resources:**
+ - Maya advances at 22/22 to **LV. 5**.
+ - Reserve capacity increases 6 → 7; current reserve is **3/7** after advancement, with no refill or healing.
+ - No new activated ability appears.
+ - RELEASE UNDER LOAD remains a recognized technique/judgment, not a separately activated power.
+-- Day 18 compensation is settled under the existing agreement; no exact purse total is stated.
++- Day 18 was paid before departure. The two recovery-expedition days, Days 19–20, are paid here at eight bits/day (sixteen bits). Pell orally retains the party from Day 21 at unchanged daily rates and protections; the replacement written form is not completed. No exact total purse is asserted.
+ 
+ **Relationship / trust:**
+ - Maya explicitly chooses Tolliver's physical help and notices that he waits for permission, reinforcing chosen rather than imposed control.
+@@ -835,7 +837,7 @@
+ 
+ ## Chapter 28
+ 
+-**Opening state:** Dawn rescue window with Maya LV. 5, injury limited but active, and all roles preassigned. Rusk remains above the lower chamber under the negotiated witness arrangement.
++**Opening state:** Dawn rescue window with Maya LV. 5, injury limited but active, and all roles preassigned. Direct audible contact is established and tested from the lower ledge without the bent inspection sleeve in the sound path; the gallery and narrow intervals still use slates. Rusk remains above the lower chamber under the negotiated witness arrangement.
+ 
+ **Major movement:** The full frame seats and passes weighted tests. During the first human crossing, boundary contraction begins at midpoint. The far spring reaches its two-finger hard stop and binds its release while the rigid near clamp transmits twist into the old works, waking a connected isolation mechanism. Maya orders the near clamp opened one notch, which gives the twist somewhere safe to go and frees the far latch. The team aborts successfully; the boundary cuts an empty cross brace after Iven is back on the far landing.
+ 
+@@ -849,7 +851,7 @@
+ 
+ **Opening state:** Revised frame has a floating near sleeve, two-finger far spring shoe and sacrificial far board joint. Six dry cycles after redesign remain within limits. Rusk advises delaying for joint inspection but does not gain authority to stop the rescue.
+ 
+-**Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya spends one Brace on the near stone only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
++**Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya Braces through forearm contact with the near anchor shoe and feet on its sound stone bed, keeping the shoe seated only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
+ 
+ **System / progression / resources:** Maya advances to LV. 6 at 26/26 after the rescue. Reserve capacity becomes 8; current reserve is 5/8 after one Brace, with no refill or heal. Technique recognition refines RELEASE UNDER LOAD to CONTROLLED RELEASE. No new activated ability appears. Maya's ankle worsens during the climax.
+ 
+@@ -865,11 +867,11 @@
+ - Iven has been rescued and reunited with Teren and Lio. Maya is LV. 6, reserve 5/8, and her left ankle has worsened again. Sella's eastbound crew leaves within the hour.
+ 
+ **Major movement:**
+-- Mara keeps Maya off the ankle while Rook begins medical, drainage, evidence, and salvage-claim aftermath.
++- The house mender keeps Maya off the ankle while Rook begins medical, drainage, evidence, and salvage-claim aftermath. Mara remains active in family care and records.
+ - Maya and Sella finally discuss the future without an active rescue crisis. Maya admits she nearly asked Sella to stay but deliberately refused to ask while circumstances could pressure the answer.
+ - Sella departs east as planned.
+ - Iven thanks Maya for prioritizing his life over disputed iron and possible Earth answers. Rusk's claim remains pending.
+-- Mara imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard.
++- The house mender imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard. The pantry-roof memory is on the eighth evening after departure, after explicit ladder clearance; the Tolliver encounter remains on the ninth night.
+ 
+ **Character / relationship changes:**
+ - Maya and Sella remain in love but do not promise exclusivity, indefinite waiting, or a false clean breakup.
+@@ -908,12 +910,12 @@
+ ## Chapter 32
+ 
+ **Opening state:**
+-- Nine days after Sella's departure and the same morning after Maya and Tolliver's first full sexual encounter.
++- Day 34, the morning after the ninth night following Sella’s departure and Maya and Tolliver’s first full sexual encounter.
+ - Maya is LV. 6, Warder, with reserve recovered to 8/8 after days without spending. Her ankle has been cleared for ordinary walking, stairs, light shield work, and Stepguard.
+-- Iven is alive at Rook with Teren and Lio. Rusk's preservation claim remains unresolved. Maya's Day Eighteen work extension was never formally rewritten despite continued assignment.
+-
+-**Major movement:**
+-- Pell, Mara, Vey, Maya and Tolliver reconcile the continued work period in writing. Maya is paid for twelve retained days at eight bits/day, including medically restricted days in which she remained assigned and consulted.
++- Iven is alive at Rook with Teren and Lio. Rusk's preservation claim remains unresolved. The two-day expedition hire was paid and ended on Day 20. The retained-work extension beginning Day 21 was orally agreed but not rewritten.
++
++**Major movement:**
++- Pell, Mara, Vey, Maya and Tolliver reconcile the continued work period in writing. Maya is paid for thirteen retained days, Days 21–33, at eight bits/day, including medically restricted days in which she remained assigned and consulted. Day 34 is settlement and release, not another assigned workday.
+ - Maya converts the unused contractual return-cart value into a negotiated four-week Rook room arrangement with a locked storage chest and explicit protections against House ownership of her stored possessions.
+ - Elena Ruth Mercer's Missouri identification card is reclassified as personal property retained in error with survey materials. Mara keeps the original in recorded custody for Elena; Maya retains a full copy and English transcription.
+ - Rusk's dispute is narrowed to later adjudication of preserved inner iron. It does not provide custody of Iven, exclusive access, or control over copied testimony/plans.
+@@ -932,7 +934,7 @@
+ **System / progression / resources:**
+ - Final visible build: LV. 6; RUN WARDER; RESERVE 8/8 after recovery; Brace and Stepguard remain the two activated abilities; CONTROLLED RELEASE remains recognized technique, not a new ability.
+ - No new level, heal, or refill is caused by signing the next job.
+-- Maya receives 96 bits / 12 pieces in reconciled wages, then pays 28 bits for four weeks of room/storage. Exact total purse afterward depends on preexisting cash and is not separately asserted.
++- Maya receives 104 bits / 13 pieces for Days 21–33, then pays 28 bits in cash for four weeks of room/storage after the unused return fare is credited. Exact total purse afterward depends on preexisting cash and is not separately asserted.
+ - Maya owns her repaired green shield, her records/copies, and her stored personal property. Harra repairs a storage chest and Maya pays four bits for materials.
+ 
+ **Reveals and established facts:**
+@@ -952,5 +954,5 @@
+ **Ending state:**
+ - Book One complete.
+ - Maya has paid housing and storage at Rook, owned equipment, copies of key records, money she earned, a repaired relationship with Tolliver, continuing love for Sella, and a chosen paid expedition.
+-- She plans to leave Rook in five days, reach Greyward early to see Ordway, then take the ridge-road escort and station-approach job with willing companions.
++- She plans to leave Rook in four days, travel two days by cart, and arrive before the Greyward caravan departs on the sixth day, allowing a visit to Ordway.
+ - Final emotional direction: forward is chosen life in this world, not a promised route back to Earth.
+--- a/book1/PROJECT_NOTES.md
++++ b/book1/PROJECT_NOTES.md
+@@ -1,4 +1,6 @@
+ # Project notes
++
++**Current ARC-repair status, September 19, 2026:** Book One is complete through Chapter Thirty-Two at **100,303 whitespace-counted words**. The focused clean-reader repair pass is applied. See [repair report](ARC_REPAIR_COMPLETION_2026-09-19.md) and [wage/calendar ledger](ARC_WAGE_CHRONOLOGY_2026-09-19.md). The house mender owns medical examination and clearance; Mara remains keeper, sister and enforcer of those orders. Brace requires a physical load path. Day 18 and expedition Days 19–20 are already paid; Days 21–33 produce a 104-bit retained-work settlement on Day 34. Maya plans to leave Rook four days later for a two-day cart journey and an early Greyward visit. Earlier checkpoint headings below are historical, not the current endpoint.
+ 
+ ## Author instructions — current authority
+ 
+@@ -134,7 +136,7 @@
+ ## Chapter Twenty-Six endpoint
+ 
+ - Chapter Twenty-Six completes the first recovery-delve arc by returning the party to Rook with the East Relief salvage and converting it into a table-scale rescue prototype.
+-- Maya's left ankle is materially worse after the delve. Mara orders three days with no stairs, rough ground, shield work, Stepguard, or powered loading; this restriction remains active at chapter end.
++- Maya's left ankle is materially worse after the delve. The house mender orders three days with no stairs, rough ground, shield work, Stepguard, or powered loading; this restriction remains active at chapter end.
+ - The recovered return-shoe geometry and resonance-fault specification lead to a bounded spring-loaded far foot: short pin, limited travel, side capture, and a release-before-unload order that prevents stored twist from transferring back through the frame.
+ - Maya correctly calls the prototype release sequence without using an ability, demonstrating that RELEASE UNDER LOAD has become practical Warder judgment rather than a one-off System label.
+ - Maya advances to **LV. 5** at **22/22**. Reserve capacity increases from 6 to **7**; current reserve is **3/7** and does not refill on advancement. No new activated ability appears, and the ankle does not heal.
+@@ -146,12 +148,12 @@
+ ## Current endpoint update — Chapters 27–29
+ 
+ - Canonical manuscript now runs through Chapter Twenty-Nine.
+-- Chapter Twenty-Seven spans Maya's three-day recovery window while Harra, Oret, Dain and the others build and dry-test the full rescue frame. Maya remains under Mara's no-stairs/no-rough-ground/no-powered-loading restriction until the final reassessment, then receives limited-loading clearance for the rescue day. The full design uses a short far pin, bounded two-finger spring travel, an iron-backed near wedge and a release-before-unload sequence.
++- Chapter Twenty-Seven spans Maya's three-day recovery window while Harra, Oret, Dain and the others build and dry-test the full rescue frame. Maya remains under the house mender’s no-stairs/no-rough-ground/no-powered-loading restriction until the final reassessment, then receives limited-loading clearance for the rescue day. The full design uses a short far pin, bounded two-finger spring travel, an iron-backed near wedge and a release-before-unload sequence.
+ - Sella's accepted eastbound route-guard/scout job departs after midday on the fourth day. Maya refuses to make Sella sacrifice the job to an uncertain rescue schedule; Sella retains independent agency and the relationship remains real but unresolved.
+ - Captain Rusk returns with three crew and a district salvage preservation notice. The notice does not grant human custody or automatic lower-chamber access, but it can preserve disputed recovered inner iron pending hearing. Pell/Vey negotiate a bounded witness arrangement. Maya accepts that potentially important iron/Earth-related material may have to remain on the receiving side in order to prioritize Iven's extraction.
+ - Chapter Twenty-Eight contains the first human rescue attempt. The original spring-foot frame seats successfully, but during contraction both the far spring travel and rigid near clamp create a bind; releasing the near clamp one notch frees the far latch and enables a safe abort. Iven remains alive on the far side. The failure reveals that the next design must decouple both ends rather than merely make the far support compliant.
+ - The revised rescue frame uses a captured floating near sleeve with one finger of travel plus the two-finger far spring shoe, along with a sacrificial board joint. Six dry cycles after the redesign stay within the vibration limits.
+-- Chapter Twenty-Nine completes the rescue. During the second attempt, an independent pressure-driven activation of the old isolation mechanism consumes both travel limits. Maya orders the sacrificial far board joint released after Iven passes it, Braces only the near stone long enough for Harra to release the near sleeve, and then deliberately releases her Brace rather than preserving the structure. Sella and Tolliver hold Iven, not the frame. Iven reaches Rook's side alive.
++- Chapter Twenty-Nine completes the rescue. During the second attempt, an independent pressure-driven activation of the old isolation mechanism consumes both travel limits. Maya orders the sacrificial far board joint released after Iven passes it, Braces through forearm contact with the anchor shoe and feet on its stone bed long enough for Harra to release the near sleeve, and then deliberately releases her Brace rather than preserving the structure. Sella and Tolliver hold Iven, not the frame. Iven reaches Rook's side alive.
+ - Maya gives up immediate recovery of disputed iron and possible Earth-related answers rather than gamble Iven's life or hand Rusk custody leverage. Rusk's salvage claim survives for later adjudication, but her attempted leverage does not block the human rescue.
+ - Maya and Sella explicitly say they love each other before the second rescue attempt. Sella still intends to leave with the eastbound team after midday and explicitly recognizes Maya's unresolved/falling attachment to Tolliver.
+ - Maya advances to **LV. 6** after the rescue. Reserve capacity rises from 7 to **8**; current reserve is **5/8** after one Brace and does not refill on advancement. RELEASE UNDER LOAD is recognized as the refined technique label **CONTROLLED RELEASE**; this remains technique recognition, not a new activated ability. Maya's ankle is worsened again during the climax and must not be silently reset.
+@@ -162,12 +164,12 @@
+ ## Current endpoint update — Chapters 30–31
+ 
+ - Canonical manuscript now runs through Chapter Thirty-One.
+-- Chapter Thirty gives the post-rescue aftermath to Sella rather than using her departure as a bridge directly into Tolliver. Maya remains under Mara's renewed ankle restriction immediately after the rescue and cannot simply walk off the injury.
++- Chapter Thirty gives the post-rescue aftermath to Sella rather than using her departure as a bridge directly into Tolliver. Maya remains under the house mender’s renewed ankle restriction immediately after the rescue and cannot simply walk off the injury.
+ - Sella departs east as planned. She and Maya explicitly keep their relationship emotionally real without promising exclusivity, indefinite waiting, or a false clean breakup. Sella names the actual limit: she cannot build her life around waiting while Maya stands between possible futures. Maya refuses to ask Sella to stay when the rescue-day circumstances would tilt the answer.
+ - Maya and Sella remain in love. Either may form other attachments. If Sella returns and they still want one another, they have agreed to speak plainly rather than use silence as protection.
+ - Tolliver does not intrude on Sella's goodbye. He maintains the earned pattern of waiting for Maya's choice and respecting private boundaries.
+ - The rescue aftermath continues with Iven recovering, his salvage testimony pending, and Rusk's preservation claim unresolved for later adjudication.
+-- Mara keeps Maya off the ankle for six more days after the rescue, then gradually clears flat walking, light shield work, stairs, and finally Stepguard. This recovery time is necessary before the Tolliver encounter so injury/helplessness is not its premise.
++- The house mender keeps Maya off the ankle for six more days after the rescue, then gradually clears flat walking, light shield work, stairs, and finally Stepguard. The roof memory occurs on the eighth evening after explicit ladder clearance; the Tolliver encounter stays on the ninth night. This recovery time is necessary before the Tolliver encounter so injury/helplessness is not its premise.
+ - Chapter Thirty-One occurs nine days after Sella's departure. Maya approaches Tolliver explicitly and chooses the encounter. She states that she wants him to take physical control without taking control of her choices.
+ - Maya/Tolliver's first fully realized sexual encounter is on page and built around active consent, repeated check-ins, Maya's ability to stop or redirect, Tolliver's physical advantage, and his focus on breaking her composure rather than diminishing her competence.
+ - After sex, both state practical relationship boundaries. Maya does not renounce Sella or promise exclusivity; Tolliver does not demand it. He agrees not to make decisions for Maya under the guise of protection. Maya agrees to state anger and future control preferences directly.
+@@ -176,9 +178,9 @@
+ ## Chapter Thirty-Two endpoint
+ 
+ - Book One is complete through Chapter Thirty-Two.
+-- Final compiled manuscript length: **101,030 words** across thirty-two chapters.
+-- Maya's post-Day-18 employment is reconciled explicitly at the same eight-bits/day rate for twelve retained workdays, including medically restricted days in which she remained assigned and was consulted. She receives 96 bits / 12 pieces before new spending.
+-- Maya converts the unused return-cart value into a four-week Rook room arrangement, pays 28 bits, and secures a locked storage chest with explicit property protections while traveling. This gives her a concrete place to return to without entering Rook service.
++- Final compiled manuscript length: **100,303 words** across thirty-two chapters.
++- Day 18 and the two expedition days (19–20) are already paid. Continued employment is reconciled at eight bits/day for thirteen retained workdays, Days 21–33, including medically restricted consultation. She receives 104 bits / 13 pieces. Day 34 is settlement/release, with no new assignment.
++- Maya converts the unused return-cart value into a four-week Rook room arrangement, pays 28 bits in cash after that credit, and secures a locked storage chest with explicit property protections while traveling. This gives her a concrete place to return to without entering Rook service.
+ - Elena's Missouri identification card is classified as personal property retained in error with survey-associated materials. The original remains in Mara's recorded custody for Elena; Maya keeps a full copy and English transcription.
+ - Rusk's claim survives only as a later claim on disputed inner iron. It gives her no custody of Iven, no exclusive access, and no control over copies of testimony, measurements, or plans.
+ - Iven identifies a route mark from the receiving station that matches an old Rook register for a second receiving house on the ridge service road. The information seeds the next expedition without reopening the Book One rescue.
+--- a/book1/RESCUE_MECHANICS.md
++++ b/book1/RESCUE_MECHANICS.md
+@@ -1,4 +1,13 @@
+ # Rescue mechanics — writer's working model
++
++## Completed-book ARC clarifications (September 19, 2026)
++
++- **Brace remains contact-based.** Chapter 24 loads the stopped sweep arm through Maya’s forearms, body and feet on a fixed sill. Chapter 25 uses the reachable diagonal stay of the track bracket. Chapter 29 uses the near anchor shoe with both feet on its stone bed. No remote holding, wall-penetrating target acquisition, healing, refill, or ability that freezes the boundary has been added.
++- **Contact is visual until Chapter 28.** Chapters 26–27 use mirror/slate and runner relay from the upper gallery; Maya remains at the ground-floor kitchen table. At the start of Chapter 28, Dain verifies ordinary audible exchange from the unobstructed lower ledge. Slates remain necessary for the upper gallery and narrowing intervals.
++- **Floor marks are not interchangeable.** A slash only passes a light-object test; a circle records a plate holding a person. Tolliver’s seventh plate was provisional. The circled plates used to retreat remain seated. No certified-stable plate fails and is ignored during the continuation into the upper route.
++- **Trolley sequence:** empty trolley is brought near; Harra carries the table rails and salvage; it catches short of the far landing; contact Brace and release let the bracket settle and clear the damaged joint; Harra arrives once and completes footing; passengers cross singly; the final brake load is transferred to the far-side return line before Tolliver rides.
++
++The historical sections below describe earlier checkpoints and proposals. The completed chapter files and the clarifications above govern later continuation.
+ 
+ This is design material, not an in-world document. The chapters govern canon. Unrevealed explanations remain provisional and must be established through action before a rescue relies on them.
+ 
+--- a/book1/STORY_OVERVIEW.md
++++ b/book1/STORY_OVERVIEW.md
+@@ -1,6 +1,6 @@
+ # Story overview
+ 
+-This cumulative synopsis records the revised manuscript through Chapter Twenty-Six. The September 19 cold-review revision changed the prose throughout and materially changed Chapters Twelve–Nineteen. Written chapter text governs canon; older editorial reviews describe earlier versions. Character reports, deductions and untested mechanisms remain distinguished from observed facts. Maya never returns to Earth under the author's series direction; her early desire to do so remains part of the story.
++This cumulative synopsis records the revised manuscript through Chapter Thirty-Two. The September 19 cold-review revision changed the prose throughout and materially changed Chapters Twelve–Nineteen. Written chapter text governs canon; older editorial reviews describe earlier versions. Character reports, deductions and untested mechanisms remain distinguished from observed facts. Maya never returns to Earth under the author's series direction; her early desire to do so remains part of the story.
+ 
+ ## Chapter 01
+ 
+@@ -296,7 +296,7 @@
+ 
+ The morning after the East Relief Works delve, Maya woke with a substantially worsened left ankle and finally accepted that she could not walk the ridge back to Rook. Tolliver offered to carry her without assuming permission; Maya explicitly chose his help, reinforcing the developing distinction between his old habit of taking control and the trust he is now earning by waiting for her choice. The party returned with the tempered return shoe and resonance-fault specification, negotiating one final unstable trail section through ordinary route judgment rather than magic.
+ 
+-At Rook, Mara reassessed Maya and imposed three days without stairs, rough ground, shield work, Stepguard or powered loading. Harra and the others used the recovered geometry and specification to rethink the next rescue frame. Instead of making the span simply stronger, they designed a short-pin far shoe with bounded spring travel so that receiving-side pitch or motion could unload without levering force through the whole structure. A table-scale prototype developed stored twist under crooked load; Maya recognized the danger and correctly called for the far latch to be released before the external weight was removed. The sequence worked and established a practical release-before-unload order for further testing.
++At Rook, the house mender reassessed Maya and imposed three days without stairs, rough ground, shield work, Stepguard or powered loading. Mara enforced the mender’s instructions while continuing her records and family roles. Harra and the others used the recovered geometry and specification to rethink the next rescue frame. Instead of making the span simply stronger, they designed a short-pin far shoe with bounded spring travel so that receiving-side pitch or motion could unload without levering force through the whole structure. A table-scale prototype developed stored twist under crooked load; Maya recognized the danger and correctly called for the far latch to be released before the external weight was removed. The sequence worked and established a practical release-before-unload order for further testing.
+ 
+ Sella received an eastbound route-guard and scouting offer leaving in four days. Maya urged her to accept rather than sacrifice another opportunity to an uncertain rescue timetable. Their relationship remained affectionate but unresolved: Sella made clear that Tolliver's growing place in Maya's emotional future is still a real problem, while refusing to reduce that problem to a theatrical immediate choice.
+ 
+@@ -304,7 +304,7 @@
+ 
+ ## Chapters Twenty-Seven to Twenty-Nine
+ 
+-Maya spends the three days after East Relief under Mara's injury restrictions while Harra and Oret scale the recovered spring-shoe geometry into a full rescue frame. Although confined mostly to table work, Maya identifies an important remaining risk: merely leaving a rigid span loaded in the chamber could transmit resonance into the connected old works. Iven remeasures the receiving landing, Harra sets two-finger bounded travel in the far spring shoe, and dry testing exposes a compressible wooden near shim that is replaced with an iron-backed wedge.
++Maya spends the three days after East Relief under the house mender’s injury restrictions while Harra and Oret scale the recovered spring-shoe geometry into a full rescue frame. Although confined mostly to table work, Maya identifies an important remaining risk: merely leaving a rigid span loaded in the chamber could transmit resonance into the connected old works. Iven remeasures the receiving landing, Harra sets two-finger bounded travel in the far spring shoe, and dry testing exposes a compressible wooden near shim that is replaced with an iron-backed wedge.
+ 
+ Sella's accepted eastbound job is confirmed to depart after midday on the fourth day. Maya refuses to ask her to sacrifice another opportunity to the rescue's uncertain timing. Sella makes clear that she wants Maya but also wants roads, work and a future not built around waiting. Their relationship remains loving and serious without pretending Tolliver's growing emotional place has vanished. Captain Rusk then returns with three crew and a district preservation notice over disputed inner iron. Pell and Vey negotiate a narrow witness/hold arrangement that preserves Rusk's legal claim without granting custody over Iven or control of the lower chamber.
+ 
+@@ -312,7 +312,7 @@
+ 
+ Harra and Oret convert the near end into a captured floating sleeve with one finger of travel and add a sacrificial joint to the far portion of the rescue board. After six successful dry cycles, the second attempt begins despite Rusk's stated preference to wait for her rigger. Before the crossing, Maya and Sella explicitly tell each other they are in love; Sella still intends to leave with the eastbound team and acknowledges Maya's unresolved or developing love for Tolliver.
+ 
+-During the second crossing, an independent pressure-driven activation of the old isolation system consumes both support travel limits. Rather than Brace the whole structure, Maya orders Iven forward, then has Harra shear the sacrificial far board joint once his rear foot clears it. Maya uses one Brace only on the near stone long enough for Harra to release the floating sleeve, then deliberately releases her hold while Sella and Tolliver haul Iven himself. The boundary destroys only expendable frame material. Iven reaches Rook's side alive.
++During the second crossing, an independent pressure-driven activation of the old isolation system consumes both support travel limits. Rather than Brace the whole structure, Maya orders Iven forward, then has Harra shear the sacrificial far board joint once his rear foot clears it. Maya uses one Brace through direct contact with the near anchor shoe and its sound stone support long enough for Harra to release the floating sleeve, then deliberately releases her hold while Sella and Tolliver haul Iven himself. The boundary destroys only expendable frame material. Iven reaches Rook's side alive.
+ 
+ The rescue completes Maya's Level 6 threshold. Her reserve capacity rises to eight while current reserve remains five of eight; she receives no heal, refill or new activated ability. The System refines her recognized technique from RELEASE UNDER LOAD to CONTROLLED RELEASE. Maya's ankle worsens again and requires continued medical continuity. Rusk's preservation claim remains alive, and possible Earth-related answers are left behind with the disputed iron rather than risk Iven or concede custody. Iven reunites with Teren and Lio, completing the volume's central rescue obligation while leaving the relationship aftermath and series mystery for the remaining chapters.
+ 
+@@ -320,11 +320,11 @@
+ 
+ ## Chapters Thirty and Thirty-One
+ 
+-In the immediate aftermath of Iven's rescue, Maya's worsened ankle remains medically consequential and Mara keeps her seated while Rook handles recovery, evidence, drainage, and salvage-claim fallout. Sella's eastbound crew is due within the hour. Maya and Sella finally have space to address their relationship without a rescue crisis dominating the conversation. Sella makes clear that the central problem is not Maya's bisexuality or Tolliver's existence; she cannot build a life around waiting while Maya remains emotionally suspended. Maya admits she nearly asked Sella to stay but refused because rescue-day emotion and Sella's existing sacrifices would have tilted the answer.
++In the immediate aftermath of Iven's rescue, Maya's worsened ankle remains medically consequential and the house mender keeps her seated while Rook handles recovery, evidence, drainage, and salvage-claim fallout. Sella's eastbound crew is due within the hour. Maya and Sella finally have space to address their relationship without a rescue crisis dominating the conversation. Sella makes clear that the central problem is not Maya's bisexuality or Tolliver's existence; she cannot build a life around waiting while Maya remains emotionally suspended. Maya admits she nearly asked Sella to stay but refused because rescue-day emotion and Sella's existing sacrifices would have tilted the answer.
+ 
+ Sella leaves east as planned. They remain in love and do not manufacture either exclusivity or a false permanent breakup. They agree that future attachments must be spoken aloud and that, if Sella returns and they still want one another, they will say so. Tolliver stays out of the goodbye and does not treat Sella's departure as an opening to claim Maya.
+ 
+-The chapter then allows the rescue aftermath to breathe. Iven formally thanks Maya for choosing his life over disputed iron and possible Earth-related answers; Rusk's preservation claim remains unresolved. Mara restricts Maya's ankle for six additional days, after which Maya is gradually cleared for flat walking, light shield work, stairs, and finally Stepguard.
++The chapter then allows the rescue aftermath to breathe. Iven formally thanks Maya for choosing his life over disputed iron and possible Earth-related answers; Rusk's preservation claim remains unresolved. The house mender restricts Maya’s ankle for six additional days, after which Maya is gradually cleared for flat walking, light shield work, stairs, and finally Stepguard.
+ 
+ Nine days after Sella's departure, fully ambulatory and no longer using injury as the premise for intimacy, Maya approaches Tolliver and explicitly chooses him. She asks him to stop being physically careful with her while preserving her authority over her choices. Their first fully realized encounter centers on active consent, repeated check-ins, Tolliver's credible physical advantage, Maya's voluntary surrender, and his fixation on making her lose composure rather than making her small. The encounter remains on page and carries into aftermath.
+ 
+@@ -332,7 +332,7 @@
+ 
+ ## Chapter Thirty-Two
+ 
+-Nine days after Sella's departure, Maya settles the practical consequences of the rescue and of remaining at Rook beyond the written Day Eighteen extension. Pell and Mara reconstruct the retained work period instead of hiding the gap in paperwork; Maya is paid for twelve days at her established eight-bit rate and negotiates the unused return-cart value into a four-week room with explicit property protections and locked storage. The choice gives her a concrete home base that does not make her Rook property or service.
++On the morning after the ninth night following Sella’s departure, Maya settles the practical consequences of the rescue and her continued work after the paid two-day expedition hire. Pell and Mara reconstruct thirteen retained workdays, Days 21–33, rather than counting the already-paid Day 18 and expedition days again. Maya receives 104 bits at her established eight-bit rate. Day 34 is settlement and release, with accommodation covered by the unused return provision. She negotiates a four-week room with explicit property protections and locked storage for 28 bits in cash after the unused fare is credited. The choice gives her a concrete home base that does not make her Rook property or service.
+ 
+ Mara, Pell and Vey also resolve Elena's Missouri identification card as personal property that had been retained in error with survey materials. The original stays in recorded custody for Elena while Maya keeps a complete copy. Rusk's salvage dispute remains alive only for preserved inner iron and later adjudication; it no longer gives her leverage over Iven, human access, or copied information.
+ 
+--- a/book1/chapters/chapter-05.md
++++ b/book1/chapters/chapter-05.md
+@@ -88,7 +88,7 @@
+ 
+ Skell’s. Fever. A dead clerk. I stare at the side of Tolliver’s jaw. He speaks without hesitation, and I try to make my face look like the face of someone who knows those people.
+ 
+-The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the strip of shirt gone black around my foot. “She got no shoes.”
++The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the darkened wrapping around my foot. “She got no shoes.”
+ 
+ “No.”
+ 
+--- a/book1/chapters/chapter-06.md
++++ b/book1/chapters/chapter-06.md
+@@ -174,7 +174,7 @@
+ 
+ “Two cards of thread and he’s got the money in his fist and he’s been standing there since I got here.”
+ 
+-Her mouth does something small and she puts it away again. “Ordway,” she says, which turns out to be her name and turns out to be how I get called for the next two hours, along with several other things.
++Her mouth does something small and she puts it away again. “Ordway,” she says, giving me her name at last.
+ 
+ The first ten minutes are a disaster held together with string. The prices are simple and the coins are not, and coins are the whole job. The little ones are copper and thin and they come in one size, and I decide inside the first two minutes to call them bits because I have to call them something. The fat dull ones are worth more and I do not know how much more until a woman buys soap and salt and gets change and I watch Ordway’s hand make it, and then I do the sum backward and get eight.
+ 
+--- a/book1/chapters/chapter-10.md
++++ b/book1/chapters/chapter-10.md
+@@ -70,7 +70,7 @@
+ 
+ “Yes,” he says. “I could.”
+ 
+-“If you want it cracked when we brake, yes,” she says.
++“If you want it cracked when we brake, yes,” the carter tells Vey.
+ 
+ Vey moves the chest.
+ 
+--- a/book1/chapters/chapter-14.md
++++ b/book1/chapters/chapter-14.md
+@@ -1,8 +1,8 @@
+ CHAPTER FOURTEEN
+ 
+-Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Her plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
+-
+-She is across the workshop with a slate against her chest. Three fingers raised. Then one.
++Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Harra’s plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
++
++Sella is across the workshop with a slate against her chest. Three fingers raised. Then one.
+ 
+ “One,” I say.
+ 
+--- a/book1/chapters/chapter-15.md
++++ b/book1/chapters/chapter-15.md
+@@ -328,7 +328,7 @@
+ 
+ *Still here.*
+ 
+-Mara presses her hand over her mouth. Then she takes the first sheet of her sons’ letter and begins.
++Mara presses her hand over her mouth. Then she takes the first sheet of her nephews’ letter and begins.
+ 
+ It takes nearly an hour.
+ 
+--- a/book1/chapters/chapter-18.md
++++ b/book1/chapters/chapter-18.md
+@@ -24,7 +24,7 @@
+ 
+ “Three pieces, fitted,” she says. “Pell approved the stores sale. Yours afterward.”
+ 
+-Twenty-four bits. I count out the three pieces.
++Twenty-four bits.
+ 
+ “Can you do two?”
+ 
+--- a/book1/chapters/chapter-20.md
++++ b/book1/chapters/chapter-20.md
+@@ -396,7 +396,7 @@
+ 
+ “Was?” Pell asks.
+ 
+-“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light goes.”
++“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light went.”
+ 
+ “Tomorrow?”
+ 
+@@ -500,7 +500,9 @@
+ 
+ ---
+ 
+-The extension paper is signed before bed.
++The clerk pays today’s eight bits separately. The extension begins tomorrow.
++
++The new paper is signed before bed.
+ 
+ Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty.
+ 
+--- a/book1/chapters/chapter-21.md
++++ b/book1/chapters/chapter-21.md
+@@ -236,7 +236,7 @@
+ 
+ I know that before anybody looks at me, so I hate the thought immediately.
+ 
+-My purse has forty-six bits from before the extension. Today’s eight makes fifty-four.
++My purse has fifty-four bits from before the extension. Today’s eight makes sixty-two.
+ 
+ The block would belong to Rook.
+ 
+@@ -406,7 +406,7 @@
+ 
+ The passage smells of flour and cooling stone.
+ 
+-I think of Chapter Seven, though my life does not call it that. I think of him deciding where I slept because he believed deciding was protection.
++I think of him deciding where I slept because he believed deciding was protection.
+ 
+ I think of Rusk asking for custody in writing.
+ 
+--- a/book1/chapters/chapter-22.md
++++ b/book1/chapters/chapter-22.md
+@@ -724,7 +724,7 @@
+ 
+ Then decide.
+ 
+-I sign.
++The clerk pays today’s eight bits before I sign for tomorrow.
+ 
+ The money is becoming less important than the paper. That frightens me differently.
+ 
+--- a/book1/chapters/chapter-23.md
++++ b/book1/chapters/chapter-23.md
+@@ -626,9 +626,7 @@
+ 
+ A new contract.
+ 
+-Two days.
+-
+-Recovery expedition.
++Two days, beginning tomorrow. Recovery expedition. Eight bits a day for me, twelve for Sella, ten for Tolliver.
+ 
+ Same room and food protection if we return late.
+ 
+--- a/book1/chapters/chapter-24.md
++++ b/book1/chapters/chapter-24.md
+@@ -264,7 +264,7 @@
+ 
+ Then they vanish.
+ 
+-My nameplate flashes.
++A nameplate flashes.
+ 
+ **[HOLLOW KNOCKER, LV. 6]**
+ 
+@@ -306,12 +306,14 @@
+ 
+ Harra marks each plate after three light tests.
+ 
+-One chalk slash: held.
+-
+-Two: shifted but returned.
++One chalk slash: held the test stone. Not yet cleared for a person.
++
++Two: shifted but returned. No stepping there.
+ 
+ X: no.
+ 
++Harra circles a single slash only after the plate takes a person’s weight without shifting. The plate that dropped gets an X; she picks another line along the wall.
++
+ We move one person at a time.
+ 
+ Tolliver first because he is light on his feet and can cover the next doorway.
+@@ -322,9 +324,11 @@
+ 
+ Sella last because she can move backward while watching behind us.
+ 
+-The first six plates hold.
+-
+-The seventh shifts under Tolliver.
++The first six plates hold. Harra circles their marks.
++
++The seventh still has only the provisional slash. Tolliver eases his front boot onto it.
++
++It shifts.
+ 
+ “Stop,” I say.
+ 
+@@ -370,7 +374,7 @@
+ 
+ Sella mutters, “It knows.”
+ 
+-The next plate behind Tolliver trembles.
++Something strikes the plate behind Tolliver. Its pin keeps it level.
+ 
+ Two creatures.
+ 
+@@ -386,9 +390,9 @@
+ 
+ The pattern belongs to the step: facing, support and one straight line.
+ 
+-I did not know that.
+-
+-I know it now because the shape of it sits in my body, waiting.
++I have never tried it without a shield.
++
++The shape is the one Sella taught me. I can feel it waiting.
+ 
+ I move onto the safe plate behind him.
+ 
+@@ -514,11 +518,13 @@
+ 
+ ---
+ 
++We return along the six circled plates. Every pin stays seated. At the entrance, Harra checks the separate maintenance stair before clearing it for us.
++
+ We take the upper route.
+ 
+ The lower route is shorter.
+ 
+-It is also full of X marks after Harra tests the first four plates.
++It is also blocked by the plate that dropped, with more X marks beyond it.
+ 
+ The upper route climbs a maintenance stair cut into the wall, then crosses a narrow gallery above the isolation trench.
+ 
+@@ -528,7 +534,7 @@
+ 
+ Not because anyone orders me.
+ 
+-Because the rule said increase in pain means turn back.
++Because the rule said increase in pain means stop and check.
+ 
+ The pain has increased.
+ 
+@@ -794,7 +800,7 @@
+ 
+ “Against what?”
+ 
+-“The wall stop.”
++“Forearms on the back of the arm, feet on the fixed sill beside the stop. Out of the sweep.”
+ 
+ “You would be holding the arm, not the floor.”
+ 
+@@ -864,23 +870,13 @@
+ 
+ The arm sweeps.
+ 
+-I Brace.
++I set my forearms against the back of it at the stop and Brace.
+ 
+ **3 / 6 → 2 / 6**
+ 
+-Pressure slams through my shoulders even though I am not touching the arm.
+-
+-The ability does not care.
+-
+-It finds the thing I chose to hold and the sound support behind it.
+-
+-Wall.
+-
+-Stop.
+-
+-Iron.
+-
+-Me.
++Pressure runs from the iron through my forearms, shoulders and back into the sill beneath my boots.
++
++Same hold. Different thing trying to move.
+ 
+ For one breath I understand why Warder is not Shieldbearer.
+ 
+--- a/book1/chapters/chapter-25.md
++++ b/book1/chapters/chapter-25.md
+@@ -384,7 +384,7 @@
+ 
+ The ceiling track crosses the channel.
+ 
+-A chain trolley hangs above us, frozen halfway across.
++A chain trolley hangs above us, motionless halfway across.
+ 
+ A square iron frame dangles from it.
+ 
+@@ -402,6 +402,8 @@
+ 
+ “Manual. Two people.”
+ 
++The near track bracket has a diagonal iron stay running down beside the capstan, low enough for me to reach from the solid floor.
++
+ Sella says, “And every turn tells the thing downstairs where we are.”
+ 
+ Yes.
+@@ -468,6 +470,10 @@
+ 
+ That hurts more.
+ 
++Harra threads our line through the return pulley by drawing it after the old one, then has Sella and Tolliver bring the empty trolley to us. It creeps down toward the far landing when they ease the brake. They stop with the near bar over solid floor.
++
++The new return line reaches both banks. Once someone is across, we can haul from either end.
++
+ ---
+ 
+ We build a liar.
+@@ -504,7 +510,7 @@
+ 
+ Sella right.
+ 
+-Harra will ride the frame with the salvage because someone must control the trolley brake on the far side.
++Harra will ride the frame with the salvage and the two table rails. Someone has to secure the far landing and take the return line.
+ 
+ I will not.
+ 
+@@ -608,23 +614,15 @@
+ 
+ The creature hesitates.
+ 
+-The trolley reaches the far side.
+-
+-Harra jumps off.
+-
+-“Brake!”
+-
+-She locks it.
+-
+-The capstan stops.
+-
+-We have a suspended frame across the gap.
+-
+-No deck.
+-
+-Still no bridge.
+-
+-Harra starts lashing the two table rails to the frame.
++The trolley catches at a damaged section of track, a yard short of the far landing.
++
++“Brake!” Harra calls.
++
++Tolliver holds it.
++
++Harra stays in the frame with one leg hooked over the lower bar. Still above the water.
++
++She starts lashing the two table rails across its base for the rest of us.
+ 
+ Sella says, “That will take time.”
+ 
+@@ -706,7 +704,7 @@
+ 
+ “Hold!” Sella shouts.
+ 
+-I Brace.
++I press both forearms against the low diagonal stay and Brace.
+ 
+ I do not think first.
+ 
+@@ -716,7 +714,7 @@
+ 
+ **2 / 6 → 1 / 6**
+ 
+-The Brace catches the trolley track through the stone support above me.
++The track steadies through the iron against my arms. I feel the load down my back and into the stone beneath my boots.
+ 
+ For one second everything stabilizes.
+ 
+@@ -746,7 +744,7 @@
+ 
+ Holding harder is the wrong answer.
+ 
+-I learned this yesterday with an ash frame.
++I learned this with the first ash frame.
+ 
+ The world is not subtle.
+ 
+@@ -770,7 +768,7 @@
+ 
+ Harra swears.
+ 
+-The bracket bends instead of breaking.
++The bracket bends instead of breaking. At the changed angle, the trolley wheel clears the damaged joint.
+ 
+ The trolley rolls toward the far side.
+ 
+@@ -836,21 +834,21 @@
+ 
+ ---
+ 
++Harra steps onto the far landing and finishes lashing the second table rail across the frame. She leans her weight onto both.
++
++Tolliver checks the bent near bracket with the pry bar. It has settled against the lower stone shoulder. It no longer moves under the empty trolley.
++
+ We cross using the trolley.
+ 
+ One at a time.
+ 
+-Harra sends the frame back empty with the capstan.
++Harra and Tolliver work the return line to bring the frame back empty.
+ 
+ Sella crosses first to help Harra.
+ 
+ Then me.
+ 
+-Tolliver insists on being last.
+-
+-Someone has to operate the brake.
+-
+-For once, the reason is structural.
++Tolliver goes last. Until three of us are across, he controls the near brake. After that, Harra and Sella can take the trolley’s weight on the return line from the far landing.
+ 
+ I step into the iron frame.
+ 
+@@ -946,7 +944,7 @@
+ 
+ “I noticed.”
+ 
+-Tolliver crosses last.
++Tolliver secures the near brake open only after Harra confirms she has the load on the far line. Then he crosses.
+ 
+ When he steps off the frame, he takes one look at me sitting on the stone with Sella rewrapping my ankle.
+ 
+@@ -976,7 +974,7 @@
+ 
+ Harra checks the ceiling.
+ 
+-Tolliver checks the second exit.
++Tolliver checks the narrow ventilation opening. Too small for any of us; the grate is still fixed.
+ 
+ Sella checks under the desk because apparently we are people who check under desks for monsters now.
+ 
+@@ -1002,274 +1000,278 @@
+ 
+ She finishes the wrap.
+ 
+-“You should have turned back at the gallery.”
++“The rest at the gallery helped,” she says.
+ 
+ “Yes.”
+ 
+-“You knew.”
++“When did the ache come back?”
++
++“The pressure room. Before we tried to leave.”
++
++“Tell me next time. Not just after something gives.”
++
++“I will.”
++
++She ties the knot harder than necessary.
++
++“Ow.”
++
++“Good.”
++
++I look at her.
++
++She sits back against the wall.
++
++For a while neither of us talks.
++
++The room smells like wet leather and old paper.
++
++There are ledgers on the shelves, fused together by damp.
++
++One page on the floor still has writing.
++
++I do not pick it up.
++
++Growth.
++
++Eventually Sella says, “He listens to you.”
++
++I know who she means.
+ 
+ “Yes.”
+ 
+-“You stayed.”
++“He didn’t before.”
++
++“No.”
++
++“He looks at you differently when you are right.”
++
++Heat moves up my neck.
++
++“This is a terrible time.”
++
++“I know.”
++
++“Then why are we doing this?”
++
++“Because later you will pretend you didn’t notice.”
++
++I open my mouth.
++
++Close it.
++
++She knows me too well.
++
++Sella picks at a loose thread on her glove.
++
++“I like him more now.”
++
++That surprises me.
++
++“You do?”
++
++“No.”
++
++I laugh.
++
++She smiles.
++
++“More than before.”
++
++“Low bar.”
++
++“Underground.”
++
++The smile goes.
++
++“He makes you angry.”
+ 
+ “Yes.”
+ 
+-She ties the knot harder than necessary.
+-
+-“Ow.”
+-
+-“Good.”
+-
+-I look at her.
+-
+-She sits back against the wall.
+-
+-For a while neither of us talks.
+-
+-The room smells like wet leather and old paper.
+-
+-There are ledgers on the shelves, fused together by damp.
+-
+-One page on the floor still has writing.
+-
+-I do not pick it up.
+-
+-Growth.
+-
+-Eventually Sella says, “He listens to you.”
+-
+-I know who she means.
++“He also makes you…” She gestures vaguely at my entire body.
++
++“Please do not diagnose me in a dungeon.”
++
++“Works complex.”
++
++“Traitor.”
++
++She looks at the door.
++
++Then back at me.
++
++“I don’t need an answer today.”
++
++My chest tightens.
++
++“To what?”
++
++“That.”
++
++A boundary not yet drawn.
++
++A future approaching.
++
++I reach for her hand.
++
++She gives it, then touches two fingers to her mouth and presses them against the back of my hand.
++
++“Still here.”
++
++I return the gesture. Her fingers curl around mine.
++
++“I meant what I said on the roof.”
++
++“I know.”
++
++“I want to go with you.”
++
++“I know.”
++
++“And I don’t know what he is.”
++
++“I know.”
++
++She squeezes my fingers.
++
++“That is the problem.”
++
++Plain steel.
++
++No speech.
++
++Nothing to solve tonight.
++
++I lean my head against her shoulder.
++
++She lets me.
++
++---
++
++Harra finds the maintenance specification while Tolliver is freeing the beam.
++
++Not the one we came for.
++
++Another.
++
++Pressure-isolation notes.
++
++Old local script.
++
++I can read more of it than she can because the System translation has stopped feeling like translation most days.
++
++The plate describes resonance faults.
++
++Repeated load cycling can wake dormant isolation sections after long disuse.
++
++A damaged pressure line may transmit false activation through connected stone.
++
++I read the line twice.
++
++Resonance.
++
++False activation.
++
++Connected stone.
++
++The rescue chamber vibrated before the frame caught.
++
++The East Relief Works woke under load.
++
++Same regional system.
++
++Not proof.
++
++Useful enough to matter.
++
++Harra looks at the plate.
++
++“We take this.”
+ 
+ “Yes.”
+ 
+-“He didn’t before.”
+-
+-“No.”
+-
+-“He looks at you differently when you are right.”
+-
+-Heat moves up my neck.
+-
+-“This is a terrible time.”
+-
+-“I know.”
+-
+-“Then why are we doing this?”
+-
+-“Because later you will pretend you didn’t notice.”
+-
+-I open my mouth.
+-
+-Close it.
+-
+-She knows me too well.
+-
+-Sella picks at a loose thread on her glove.
+-
+-“I like him more now.”
+-
+-That surprises me.
+-
+-“You do?”
+-
+-“No.”
+-
+-I laugh.
+-
+-She smiles.
+-
+-“More than before.”
+-
+-“Low bar.”
+-
+-“Underground.”
+-
+-The smile goes.
+-
+-“He makes you angry.”
++“More weight.”
+ 
+ “Yes.”
+ 
+-“He also makes you…” She gestures vaguely at my entire body.
+-
+-“Please do not diagnose me in a dungeon.”
+-
+-“Works complex.”
+-
+-“Traitor.”
+-
+-She looks at the door.
+-
+-Then back at me.
+-
+-“I don’t need an answer today.”
+-
+-My chest tightens.
+-
+-“To what?”
+-
+-“That.”
+-
+-A boundary not yet drawn.
+-
+-A future approaching.
+-
+-I reach for her hand.
+-
+-She gives it.
+-
+-“I meant what I said on the roof.”
+-
+-“I know.”
+-
+-“I want to go with you.”
+-
+-“I know.”
+-
+-“And I don’t know what he is.”
+-
+-“I know.”
+-
+-She squeezes my fingers.
+-
+-“That is the problem.”
+-
+-Plain steel.
+-
+-No speech.
+-
+-Nothing to solve tonight.
+-
+-I lean my head against her shoulder.
+-
+-She lets me.
++She gives me a look.
++
++“We leave the spare chain.”
++
++That hurts.
++
++The chain is worth money.
++
++Useful money.
++
++Dungeon cost.
++
++We leave it.
++
++The rescue gets the plate.
++
++The rescue gets the return shoe.
++
++Rook does not get every shiny thing because we survived.
++
++I understand why that feels important.
+ 
+ ---
+ 
+-Harra finds the maintenance specification while Tolliver is freeing the beam.
+-
+-Not the one we came for.
+-
+-Another.
+-
+-Pressure-isolation notes.
+-
+-Old local script.
+-
+-I can read more of it than she can because the System translation has stopped feeling like translation most days.
+-
+-The plate describes resonance faults.
+-
+-Repeated load cycling can wake dormant isolation sections after long disuse.
+-
+-A damaged pressure line may transmit false activation through connected stone.
+-
+-I read the line twice.
+-
+-Resonance.
+-
+-False activation.
+-
+-Connected stone.
+-
+-The rescue chamber vibrated before the frame caught.
+-
+-The East Relief Works woke under load.
+-
+-Same regional system.
+-
+-Not proof.
+-
+-Useful enough to matter.
+-
+-Harra looks at the plate.
+-
+-“We take this.”
+-
+-“Yes.”
+-
+-“More weight.”
+-
+-“Yes.”
+-
+-She gives me a look.
+-
+-“We leave the spare chain.”
+-
+-That hurts.
+-
+-The chain is worth money.
+-
+-Useful money.
+-
+-Dungeon cost.
+-
+-We leave it.
+-
+-The rescue gets the plate.
+-
+-The rescue gets the return shoe.
+-
+-Rook does not get every shiny thing because we survived.
+-
+-I understand why that feels important.
++We exit near dusk.
++
++The spill gallery opens onto the ridge above the entrance.
++
++Tolliver carries Harra’s pack.
++
++Harra carries the return shoe wrapped against her chest.
++
++Sella carries my pack.
++
++I carry myself with one arm over Tolliver’s shoulder because there are limits to principle and my ankle has reached one.
++
++He asked first.
++
++“Can I?”
++
++I said yes.
++
++The answer changes everything.
++
++His arm is around my waist.
++
++Practical.
++
++Strong.
++
++He could pick me up.
++
++He does not.
++
++I feel the possibility anyway.
++
++That is new.
++
++Or maybe only newly honest.
++
++We descend slowly.
++
++Sella walks on my other side.
++
++Not shut out.
++
++Not pretending not to see.
++
++The configuration is absurdly intimate for four exhausted people covered in rust.
++
++Harra ruins it by saying, “If you three fall over, I am leaving you.”
++
++“Professional leadership,” I say.
++
++“Move.”
+ 
+ ---
+ 
+-We exit near dusk.
+-
+-The spill gallery opens onto the ridge above the entrance.
+-
+-Tolliver carries Harra’s pack.
+-
+-Harra carries the return shoe wrapped against her chest.
+-
+-Sella carries my pack.
+-
+-I carry myself with one arm over Tolliver’s shoulder because there are limits to principle and my ankle has reached one.
+-
+-He asked first.
+-
+-“Can I?”
+-
+-I said yes.
+-
+-The answer changes everything.
+-
+-His arm is around my waist.
+-
+-Practical.
+-
+-Strong.
+-
+-He could pick me up.
+-
+-He does not.
+-
+-I feel the possibility anyway.
+-
+-That is new.
+-
+-Or maybe only newly honest.
+-
+-We descend slowly.
+-
+-Sella walks on my other side.
+-
+-Not shut out.
+-
+-Not pretending not to see.
+-
+-The configuration is absurdly intimate for four exhausted people covered in rust.
+-
+-Harra ruins it by saying, “If you three fall over, I am leaving you.”
+-
+-“Professional leadership,” I say.
+-
+-“Move.”
+-
+----
+-
+ At the maintenance shelter I open the measure.
+ 
+ **[MAYA SZCZEPANIAK, LV. 4]**
+--- a/book1/chapters/chapter-26.md
++++ b/book1/chapters/chapter-26.md
+@@ -434,15 +434,15 @@
+ 
+ I feel less singled out.
+ 
+-Tolliver carries me to the west kitchen room and sets me on the bed.
+-
+-Mara unwraps my ankle.
++Mara has brought the house mender to the west kitchen room. Tolliver carries me in and sets me on the bed.
++
++The mender unwraps my ankle.
+ 
+ Her silence gets worse with every layer.
+ 
+ Sella leans against the wall.
+ 
+-Tolliver stays by the door until Mara says, “Out.”
++Tolliver stays by the door until the mender says, “Out.”
+ 
+ He leaves.
+ 
+@@ -450,7 +450,7 @@
+ 
+ I hate how much I notice.
+ 
+-Mara presses two fingers along the outside of my ankle.
++The mender presses two fingers along the outside of my ankle.
+ 
+ Pain flashes.
+ 
+@@ -488,7 +488,7 @@
+ 
+ Sella says, “She rode Tolliver down the ridge.”
+ 
+-Mara looks at me.
++The mender looks at me.
+ 
+ “That is not loading.”
+ 
+@@ -500,1080 +500,1022 @@
+ 
+ Sella snorts.
+ 
++The mender does not.
++
++“Three days. No stairs. No rough ground. No shield. No Stepguard.”
++
++“What about flat indoor—”
++
++“No.”
++
++“That seems punitive.”
++
++“It is treatment.”
++
++“I can Brace without walking.”
++
++The mender gives me a look sharp enough to remove paint.
++
++“Can you Brace without your body taking load?”
++
++I think of the forge track.
++
++The pressure through my shoulders.
++
++The way the floor felt under both feet.
++
++“No.”
++
++“Then no powered work today.”
++
++Today.
++
++Not forever.
++
++I cling to that.
++
++She wraps the ankle tighter, adds a stiff side splint and makes me promise to call before standing.
++
++I promise.
++
++I mean it.
++
++Mostly.
++
++---
++
++The dungeon contract ends at Pell’s table.
++
++Not ceremonially.
++
++There is stew.
++
++Harra puts the return shoe in the middle of the table on folded cloth.
++
++Everybody stares at it.
++
++It is ugly.
++
++Beautifully ugly.
++
++Tempered metal, curved at one end, with a spring seat cut deep into the back. Nothing mystical. Nothing glowing.
++
++A piece of engineering that survived twelve years in a place full of things that wanted to eat our feet.
++
++Pell touches the edge.
++
++“This fits?”
++
++Harra says, “Not directly.”
++
++Pell’s face falls.
++
++“It gives me the geometry.”
++
++She unwraps the spring strip.
++
++“And the temper.”
++
++Then the specification plate.
++
++“And this may give us why the first frame felt wrong before it caught.”
++
++I shift in my chair.
++
++Mara allowed the chair under the mender’s rules.
++
++Chair is civilization.
++
++Pell looks at me.
++
++“You said vibration.”
++
++“Yes.”
++
++“What kind?”
++
++“Before the pin caught. Not from the boundary cutting it. Earlier.”
++
++I hate saying it.
++
++I hate more that I did not say it immediately the first time.
++
++Harra taps the plate.
++
++“Repeated loading can wake isolation sections through connected stone.”
++
++Dain is at the table now, fingers resting on the plate without using whatever contact sense he uses on wet masonry.
++
++“Can.”
++
++“Yes.”
++
++“Not will.”
++
++“Yes.”
++
++Oret leans closer.
++
++“So the lower chamber could be passing load into something we are not seeing.”
++
++Harra nods.
++
++“Or something on the receiving side is feeding back.”
++
++Pell looks toward the floor as if Iven is directly beneath us.
++
++“Does that make it worse?”
++
++“No,” I say.
++
++Everyone looks at me.
++
++I take a breath.
++
++“It makes it less unknown.”
++
++That is not the same as safer.
++
++I have learned enough to know the difference.
++
++Harra turns the return shoe over.
++
++“The ash frame failed because the far pin was too long and the receiving pitch pulled it down. We knew that. But if the frame was also transmitting load into the old stone, then making the next one stronger could make the wrong problem worse.”
++
++Oret’s eyes narrow.
++
++“A rigid bridge.”
++
++“Yes.”
++
++“Couples both sides.”
++
++“Yes.”
++
++I look at the shoe.
++
++Release under load.
++
++A structure that can sit on both sides without insisting they become one thing.
++
++“What if the far foot can move?”
++
++Harra looks at me.
++
++“Move how?”
++
++“Not slide loose. Give.”
++
++I use both hands because words are failing.
++
++“Short pin. Shoe under it. Spring behind. Enough travel that if the landing pitches or the stone moves, it unloads instead of levering the whole frame.”
++
++Harra does not answer.
++
++She pulls a scrap of paper toward herself.
++
++Draws.
++
++Oret stands.
++
++Dain leans over.
++
++Pell forgets the stew.
++
++Sella watches me.
++
++Not the drawing.
++
++Me.
++
++Tolliver is on the other side of the table.
++
++He is doing the same thing.
++
++I try not to notice.
++
++I fail.
++
++Harra draws three versions.
++
++Crosses out two.
++
++On the third, the far support is a short steel nose seated into a shallow shoe with a return spring behind it.
++
++“Adjustable foot,” she says.
++
++“That was already the next design.”
++
++“Yes.”
++
++She taps the spring.
++
++“This makes the adjustment live under load.”
++
++“Is that good?”
++
++“It can be.”
++
++“Comforting.”
++
++“If the travel is bounded.”
++
++“Less comforting.”
++
++“If the spring is replaceable.”
++
++“Back up.”
++
++Harra smiles.
++
++A little.
++
++“We can build it.”
++
++That changes the room.
++
++The thing we went into East Relief to find has become more than metal. It has become a design.
++
++---
++
++Pell pays the contract after lunch.
++
++Not me directly.
++
++The party.
++
++Harra refuses to count the salvaged return shoe as wage because it belongs to the rescue work.
++
++Sella calls her unbearably honorable.
++
++Harra says yes.
++
++The two expedition days are settled at eight bits each. My Day Eighteen wage was paid before we left.
++
++Sixteen new bits. Mara marks the earlier payment separately so neither of us counts it twice.
++
++The expedition agreement ends tonight. Pell asks us to stay for frame work, contact and the rescue at the same daily rates, with food, room, property and treatment terms unchanged.
++
++I agree and ask for it in writing. Mara pulls out a fresh form, but Harra needs the specification before she has put a date on it.
++
++There is also another problem.
++
++Sella gets a message.
++
++A runner brings it while Harra is at the forge and I am trapped at the kitchen table with my splinted foot on a stool.
++
++Sella reads the folded note once.
++
++Then again.
++
++Her mouth changes.
++
++Not fear.
++
++Decision.
++
++I wait.
++
++She hands it to me.
++
++The script is neat and slanted.
++
++A team out of Dower Ford needs a route guard and second scout eastbound.
++
++Departure in four days.
++
++Good rate.
++
++Two weeks guaranteed.
++
++Option to continue farther.
++
++I read it twice.
++
++“You wanted moving work.”
++
++“Yes.”
++
++“You should answer.”
++
++“I know.”
++
++Four days.
++
++My ankle has three days of no loading under the mender’s orders.
++
++The rescue does not have a date.
++
++Iven is still there.
++
++Sella sits beside me.
++
++Not close enough to touch.
++
++That feels deliberate.
++
++“I can ask them to hold one day,” she says.
++
++“For me?”
++
++“For my answer.”
++
++I look at the note.
++
++“Do you want the job?”
++
++“Yes.”
++
++No hesitation.
++
++It hurts exactly because she means it.
++
++“Then take it.”
++
++Her eyes lift.
++
++“That easy?”
++
++“No.”
++
++I fold the paper along the existing crease.
++
++“I said I wanted to go with you after Iven is out if the opportunity still exists. I meant it. I am not asking you to turn down another job because our rescue keeps moving.”
++
++“Maya.”
++
++“I am not.”
++
++She studies me.
++
++The room is quiet enough that I can hear somebody hammering in the forge yard.
++
++Three strikes.
++
++Pause.
++
++Two.
++
++Harra’s rhythm.
++
++Sella reaches over and puts her hand on my knee.
++
++Above the bad ankle.
++
++“I can accept and still leave in four days.”
++
++“Yes.”
++
++“You might come.”
++
++“Yes.”
++
++“You might not.”
++
++The words hurt.
++
++“Yes.”
++
++“And if you do, there is still him.”
++
++She does not look toward the yard.
++
++She does not have to.
++
++I put my hand over hers.
++
++“Yes.”
++
++Sella closes her eyes for one second.
++
++Then opens them.
++
++“Good.”
++
++“That did not sound good.”
++
++“It sounded true.”
++
++She stands.
++
++I catch her fingers before she can go.
++
++She looks down.
++
++“I want you,” I say.
++
++Her face softens.
++
++Not enough to erase the rest.
++
++“I know.”
++
++“I do not want you to feel temporary.”
++
++“I know.”
++
++“That is worse.”
++
++“Yes.”
++
++She bends and kisses me.
++
++Her mouth stays on mine long enough that I stop thinking anyway.
++
++When she pulls back, her forehead touches mine.
++
++“I am taking the job,” she says.
++
++“Okay.”
++
++“I am not leaving today.”
++
++“Okay.”
++
++“And if you make me drag the truth out of you later, I will throw you into a ditch.”
++
++“There are kinder relationship models.”
++
++“Not ours.”
++
++She leaves to send her answer.
++
++My chest hurts in a place the mender cannot splint.
++
++---
++
++By late afternoon Harra has built a table-sized version of the new far foot.
++
++Of course she has.
++
++I am summoned to the forge yard.
++
++Mara says no.
++
++Harra says she does not need me standing.
++
++Mara says that is what people say before Maya stands.
++
++I am offended by how accurate this is.
++
++They carry the chair.
++
++Not me.
++
++The chair.
++
++I remain in it while Tolliver and Pell lift the entire thing down the two kitchen steps.
++
++“This is worse than being carried,” I say.
++
++Tolliver says, “You chose the chair.”
++
++“I chose nothing about the procession.”
++
++Pell grunts under the back legs.
++
++“Complain lighter.”
++
++The forge yard has become a model of the lower chamber.
++
++Two stone blocks.
++
++A narrow ash rail between them.
++
++The recovered return shoe has not been cut.
++
++Harra used scrap steel for the prototype and copied its angle.
++
++A short pin enters the shoe.
++
++Behind it sits a spring made from the recovered strip’s measurements, not the strip itself.
++
++She points.
++
++“Far end can compress a finger and a half. No more. Side lips stop lateral escape. Pin cannot project past the shoe.”
++
++Oret has rigged a hanging weight above the far block.
++
++Dain has a measuring cord.
++
++Mara has her arms crossed.
++
++Sella returns from the runner post and takes a place behind my chair.
++
++Tolliver stands beside the near block.
++
++Harra says, “We load the rail. Then we shift the far block.”
++
++“Like the sloped landing.”
++
++“Yes.”
++
++“If it binds?”
++
++“We stop.”
++
++“If the spring jumps?”
++
++“We stop.”
++
++“If the block moves more than the mark?”
++
++“We stop.”
++
++Mara says, “If Maya stands, we stop.”
++
++Everyone nods.
++
++Traitors.
++
++The first two tests are boring in the best possible way. Half a finger of compression, then a full finger under more weight. Harra shifts the far block. The shoe gives; the near block does not.
++
++Oret says, “Again.”
++
++Third test.
++
++Harra adds a rough stone under one side of the far shoe to mimic the receiving pitch.
++
++Weight down.
++
++The pin seats crooked.
++
++The spring compresses unevenly.
++
++The ash rail begins to twist.
++
++I feel it before I understand it.
++
++Not with an ability.
++
++With yesterday.
++
++The track bracket.
++
++The moment holding became damage.
++
++“Stop.”
++
++Harra’s hand freezes on the weight line.
++
++Tolliver looks at the near support.
++
++“It is holding.”
++
++“That is the problem.”
++
++Harra follows the twist.
++
++The rail is carrying the misalignment back toward the near block.
++
++If we make it stronger, it will transfer more.
++
++Connected stone.
++
++False activation.
++
++“Unload the far side.”
++
++Oret reaches for the weight.
++
++“No.”
++
++They look at me.
++
++They look at me because I said it like I know.
++
++I point to the spring latch.
++
++“Release the shoe first.”
++
++Harra’s eyes sharpen.
++
++“If we lift the weight first, the twisted rail snaps back through the pin.”
++
++Dain says, “And strikes the far block.”
++
++“Maybe.”
++
++Harra looks at Tolliver.
++
++“Near side?”
++
++He checks the clamp.
++
++“Sound.”
++
++Harra looks at me.
++
++“Call it.”
++
++My pulse kicks.
++
++No ability. People with hands on real things are waiting for my decision.
++
++“Release far latch.”
++
++Harra pulls.
++
++The shoe jumps one inch.
++
++The spring takes the twist.
++
++The rail settles.
++
++Then Oret removes the weight.
++
++Nothing breaks.
++
++Harra stares at the model.
++
++Then at me.
++
++“That is it.”
++
++“What?”
++
++“The order.”
++
++“Release before unload.”
++
++Dain nods.
++
++“Otherwise the structure carries the stored turn.”
++
++Release under load.
++
++I look down at my splinted ankle.
++
++The lesson followed me home.
++
++---
++
++They rebuild the test.
++
++Harra wants one powered run.
++
++Mara says no.
++
++I say no before she can.
++
++That surprises everyone.
++
++Especially me.
++
++“My reserve is not the limiting resource,” I say. “My foot is.”
++
++Mara’s expression changes by one degree.
++
++Approval from Mara feels like being knighted by weather.
++
++Oret does the loaded test manually.
++
++Harra runs the release order.
++
++Three times.
++
++The foot gives.
++
++The rail survives.
++
++The near block stays quiet.
++
++A prototype. Better than yesterday.
++
++Enough for one day.
++
++I open my measure because I want to know what the System thinks of enough.
++
++**[MAYA SZCZEPANIAK, LV. 4]**
++
++**[PROGRESS: 22 / 22]**
++
++I stop breathing.
++
++Sella sees my face.
++
++“What?”
++
++The next line appears.
++
++**[ADVANCEMENT AVAILABLE]**
++
++Then:
++
++**[WARDER, LV. 5]**
++
++The pressure in my chest changes.
++
++Not pain.
++
++Space.
++
++Capacity.
++
++I check reserve.
++
++**[RESERVE: 3 / 7]**
++
++No refill.
++
++Good.
++
++No miracle ankle.
++
++Also good.
++
++I flex my toes.
++
++Still hurts.
++
++Mara points at me.
++
++“Do not test it.”
++
++“I moved my toes.”
++
++“You had the face.”
++
++“What face?”
++
++“The one before you do something foolish.”
++
++Sella says, “She has several.”
++
++Tolliver is looking at the measure even though he cannot see the words.
++
++“Level?”
++
++I nod.
++
++“Five.”
++
++Harra smiles.
++
++Pell swears softly.
++
++Oret says, “From the model?”
++
++“I do not know.”
++
++That matters.
++
++I look at the prototype.
++
++The dungeon did not end when we crossed the spill channel.
++
++It did not end when we found the shoe.
++
++Maybe it ends here.
++
++When what we survived becomes something another person can use.
++
++The System gives me no new ability.
++
++No glowing sword.
++
++No fanfare.
++
++Seven reserve capacity.
++
++A number.
++
++And the knowledge that I reached it without holding until something broke.
++
++Tolliver steps closer.
++
++Not too close.
++
++His eyes move over me with an intensity that makes my skin remember every place his hands were this morning.
++
++“You earned that.”
++
++My mouth goes dry.
++
++Sella is behind me.
++
++I can feel her there without looking.
++
++Complicated has become too small a word.
++
++“Do not make it weird,” I say.
++
++Tolliver’s mouth moves.
++
++Almost a smile.
++
++“I did not say anything weird.”
++
++“You thought it.”
++
++“Yes.”
++
++Sella laughs.
++
++Real laughter this time.
++
++I turn enough to see her.
++
++She shakes her head.
++
++“I leave you alone for one message.”
++
++“No one did anything.”
++
++“That is the problem.”
++
++My face burns.
++
++Harra bangs a tool against the table.
++
++“Take your romance away from my prototype.”
++
++Pell looks scandalized.
++
+ Mara does not.
+ 
+-“Three days. No stairs. No rough ground. No shield. No Stepguard.”
+-
+-“What about flat indoor—”
+-
+-“No.”
+-
+-“That seems punitive.”
+-
+-“It is treatment.”
+-
+-“I can Brace without walking.”
+-
+-Mara gives me a look sharp enough to remove paint.
+-
+-“Can you Brace without your body taking load?”
+-
+-I think of the forge track.
+-
+-The pressure through my shoulders.
+-
+-The way the floor felt under both feet.
+-
+-“No.”
+-
+-“Then no powered work today.”
+-
+-Today.
+-
+-Not forever.
+-
+-I cling to that.
+-
+-She wraps the ankle tighter, adds a stiff side splint and makes me promise to call before standing.
+-
+-I promise.
+-
+-I mean it.
+-
+-Mostly.
++Oret pretends to study the spring.
++
++Tolliver steps back.
++
++Immediately.
++
++Because I did not invite him closer.
++
++That matters more than the heat.
++
++Maybe that is why the heat is there at all.
+ 
+ ---
+ 
+-The dungeon contract ends at Pell’s table.
+-
+-Not ceremonially.
+-
+-There is stew.
+-
+-Harra puts the return shoe in the middle of the table on folded cloth.
+-
+-Everybody stares at it.
+-
+-It is ugly.
+-
+-Beautifully ugly.
+-
+-Tempered metal, curved at one end, with a spring seat cut deep into the back. Nothing mystical. Nothing glowing.
+-
+-A piece of engineering that survived twelve years in a place full of things that wanted to eat our feet.
+-
+-Pell touches the edge.
+-
+-“This fits?”
+-
+-Harra says, “Not directly.”
+-
+-Pell’s face falls.
+-
+-“It gives me the geometry.”
+-
+-She unwraps the spring strip.
+-
+-“And the temper.”
+-
+-Then the specification plate.
+-
+-“And this may give us why the first frame felt wrong before it caught.”
+-
+-I shift in my chair.
+-
+-Mara allowed chair.
+-
+-Chair is civilization.
+-
+-Pell looks at me.
+-
+-“You said vibration.”
+-
+-“Yes.”
+-
+-“What kind?”
+-
+-“Before the pin caught. Not from the boundary cutting it. Earlier.”
+-
+-I hate saying it.
+-
+-I hate more that I did not say it immediately the first time.
+-
+-Harra taps the plate.
+-
+-“Repeated loading can wake isolation sections through connected stone.”
+-
+-Dain is at the table now, fingers resting on the plate without using whatever contact sense he uses on wet masonry.
+-
+-“Can.”
+-
+-“Yes.”
+-
+-“Not will.”
+-
+-“Yes.”
+-
+-Oret leans closer.
+-
+-“So the lower chamber could be passing load into something we are not seeing.”
+-
+-Harra nods.
+-
+-“Or something on the receiving side is feeding back.”
+-
+-Pell looks toward the floor as if Iven is directly beneath us.
+-
+-“Does that make it worse?”
+-
+-“No,” I say.
+-
+-Everyone looks at me.
+-
+-I take a breath.
+-
+-“It makes it less unknown.”
+-
+-That is not the same as safer.
+-
+-I have learned enough to know the difference.
+-
+-Harra turns the return shoe over.
+-
+-“The ash frame failed because the far pin was too long and the receiving pitch pulled it down. We knew that. But if the frame was also transmitting load into the old stone, then making the next one stronger could make the wrong problem worse.”
+-
+-Oret’s eyes narrow.
+-
+-“A rigid bridge.”
+-
+-“Yes.”
+-
+-“Couples both sides.”
+-
+-“Yes.”
+-
+-I look at the shoe.
+-
+-Release under load.
+-
+-A structure that can sit on both sides without insisting they become one thing.
+-
+-“What if the far foot can move?”
+-
+-Harra looks at me.
+-
+-“Move how?”
+-
+-“Not slide loose. Give.”
+-
+-I use both hands because words are failing.
+-
+-“Short pin. Shoe under it. Spring behind. Enough travel that if the landing pitches or the stone moves, it unloads instead of levering the whole frame.”
+-
+-Harra does not answer.
+-
+-She pulls a scrap of paper toward herself.
+-
+-Draws.
+-
+-Oret stands.
+-
+-Dain leans over.
+-
+-Pell forgets the stew.
+-
+-Sella watches me.
+-
+-Not the drawing.
+-
+-Me.
+-
+-Tolliver is on the other side of the table.
+-
+-He is doing the same thing.
+-
+-I try not to notice.
+-
+-I fail.
+-
+-Harra draws three versions.
+-
+-Crosses out two.
+-
+-On the third, the far support is a short steel nose seated into a shallow shoe with a return spring behind it.
+-
+-“Adjustable foot,” she says.
+-
+-“That was already the next design.”
+-
+-“Yes.”
+-
+-She taps the spring.
+-
+-“This makes the adjustment live under load.”
+-
+-“Is that good?”
+-
+-“It can be.”
+-
+-“Comforting.”
+-
+-“If the travel is bounded.”
+-
+-“Less comforting.”
+-
+-“If the spring is replaceable.”
+-
+-“Back up.”
+-
+-Harra smiles.
+-
+-A little.
+-
+-“We can build it.”
+-
+-That changes the room.
+-
+-The thing we went into East Relief to find has become more than metal. It has become a design.
++At dusk, Iven gets the news.
++
++Not the level. The shoe.
++
++Harra and I stay at the kitchen table while Renn carries our pages to Dain at the upper glass. Mara copies the replies when he brings them down. The sleeve still gives us pictures, not voices.
++
++Iven’s first answer comes back beneath Harra’s drawing.
++
++*You went into East Relief?*
++
++“Unfortunately,” Sella says. Mara writes it for him.
++
++The next trip brings a question about the forge. Harra answers that we found enough of it. Iven’s reply is one word.
++
++*Mad.*
++
++“Yes,” Harra says.
++
++Renn says he laughed when Dain showed him the answer. I close my eyes and try to imagine the sound.
++
++Harra sends the short-pin drawing and release order. No person crosses until the full frame passes dry tests and a bounded chamber test. Iven acknowledges each page before Dain changes it.
++
++Then he asks about me.
++
++*Is the girl still hurt?*
++
++“I have a name.”
++
++Mara’s pen waits above the paper.
++
++“Tell him I am improving strategically.”
++
++She makes a noise, but writes it. When Renn returns, he says Iven laughed again, then coughed hard enough to brace himself against the rail.
++
++That takes the humor out of the kitchen.
++
++His tank is still below the old stain. We have its dimensions and his latest depth mark, not a trustworthy count of days left.
++
++“We need two days to build properly,” Harra says.
++
++“At least,” Mara says.
++
++“Then a dry load sequence,” Oret adds.
++
++“And chamber vibration measurement before span,” Dain has written beneath the last contact note.
++
++Mara sends the whole estimate, without turning it into a promise. Iven underlines *two days* on his reply. Nothing more.
++
++Sella’s team leaves in four. My ankle gets three days of no loading. The numbers line up badly.
++
++I take the pencil.
++
++*We do it right.*
++
++On Renn’s last trip, Iven’s answer is copied beneath mine.
++
++*Good.*
++
++Just that.
++
++Good.
+ 
+ ---
+ 
+-Pell pays the contract after lunch.
+-
+-Not me directly.
+-
+-The party.
+-
+-Harra refuses to count the salvaged return shoe as wage because it belongs to the rescue work.
+-
+-Sella calls her unbearably honorable.
+-
+-Harra says yes.
+-
+-My Day Eighteen extension is settled under the existing rate.
+-
+-No one says my exact purse total.
+-
+-Thank God.
+-
+-I do not want arithmetic to become canon because I am too tired to remember whether I bought dried apples four days ago.
+-
+-There is also another problem.
+-
+-Sella gets a message.
+-
+-A runner brings it while Harra is at the forge and I am trapped at the kitchen table with my splinted foot on a stool.
+-
+-Sella reads the folded note once.
+-
+-Then again.
+-
+-Her mouth changes.
+-
+-Not fear.
+-
+-Decision.
+-
+-I wait.
+-
+-She hands it to me.
+-
+-The script is neat and slanted.
+-
+-A team out of Dower Ford needs a route guard and second scout eastbound.
+-
+-Departure in four days.
+-
+-Good rate.
+-
+-Two weeks guaranteed.
+-
+-Option to continue farther.
+-
+-I read it twice.
+-
+-“You wanted moving work.”
+-
+-“Yes.”
+-
+-“You should answer.”
+-
+-“I know.”
++Night settles over Rook.
++
++Two moons rise over the yard.
++
++I sit in the west kitchen doorway because Mara has permitted exactly this much rebellion: chair, foot up, no stairs.
++
++Sella sits on the threshold beside me.
++
++Tolliver is across the yard helping Harra carry the prototype back under cover.
++
++He lifts one end.
++
++Harra lifts the other.
++
++No one needs me.
++
++This used to feel like failure.
++
++Tonight it feels almost like trust.
++
++Sella rests her head against my knee, carefully above the splint.
++
++“I accepted,” she says.
++
++“The job.”
++
++“Yes.”
++
++“Four days?”
++
++“Yes.”
++
++I look at Tolliver.
++
++He sets the prototype down.
++
++Looks up.
++
++Finds me looking.
++
++Neither of us looks away immediately.
++
++Sella sees.
++
++Of course she sees.
++
++Her head stays against me.
++
++My hand goes into her hair.
++
++Not apology.
++
++Not possession.
++
++Contact.
+ 
+ Four days.
+ 
+-My ankle has three days of no loading if Mara gets her way.
+-
+-The rescue does not have a date.
+-
+-Iven is still there.
+-
+-Sella sits beside me.
+-
+-Not close enough to touch.
+-
+-That feels deliberate.
+-
+-“I can ask them to hold one day,” she says.
+-
+-“For me?”
+-
+-“For my answer.”
+-
+-I look at the note.
+-
+-“Do you want the job?”
+-
+-“Yes.”
+-
+-No hesitation.
+-
+-It hurts exactly because she means it.
+-
+-“Then take it.”
+-
+-Her eyes lift.
+-
+-“That easy?”
+-
+-“No.”
+-
+-I fold the paper along the existing crease.
+-
+-“I said I wanted to go with you after Iven is out if the opportunity still exists. I meant it. I am not asking you to turn down another job because our rescue keeps moving.”
+-
+-“Maya.”
+-
+-“I am not.”
+-
+-She studies me.
+-
+-The room is quiet enough that I can hear somebody hammering in the forge yard.
+-
+-Three strikes.
+-
+-Pause.
+-
+-Two.
+-
+-Harra’s rhythm.
+-
+-Sella reaches over and puts her hand on my knee.
+-
+-Above the bad ankle.
+-
+-“I can accept and still leave in four days.”
+-
+-“Yes.”
+-
+-“You might come.”
+-
+-“Yes.”
+-
+-“You might not.”
+-
+-The words hurt.
+-
+-“Yes.”
+-
+-“And if you do, there is still him.”
+-
+-She does not look toward the yard.
+-
+-She does not have to.
+-
+-I put my hand over hers.
+-
+-“Yes.”
+-
+-Sella closes her eyes for one second.
+-
+-Then opens them.
+-
+-“Good.”
+-
+-“That did not sound good.”
+-
+-“It sounded true.”
+-
+-She stands.
+-
+-I catch her fingers before she can go.
+-
+-She looks down.
+-
+-“I want you,” I say.
+-
+-Her face softens.
+-
+-Not enough to erase the rest.
+-
+-“I know.”
+-
+-“I do not want you to feel temporary.”
+-
+-“I know.”
+-
+-“That is worse.”
+-
+-“Yes.”
+-
+-She bends and kisses me.
+-
+-Her mouth stays on mine long enough that I stop thinking anyway.
+-
+-When she pulls back, her forehead touches mine.
+-
+-“I am taking the job,” she says.
+-
+-“Okay.”
+-
+-“I am not leaving today.”
+-
+-“Okay.”
+-
+-“And if you make me drag the truth out of you later, I will throw you into a ditch.”
+-
+-“There are kinder relationship models.”
+-
+-“Not ours.”
+-
+-She leaves to send her answer.
+-
+-My chest hurts in a place Mara cannot splint.
+-
+----
+-
+-By late afternoon Harra has built a table-sized version of the new far foot.
+-
+-Of course she has.
+-
+-I am summoned to the forge yard.
+-
+-Mara says no.
+-
+-Harra says she does not need me standing.
+-
+-Mara says that is what people say before Maya stands.
+-
+-I am offended by how accurate this is.
+-
+-They carry the chair.
+-
+-Not me.
+-
+-The chair.
+-
+-I remain in it while Tolliver and Pell lift the entire thing down the two kitchen steps.
+-
+-“This is worse than being carried,” I say.
+-
+-Tolliver says, “You chose the chair.”
+-
+-“I chose nothing about the procession.”
+-
+-Pell grunts under the back legs.
+-
+-“Complain lighter.”
+-
+-The forge yard has become a model of the lower chamber.
+-
+-Two stone blocks.
+-
+-A narrow ash rail between them.
+-
+-The recovered return shoe has not been cut.
+-
+-Harra used scrap steel for the prototype and copied its angle.
+-
+-A short pin enters the shoe.
+-
+-Behind it sits a spring made from the recovered strip’s measurements, not the strip itself.
+-
+-She points.
+-
+-“Far end can compress a finger and a half. No more. Side lips stop lateral escape. Pin cannot project past the shoe.”
+-
+-Oret has rigged a hanging weight above the far block.
+-
+-Dain has a measuring cord.
+-
+-Mara has her arms crossed.
+-
+-Sella returns from the runner post and takes a place behind my chair.
+-
+-Tolliver stands beside the near block.
+-
+-Harra says, “We load the rail. Then we shift the far block.”
+-
+-“Like the sloped landing.”
+-
+-“Yes.”
+-
+-“If it binds?”
+-
+-“We stop.”
+-
+-“If the spring jumps?”
+-
+-“We stop.”
+-
+-“If the block moves more than the mark?”
+-
+-“We stop.”
+-
+-Mara says, “If Maya stands, we stop.”
+-
+-Everyone nods.
+-
+-Traitors.
+-
+-The first two tests are boring in the best possible way. Half a finger of compression, then a full finger under more weight. Harra shifts the far block. The shoe gives; the near block does not.
+-
+-Oret says, “Again.”
+-
+-Third test.
+-
+-Harra adds a rough stone under one side of the far shoe to mimic the receiving pitch.
+-
+-Weight down.
+-
+-The pin seats crooked.
+-
+-The spring compresses unevenly.
+-
+-The ash rail begins to twist.
+-
+-I feel it before I understand it.
+-
+-Not with an ability.
+-
+-With yesterday.
+-
+-The track bracket.
+-
+-The moment holding became damage.
+-
+-“Stop.”
+-
+-Harra’s hand freezes on the weight line.
+-
+-Tolliver looks at the near support.
+-
+-“It is holding.”
+-
+-“That is the problem.”
+-
+-Harra follows the twist.
+-
+-The rail is carrying the misalignment back toward the near block.
+-
+-If we make it stronger, it will transfer more.
+-
+-Connected stone.
+-
+-False activation.
+-
+-“Unload the far side.”
+-
+-Oret reaches for the weight.
+-
+-“No.”
+-
+-They look at me.
+-
+-They look at me because I said it like I know.
+-
+-I point to the spring latch.
+-
+-“Release the shoe first.”
+-
+-Harra’s eyes sharpen.
+-
+-“If we lift the weight first, the twisted rail snaps back through the pin.”
+-
+-Dain says, “And strikes the far block.”
+-
+-“Maybe.”
+-
+-Harra looks at Tolliver.
+-
+-“Near side?”
+-
+-He checks the clamp.
+-
+-“Sound.”
+-
+-Harra looks at me.
+-
+-“Call it.”
+-
+-My pulse kicks.
+-
+-No ability. People with hands on real things are waiting for my decision.
+-
+-“Release far latch.”
+-
+-Harra pulls.
+-
+-The shoe jumps one inch.
+-
+-The spring takes the twist.
+-
+-The rail settles.
+-
+-Then Oret removes the weight.
+-
+-Nothing breaks.
+-
+-Harra stares at the model.
+-
+-Then at me.
+-
+-“That is it.”
+-
+-“What?”
+-
+-“The order.”
+-
+-“Release before unload.”
+-
+-Dain nods.
+-
+-“Otherwise the structure carries the stored turn.”
+-
+-Release under load.
+-
+-I look down at my splinted ankle.
+-
+-The lesson followed me home.
+-
+----
+-
+-They rebuild the test.
+-
+-Harra wants one powered run.
+-
+-Mara says no.
+-
+-I say no before she can.
+-
+-That surprises everyone.
+-
+-Especially me.
+-
+-“My reserve is not the limiting resource,” I say. “My foot is.”
+-
+-Mara’s expression changes by one degree.
+-
+-Approval from Mara feels like being knighted by weather.
+-
+-Oret does the loaded test manually.
+-
+-Harra runs the release order.
+-
+-Three times.
+-
+-The foot gives.
+-
+-The rail survives.
+-
+-The near block stays quiet.
+-
+-A prototype. Better than yesterday.
+-
+-Enough for one day.
+-
+-I open my measure because I want to know what the System thinks of enough.
+-
+-**[MAYA SZCZEPANIAK, LV. 4]**
+-
+-**[PROGRESS: 22 / 22]**
+-
+-I stop breathing.
+-
+-Sella sees my face.
+-
+-“What?”
+-
+-The next line appears.
+-
+-**[ADVANCEMENT AVAILABLE]**
+-
+-Then:
+-
+-**[WARDER, LV. 5]**
+-
+-The pressure in my chest changes.
+-
+-Not pain.
+-
+-Space.
+-
+-Capacity.
+-
+-I check reserve.
+-
+-**[RESERVE: 3 / 7]**
+-
+-No refill.
++Two days to build.
++
++Three days off the ankle.
++
++Iven waiting across a boundary that cuts rope, wax and ash.
++
++Captain Rusk somewhere out there with a claim she has not abandoned.
++
++Level five.
++
++Three reserve out of seven.
++
++No new ability.
++
++A stronger frame that may fail if we misunderstand what the old stone is doing.
++
++This is not a clean board.
++
++It is not supposed to be.
++
++Sella turns her face and kisses the inside of my wrist.
++
++“Do not spend tonight solving all of it,” she says.
++
++“I was not.”
++
++“You were making the face.”
++
++“What face?”
++
++“The one before you do something foolish.”
++
++I stare down at her.
++
++“Mara said that.”
++
++“She is wise.”
++
++“Treason everywhere.”
++
++Sella smiles.
++
++Across the yard, Tolliver hears none of this.
+ 
+ Good.
+ 
+-No miracle ankle.
+-
+-Also good.
+-
+-I flex my toes.
+-
+-Still hurts.
+-
+-Mara points at me.
+-
+-“Do not test it.”
+-
+-“I moved my toes.”
+-
+-“You had the face.”
+-
+-“What face?”
+-
+-“The one before you do something foolish.”
+-
+-Sella says, “She has several.”
+-
+-Tolliver is looking at the measure even though he cannot see the words.
+-
+-“Level?”
+-
+-I nod.
+-
+-“Five.”
+-
+-Harra smiles.
+-
+-Pell swears softly.
+-
+-Oret says, “From the model?”
+-
+-“I do not know.”
+-
+-That matters.
+-
+-I look at the prototype.
+-
+-The dungeon did not end when we crossed the spill channel.
+-
+-It did not end when we found the shoe.
+-
+-Maybe it ends here.
+-
+-When what we survived becomes something another person can use.
+-
+-The System gives me no new ability.
+-
+-No glowing sword.
+-
+-No fanfare.
+-
+-Seven reserve capacity.
+-
+-A number.
+-
+-And the knowledge that I reached it without holding until something broke.
+-
+-Tolliver steps closer.
+-
+-Not too close.
+-
+-His eyes move over me with an intensity that makes my skin remember every place his hands were this morning.
+-
+-“You earned that.”
+-
+-My mouth goes dry.
+-
+-Sella is behind me.
+-
+-I can feel her there without looking.
+-
+-Complicated has become too small a word.
+-
+-“Do not make it weird,” I say.
+-
+-Tolliver’s mouth moves.
+-
+-Almost a smile.
+-
+-“I did not say anything weird.”
+-
+-“You thought it.”
+-
+-“Yes.”
+-
+-Sella laughs.
+-
+-Real laughter this time.
+-
+-I turn enough to see her.
+-
+-She shakes her head.
+-
+-“I leave you alone for one message.”
+-
+-“No one did anything.”
+-
+-“That is the problem.”
+-
+-My face burns.
+-
+-Harra bangs a tool against the table.
+-
+-“Take your romance away from my prototype.”
+-
+-Pell looks scandalized.
+-
+-Mara does not.
+-
+-Oret pretends to study the spring.
+-
+-Tolliver steps back.
+-
+-Immediately.
+-
+-Because I did not invite him closer.
+-
+-That matters more than the heat.
+-
+-Maybe that is why the heat is there at all.
+-
+----
+-
+-At dusk, Iven gets the news.
+-
+-Not the level.
+-
+-The shoe.
+-
+-The spring.
+-
+-The new foot.
+-
+-Harra speaks through the upper observation sleeve while I sit on a stool behind the rail where I can hear him but not climb.
+-
+-His voice arrives thin through the gap.
+-
+-“You went into East Relief?”
+-
+-Sella says, “Unfortunately.”
+-
+-“You found the old forge?”
+-
+-Harra says, “Enough of it.”
+-
+-“You’re mad.”
+-
+-“Yes.”
+-
+-A pause.
+-
+-Then Iven laughs.
+-
+-It sounds tired.
+-
+-Alive.
+-
+-I close my eyes.
+-
+-Harra explains the redesign.
+-
+-Short pin.
+-
+-Bounded spring travel.
+-
+-Independent supports.
+-
+-Release order.
+-
+-No permanent through-line.
+-
+-No person crosses until the new frame passes dry tests and a bounded chamber test.
+-
+-Iven listens.
+-
+-When she finishes, he says, “And the girl?”
+-
+-I open my eyes.
+-
+-“What girl?”
+-
+-“You.”
+-
+-“I have a name.”
+-
+-“I know. Are you still hurt?”
+-
+-Everybody looks at me.
+-
+-“I am improving strategically.”
+-
+-Mara makes a noise.
+-
+-Iven laughs again.
+-
+-Then coughs.
+-
+-The sound takes the humor out of the room.
+-
+-His water tank is still below the old stain.
+-
+-We still do not know exact volume.
+-
+-We still do not get to pretend that means infinite time.
+-
+-Harra says, “We need two days to build properly.”
+-
+-Mara says, “At least.”
+-
+-Oret says, “Then a dry load sequence.”
+-
+-Dain says, “And chamber vibration measurement before span.”
+-
+-Iven is quiet.
+-
+-“Two days,” he says.
+-
+-Not agreement.
+-
+-Not complaint.
+-
+-Information.
+-
+-Sella’s eastbound team leaves in four.
+-
+-My ankle gets three days of no loading.
+-
+-The numbers line up badly.
+-
+-I have spent enough time gaming to know that bad timers make people stupid.
+-
+-I will not let these.
+-
+-“We do it right,” I say.
+-
+-Silence.
+-
+-Then Iven says, “Good.”
+-
+-Just that.
+-
+-Good.
+-
+----
+-
+-Night settles over Rook.
+-
+-Two moons rise over the yard.
+-
+-I sit in the west kitchen doorway because Mara has permitted exactly this much rebellion: chair, foot up, no stairs.
+-
+-Sella sits on the threshold beside me.
+-
+-Tolliver is across the yard helping Harra carry the prototype back under cover.
+-
+-He lifts one end.
+-
+-Harra lifts the other.
+-
+-No one needs me.
+-
+-This used to feel like failure.
+-
+-Tonight it feels almost like trust.
+-
+-Sella rests her head against my knee, carefully above the splint.
+-
+-“I accepted,” she says.
+-
+-“The job.”
+-
+-“Yes.”
+-
+-“Four days?”
+-
+-“Yes.”
+-
+-I look at Tolliver.
+-
+-He sets the prototype down.
+-
+-Looks up.
+-
+-Finds me looking.
+-
+-Neither of us looks away immediately.
+-
+-Sella sees.
+-
+-Of course she sees.
+-
+-Her head stays against me.
+-
+-My hand goes into her hair.
+-
+-Not apology.
+-
+-Not possession.
+-
+-Contact.
+-
+-Four days.
+-
+-Two days to build.
+-
+-Three days off the ankle.
+-
+-Iven waiting across a boundary that cuts rope, wax and ash.
+-
+-Captain Rusk somewhere out there with a claim she has not abandoned.
+-
+-Level five.
+-
+-Three reserve out of seven.
+-
+-No new ability.
+-
+-A stronger frame that may fail if we misunderstand what the old stone is doing.
+-
+-This is not a clean board.
+-
+-It is not supposed to be.
+-
+-Sella turns her face and kisses the inside of my wrist.
+-
+-“Do not spend tonight solving all of it,” she says.
+-
+-“I was not.”
+-
+-“You were making the face.”
+-
+-“What face?”
+-
+-“The one before you do something foolish.”
+-
+-I stare down at her.
+-
+-“Mara said that.”
+-
+-“She is wise.”
+-
+-“Treason everywhere.”
+-
+-Sella smiles.
+-
+-Across the yard, Tolliver hears none of this.
+-
+-Good.
+-
+ Some things are still mine.
+ 
+ I lean back in the chair and let the night be unfinished.
+--- a/book1/chapters/chapter-27.md
++++ b/book1/chapters/chapter-27.md
+@@ -8,7 +8,7 @@
+ 
+ I hate it.
+ 
+-On the first morning after East Relief, Harra brings the full-size frame past the west kitchen window in pieces.
++On our first full morning back at Rook, Harra brings the full-size frame past the west kitchen window in pieces.
+ 
+ Not assembled. Pieces: two ash side rails, cross-bracing, the near anchor head, the new far shoe and a spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
+ 
+@@ -244,7 +244,7 @@
+ 
+ Harra smiles.
+ 
+-We send him a request through the upper sleeve.
++We send a slate to Dain at the upper glass.
+ 
+ Measure rise over one local foot.
+ 
+@@ -256,17 +256,17 @@
+ 
+ Do not hold anything into it.
+ 
+-Iven calls back five minutes later.
++Five minutes later, Renn returns with Iven’s answer copied below our question.
+ 
+ “You people have become very bossy.”
+ 
+-“Experience.”
+-
+-“You were not like this when you arrived.”
+-
+-“I was unconscious when I arrived.”
+-
+-“Peaceful days.”
++I give Renn my answer. “Experience.”
++
++We trade two more messages while Harra checks her drawing. Iven says I was not like this when I arrived. I remind him I was unconscious.
++
++His answer comes back in Dain’s cramped hand.
++
++*Peaceful days.*
+ 
+ Sella laughs from the doorway.
+ 
+@@ -442,7 +442,7 @@
+ 
+ I can flex my ankle without seeing God.
+ 
+-Mara is unmoved.
++The mender is unmoved.
+ 
+ “No stairs.”
+ 
+@@ -858,7 +858,7 @@
+ 
+ ---
+ 
+-The third morning Mara makes me walk.
++The third morning the mender makes me walk.
+ 
+ Not far.
+ 
+--- a/book1/chapters/chapter-28.md
++++ b/book1/chapters/chapter-28.md
+@@ -28,6 +28,14 @@
+ 
+ We are going to fix that.
+ 
++Down at the near ledge, without the sleeve and its bend between us, Dain says Iven’s name.
++
++“Yes, I heard you the first time.”
++
++His voice. Thin, but ordinary.
++
++Dain makes him repeat a number, then answers one of his. We keep the slates ready for the gallery and for when the opening narrows.
++
+ Harra says, “Pressure?”
+ 
+ Dain answers from the lower gauge.
+@@ -76,7 +84,7 @@
+ 
+ Dain monitors stone.
+ 
+-Mara is above with Pell and the treatment kit because she lost the argument about coming lower.
++The mender waits above with her treatment kit. Mara is beside Pell, furious about losing the argument to come lower.
+ 
+ Rusk’s witness waits at the upper works beside Vey.
+ 
+@@ -618,7 +626,7 @@
+ 
+ I do.
+ 
+-Mara cannot see me.
++The mender cannot see me.
+ 
+ This is not why.
+ 
+--- a/book1/chapters/chapter-29.md
++++ b/book1/chapters/chapter-29.md
+@@ -492,7 +492,7 @@
+ 
+ Feeling ordinary movement.
+ 
+-Mara allows that.
++The mender cleared this much.
+ 
+ Barely.
+ 
+@@ -742,7 +742,7 @@
+ 
+ The frame is trying to wrench sideways.
+ 
+-I Brace.
++I set both forearms against the near anchor shoe, my boots planted on its sound stone bed, and Brace.
+ 
+ One point.
+ 
+@@ -750,7 +750,7 @@
+ 
+ Not to hold the frame still.
+ 
+-To hold the near stone while Harra releases the sleeve.
++To keep the anchor shoe seated against its stone bed while Harra releases the sleeve.
+ 
+ Different target.
+ 
+@@ -852,7 +852,7 @@
+ 
+ No victory sound.
+ 
+-A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for Mara.”
++A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for the mender.”
+ 
+ Iven lifts his head.
+ 
+@@ -870,7 +870,7 @@
+ 
+ He smiles.
+ 
+-Then Mara reaches him.
++Then Mara reaches him, with the mender coming down behind her.
+ 
+ ---
+ 
+@@ -878,7 +878,7 @@
+ 
+ It is rude.
+ 
+-Mara orders everyone back.
++The mender orders everyone back except Mara.
+ 
+ Checks Iven’s pupils.
+ 
+@@ -906,7 +906,7 @@
+ 
+ My ankle is sharper.
+ 
+-Mara notices because Mara notices every betrayal of the body.
++The mender notices because she notices every betrayal of the body.
+ 
+ “You.”
+ 
+@@ -922,7 +922,7 @@
+ 
+ He stops.
+ 
+-I point at Mara.
++I point at the mender.
+ 
+ “I can move.”
+ 
+@@ -1032,7 +1032,7 @@
+ 
+ Perfect.
+ 
+-I am sitting with my ankle elevated, holding a cup Mara will not let me drink from until my nausea passes.
++I am sitting with my ankle elevated, holding a cup the mender will not let me drink from until my nausea passes.
+ 
+ The measure opens.
+ 
+@@ -1044,7 +1044,7 @@
+ 
+ I did not know the target.
+ 
+-I have not checked since level five.
++I have not checked my progress since level five.
+ 
+ The text folds.
+ 
+@@ -1132,7 +1132,7 @@
+ 
+ “Yes.”
+ 
+-Mara says, “And no using any of it.”
++The mender says, “And no using any of it.”
+ 
+ “I know.”
+ 
+@@ -1218,9 +1218,9 @@
+ 
+ Did not gain control of the rescued man.
+ 
+-Competent opposition can lose without becoming stupid.
+-
+-I appreciate that against my will.
++She has read every clause and still has nothing to take from his hands.
++
++I watch until she steps back.
+ 
+ Rusk looks at the ruined frame.
+ 
+@@ -1254,7 +1254,7 @@
+ 
+ ---
+ 
+-Mara lets Iven walk the final yard.
++The mender lets Iven walk the final yard.
+ 
+ Barely.
+ 
+--- a/book1/chapters/chapter-30.md
++++ b/book1/chapters/chapter-30.md
+@@ -10,7 +10,7 @@
+ 
+ My ankle is wrapped again.
+ 
+-Mara has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
++The mender has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
+ 
+ Iven is inside with Teren and Lio.
+ 
+@@ -26,7 +26,7 @@
+ 
+ Bad.
+ 
+-She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is strung across her back, and the knife at her thigh is the one she wore the first night we slept together.
++She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is slung across her back, and the knife at her thigh is the one she wore the first night we slept together.
+ 
+ I hate that I notice.
+ 
+@@ -72,7 +72,7 @@
+ 
+ “Walk with me,” she says.
+ 
+-Mara, from across the room: “No.”
++The mender, from across the room: “No.”
+ 
+ Sella turns.
+ 
+@@ -86,7 +86,7 @@
+ 
+ “Three.”
+ 
+-Mara points at the bench.
++The mender points at the bench.
+ 
+ “You can sit with her outside if Tolliver carries the bench.”
+ 
+@@ -94,7 +94,7 @@
+ 
+ Sella laughs.
+ 
+-Mara does not.
++The mender does not.
+ 
+ “This is why healers drink,” I say.
+ 
+@@ -108,19 +108,19 @@
+ 
+ He looks at the bench.
+ 
+-Then at Mara.
++Then at the mender.
+ 
+ “No.”
+ 
+ Good man.
+ 
+-Mara lifts one eyebrow.
++The mender lifts one eyebrow.
+ 
+ Tolliver says, “I’ll carry Maya. The bench is stupid.”
+ 
+ “Thank you,” I say.
+ 
+-Mara points at me.
++The mender points at me.
+ 
+ “You are the stupid part.”
+ 
+@@ -190,7 +190,7 @@
+ 
+ Pell comes out of the counting room, sees us, and goes back inside.
+ 
+-Bless him.
++Bless her.
+ 
+ Sella rubs both palms on her thighs.
+ 
+@@ -588,7 +588,7 @@
+ 
+ I do not.
+ 
+-Mara would kill me before the ankle did.
++The mender would kill me before the ankle did.
+ 
+ Sella shoulders her pack.
+ 
+@@ -706,7 +706,7 @@
+ 
+ Iven wakes after sunset.
+ 
+-Mara allows me upstairs only if I am carried.
++Following the mender’s orders, Mara allows me upstairs only if I am carried.
+ 
+ I am becoming furniture.
+ 
+@@ -898,7 +898,7 @@
+ 
+ ---
+ 
+-Mara keeps me off the ankle for six more days.
++The mender keeps me off the ankle for six more days.
+ 
+ Six.
+ 
+@@ -926,7 +926,7 @@
+ 
+ There is no reason she should. The eastbound crew is moving, and the road does not carry little blue bubbles over people’s heads.
+ 
+-On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
++On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
+ 
+ At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella’s without either of us deciding that. I eat with somebody else’s elbow there and discover grief is petty enough to care about benches.
+ 
+--- a/book1/chapters/chapter-31.md
++++ b/book1/chapters/chapter-31.md
+@@ -160,7 +160,7 @@
+ 
+ “Stepguard?”
+ 
+-“Mara cleared it this morning.”
++“The mender cleared it this morning.”
+ 
+ His gaze sharpens.
+ 
+@@ -344,7 +344,7 @@
+ 
+ My room.
+ 
+-My money paid through the week.
++My room, covered by my own work.
+ 
+ No Household label deciding who owns my wages.
+ 
+@@ -1670,7 +1670,7 @@
+ 
+ There it is.
+ 
+-The question no sex scene gets to solve by itself.
++We are still going to have to say this out loud.
+ 
+ I roll onto my back.
+ 
+@@ -1844,7 +1844,7 @@
+ 
+ Vey wants a statement.
+ 
+-Pell wants to discuss whether my Day Eighteen agreement became meaningless when I worked twelve days past it without anyone updating the paper.
++Pell wants to reconcile the thirteen retained workdays since the expedition hire ended. Same rate, stale paper.
+ 
+ My life is a pile of unresolved administrative fires.
+ 
+--- a/book1/chapters/chapter-32.md
++++ b/book1/chapters/chapter-32.md
+@@ -4,7 +4,7 @@
+ 
+ This is not how romance novels work.
+ 
+-Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor in four columns.
++Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with thirteen days of retained labor in four columns.
+ 
+ Yet here we are.
+ 
+@@ -48,7 +48,9 @@
+ 
+ I read.
+ 
+-Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe upstairs so I could point at it from bed.
++Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe to the kitchen table so I could point at it with my foot on a stool.
++
++The expedition days and Day Eighteen are crossed through as already paid. This sheet begins with the first recovery morning and ends yesterday. Today is settlement and release, with no new assignment.
+ 
+ The agreement should have been rewritten.
+ 
+@@ -60,19 +62,19 @@
+ 
+ At the bottom, Pell has written the part I care about.
+ 
+-Twelve days.
++Thirteen days.
+ 
+ Eight bits each.
+ 
+-Ninety-six bits.
+-
+-Twelve pieces.
++One hundred and four bits.
++
++Thirteen pieces.
+ 
+ I read it twice.
+ 
+ Then a third time, because getting transported to another world has not cured me of expecting paperwork to bite.
+ 
+-“The medical days count?”
++“Both rest entries count?”
+ 
+ “You remained under my instruction and unavailable for other work because of an injury sustained during this work,” Pell says. “You were also consulted on both days.”
+ 
+@@ -112,7 +114,7 @@
+ 
+ “Room?”
+ 
+-“Covered through today under the continued work arrangement.”
++“Covered through today under the unused return-passage provision.”
+ 
+ “Food?”
+ 
+@@ -190,7 +192,7 @@
+ 
+ Fast.
+ 
+-Pell rubs one hand over his mouth.
++Pell rubs one hand over her mouth.
+ 
+ “You came here with six bits.”
+ 
+@@ -222,17 +224,17 @@
+ 
+ I counter.
+ 
+-He names another.
++She names another.
+ 
+ I point out the room is above a kitchen and the west shutter sticks in rain.
+ 
+-He points out I have personally put three new gouges in the floor with shield fittings.
++She points out I have personally put three new gouges in the floor with shield fittings.
+ 
+ I blame the shield.
+ 
+ The shield is not present to defend itself.
+ 
+-We settle at twenty-eight bits for four weeks, including a locked storage chest in the records annex while I am traveling.
++We settle at twenty-eight bits in cash after the unused return fare is credited: four weeks, including a locked storage chest in the records annex while I am traveling.
+ 
+ Mara adds the property language.
+ 
+@@ -242,7 +244,7 @@
+ 
+ Only then do I open the purse.
+ 
+-Twelve pieces.
++Thirteen pieces.
+ 
+ I count them.
+ 
+@@ -256,7 +258,7 @@
+ 
+ “Yes.”
+ 
+-He nods once.
++She nods once.
+ 
+ Fair.
+ 
+@@ -552,662 +554,662 @@
+ 
+ “There is a caravan leaving Greyward in six days,” Pell says.
+ 
++I look at her.
++
++She looks too innocent.
++
++Suspicious.
++
++“What caravan?”
++
++“Six wagons. Two family groups. Wool, lamp oil, seed stock. They are bound for the ridge settlements.”
++
++“Why are you telling me?”
++
++“Because their regular guard company withdrew after a washout report.”
++
++My pulse picks up.
++
++Pell continues.
++
++“They need escort through the lower ridge road. The caravan master also wants someone to inspect whether the old receiving-house approach is passable enough to use as an emergency shelter.”
++
++Vey places a second paper on the table.
++
++A job offer.
++
++Of course he has one ready.
++
++I do not touch it.
++
++“How much?”
++
++His smile appears.
++
++I hate that smile.
++
++“Negotiable.”
++
++“Then the number is bad.”
++
++“It is a starting number.”
++
++“Which is?”
++
++“Four pieces for the escort lead. Two for the station inspection if completed without entry into sealed lower works.”
++
++I stare.
++
++“For the whole party?”
++
++“For you.”
++
++That shuts me up.
++
++Briefly.
++
++“Other hires separate?”
++
++“Yes.”
++
++“Authority?”
++
++“Caravan movement only. You do not own the guards.”
++
++“Good.”
++
++“Report copies?”
++
++“One to the caravan master. One to Rook if Rook funds the inspection portion. You retain your own.”
++
++“Recovered property?”
++
++Vey pauses.
++
++I point at him.
++
++“No.”
++
++“I did not say anything.”
++
++“You paused like a criminal.”
++
++Tolliver finally speaks.
++
++“She knows you now.”
++
++Vey looks wounded.
++
++I feel nothing.
++
++We work through the offer: no automatic claim to personal finds, no lower-works entry or mechanism operation without separate consent, no exclusivity on route knowledge. Food and lodging are covered. Return allowance can become cash. Assigned-work injuries are covered. I can stop if the road becomes something the contract did not describe.
++
++The list is familiar.
++
++That is the strange part.
++
++Months ago I would not have known which questions to ask.
++
++Now I annoy professionals efficiently.
++
++Progress the System does not measure.
++
++“I am not signing today,” I say.
++
++Vey looks almost proud.
++
++“Good.”
++
++“Do not make that face.”
++
++“What face?”
++
++“The one where you take credit for me becoming difficult.”
++
++“I would never.”
++
++Liar.
++
++I look at Tolliver.
++
++He has not asked to come.
++
++“Are you free to leave in four days?”
++
++“Yes.”
++
++“For the ridge job.”
++
++“Yes.”
++
++“Do you want it?”
++
++His gaze stays on mine.
++
++“If you take it, yes.”
++
++If you take it.
++
++My chest does something inconvenient.
++
++I look at Harra’s empty chair.
++
++“Harra?”
++
++Pell says, “Already asked what the equipment allowance is.”
++
++I laugh.
++
++Of course she did.
++
++Iven lifts his cup.
++
++“I am not going.”
++
++I turn to him.
++
++“I did not ask.”
++
++“Good.”
++
++His sons both look relieved.
++
++He continues, “I will help you read the far-side notes before you leave.”
++
++“Only if you want to.”
++
++“I want to know what was under my feet for seventy-one sleeps.”
++
++“Fair.”
++
++Teren says, “He counted badly.”
++
++Iven looks offended.
++
++“I was trapped between realities.”
++
++“You still counted badly.”
++
++Lio nods solemnly.
++
++I cover my mouth.
++
++Iven points at his sons.
++
++“This is what I survived for.”
++
++“Yes,” Mara says. “Unfortunately.”
++
++The room breaks into laughter.
++
++It feels wrong for half a second.
++
++Then nobody dies from laughing, either.
++
++---
++
++By afternoon, I own a chest.
++
++It is a box. It should not be emotional.
++
++Harra found it in a storage room, declared the hinges insulting, replaced them, added an iron loop, and charged me four bits for materials after refusing labor payment.
++
++I tried to argue.
++
++She threatened to remove the hinges.
++
++I stopped.
++
++The chest sits at the foot of my bed.
++
++My bed.
++
++For four weeks.
++
++Longer if I pay again.
++
++My green shield leans against the wall beside it.
++
++The repaired edge is still visible if I know where to look.
++
++I do.
++
++My Earth clothes are folded inside the chest.
++
++Not hidden.
++
++The copied Missouri card lies in the top tray beneath my notebook.
++
++My coins are split between my purse and a cloth packet under the tray because I have finally learned not to carry every asset on my body like a game character with infinite inventory.
++
++Sella’s badly folded shirt is still on the chair.
++
++I leave it there.
++
++I am not ready to put it away.
++
++That is allowed.
++
++A knock comes at the door.
++
++“Open.”
++
++Tolliver enters carrying two practice sticks.
++
++I look at them.
++
++“No.”
++
++“You asked about training.”
++
++“I asked about sword training.”
++
++“You need footwork before someone gives you a sword.”
++
++“I have footwork.”
++
++“You have Stepguard.”
++
++“That is literally magical footwork.”
++
++“That is spending reserve to compensate for bad decisions.”
++
++I narrow my eyes.
++
++He smiles.
++
++“Outside.”
++
++I glance at the chest.
++
++Then the room.
++
++Then him.
++
++“Wait.”
++
++He does.
++
++I take my key from the table.
++
++Lock the chest.
++
++Then lock the room behind us.
++
++No one tells me to. No one keeps the other key.
++
++Mine.
++
++Downstairs, the yard is bright enough to hurt after the dim corridor.
++
++Harra has set up three chalk lines beside the stable.
++
++She waves without looking up from a buckle she is repairing.
++
++Tolliver tosses me one of the sticks.
++
++I catch it.
++
++My ankle holds.
++
++The mender cleared me.
++
++I still test the weight before trusting it.
++
++“Rules?” I ask.
++
++“No Stepguard.”
++
++“Coward.”
++
++“No Brace.”
++
++“Afraid?”
++
++“Yes.”
++
++That makes me pause.
++
++He twirls the stick once.
++
++“If you Brace against a practice strike because your ordinary stance is wrong, you learn the wrong lesson.”
++
++Annoyingly sensible.
++
++“Fine.”
++
++“And if the ankle hurts, we stop.”
++
++“I know.”
++
++He lifts the stick.
++
++I lift mine.
++
++He hits me in the shoulder in under three seconds.
++
++“Fuck.”
++
++“Again.”
++
++Second attempt lasts five.
++
++Third lasts seven.
++
++On the fourth, I stop trying to beat his hand and move my body out of the line.
++
++His stick passes my ribs.
++
++Mine taps his wrist.
++
++Not hard.
++
++I freeze.
++
++He looks at the contact.
++
++Then at me.
++
++There it is again.
++
++That look.
++
++Interested.
++
++“Again,” he says.
++
++Heat crawls under my collar.
++
++Daylight.
++
++Fully clothed.
++
++Three people in the yard.
++
++And he can still do that to me with one word.
++
++This is going to be a problem.
++
++I smile.
++
++“Try not to lose control.”
++
++His eyes narrow.
++
++Harra snorts from across the yard.
++
++Tolliver attacks.
++
++I last nine seconds.
++
++Improvement.
++
++---
++
++At sunset, I sit on the west wall with my shield beside me and the ridge-road offer across my knees.
++
++I have not signed it.
++
++Yet.
++
++The sky is clear after three days of broken cloud.
++
++Rook looks different from up here.
++
++More specific.
++
++The repaired drainage channel catches the last light beyond the lower field.
++
++Water moves where it is supposed to move.
++
++Pell’s people are still arguing over the final retaining stones.
++
++A cart comes through the gate with flour.
++
++Somebody in the kitchen drops a pan.
++
++A child screams because another child has committed a crime involving mud.
++
++The world refuses to become symbolic for me.
++
++Good.
++
++I am tired of places existing only to teach lessons.
++
++Tolliver sits beside me.
++
++Not touching.
++
++Close enough that our boots almost do.
++
++He looks at the paper.
++
++“You decided?”
++
++“Mostly.”
++
++“Dangerous.”
++
++“I know.”
++
++“What part?”
++
++“The station.”
++
++He waits.
++
++I trace the copied route mark with one finger.
++
++Three strokes.
++
++Hooked symbol.
++
++A road to another receiving house.
++
++Maybe Elena went that way.
++
++Maybe not.
++
++Maybe the station is empty.
++
++Maybe it is full of monsters.
++
++Maybe it smells like mold and old iron and has absolutely no answers.
++
++The job matters even without answers.
++
++Six wagons.
++
++Families.
++
++Seed.
++
++A damaged road.
++
++People who need to arrive somewhere alive.
++
++That helps.
++
++“I want to go,” I say.
++
++Tolliver nods.
++
++No warning. No list of reasons I should stay.
++
+ I look at him.
+ 
+-He looks too innocent.
+-
+-Suspicious.
+-
+-“What caravan?”
+-
+-“Six wagons. Two family groups. Wool, lamp oil, seed stock. They are bound for the ridge settlements.”
+-
+-“Why are you telling me?”
+-
+-“Because their regular guard company withdrew after a washout report.”
+-
+-My pulse picks up.
+-
+-Pell continues.
+-
+-“They need escort through the lower ridge road. The caravan master also wants someone to inspect whether the old receiving-house approach is passable enough to use as an emergency shelter.”
+-
+-Vey places a second paper on the table.
+-
+-A job offer.
+-
+-Of course he has one ready.
+-
+-I do not touch it.
+-
+-“How much?”
+-
+-His smile appears.
+-
+-I hate that smile.
+-
+-“Negotiable.”
+-
+-“Then the number is bad.”
+-
+-“It is a starting number.”
+-
+-“Which is?”
+-
+-“Four pieces for the escort lead. Two for the station inspection if completed without entry into sealed lower works.”
+-
+-I stare.
+-
+-“For the whole party?”
+-
+-“For you.”
+-
+-That shuts me up.
+-
+-Briefly.
+-
+-“Other hires separate?”
++“That is it?”
++
++“What do you want?”
++
++“A little resistance. For drama.”
++
++“No.”
++
++“Terrible boyfriend.”
++
++His head turns.
++
++The word hangs there.
++
++I did not plan it.
++
++Apparently my mouth has started accepting side quests.
++
++Tolliver studies me.
++
++“Is that what I am?”
++
++I consider pretending I did not say it.
++
++Old Maya would.
++
++New Maya has contract clauses now.
++
++Terrifying.
++
++“If you want to be.”
++
++He looks toward the yard.
++
++Then back.
+ 
+ “Yes.”
+ 
+-“Authority?”
+-
+-“Caravan movement only. You do not own the guards.”
+-
+-“Good.”
+-
+-“Report copies?”
+-
+-“One to the caravan master. One to Rook if Rook funds the inspection portion. You retain your own.”
+-
+-“Recovered property?”
+-
+-Vey pauses.
+-
+-I point at him.
++Simple.
++
++My chest goes warm.
++
++“No exclusivity promise,” I say.
++
++“I remember.”
++
++“No deciding my jobs.”
++
++“I remember.”
++
++“No making me ask permission to leave.”
++
++His expression sharpens.
++
++“I remember.”
++
++“And if Sella comes back…”
++
++“We talk.”
++
++“Yes.”
++
++He reaches over.
++
++Palm up on the stone between us.
++
++Offering.
++
++I put my hand in his.
++
++Still dangerous in daylight.
++
++“What do I call you?” he asks.
++
++“Warder Supreme.”
+ 
+ “No.”
+ 
+-“I did not say anything.”
+-
+-“You paused like a criminal.”
+-
+-Tolliver finally speaks.
+-
+-“She knows you now.”
+-
+-Vey looks wounded.
+-
+-I feel nothing.
+-
+-We work through the offer: no automatic claim to personal finds, no lower-works entry or mechanism operation without separate consent, no exclusivity on route knowledge. Food and lodging are covered. Return allowance can become cash. Assigned-work injuries are covered. I can stop if the road becomes something the contract did not describe.
+-
+-The list is familiar.
+-
+-That is the strange part.
+-
+-Months ago I would not have known which questions to ask.
+-
+-Now I annoy professionals efficiently.
+-
+-Progress the System does not measure.
+-
+-“I am not signing today,” I say.
+-
+-Vey looks almost proud.
+-
+-“Good.”
+-
+-“Do not make that face.”
+-
+-“What face?”
+-
+-“The one where you take credit for me becoming difficult.”
+-
+-“I would never.”
+-
+-Liar.
+-
+-I look at Tolliver.
+-
+-He has not asked to come.
+-
+-“Are you free in six days?”
++“Your devastatingly competent employer.”
++
++“You are not employing me.”
++
++“Good catch.”
++
++He rubs his thumb over my knuckles.
++
++“Maya works.”
++
++I lean into his shoulder.
++
++For maybe ten seconds.
++
++Then I sit up because I have one more thing to do.
++
++I open my measure.
++
++The familiar awareness settles over me.
++
++A pattern I know how to attend to now.
++
++Level Six.
++
++Warder.
++
++Eight points of reserve, full after days without spending.
++
++Brace.
++
++Stepguard.
++
++Controlled Release sitting in the strange place where learned judgment has become something the System recognizes without turning it into a button.
++
++Blank origin.
++
++It bothers me less than it did.
++
++I used to look at the empty place and see proof that I belonged nowhere.
++
++Now I have a key in my pocket.
++
++A paid room behind me.
++
++A shield I bought.
++
++A chest full of things I chose to keep.
++
++A woman I love somewhere east under the same sky.
++
++A man holding my hand because I put mine there.
++
++People downstairs who will notice if I do not come back for breakfast.
++
++Blank does not mean empty.
++
++Not anymore.
++
++I let the measure go.
++
++Then I sign the ridge-road offer.
++
++MAYA SZCZEPANIAK.
++
++My handwriting is still ugly.
++
++Tolliver watches the ink dry.
++
++“Six days,” he says.
++
++“Four. Two days on the cart. I want to reach Greyward before the caravan leaves and see Ordway.”
++
++His eyebrows lift.
++
++“You planned that.”
++
++“I contain multitudes.”
++
++He groans.
++
++I grin.
++
++Below us, Harra shouts that if we are actually taking the ridge job, she wants two pack frames, a proper rope inventory, and written authority to refuse any idiot who tries to make her carry decorative iron.
++
++I lean over the wall.
++
++“Are you coming?”
++
++She looks up.
++
++“You paying?”
+ 
+ “Yes.”
+ 
+-“For the ridge job.”
+-
+-“Yes.”
+-
+-“Do you want it?”
+-
+-His gaze stays on mine.
+-
+-“If you take it, yes.”
+-
+-If you take it.
+-
+-My chest does something inconvenient.
+-
+-I look at Harra’s empty chair.
+-
+-“Harra?”
+-
+-Pell says, “Already asked what the equipment allowance is.”
+-
+-I laugh.
+-
+-Of course she did.
+-
+-Iven lifts his cup.
+-
+-“I am not going.”
+-
+-I turn to him.
+-
+-“I did not ask.”
+-
+-“Good.”
+-
+-His sons both look relieved.
+-
+-He continues, “I will help you read the far-side notes before you leave.”
+-
+-“Only if you want to.”
+-
+-“I want to know what was under my feet for seventy-one sleeps.”
+-
+-“Fair.”
+-
+-Teren says, “He counted badly.”
+-
+-Iven looks offended.
+-
+-“I was trapped between realities.”
+-
+-“You still counted badly.”
+-
+-Lio nods solemnly.
+-
+-I cover my mouth.
+-
+-Iven points at his sons.
+-
+-“This is what I survived for.”
+-
+-“Yes,” Mara says. “Unfortunately.”
+-
+-The room breaks into laughter.
+-
+-It feels wrong for half a second.
+-
+-Then nobody dies from laughing, either.
+-
+----
+-
+-By afternoon, I own a chest.
+-
+-It is a box. It should not be emotional.
+-
+-Harra found it in a storage room, declared the hinges insulting, replaced them, added an iron loop, and charged me four bits for materials after refusing labor payment.
+-
+-I tried to argue.
+-
+-She threatened to remove the hinges.
+-
+-I stopped.
+-
+-The chest sits at the foot of my bed.
+-
+-My bed.
+-
+-For four weeks.
+-
+-Longer if I pay again.
+-
+-My green shield leans against the wall beside it.
+-
+-The repaired edge is still visible if I know where to look.
+-
+-I do.
+-
+-My Earth clothes are folded inside the chest.
+-
+-Not hidden.
+-
+-The copied Missouri card lies in the top tray beneath my notebook.
+-
+-My coins are split between my purse and a cloth packet under the tray because I have finally learned not to carry every asset on my body like a game character with infinite inventory.
+-
+-Sella’s badly folded shirt is still on the chair.
+-
+-I leave it there.
+-
+-I am not ready to put it away.
+-
+-That is allowed.
+-
+-A knock comes at the door.
+-
+-“Open.”
+-
+-Tolliver enters carrying two practice sticks.
+-
+-I look at them.
+-
+-“No.”
+-
+-“You asked about training.”
+-
+-“I asked about sword training.”
+-
+-“You need footwork before someone gives you a sword.”
+-
+-“I have footwork.”
+-
+-“You have Stepguard.”
+-
+-“That is literally magical footwork.”
+-
+-“That is spending reserve to compensate for bad decisions.”
+-
+-I narrow my eyes.
+-
+-He smiles.
+-
+-“Outside.”
+-
+-I glance at the chest.
+-
+-Then the room.
+-
+-Then him.
+-
+-“Wait.”
+-
+-He does.
+-
+-I take my key from the table.
+-
+-Lock the chest.
+-
+-Then lock the room behind us.
+-
+-No one tells me to. No one keeps the other key.
+-
+-Mine.
+-
+-Downstairs, the yard is bright enough to hurt after the dim corridor.
+-
+-Harra has set up three chalk lines beside the stable.
+-
+-She waves without looking up from a buckle she is repairing.
+-
+-Tolliver tosses me one of the sticks.
+-
+-I catch it.
+-
+-My ankle holds.
+-
+-Mara cleared me.
+-
+-I still test the weight before trusting it.
+-
+-“Rules?” I ask.
+-
+-“No Stepguard.”
+-
+-“Coward.”
+-
+-“No Brace.”
+-
+-“Afraid?”
+-
+-“Yes.”
+-
+-That makes me pause.
+-
+-He twirls the stick once.
+-
+-“If you Brace against a practice strike because your ordinary stance is wrong, you learn the wrong lesson.”
+-
+-Annoyingly sensible.
+-
+-“Fine.”
+-
+-“And if the ankle hurts, we stop.”
+-
+-“I know.”
+-
+-He lifts the stick.
+-
+-I lift mine.
+-
+-He hits me in the shoulder in under three seconds.
+-
+-“Fuck.”
+-
+-“Again.”
+-
+-Second attempt lasts five.
+-
+-Third lasts seven.
+-
+-On the fourth, I stop trying to beat his hand and move my body out of the line.
+-
+-His stick passes my ribs.
+-
+-Mine taps his wrist.
+-
+-Not hard.
+-
+-I freeze.
+-
+-He looks at the contact.
+-
+-Then at me.
+-
+-There it is again.
+-
+-That look.
+-
+-Interested.
+-
+-“Again,” he says.
+-
+-Heat crawls under my collar.
+-
+-Daylight.
+-
+-Fully clothed.
+-
+-Three people in the yard.
+-
+-And he can still do that to me with one word.
+-
+-This is going to be a problem.
+-
+-I smile.
+-
+-“Try not to lose control.”
+-
+-His eyes narrow.
+-
+-Harra snorts from across the yard.
+-
+-Tolliver attacks.
+-
+-I last nine seconds.
+-
+-Improvement.
+-
+----
+-
+-At sunset, I sit on the west wall with my shield beside me and the ridge-road offer across my knees.
+-
+-I have not signed it.
+-
+-Yet.
+-
+-The sky is clear after three days of broken cloud.
+-
+-Rook looks different from up here.
+-
+-More specific.
+-
+-The repaired drainage channel catches the last light beyond the lower field.
+-
+-Water moves where it is supposed to move.
+-
+-Pell’s people are still arguing over the final retaining stones.
+-
+-A cart comes through the gate with flour.
+-
+-Somebody in the kitchen drops a pan.
+-
+-A child screams because another child has committed a crime involving mud.
+-
+-The world refuses to become symbolic for me.
+-
+-Good.
+-
+-I am tired of places existing only to teach lessons.
+-
+-Tolliver sits beside me.
+-
+-Not touching.
+-
+-Close enough that our boots almost do.
+-
+-He looks at the paper.
+-
+-“You decided?”
+-
+-“Mostly.”
+-
+-“Dangerous.”
+-
+-“I know.”
+-
+-“What part?”
+-
+-“The station.”
+-
+-He waits.
+-
+-I trace the copied route mark with one finger.
+-
+-Three strokes.
+-
+-Hooked symbol.
+-
+-A road to another receiving house.
+-
+-Maybe Elena went that way.
+-
+-Maybe not.
+-
+-Maybe the station is empty.
+-
+-Maybe it is full of monsters.
+-
+-Maybe it smells like mold and old iron and has absolutely no answers.
+-
+-The job matters even without answers.
+-
+-Six wagons.
+-
+-Families.
+-
+-Seed.
+-
+-A damaged road.
+-
+-People who need to arrive somewhere alive.
+-
+-That helps.
+-
+-“I want to go,” I say.
+-
+-Tolliver nods.
+-
+-No warning. No list of reasons I should stay.
+-
+-I look at him.
+-
+-“That is it?”
+-
+-“What do you want?”
+-
+-“A little resistance. For drama.”
+-
+-“No.”
+-
+-“Terrible boyfriend.”
+-
+-His head turns.
+-
+-The word hangs there.
+-
+-I did not plan it.
+-
+-Apparently my mouth has started accepting side quests.
+-
+-Tolliver studies me.
+-
+-“Is that what I am?”
+-
+-I consider pretending I did not say it.
+-
+-Old Maya would.
+-
+-New Maya has contract clauses now.
+-
+-Terrifying.
+-
+-“If you want to be.”
+-
+-He looks toward the yard.
+-
+-Then back.
+-
+-“Yes.”
+-
+-Simple.
+-
+-My chest goes warm.
+-
+-“No exclusivity promise,” I say.
+-
+-“I remember.”
+-
+-“No deciding my jobs.”
+-
+-“I remember.”
+-
+-“No making me ask permission to leave.”
+-
+-His expression sharpens.
+-
+-“I remember.”
+-
+-“And if Sella comes back…”
+-
+-“We talk.”
+-
+-“Yes.”
+-
+-He reaches over.
+-
+-Palm up on the stone between us.
+-
+-Offering.
+-
+-I put my hand in his.
+-
+-Still dangerous in daylight.
+-
+-“What do I call you?” he asks.
+-
+-“Warder Supreme.”
+-
+-“No.”
+-
+-“Your devastatingly competent employer.”
+-
+-“You are not employing me.”
+-
+-“Good catch.”
+-
+-He rubs his thumb over my knuckles.
+-
+-“Maya works.”
+-
+-I lean into his shoulder.
+-
+-For maybe ten seconds.
+-
+-Then I sit up because I have one more thing to do.
+-
+-I open my measure.
+-
+-The familiar awareness settles over me.
+-
+-A pattern I know how to attend to now.
+-
+-Level Six.
+-
+-Warder.
+-
+-Eight points of reserve, full after days without spending.
+-
+-Brace.
+-
+-Stepguard.
+-
+-Controlled Release sitting in the strange place where learned judgment has become something the System recognizes without turning it into a button.
+-
+-Blank origin.
+-
+-It bothers me less than it did.
+-
+-I used to look at the empty place and see proof that I belonged nowhere.
+-
+-Now I have a key in my pocket.
+-
+-A paid room behind me.
+-
+-A shield I bought.
+-
+-A chest full of things I chose to keep.
+-
+-A woman I love somewhere east under the same sky.
+-
+-A man holding my hand because I put mine there.
+-
+-People downstairs who will notice if I do not come back for breakfast.
+-
+-Blank does not mean empty.
+-
+-Not anymore.
+-
+-I let the measure go.
+-
+-Then I sign the ridge-road offer.
+-
+-MAYA SZCZEPANIAK.
+-
+-My handwriting is still ugly.
+-
+-Tolliver watches the ink dry.
+-
+-“Six days,” he says.
+-
+-“Five. I want to reach Greyward early and see Ordway.”
+-
+-His eyebrows lift.
+-
+-“You planned that.”
+-
+-“I contain multitudes.”
+-
+-He groans.
+-
+-I grin.
+-
+-Below us, Harra shouts that if we are actually taking the ridge job, she wants two pack frames, a proper rope inventory, and written authority to refuse any idiot who tries to make her carry decorative iron.
+-
+-I lean over the wall.
+-
+-“Are you coming?”
+-
+-She looks up.
+-
+-“You paying?”
+-
+-“Yes.”
+-
+ “Then probably.”
+ 
+ “Romantic.”
+@@ -1228,7 +1230,7 @@
+ 
+ I fold the contract and tuck it into my notebook.
+ 
+-Five days from now I will leave Rook.
++Four days from now I will leave Rook.
+ 
+ Not because someone bought my service before I understood the terms.
+ 

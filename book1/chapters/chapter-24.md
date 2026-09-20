@@ -264,7 +264,7 @@ Too many joints.
 
 Then they vanish.
 
-My nameplate flashes.
+A nameplate flashes.
 
 **[HOLLOW KNOCKER, LV. 6]**
 
@@ -306,11 +306,13 @@ We learn this without anybody losing a leg, which feels like success.
 
 Harra marks each plate after three light tests.
 
-One chalk slash: held.
+One chalk slash: held the test stone. Not yet cleared for a person.
 
-Two: shifted but returned.
+Two: shifted but returned. No stepping there.
 
 X: no.
+
+Harra circles a single slash only after the plate takes a person’s weight without shifting. The plate that dropped gets an X; she picks another line along the wall.
 
 We move one person at a time.
 
@@ -322,9 +324,11 @@ Me third because I am apparently the person everyone wants in the middle.
 
 Sella last because she can move backward while watching behind us.
 
-The first six plates hold.
+The first six plates hold. Harra circles their marks.
 
-The seventh shifts under Tolliver.
+The seventh still has only the provisional slash. Tolliver eases his front boot onto it.
+
+It shifts.
 
 “Stop,” I say.
 
@@ -370,7 +374,7 @@ Knock.
 
 Sella mutters, “It knows.”
 
-The next plate behind Tolliver trembles.
+Something strikes the plate behind Tolliver. Its pin keeps it level.
 
 Two creatures.
 
@@ -386,9 +390,9 @@ Sella made me learn this part anyway.
 
 The pattern belongs to the step: facing, support and one straight line.
 
-I did not know that.
+I have never tried it without a shield.
 
-I know it now because the shape of it sits in my body, waiting.
+The shape is the one Sella taught me. I can feel it waiting.
 
 I move onto the safe plate behind him.
 
@@ -514,11 +518,13 @@ That is somehow worse.
 
 ---
 
+We return along the six circled plates. Every pin stays seated. At the entrance, Harra checks the separate maintenance stair before clearing it for us.
+
 We take the upper route.
 
 The lower route is shorter.
 
-It is also full of X marks after Harra tests the first four plates.
+It is also blocked by the plate that dropped, with more X marks beyond it.
 
 The upper route climbs a maintenance stair cut into the wall, then crosses a narrow gallery above the isolation trench.
 
@@ -528,7 +534,7 @@ At the landing I stop.
 
 Not because anyone orders me.
 
-Because the rule said increase in pain means turn back.
+Because the rule said increase in pain means stop and check.
 
 The pain has increased.
 
@@ -794,7 +800,7 @@ Harra’s eyes narrow.
 
 “Against what?”
 
-“The wall stop.”
+“Forearms on the back of the arm, feet on the fixed sill beside the stop. Out of the sweep.”
 
 “You would be holding the arm, not the floor.”
 
@@ -864,23 +870,13 @@ The stone hits.
 
 The arm sweeps.
 
-I Brace.
+I set my forearms against the back of it at the stop and Brace.
 
 **3 / 6 → 2 / 6**
 
-Pressure slams through my shoulders even though I am not touching the arm.
+Pressure runs from the iron through my forearms, shoulders and back into the sill beneath my boots.
 
-The ability does not care.
-
-It finds the thing I chose to hold and the sound support behind it.
-
-Wall.
-
-Stop.
-
-Iron.
-
-Me.
+Same hold. Different thing trying to move.
 
 For one breath I understand why Warder is not Shieldbearer.
 

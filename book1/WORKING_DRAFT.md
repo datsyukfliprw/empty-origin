@@ -976,7 +976,7 @@ The warden reads my three lines. I can feel him doing it. I have never in my lif
 
 Skell’s. Fever. A dead clerk. I stare at the side of Tolliver’s jaw. He speaks without hesitation, and I try to make my face look like the face of someone who knows those people.
 
-The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the strip of shirt gone black around my foot. “She got no shoes.”
+The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the darkened wrapping around my foot. “She got no shoes.”
 
 “No.”
 
@@ -1262,7 +1262,7 @@ I have no earthly idea whether a piece is a fortune or an insult, and *do not ac
 
 “Two cards of thread and he’s got the money in his fist and he’s been standing there since I got here.”
 
-Her mouth does something small and she puts it away again. “Ordway,” she says, which turns out to be her name and turns out to be how I get called for the next two hours, along with several other things.
+Her mouth does something small and she puts it away again. “Ordway,” she says, giving me her name at last.
 
 The first ten minutes are a disaster held together with string. The prices are simple and the coins are not, and coins are the whole job. The little ones are copper and thin and they come in one size, and I decide inside the first two minutes to call them bits because I have to call them something. The fat dull ones are worth more and I do not know how much more until a woman buys soap and salt and gets change and I watch Ordway’s hand make it, and then I do the sum backward and get eight.
 
@@ -3042,7 +3042,7 @@ He is waiting beside a cart loaded with canvas-wrapped crates. His bow is strung
 
 “Yes,” he says. “I could.”
 
-“If you want it cracked when we brake, yes,” she says.
+“If you want it cracked when we brake, yes,” the carter tells Vey.
 
 Vey moves the chest.
 
@@ -4904,9 +4904,9 @@ Before bed I write down the part Dain said twice.
 
 CHAPTER FOURTEEN
 
-Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Her plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
+Harra, the house fitter, turns the rod in its pipe until Sella appears in the viewing glass. Harra’s plate reads **[FITTER, LV. 18]**. A leather guard covers the thumb she rests against the moving bar.
 
-She is across the workshop with a slate against her chest. Three fingers raised. Then one.
+Sella is across the workshop with a slate against her chest. Three fingers raised. Then one.
 
 “One,” I say.
 
@@ -5658,7 +5658,7 @@ He has propped his board against it. There are two words.
 
 *Still here.*
 
-Mara presses her hand over her mouth. Then she takes the first sheet of her sons’ letter and begins.
+Mara presses her hand over her mouth. Then she takes the first sheet of her nephews’ letter and begins.
 
 It takes nearly an hour.
 
@@ -6474,7 +6474,7 @@ The green shield is narrower, wood faced in hide, with a metal strip around the 
 
 “Three pieces, fitted,” she says. “Pell approved the stores sale. Yours afterward.”
 
-Twenty-four bits. I count out the three pieces.
+Twenty-four bits.
 
 “Can you do two?”
 
@@ -8122,7 +8122,7 @@ The thing is thicker than my wrist and black through the middle.
 
 “Was?” Pell asks.
 
-“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light goes.”
+“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light went.”
 
 “Tomorrow?”
 
@@ -8226,7 +8226,9 @@ That almost makes it harder.
 
 ---
 
-The extension paper is signed before bed.
+The clerk pays today’s eight bits separately. The extension begins tomorrow.
+
+The new paper is signed before bed.
 
 Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty.
 
@@ -8512,7 +8514,7 @@ I do.
 
 I know that before anybody looks at me, so I hate the thought immediately.
 
-My purse has forty-six bits from before the extension. Today’s eight makes fifty-four.
+My purse has fifty-four bits from before the extension. Today’s eight makes sixty-two.
 
 The block would belong to Rook.
 
@@ -8682,7 +8684,7 @@ It should feel good to hurt him with the sentence. It does a little. Not enough.
 
 The passage smells of flour and cooling stone.
 
-I think of Chapter Seven, though my life does not call it that. I think of him deciding where I slept because he believed deciding was protection.
+I think of him deciding where I slept because he believed deciding was protection.
 
 I think of Rusk asking for custody in writing.
 
@@ -9880,7 +9882,7 @@ Then load-test the near anchor without spanning.
 
 Then decide.
 
-I sign.
+The clerk pays today’s eight bits before I sign for tomorrow.
 
 The money is becoming less important than the paper. That frightens me differently.
 
@@ -10546,9 +10548,7 @@ Then she puts a second sheet on the table.
 
 A new contract.
 
-Two days.
-
-Recovery expedition.
+Two days, beginning tomorrow. Recovery expedition. Eight bits a day for me, twelve for Sella, ten for Tolliver.
 
 Same room and food protection if we return late.
 
@@ -10960,7 +10960,7 @@ Too many joints.
 
 Then they vanish.
 
-My nameplate flashes.
+A nameplate flashes.
 
 **[HOLLOW KNOCKER, LV. 6]**
 
@@ -11002,11 +11002,13 @@ We learn this without anybody losing a leg, which feels like success.
 
 Harra marks each plate after three light tests.
 
-One chalk slash: held.
+One chalk slash: held the test stone. Not yet cleared for a person.
 
-Two: shifted but returned.
+Two: shifted but returned. No stepping there.
 
 X: no.
+
+Harra circles a single slash only after the plate takes a person’s weight without shifting. The plate that dropped gets an X; she picks another line along the wall.
 
 We move one person at a time.
 
@@ -11018,9 +11020,11 @@ Me third because I am apparently the person everyone wants in the middle.
 
 Sella last because she can move backward while watching behind us.
 
-The first six plates hold.
+The first six plates hold. Harra circles their marks.
 
-The seventh shifts under Tolliver.
+The seventh still has only the provisional slash. Tolliver eases his front boot onto it.
+
+It shifts.
 
 “Stop,” I say.
 
@@ -11066,7 +11070,7 @@ Knock.
 
 Sella mutters, “It knows.”
 
-The next plate behind Tolliver trembles.
+Something strikes the plate behind Tolliver. Its pin keeps it level.
 
 Two creatures.
 
@@ -11082,9 +11086,9 @@ Sella made me learn this part anyway.
 
 The pattern belongs to the step: facing, support and one straight line.
 
-I did not know that.
+I have never tried it without a shield.
 
-I know it now because the shape of it sits in my body, waiting.
+The shape is the one Sella taught me. I can feel it waiting.
 
 I move onto the safe plate behind him.
 
@@ -11210,11 +11214,13 @@ That is somehow worse.
 
 ---
 
+We return along the six circled plates. Every pin stays seated. At the entrance, Harra checks the separate maintenance stair before clearing it for us.
+
 We take the upper route.
 
 The lower route is shorter.
 
-It is also full of X marks after Harra tests the first four plates.
+It is also blocked by the plate that dropped, with more X marks beyond it.
 
 The upper route climbs a maintenance stair cut into the wall, then crosses a narrow gallery above the isolation trench.
 
@@ -11224,7 +11230,7 @@ At the landing I stop.
 
 Not because anyone orders me.
 
-Because the rule said increase in pain means turn back.
+Because the rule said increase in pain means stop and check.
 
 The pain has increased.
 
@@ -11490,7 +11496,7 @@ Harra’s eyes narrow.
 
 “Against what?”
 
-“The wall stop.”
+“Forearms on the back of the arm, feet on the fixed sill beside the stop. Out of the sweep.”
 
 “You would be holding the arm, not the floor.”
 
@@ -11560,23 +11566,13 @@ The stone hits.
 
 The arm sweeps.
 
-I Brace.
+I set my forearms against the back of it at the stop and Brace.
 
 **3 / 6 → 2 / 6**
 
-Pressure slams through my shoulders even though I am not touching the arm.
+Pressure runs from the iron through my forearms, shoulders and back into the sill beneath my boots.
 
-The ability does not care.
-
-It finds the thing I chose to hold and the sound support behind it.
-
-Wall.
-
-Stop.
-
-Iron.
-
-Me.
+Same hold. Different thing trying to move.
 
 For one breath I understand why Warder is not Shieldbearer.
 
@@ -12220,7 +12216,7 @@ She points up.
 
 The ceiling track crosses the channel.
 
-A chain trolley hangs above us, frozen halfway across.
+A chain trolley hangs above us, motionless halfway across.
 
 A square iron frame dangles from it.
 
@@ -12237,6 +12233,8 @@ Tolliver follows the chain to a capstan.
 Harra examines the gearing.
 
 “Manual. Two people.”
+
+The near track bracket has a diagonal iron stay running down beside the capstan, low enough for me to reach from the solid floor.
 
 Sella says, “And every turn tells the thing downstairs where we are.”
 
@@ -12304,6 +12302,10 @@ It becomes watchful.
 
 That hurts more.
 
+Harra threads our line through the return pulley by drawing it after the old one, then has Sella and Tolliver bring the empty trolley to us. It creeps down toward the far landing when they ease the brake. They stop with the near bar over solid floor.
+
+The new return line reaches both banks. Once someone is across, we can haul from either end.
+
 ---
 
 We build a liar.
@@ -12340,7 +12342,7 @@ Tolliver takes the capstan left.
 
 Sella right.
 
-Harra will ride the frame with the salvage because someone must control the trolley brake on the far side.
+Harra will ride the frame with the salvage and the two table rails. Someone has to secure the far landing and take the return line.
 
 I will not.
 
@@ -12444,23 +12446,15 @@ Clang.
 
 The creature hesitates.
 
-The trolley reaches the far side.
+The trolley catches at a damaged section of track, a yard short of the far landing.
 
-Harra jumps off.
+“Brake!” Harra calls.
 
-“Brake!”
+Tolliver holds it.
 
-She locks it.
+Harra stays in the frame with one leg hooked over the lower bar. Still above the water.
 
-The capstan stops.
-
-We have a suspended frame across the gap.
-
-No deck.
-
-Still no bridge.
-
-Harra starts lashing the two table rails to the frame.
+She starts lashing the two table rails across its base for the rest of us.
 
 Sella says, “That will take time.”
 
@@ -12542,7 +12536,7 @@ Harra nearly falls.
 
 “Hold!” Sella shouts.
 
-I Brace.
+I press both forearms against the low diagonal stay and Brace.
 
 I do not think first.
 
@@ -12552,7 +12546,7 @@ Reserve drops.
 
 **2 / 6 → 1 / 6**
 
-The Brace catches the trolley track through the stone support above me.
+The track steadies through the iron against my arms. I feel the load down my back and into the stone beneath my boots.
 
 For one second everything stabilizes.
 
@@ -12582,7 +12576,7 @@ It will tear out.
 
 Holding harder is the wrong answer.
 
-I learned this yesterday with an ash frame.
+I learned this with the first ash frame.
 
 The world is not subtle.
 
@@ -12606,7 +12600,7 @@ The track drops four inches.
 
 Harra swears.
 
-The bracket bends instead of breaking.
+The bracket bends instead of breaking. At the changed angle, the trolley wheel clears the damaged joint.
 
 The trolley rolls toward the far side.
 
@@ -12672,21 +12666,21 @@ This time I know she sees it because she stops laughing.
 
 ---
 
+Harra steps onto the far landing and finishes lashing the second table rail across the frame. She leans her weight onto both.
+
+Tolliver checks the bent near bracket with the pry bar. It has settled against the lower stone shoulder. It no longer moves under the empty trolley.
+
 We cross using the trolley.
 
 One at a time.
 
-Harra sends the frame back empty with the capstan.
+Harra and Tolliver work the return line to bring the frame back empty.
 
 Sella crosses first to help Harra.
 
 Then me.
 
-Tolliver insists on being last.
-
-Someone has to operate the brake.
-
-For once, the reason is structural.
+Tolliver goes last. Until three of us are across, he controls the near brake. After that, Harra and Sella can take the trolley’s weight on the return line from the far landing.
 
 I step into the iron frame.
 
@@ -12782,7 +12776,7 @@ Harra says, “You are done walking.”
 
 “I noticed.”
 
-Tolliver crosses last.
+Tolliver secures the near brake open only after Harra confirms she has the load on the far line. Then he crosses.
 
 When he steps off the frame, he takes one look at me sitting on the stone with Sella rewrapping my ankle.
 
@@ -12812,7 +12806,7 @@ The old foreman’s office has one door, stone walls and no floor seams.
 
 Harra checks the ceiling.
 
-Tolliver checks the second exit.
+Tolliver checks the narrow ventilation opening. Too small for any of us; the grate is still fixed.
 
 Sella checks under the desk because apparently we are people who check under desks for monsters now.
 
@@ -12838,17 +12832,17 @@ Still different.
 
 She finishes the wrap.
 
-“You should have turned back at the gallery.”
+“The rest at the gallery helped,” she says.
 
 “Yes.”
 
-“You knew.”
+“When did the ache come back?”
 
-“Yes.”
+“The pressure room. Before we tried to leave.”
 
-“You stayed.”
+“Tell me next time. Not just after something gives.”
 
-“Yes.”
+“I will.”
 
 She ties the knot harder than necessary.
 
@@ -12952,7 +12946,11 @@ A future approaching.
 
 I reach for her hand.
 
-She gives it.
+She gives it, then touches two fingers to her mouth and presses them against the back of my hand.
+
+“Still here.”
+
+I return the gesture. Her fingers curl around mine.
 
 “I meant what I said on the roof.”
 
@@ -13590,15 +13588,15 @@ Authority recognized.
 
 I feel less singled out.
 
-Tolliver carries me to the west kitchen room and sets me on the bed.
+Mara has brought the house mender to the west kitchen room. Tolliver carries me in and sets me on the bed.
 
-Mara unwraps my ankle.
+The mender unwraps my ankle.
 
 Her silence gets worse with every layer.
 
 Sella leans against the wall.
 
-Tolliver stays by the door until Mara says, “Out.”
+Tolliver stays by the door until the mender says, “Out.”
 
 He leaves.
 
@@ -13606,7 +13604,7 @@ Immediately.
 
 I hate how much I notice.
 
-Mara presses two fingers along the outside of my ankle.
+The mender presses two fingers along the outside of my ankle.
 
 Pain flashes.
 
@@ -13644,7 +13642,7 @@ I look at the wall.
 
 Sella says, “She rode Tolliver down the ridge.”
 
-Mara looks at me.
+The mender looks at me.
 
 “That is not loading.”
 
@@ -13656,7 +13654,7 @@ Mara looks at me.
 
 Sella snorts.
 
-Mara does not.
+The mender does not.
 
 “Three days. No stairs. No rough ground. No shield. No Stepguard.”
 
@@ -13670,7 +13668,7 @@ Mara does not.
 
 “I can Brace without walking.”
 
-Mara gives me a look sharp enough to remove paint.
+The mender gives me a look sharp enough to remove paint.
 
 “Can you Brace without your body taking load?”
 
@@ -13738,7 +13736,7 @@ Then the specification plate.
 
 I shift in my chair.
 
-Mara allowed chair.
+Mara allowed the chair under the mender’s rules.
 
 Chair is civilization.
 
@@ -13906,13 +13904,13 @@ Sella calls her unbearably honorable.
 
 Harra says yes.
 
-My Day Eighteen extension is settled under the existing rate.
+The two expedition days are settled at eight bits each. My Day Eighteen wage was paid before we left.
 
-No one says my exact purse total.
+Sixteen new bits. Mara marks the earlier payment separately so neither of us counts it twice.
 
-Thank God.
+The expedition agreement ends tonight. Pell asks us to stay for frame work, contact and the rescue at the same daily rates, with food, room, property and treatment terms unchanged.
 
-I do not want arithmetic to become canon because I am too tired to remember whether I bought dried apples four days ago.
+I agree and ask for it in writing. Mara pulls out a fresh form, but Harra needs the specification before she has put a date on it.
 
 There is also another problem.
 
@@ -13958,7 +13956,7 @@ I read it twice.
 
 Four days.
 
-My ankle has three days of no loading if Mara gets her way.
+My ankle has three days of no loading under the mender’s orders.
 
 The rescue does not have a date.
 
@@ -14096,7 +14094,7 @@ When she pulls back, her forehead touches mine.
 
 She leaves to send her answer.
 
-My chest hurts in a place Mara cannot splint.
+My chest hurts in a place the mender cannot splint.
 
 ---
 
@@ -14506,119 +14504,61 @@ Maybe that is why the heat is there at all.
 
 At dusk, Iven gets the news.
 
-Not the level.
+Not the level. The shoe.
 
-The shoe.
+Harra and I stay at the kitchen table while Renn carries our pages to Dain at the upper glass. Mara copies the replies when he brings them down. The sleeve still gives us pictures, not voices.
 
-The spring.
+Iven’s first answer comes back beneath Harra’s drawing.
 
-The new foot.
+*You went into East Relief?*
 
-Harra speaks through the upper observation sleeve while I sit on a stool behind the rail where I can hear him but not climb.
+“Unfortunately,” Sella says. Mara writes it for him.
 
-His voice arrives thin through the gap.
+The next trip brings a question about the forge. Harra answers that we found enough of it. Iven’s reply is one word.
 
-“You went into East Relief?”
+*Mad.*
 
-Sella says, “Unfortunately.”
+“Yes,” Harra says.
 
-“You found the old forge?”
+Renn says he laughed when Dain showed him the answer. I close my eyes and try to imagine the sound.
 
-Harra says, “Enough of it.”
+Harra sends the short-pin drawing and release order. No person crosses until the full frame passes dry tests and a bounded chamber test. Iven acknowledges each page before Dain changes it.
 
-“You’re mad.”
+Then he asks about me.
 
-“Yes.”
-
-A pause.
-
-Then Iven laughs.
-
-It sounds tired.
-
-Alive.
-
-I close my eyes.
-
-Harra explains the redesign.
-
-Short pin.
-
-Bounded spring travel.
-
-Independent supports.
-
-Release order.
-
-No permanent through-line.
-
-No person crosses until the new frame passes dry tests and a bounded chamber test.
-
-Iven listens.
-
-When she finishes, he says, “And the girl?”
-
-I open my eyes.
-
-“What girl?”
-
-“You.”
+*Is the girl still hurt?*
 
 “I have a name.”
 
-“I know. Are you still hurt?”
+Mara’s pen waits above the paper.
 
-Everybody looks at me.
+“Tell him I am improving strategically.”
 
-“I am improving strategically.”
+She makes a noise, but writes it. When Renn returns, he says Iven laughed again, then coughed hard enough to brace himself against the rail.
 
-Mara makes a noise.
+That takes the humor out of the kitchen.
 
-Iven laughs again.
+His tank is still below the old stain. We have its dimensions and his latest depth mark, not a trustworthy count of days left.
 
-Then coughs.
+“We need two days to build properly,” Harra says.
 
-The sound takes the humor out of the room.
+“At least,” Mara says.
 
-His water tank is still below the old stain.
+“Then a dry load sequence,” Oret adds.
 
-We still do not know exact volume.
+“And chamber vibration measurement before span,” Dain has written beneath the last contact note.
 
-We still do not get to pretend that means infinite time.
+Mara sends the whole estimate, without turning it into a promise. Iven underlines *two days* on his reply. Nothing more.
 
-Harra says, “We need two days to build properly.”
+Sella’s team leaves in four. My ankle gets three days of no loading. The numbers line up badly.
 
-Mara says, “At least.”
+I take the pencil.
 
-Oret says, “Then a dry load sequence.”
+*We do it right.*
 
-Dain says, “And chamber vibration measurement before span.”
+On Renn’s last trip, Iven’s answer is copied beneath mine.
 
-Iven is quiet.
-
-“Two days,” he says.
-
-Not agreement.
-
-Not complaint.
-
-Information.
-
-Sella’s eastbound team leaves in four.
-
-My ankle gets three days of no loading.
-
-The numbers line up badly.
-
-I have spent enough time gaming to know that bad timers make people stupid.
-
-I will not let these.
-
-“We do it right,” I say.
-
-Silence.
-
-Then Iven says, “Good.”
+*Good.*
 
 Just that.
 
@@ -14756,7 +14696,7 @@ Rest is watching everyone else do the work while your body collects the benefit.
 
 I hate it.
 
-On the first morning after East Relief, Harra brings the full-size frame past the west kitchen window in pieces.
+On our first full morning back at Rook, Harra brings the full-size frame past the west kitchen window in pieces.
 
 Not assembled. Pieces: two ash side rails, cross-bracing, the near anchor head, the new far shoe and a spring housing Oret forged before breakfast because apparently sleep is optional for people over level twenty.
 
@@ -14992,7 +14932,7 @@ Harra follows my eyes.
 
 Harra smiles.
 
-We send him a request through the upper sleeve.
+We send a slate to Dain at the upper glass.
 
 Measure rise over one local foot.
 
@@ -15004,17 +14944,17 @@ Do not enter the boundary.
 
 Do not hold anything into it.
 
-Iven calls back five minutes later.
+Five minutes later, Renn returns with Iven’s answer copied below our question.
 
 “You people have become very bossy.”
 
-“Experience.”
+I give Renn my answer. “Experience.”
 
-“You were not like this when you arrived.”
+We trade two more messages while Harra checks her drawing. Iven says I was not like this when I arrived. I remind him I was unconscious.
 
-“I was unconscious when I arrived.”
+His answer comes back in Dain’s cramped hand.
 
-“Peaceful days.”
+*Peaceful days.*
 
 Sella laughs from the doorway.
 
@@ -15190,7 +15130,7 @@ The splint comes off for inspection.
 
 I can flex my ankle without seeing God.
 
-Mara is unmoved.
+The mender is unmoved.
 
 “No stairs.”
 
@@ -15606,7 +15546,7 @@ I do not want her under the same roof.
 
 ---
 
-The third morning Mara makes me walk.
+The third morning the mender makes me walk.
 
 Not far.
 
@@ -15880,6 +15820,14 @@ He was here long enough to mend a shirt.
 
 We are going to fix that.
 
+Down at the near ledge, without the sleeve and its bend between us, Dain says Iven’s name.
+
+“Yes, I heard you the first time.”
+
+His voice. Thin, but ordinary.
+
+Dain makes him repeat a number, then answers one of his. We keep the slates ready for the gallery and for when the opening narrows.
+
 Harra says, “Pressure?”
 
 Dain answers from the lower gauge.
@@ -15928,7 +15876,7 @@ Oret watches the spring housing.
 
 Dain monitors stone.
 
-Mara is above with Pell and the treatment kit because she lost the argument about coming lower.
+The mender waits above with her treatment kit. Mara is beside Pell, furious about losing the argument to come lower.
 
 Rusk’s witness waits at the upper works beside Vey.
 
@@ -16470,7 +16418,7 @@ I can stand.
 
 I do.
 
-Mara cannot see me.
+The mender cannot see me.
 
 This is not why.
 
@@ -17672,7 +17620,7 @@ Not loading.
 
 Feeling ordinary movement.
 
-Mara allows that.
+The mender cleared this much.
 
 Barely.
 
@@ -17922,7 +17870,7 @@ The near sleeve is still at stop.
 
 The frame is trying to wrench sideways.
 
-I Brace.
+I set both forearms against the near anchor shoe, my boots planted on its sound stone bed, and Brace.
 
 One point.
 
@@ -17930,7 +17878,7 @@ One point.
 
 Not to hold the frame still.
 
-To hold the near stone while Harra releases the sleeve.
+To keep the anchor shoe seated against its stone bed while Harra releases the sleeve.
 
 Different target.
 
@@ -18032,7 +17980,7 @@ No glowing teleport.
 
 No victory sound.
 
-A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for Mara.”
+A forty-something man lying face down on wet stone while Sella tries to roll him and Tolliver says, “Wait for the mender.”
 
 Iven lifts his head.
 
@@ -18050,7 +17998,7 @@ I laugh while I do it.
 
 He smiles.
 
-Then Mara reaches him.
+Then Mara reaches him, with the mender coming down behind her.
 
 ---
 
@@ -18058,7 +18006,7 @@ Medical work is not cinematic.
 
 It is rude.
 
-Mara orders everyone back.
+The mender orders everyone back except Mara.
 
 Checks Iven’s pupils.
 
@@ -18086,7 +18034,7 @@ Offended is alive.
 
 My ankle is sharper.
 
-Mara notices because Mara notices every betrayal of the body.
+The mender notices because she notices every betrayal of the body.
 
 “You.”
 
@@ -18102,7 +18050,7 @@ Mara notices because Mara notices every betrayal of the body.
 
 He stops.
 
-I point at Mara.
+I point at the mender.
 
 “I can move.”
 
@@ -18212,7 +18160,7 @@ The System arrives while Iven is throwing up.
 
 Perfect.
 
-I am sitting with my ankle elevated, holding a cup Mara will not let me drink from until my nausea passes.
+I am sitting with my ankle elevated, holding a cup the mender will not let me drink from until my nausea passes.
 
 The measure opens.
 
@@ -18224,7 +18172,7 @@ I blink.
 
 I did not know the target.
 
-I have not checked since level five.
+I have not checked my progress since level five.
 
 The text folds.
 
@@ -18312,7 +18260,7 @@ Mine probably does too.
 
 “Yes.”
 
-Mara says, “And no using any of it.”
+The mender says, “And no using any of it.”
 
 “I know.”
 
@@ -18398,9 +18346,9 @@ Did not gain exclusive access.
 
 Did not gain control of the rescued man.
 
-Competent opposition can lose without becoming stupid.
+She has read every clause and still has nothing to take from his hands.
 
-I appreciate that against my will.
+I watch until she steps back.
 
 Rusk looks at the ruined frame.
 
@@ -18434,7 +18382,7 @@ Paperwork survives everything.
 
 ---
 
-Mara lets Iven walk the final yard.
+The mender lets Iven walk the final yard.
 
 Barely.
 
@@ -18560,7 +18508,7 @@ Fair.
 
 My ankle is wrapped again.
 
-Mara has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
+The mender has upgraded me from don’t be stupid to don’t stand unless the building is on fire, which is apparently a meaningful distinction in medical practice.
 
 Iven is inside with Teren and Lio.
 
@@ -18576,7 +18524,7 @@ Sella’s pack sits beside the west wall.
 
 Bad.
 
-She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is strung across her back, and the knife at her thigh is the one she wore the first night we slept together.
+She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Her bow is slung across her back, and the knife at her thigh is the one she wore the first night we slept together.
 
 I hate that I notice.
 
@@ -18622,7 +18570,7 @@ I can feel every inch.
 
 “Walk with me,” she says.
 
-Mara, from across the room: “No.”
+The mender, from across the room: “No.”
 
 Sella turns.
 
@@ -18636,7 +18584,7 @@ Sella turns.
 
 “Three.”
 
-Mara points at the bench.
+The mender points at the bench.
 
 “You can sit with her outside if Tolliver carries the bench.”
 
@@ -18644,7 +18592,7 @@ I close my eyes.
 
 Sella laughs.
 
-Mara does not.
+The mender does not.
 
 “This is why healers drink,” I say.
 
@@ -18658,19 +18606,19 @@ I look at him.
 
 He looks at the bench.
 
-Then at Mara.
+Then at the mender.
 
 “No.”
 
 Good man.
 
-Mara lifts one eyebrow.
+The mender lifts one eyebrow.
 
 Tolliver says, “I’ll carry Maya. The bench is stupid.”
 
 “Thank you,” I say.
 
-Mara points at me.
+The mender points at me.
 
 “You are the stupid part.”
 
@@ -18740,7 +18688,7 @@ Someone curses at a mule.
 
 Pell comes out of the counting room, sees us, and goes back inside.
 
-Bless him.
+Bless her.
 
 Sella rubs both palms on her thighs.
 
@@ -19138,7 +19086,7 @@ Sella stands.
 
 I do not.
 
-Mara would kill me before the ankle did.
+The mender would kill me before the ankle did.
 
 Sella shoulders her pack.
 
@@ -19256,7 +19204,7 @@ For once, everyone lets something hurt without trying to repair it.
 
 Iven wakes after sunset.
 
-Mara allows me upstairs only if I am carried.
+Following the mender’s orders, Mara allows me upstairs only if I am carried.
 
 I am becoming furniture.
 
@@ -19448,7 +19396,7 @@ Iven looks at his sons.
 
 ---
 
-Mara keeps me off the ankle for six more days.
+The mender keeps me off the ankle for six more days.
 
 Six.
 
@@ -19476,7 +19424,7 @@ Sella sends no message.
 
 There is no reason she should. The eastbound crew is moving, and the road does not carry little blue bubbles over people’s heads.
 
-On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
+On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
 
 At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella’s without either of us deciding that. I eat with somebody else’s elbow there and discover grief is petty enough to care about benches.
 
@@ -19764,7 +19712,7 @@ Not touching.
 
 “Stepguard?”
 
-“Mara cleared it this morning.”
+“The mender cleared it this morning.”
 
 His gaze sharpens.
 
@@ -19948,7 +19896,7 @@ My choice.
 
 My room.
 
-My money paid through the week.
+My room, covered by my own work.
 
 No Household label deciding who owns my wages.
 
@@ -21274,7 +21222,7 @@ When I pull back, the smile is gone.
 
 There it is.
 
-The question no sex scene gets to solve by itself.
+We are still going to have to say this out loud.
 
 I roll onto my back.
 
@@ -21448,7 +21396,7 @@ Harra wants inventory numbers.
 
 Vey wants a statement.
 
-Pell wants to discuss whether my Day Eighteen agreement became meaningless when I worked twelve days past it without anyone updating the paper.
+Pell wants to reconcile the thirteen retained workdays since the expedition hire ended. Same rate, stale paper.
 
 My life is a pile of unresolved administrative fires.
 
@@ -21504,7 +21452,7 @@ The first thing I do after sleeping with Tolliver is argue about payroll.
 
 This is not how romance novels work.
 
-Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor in four columns.
+Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with thirteen days of retained labor in four columns.
 
 Yet here we are.
 
@@ -21548,7 +21496,9 @@ Smart man.
 
 I read.
 
-Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe upstairs so I could point at it from bed.
+Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe to the kitchen table so I could point at it with my foot on a stool.
+
+The expedition days and Day Eighteen are crossed through as already paid. This sheet begins with the first recovery morning and ends yesterday. Today is settlement and release, with no new assignment.
 
 The agreement should have been rewritten.
 
@@ -21560,19 +21510,19 @@ Nobody tries to pretend otherwise.
 
 At the bottom, Pell has written the part I care about.
 
-Twelve days.
+Thirteen days.
 
 Eight bits each.
 
-Ninety-six bits.
+One hundred and four bits.
 
-Twelve pieces.
+Thirteen pieces.
 
 I read it twice.
 
 Then a third time, because getting transported to another world has not cured me of expecting paperwork to bite.
 
-“The medical days count?”
+“Both rest entries count?”
 
 “You remained under my instruction and unavailable for other work because of an injury sustained during this work,” Pell says. “You were also consulted on both days.”
 
@@ -21612,7 +21562,7 @@ I do not touch it yet.
 
 “Room?”
 
-“Covered through today under the continued work arrangement.”
+“Covered through today under the unused return-passage provision.”
 
 “Food?”
 
@@ -21690,7 +21640,7 @@ Mara is writing now.
 
 Fast.
 
-Pell rubs one hand over his mouth.
+Pell rubs one hand over her mouth.
 
 “You came here with six bits.”
 
@@ -21722,17 +21672,17 @@ Pell names a price.
 
 I counter.
 
-He names another.
+She names another.
 
 I point out the room is above a kitchen and the west shutter sticks in rain.
 
-He points out I have personally put three new gouges in the floor with shield fittings.
+She points out I have personally put three new gouges in the floor with shield fittings.
 
 I blame the shield.
 
 The shield is not present to defend itself.
 
-We settle at twenty-eight bits for four weeks, including a locked storage chest in the records annex while I am traveling.
+We settle at twenty-eight bits in cash after the unused return fare is credited: four weeks, including a locked storage chest in the records annex while I am traveling.
 
 Mara adds the property language.
 
@@ -21742,7 +21692,7 @@ Then I sign.
 
 Only then do I open the purse.
 
-Twelve pieces.
+Thirteen pieces.
 
 I count them.
 
@@ -21756,7 +21706,7 @@ Pell watches.
 
 “Yes.”
 
-He nods once.
+She nods once.
 
 Fair.
 
@@ -22052,9 +22002,9 @@ Vey answers.
 
 “There is a caravan leaving Greyward in six days,” Pell says.
 
-I look at him.
+I look at her.
 
-He looks too innocent.
+She looks too innocent.
 
 Suspicious.
 
@@ -22172,7 +22122,7 @@ I look at Tolliver.
 
 He has not asked to come.
 
-“Are you free in six days?”
+“Are you free to leave in four days?”
 
 “Yes.”
 
@@ -22350,7 +22300,7 @@ I catch it.
 
 My ankle holds.
 
-Mara cleared me.
+The mender cleared me.
 
 I still test the weight before trusting it.
 
@@ -22684,7 +22634,7 @@ Tolliver watches the ink dry.
 
 “Six days,” he says.
 
-“Five. I want to reach Greyward early and see Ordway.”
+“Four. Two days on the cart. I want to reach Greyward before the caravan leaves and see Ordway.”
 
 His eyebrows lift.
 
@@ -22728,7 +22678,7 @@ None of those things are mine yet.
 
 I fold the contract and tuck it into my notebook.
 
-Five days from now I will leave Rook.
+Four days from now I will leave Rook.
 
 Not because someone bought my service before I understood the terms.
 

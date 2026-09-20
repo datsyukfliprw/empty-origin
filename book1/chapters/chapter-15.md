@@ -328,7 +328,7 @@ He has propped his board against it. There are two words.
 
 *Still here.*
 
-Mara presses her hand over her mouth. Then she takes the first sheet of her sons’ letter and begins.
+Mara presses her hand over her mouth. Then she takes the first sheet of her nephews’ letter and begins.
 
 It takes nearly an hour.
 

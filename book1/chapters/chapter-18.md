@@ -24,7 +24,7 @@ The green shield is narrower, wood faced in hide, with a metal strip around the 
 
 “Three pieces, fitted,” she says. “Pell approved the stores sale. Yours afterward.”
 
-Twenty-four bits. I count out the three pieces.
+Twenty-four bits.
 
 “Can you do two?”
 

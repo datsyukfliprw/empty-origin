@@ -28,6 +28,14 @@ He was here long enough to mend a shirt.
 
 We are going to fix that.
 
+Down at the near ledge, without the sleeve and its bend between us, Dain says Iven’s name.
+
+“Yes, I heard you the first time.”
+
+His voice. Thin, but ordinary.
+
+Dain makes him repeat a number, then answers one of his. We keep the slates ready for the gallery and for when the opening narrows.
+
 Harra says, “Pressure?”
 
 Dain answers from the lower gauge.
@@ -76,7 +84,7 @@ Oret watches the spring housing.
 
 Dain monitors stone.
 
-Mara is above with Pell and the treatment kit because she lost the argument about coming lower.
+The mender waits above with her treatment kit. Mara is beside Pell, furious about losing the argument to come lower.
 
 Rusk’s witness waits at the upper works beside Vey.
 
@@ -618,7 +626,7 @@ I can stand.
 
 I do.
 
-Mara cannot see me.
+The mender cannot see me.
 
 This is not why.
 

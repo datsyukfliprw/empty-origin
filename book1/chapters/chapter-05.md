@@ -88,7 +88,7 @@ The warden reads my three lines. I can feel him doing it. I have never in my lif
 
 Skell’s. Fever. A dead clerk. I stare at the side of Tolliver’s jaw. He speaks without hesitation, and I try to make my face look like the face of someone who knows those people.
 
-The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the strip of shirt gone black around my foot. “She got no shoes.”
+The warden’s mouth works. He looks at me again, at the coat, at the shorts under it, at the darkened wrapping around my foot. “She got no shoes.”
 
 “No.”
 

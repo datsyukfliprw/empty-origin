@@ -626,9 +626,7 @@ Then she puts a second sheet on the table.
 
 A new contract.
 
-Two days.
-
-Recovery expedition.
+Two days, beginning tomorrow. Recovery expedition. Eight bits a day for me, twelve for Sella, ten for Tolliver.
 
 Same room and food protection if we return late.
 

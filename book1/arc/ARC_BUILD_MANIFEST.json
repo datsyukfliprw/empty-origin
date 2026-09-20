@@ -1,0 +1,234 @@
+{
+  "title": "The Unheld Warder",
+  "revision": "2026-09-19",
+  "source_sha256": "9e202c70ad94ad5ec4b99197e7fbcf3ea1d0a4b577d9a127e6fc6c5be4e6f1c5",
+  "chapter_count": 32,
+  "whitespace_word_count": 100303,
+  "epub_sha256": "47cf4d1639eb128e57da2a488bda260fcdafcd5923a8c6b44510d04a395c0dc7",
+  "chapters": [
+    {
+      "chapter": 1,
+      "path": "book1/chapters/chapter-01.md",
+      "sha256": "1252dedca221813ef13538d5e48df68fa62d796acb4cb49326257c3b80bf6048",
+      "words": 3867,
+      "scene_breaks": 0
+    },
+    {
+      "chapter": 2,
+      "path": "book1/chapters/chapter-02.md",
+      "sha256": "bfd21e2eccd743ff7f72486a4830db5aff55d75b6468881d4eecb53f32219bd4",
+      "words": 2045,
+      "scene_breaks": 0
+    },
+    {
+      "chapter": 3,
+      "path": "book1/chapters/chapter-03.md",
+      "sha256": "e02687d35f825f8254f729493f6a8839cce04706ed3c08d1721624e3b4aa1c67",
+      "words": 1605,
+      "scene_breaks": 0
+    },
+    {
+      "chapter": 4,
+      "path": "book1/chapters/chapter-04.md",
+      "sha256": "6cdae1a4a1a504783464f9622d0b790443986e5b1be8df2b189ad7727a02d48b",
+      "words": 2334,
+      "scene_breaks": 0
+    },
+    {
+      "chapter": 5,
+      "path": "book1/chapters/chapter-05.md",
+      "sha256": "54f654452c499d5c267841ed03381f14df4af73abbf31c1a297e466964071c13",
+      "words": 2549,
+      "scene_breaks": 0
+    },
+    {
+      "chapter": 6,
+      "path": "book1/chapters/chapter-06.md",
+      "sha256": "86b50d74d8d4ba94030bba6ef3c541fe4a00195b19bf88c0f90b6be345362393",
+      "words": 4235,
+      "scene_breaks": 3
+    },
+    {
+      "chapter": 7,
+      "path": "book1/chapters/chapter-07.md",
+      "sha256": "94668c4e1216468cf1ebc852d6432948cc0d21944f6ce3b5018cf1aee272f799",
+      "words": 3606,
+      "scene_breaks": 2
+    },
+    {
+      "chapter": 8,
+      "path": "book1/chapters/chapter-08.md",
+      "sha256": "77ad60f9bf1db18278dc73c1e291184eb7f643d5a675c4f2b2c46cc10e8efd9c",
+      "words": 4066,
+      "scene_breaks": 3
+    },
+    {
+      "chapter": 9,
+      "path": "book1/chapters/chapter-09.md",
+      "sha256": "c20e2e7e21d45482b53233d35929695aa9234bacccef2b9c4b293a2a1ae674e7",
+      "words": 3325,
+      "scene_breaks": 3
+    },
+    {
+      "chapter": 10,
+      "path": "book1/chapters/chapter-10.md",
+      "sha256": "d43be85286a04eef4b475813ba83936280717c32ad34155c5fb09e2c9f5b6f59",
+      "words": 4295,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 11,
+      "path": "book1/chapters/chapter-11.md",
+      "sha256": "019528061d4ea3520c3a78205761e20df1c8c82d5da84b42aca167bdda37a053",
+      "words": 2769,
+      "scene_breaks": 3
+    },
+    {
+      "chapter": 12,
+      "path": "book1/chapters/chapter-12.md",
+      "sha256": "27ff2257a0d0e50d89c9e7adf4b16e2ea06ca245b84517f091449a2139f921c7",
+      "words": 3892,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 13,
+      "path": "book1/chapters/chapter-13.md",
+      "sha256": "3cf45c23fa597ff0145c03e6f1849aabe1152446b471443ce5232bc33e345ebf",
+      "words": 2754,
+      "scene_breaks": 4
+    },
+    {
+      "chapter": 14,
+      "path": "book1/chapters/chapter-14.md",
+      "sha256": "76b7db6b708f2d4e3d89bf8ceca3b75786cba45cc07df59ff7f44fb015a3a20d",
+      "words": 2788,
+      "scene_breaks": 6
+    },
+    {
+      "chapter": 15,
+      "path": "book1/chapters/chapter-15.md",
+      "sha256": "ed48209133e2cd599c523cb69109108ae8f34d240d3be167a6573abe48e487cb",
+      "words": 3900,
+      "scene_breaks": 7
+    },
+    {
+      "chapter": 16,
+      "path": "book1/chapters/chapter-16.md",
+      "sha256": "0bce9c1328a5b2b5505ce14714ae942e9af35ceb2adf468f55ac52f3b193aad5",
+      "words": 1890,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 17,
+      "path": "book1/chapters/chapter-17.md",
+      "sha256": "cf4de9274604dbcf6a668f7fd5bfe532eb5189eb50559c44976aabadde030481",
+      "words": 1670,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 18,
+      "path": "book1/chapters/chapter-18.md",
+      "sha256": "36f73a43b68921110df7274b86169799f249f514fd50f1428a3bf6141ad243ad",
+      "words": 3937,
+      "scene_breaks": 6
+    },
+    {
+      "chapter": 19,
+      "path": "book1/chapters/chapter-19.md",
+      "sha256": "9dab9a82d8bebf8ce846bb312d66b9905f5760d4d5f801e3053c46da60a622d1",
+      "words": 5217,
+      "scene_breaks": 13
+    },
+    {
+      "chapter": 20,
+      "path": "book1/chapters/chapter-20.md",
+      "sha256": "bec35ad437f43a2ee04c63d98c1bb99dbaf00fc52715e9abd36bb8c2df3312c9",
+      "words": 2252,
+      "scene_breaks": 8
+    },
+    {
+      "chapter": 21,
+      "path": "book1/chapters/chapter-21.md",
+      "sha256": "94cdd70d83c30ff9fcc43f1ba177ca15c86a0cb5c8a39f5d3089adbb5170068b",
+      "words": 3219,
+      "scene_breaks": 9
+    },
+    {
+      "chapter": 22,
+      "path": "book1/chapters/chapter-22.md",
+      "sha256": "8610c587327e574d49583f56119473acae78a781d31c2816fde3138f8b667cf5",
+      "words": 2394,
+      "scene_breaks": 14
+    },
+    {
+      "chapter": 23,
+      "path": "book1/chapters/chapter-23.md",
+      "sha256": "d2314918a7cb36a791ba3c8764597ade1263678a23a200041f81012ce5ea8292",
+      "words": 2299,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 24,
+      "path": "book1/chapters/chapter-24.md",
+      "sha256": "8499bb6f2db5d88938d00d6be38486b8804d252d866fcf3139887c1b44d9cff5",
+      "words": 2739,
+      "scene_breaks": 8
+    },
+    {
+      "chapter": 25,
+      "path": "book1/chapters/chapter-25.md",
+      "sha256": "5c999ccf1d2913678ad4132163892b88564a46db218588b15646200c6b66447c",
+      "words": 3363,
+      "scene_breaks": 10
+    },
+    {
+      "chapter": 26,
+      "path": "book1/chapters/chapter-26.md",
+      "sha256": "ec68f5915fd37a69ad475caafb6c4492642ac97dc3c9bdf9242a13cffc736e03",
+      "words": 4334,
+      "scene_breaks": 9
+    },
+    {
+      "chapter": 27,
+      "path": "book1/chapters/chapter-27.md",
+      "sha256": "6b7a36a585a011a5ace8c6c5471c36dc15c3cf07bc86d92d9576882f609f890b",
+      "words": 2801,
+      "scene_breaks": 8
+    },
+    {
+      "chapter": 28,
+      "path": "book1/chapters/chapter-28.md",
+      "sha256": "e87145857a8001f5c12de518764f86e0e7aa3e4951553df0eb2e51bf9bb3d94f",
+      "words": 2734,
+      "scene_breaks": 5
+    },
+    {
+      "chapter": 29,
+      "path": "book1/chapters/chapter-29.md",
+      "sha256": "916896c307ca3e62cc8601373b7fe3e017599a22b5b3ef6833f712f7a41f04e9",
+      "words": 2887,
+      "scene_breaks": 7
+    },
+    {
+      "chapter": 30,
+      "path": "book1/chapters/chapter-30.md",
+      "sha256": "dd0c4f3883abb24b6d90034ed383132752dbb0f8b98c4e332f6f738252ff51ad",
+      "words": 2896,
+      "scene_breaks": 2
+    },
+    {
+      "chapter": 31,
+      "path": "book1/chapters/chapter-31.md",
+      "sha256": "5e74967df6561067078b69ab8c127739d3f3520ce6e3e48b7144abf9ec5385c1",
+      "words": 4051,
+      "scene_breaks": 1
+    },
+    {
+      "chapter": 32,
+      "path": "book1/chapters/chapter-32.md",
+      "sha256": "e369b0d8d103fc581d549974325d6e699dab99d563a41506274671c544e899ca",
+      "words": 3590,
+      "scene_breaks": 2
+    }
+  ]
+}
