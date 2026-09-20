@@ -1,0 +1,11 @@
+{
+  "renderer": "Chromium set_content, extracted EPUB XHTML with package CSS injected",
+  "chapter_layout_checks": 64,
+  "viewport_widths": [
+    320,
+    768
+  ],
+  "horizontal_overflow_failures": 0,
+  "navigation_href_for_chapter_32": "pass",
+  "actual_reading_devices_tested": false
+}

@@ -1,0 +1,29 @@
+{
+  "chapters": 32,
+  "word_count": 100303,
+  "compiled_matches_canonical": true,
+  "source_sha256": "9e202c70ad94ad5ec4b99197e7fbcf3ea1d0a4b577d9a127e6fc6c5be4e6f1c5",
+  "unchanged_chapters": [
+    "chapter-01.md",
+    "chapter-02.md",
+    "chapter-03.md",
+    "chapter-04.md",
+    "chapter-07.md",
+    "chapter-08.md",
+    "chapter-09.md",
+    "chapter-11.md",
+    "chapter-12.md",
+    "chapter-13.md",
+    "chapter-16.md",
+    "chapter-17.md",
+    "chapter-19.md"
+  ],
+  "system_displays_preserved": 97,
+  "scene_breaks_preserved": 158,
+  "targeted_residual_checks": "pass",
+  "epub_xml_manifest_spine_navigation_and_text": "pass",
+  "pdf_all_chapter_text_and_32_bookmarks": "pass",
+  "pdf_page_geometry": "pass",
+  "pdf_pages": 433,
+  "note": "Structural checks are not an EPUBCheck run or an actual Kindle/Apple Books device test. Visual inspection is recorded separately."
+}
