@@ -34,9 +34,9 @@ The words come sharply. She shuts her eyes.
 
 “I know,” she says again, quieter.
 
-We sit until a clerk arrives with paper. Mara sets out a ruler and ink and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
+A clerk brings paper. Mara shows me how to keep the copying sheet from sliding, and the ordinary instructions make it possible to start.
 
-I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena’s signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
+I copy the records, including the crossed-out sentence and the six English words. By the time my hand cramps, I am finished.
 
 At the door she says, “He had two sons.”
 
@@ -140,7 +140,7 @@ I point to his name in local script, followed by an English note.
 
 He makes a small sound through his nose.
 
-For the next hour he helps us separate things Elena measured from things she guessed. I read each page aloud in pieces, and Mara writes the local version. I keep my own notes and check the copies against each other. It is slow work, but it is work I can do, and that steadies me.
+For the next hour he helps us separate what Elena measured from what she guessed while Mara records the local version. The work is slow, exact, and useful enough to steady me.
 
 There is no welcome message for the next person from Earth. No explanation of how to get here or how to leave. Elena has recorded wages in the back, crossed out a shopping list, and spent nearly half a page trying to describe coffee to someone who recommended burnt barley.
 
