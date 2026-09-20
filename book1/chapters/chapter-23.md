@@ -260,41 +260,7 @@ Tolliver adds, "Me."
 
 Three heads turn toward me. My ankle contributes its opinion with a dull pulse from yesterday's stairs.
 
-The mender arrives twenty minutes later and dislikes the plan with admirable consistency.
-
-"No field."
-
-"The annex isn't a field."
-
-"It is farther than the field."
-
-"There may be floors."
-
-"That is worse."
-
-"What if I ride?"
-
-"No."
-
-"What if somebody carries me?"
-
-Tolliver's eyes flick toward me.
-
-I point at him. "Do not."
-
-"I didn't say anything."
-
-"You were thinking structurally."
-
-The mender makes me stand, walk, rise onto my toes, turn, and walk again. The ankle is stiff rather than swollen, and when she presses along the outside the pain is less than yesterday. Harra explains the route: upper annex only, no flooded gallery, no load carrying, no jumping unless the building develops a personal grudge and retreat becomes interesting.
-
-The mender closes her eyes for a moment.
-
-"One controlled walk. Brace. Stick. Somebody else carries your equipment. At the first sharp increase in pain, instability, or swelling, you turn back."
-
-"That sounds like permission."
-
-"It is permission with conditions."
+The mender arrives twenty minutes later and dislikes the plan with admirable consistency. After making me walk, turn, and rise onto my toes, she grudgingly allows one controlled trip: brace, stick, no load carrying, somebody else handles my equipment, and any sharp increase in pain or instability sends me back.
 
 "My shield?"
 
@@ -308,15 +274,9 @@ Sella pats my knee. I consider our relationship under review.
 
 ---
 
-We define the expedition before anyone packs, because I have developed a deep suspicion of plans invented while standing in dangerous places.
+We define the expedition before anyone packs. Harra needs one of three things: a tempered return shoe, spring stock long enough to forge one, or a maintenance specification that gives her another answer. Anything else stays where it is unless we need it to get out.
 
-Harra needs one of three things: a tempered return shoe from an intact isolation shutter, a spring strip long enough to forge one, or an old maintenance specification that gives her another material and shape. Anything else stays where it is unless we need it to get out.
-
-Vey looks physically pained by this rule.
-
-The rest is familiar enough that Dain does not make us recite a page of procedure. My ankle gets one stop and recheck if it worsens; sharp pain or instability sends me back with one person. If a marked floor section moves, if we lose a secure route to the entrance, or if we find fresh occupation, we leave. My reserve does not drop below two while I am on the active route.
-
-Harra adds one condition herself.
+The retreat rules are familiar now: worsening ankle, lost route, moving floor, fresh occupation, or reserve below two means leave. Harra adds one condition herself.
 
 "If we hear repeated heavy movement we cannot identify, we do not follow it."
 
@@ -350,7 +310,7 @@ I keep my mouth shut. Sella looks disappointed anyway.
 
 We leave after midday for the old maintenance shelter below the annex, planning to enter the works at first light.
 
-Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries taken inside the works count as job injuries under the house terms. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
+Before we go, Pell pays the current extension and puts a two-day expedition contract on the table at our existing rates and house terms. Job injuries are covered; rescue components belong to Rook until Iven is out; personal finds get declared before division.
 
 Then comes the line I read twice.
 
