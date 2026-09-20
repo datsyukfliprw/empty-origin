@@ -218,7 +218,7 @@ I pull the parcel closer without opening it, making myself remember to ask her i
 
 The word comes quickly enough to hurt.
 
-“Then why did she—“
+“Then why did she—”
 
 “Because people believe plates. A word can be changed. A wage dispute can’t be wished away when a house comes to collect. She didn’t know what was underneath yours.”
 
@@ -448,7 +448,7 @@ He takes his hand away.
 
 “I haven’t taught many people who started at nineteen.”
 
-“How old were you? When you learned.”
+“How old were you? When you learned?”
 
 “Six. My mother put a basket in my hands and kept adding turnips.”
 
