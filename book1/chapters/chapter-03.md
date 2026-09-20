@@ -2,7 +2,7 @@ CHAPTER THREE
 
 He stops farther out than he needs to.
 
-He stays about fifteen feet away, hands loose at his sides. Rain falls between us. I have one hand against a trunk, and when I try to shift my weight the cut opens again.
+He stays about fifteen feet away, hands loose at his sides. Water falls between us. I have one hand against a trunk, and when I try to shift my weight the cut opens again.
 
 He looks at my foot.
 
