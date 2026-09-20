@@ -64,7 +64,7 @@ We wait.
 
 The first dropped stone lifts halfway.
 
-A knocker's head appears beneath it.
+A knocker’s head appears beneath it.
 
 Then another.
 
@@ -110,13 +110,13 @@ The floor under the door trembles.
 
 Sella puts two fingers against the stone.
 
-“They're coming toward the vibration.”
+“They’re coming toward the vibration.”
 
 “So opening the door rings dinner,” I say.
 
 Tolliver glances down the corridor.
 
-“They already know we're here.”
+“They already know we’re here.”
 
 “Knowing and being invited are different.”
 
@@ -136,9 +136,9 @@ We all look at her.
 
 She shrugs.
 
-“They're stupid enough to live under floors.”
+“They’re stupid enough to live under floors.”
 
-Harra's expression becomes thoughtful.
+Harra’s expression becomes thoughtful.
 
 Tolliver unhooks the small hammer from his pack.
 
@@ -646,7 +646,7 @@ Tolliver looks at the furnace.
 
 He reaches for his bow.
 
-“Arrow won't stop that.”
+“Arrow won’t stop that.”
 
 “I know.”
 
@@ -892,7 +892,7 @@ Pain flashes up my ankle.
 
 I make a sound I will deny later.
 
-Tolliver's hand closes on the brake.
+Tolliver’s hand closes on the brake.
 
 The trolley stops.
 
@@ -972,7 +972,7 @@ Not quickly.
 
 We need a secured place while she works.
 
-The old foreman's office has one door, stone walls and no floor seams.
+The old foreman’s office has one door, stone walls and no floor seams.
 
 Harra checks the ceiling.
 
@@ -1042,7 +1042,7 @@ I know who she means.
 
 “Yes.”
 
-“He didn't before.”
+“He didn’t before.”
 
 “No.”
 
@@ -1056,7 +1056,7 @@ Heat moves up my neck.
 
 “Then why are we doing this?”
 
-“Because later you will pretend you didn't notice.”
+“Because later you will pretend you didn’t notice.”
 
 I open my mouth.
 
@@ -1102,7 +1102,7 @@ She looks at the door.
 
 Then back at me.
 
-“I don't need an answer today.”
+“I don’t need an answer today.”
 
 My chest tightens.
 
@@ -1126,7 +1126,7 @@ She gives it.
 
 “I know.”
 
-“And I don't know what he is.”
+“And I don’t know what he is.”
 
 “I know.”
 
@@ -1220,13 +1220,13 @@ We exit near dusk.
 
 The spill gallery opens onto the ridge above the entrance.
 
-Tolliver carries Harra's pack.
+Tolliver carries Harra’s pack.
 
 Harra carries the return shoe wrapped against her chest.
 
 Sella carries my pack.
 
-I carry myself with one arm over Tolliver's shoulder because there are limits to principle and my ankle has reached one.
+I carry myself with one arm over Tolliver’s shoulder because there are limits to principle and my ankle has reached one.
 
 He asked first.
 
