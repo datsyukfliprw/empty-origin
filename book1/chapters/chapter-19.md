@@ -602,7 +602,7 @@ She closes her mouth. For a moment I see how tired he is. He already paid for th
 
 Rusk checks the invoice and goes with Vey to inspect the bales. Pell sends the clerk for the six pieces. When the captain returns, a tuft of blue wool is caught on her cuff.
 
-Mara reads the new paper. No custody. No exclusive access. Two days to shore and lift the drainage throat, materials supplied by Rook. The old iron claim remains disputed; this payment does not settle it.
+Mara reads the new paper aloud: two days to shore and lift the drainage throat, materials supplied by Rook, with no custody or exclusive access. The old iron claim remains disputed; this payment does not settle it.
 
 Rusk counts the deposit into her purse. Vey signs against his bales. Pell signs beneath him.
 
