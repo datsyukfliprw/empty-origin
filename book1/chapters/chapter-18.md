@@ -158,7 +158,7 @@ We walk it first.
 
 On the next attempt I watch the ground instead of her hand.
 
-Sella presses straight into the center this time. I choose the patch of ground, let the front foot slide forward, and follow the pressure instead of her hand. Two points leave me. The shield stays where I intended while my weight moves beneath it.
+Sella presses straight into the center this time. I choose the patch of ground, step the front foot forward, and follow the pressure instead of her hand. Two points leave me. The shield stays where I intended while my weight moves beneath it.
 
 One breath. Foot settles.
 
@@ -254,7 +254,7 @@ She puts the roots back into her sack. It takes longer than pouring them out.
 
 Sella sends her answer east that afternoon.
 
-I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. No dramatic gallop. Still, it feels as though a road has closed under my feet.
+I see her at the carrier’s cart while I am taking the copied contact sheets to Mara. She gives the driver a folded note, tells him which warehouse office, and waits while he repeats it. A routine message leaving with the house dispatches. I watch the cart go through the gate. Five days ago that note would have carried her toward a job; now it closes one.
 
 When she turns, I am still standing there.
 
@@ -378,7 +378,7 @@ The answer comes out too fast. I make myself breathe.
 
 “Yes,” I say again. “Very.”
 
-Something in her face loosens, as though she has been holding a door open and waiting to know whether I meant to walk through it.
+Her shoulders ease. She had been waiting for the second answer.
 
 I catch the front of her tunic and pull her back to me.
 
@@ -408,11 +408,9 @@ Getting undressed is less graceful than I imagined. My skirt catches under me. H
 
 Then her tunic is on the floor.
 
-I have seen women naked before. Locker rooms. Bedrooms. Ordinary bodies when nobody is trying to make them mean anything.
+I have seen women naked before. Locker rooms. Bedrooms. Ordinary bodies I could look at without forgetting where my hands were.
 
-This is not that.
-
-Sella watches me watching her. There is no embarrassment in it, but there is attention. A question she is letting me answer without words.
+Sella watches me watching her, and suddenly I have no idea where to put mine. She doesn’t look embarrassed. She looks attentive, waiting.
 
 I put my hand on her breast.
 
@@ -488,7 +486,7 @@ When I grab her wrist, she stops immediately.
 
 She does.
 
-The pressure builds slowly enough that I feel every part of it. My body gathers around her hand. My thoughts narrow until there is nothing left to rationalize, nothing to compare, nothing to be useful for.
+The pressure builds slowly enough that I feel every part of it. My body gathers around her hand. My thoughts finally stop skittering. I can feel her hand, her mouth at my breast, the sheet twisted in my fist, and I don’t have to do anything except stay with it.
 
 I come with my face turned into her neck, biting down on a sound that escapes anyway.
 
