@@ -568,7 +568,7 @@ The words came through cleanly. I repeat them in my head, waiting for the rest o
 
 He waits. I shift my weight, and his eyes follow the movement. I wish he would ask something else.
 
-“What do you run,” he says again, identical, no help added.
+“What do you run?” he says again, identical, no help added.
 
 “I don’t understand the question.”
 
@@ -1618,7 +1618,7 @@ I pull the parcel closer without opening it, making myself remember to ask her i
 
 The word comes quickly enough to hurt.
 
-“Then why did she—“
+“Then why did she—”
 
 “Because people believe plates. A word can be changed. A wage dispute can’t be wished away when a house comes to collect. She didn’t know what was underneath yours.”
 
@@ -1848,7 +1848,7 @@ He takes his hand away.
 
 “I haven’t taught many people who started at nineteen.”
 
-“How old were you? When you learned.”
+“How old were you? When you learned?”
 
 “Six. My mother put a basket in my hands and kept adding turnips.”
 
@@ -2390,7 +2390,7 @@ His hands stay where they are.
 
 “That I didn’t agree to belong to anybody.”
 
-“I told you—“
+“I told you—”
 
 “I know what you told me. I want the book to tell it too.”
 
@@ -2715,7 +2715,7 @@ Vey looks toward the gate road. For the first time, his afternoon seems to have 
 
 “I’m staying tonight,” I tell him. “I can meet you at the tavern afterward. If you have a short agreement for reading, bring that. If you only have this, don’t.”
 
-“Maya—“ Tolliver begins.
+“Maya—” Tolliver begins.
 
 “Are you coming to the gatehouse?”
 
