@@ -4,7 +4,7 @@ CHAPTER ELEVEN
 
 Vey pulls his chair nearer the table. A man behind him laughs at something, loud enough to make me hate him for half a second.
 
-“Iven Orrel. A sluicewright in the house's employ.”
+“Iven Orrel. A sluicewright in the house’s employ.”
 
 “Did you know him?”
 
@@ -12,7 +12,7 @@ Vey pulls his chair nearer the table. A man behind him laughs at something, loud
 
 “What happened?”
 
-“I wasn't below with them.”
+“I wasn’t below with them.”
 
 “Then start where you were.”
 
@@ -22,9 +22,9 @@ He looks at the tracing beneath my hand.
 
 “The second gate?”
 
-“I don't know what she called them. They had stopped the inner wheel by the time I arrived.”
+“I don’t know what she called them. They had stopped the inner wheel by the time I arrived.”
 
-“Why wouldn't they open it?”
+“Why wouldn’t they open it?”
 
 “Because the man who worked it had just lost someone.”
 
@@ -32,7 +32,7 @@ I lift my hand off the paper. There is a damp print where my palm was.
 
 Vey takes a slow breath.
 
-“She said Iven was on a stair. There was no stair on the works plan. She wanted the wheel turned to a particular position so she could go back for him. The foreman refused. They'd had water rising in a chamber that should have been drained. His first duty was to the people he could still reach.”
+“She said Iven was on a stair. There was no stair on the works plan. She wanted the wheel turned to a particular position so she could go back for him. The foreman refused. They’d had water rising in a chamber that should have been drained. His first duty was to the people he could still reach.”
 
 “What did you do?”
 
@@ -68,27 +68,27 @@ For a moment I have nothing to say.
 
 The common room carries on around us. I had been ready to drag the admission out of him. Instead he sits there waiting while I unclench my teeth.
 
-“You don't get credit for saying that now.”
+“You don’t get credit for saying that now.”
 
-“I wasn't asking for it.”
+“I wasn’t asking for it.”
 
 “Then why say it?”
 
 “Because Dain will tell you tomorrow.”
 
-I look up. Vey's face has gone red above the collar.
+I look up. Vey’s face has gone red above the collar.
 
 “You could tell him not to.”
 
-“He wouldn't listen.”
+“He wouldn’t listen.”
 
-I fold the tracing along its old crease. Carefully. It belongs to a woman who tried to bring somebody back, or to a woman who made a terrible mistake and couldn't accept it. So far I have one man's account of both possibilities.
+I fold the tracing along its old crease. Carefully. It belongs to a woman who tried to bring somebody back, or to a woman who made a terrible mistake and couldn’t accept it. So far I have one man’s account of both possibilities.
 
 “Who can tell me what happened below?”
 
-“Only Elena could tell you all of it. Dain worked the wheel. He's still at Rook.”
+“Only Elena could tell you all of it. Dain worked the wheel. He’s still at Rook.”
 
-“And this Orrel man's family?”
+“And this Orrel man’s family?”
 
 “His sister is our keeper of records.”
 
@@ -98,13 +98,13 @@ I fold the tracing along its old crease. Carefully. It belongs to a woman who tr
 
 I lean back. My shoulder complains, a deep ache that travels down the outside of my arm.
 
-“Does she know you're bringing me?”
+“Does she know you’re bringing me?”
 
-“She knows I've hired a reader.”
+“She knows I’ve hired a reader.”
 
 “Does she know why you think I can read it?”
 
-“I sent word that you recognized the marks on Elena's card. Nothing about your origin.”
+“I sent word that you recognized the marks on Elena’s card. Nothing about your origin.”
 
 I repeat the wording silently so I can ask Mara tomorrow.
 
@@ -116,19 +116,19 @@ Vey reaches toward the folded tracing, then stops short of it.
 
 He gets up. Before he can leave, I ask the question that has been underneath all the others.
 
-“Do you think she's alive?”
+“Do you think she’s alive?”
 
 “I saw a woman leave with food, money, and a walking staff. She had learned a great deal in nine months.”
 
-“That's not an answer.”
+“That’s not an answer.”
 
-“No,” he says. “It isn't.”
+“No,” he says. “It isn’t.”
 
 ---
 
 Sella finds me beside the wash trough trying to get a strip of linen around my knuckles with my teeth.
 
-“You'll make those filthy.”
+“You’ll make those filthy.”
 
 “I rinsed them.”
 
@@ -138,7 +138,7 @@ I lower my hand.
 
 She takes the strip the wayhouse woman gave me and asks permission before inspecting the skin. The bleeding stopped hours ago. Water has softened the edges, and I have been bending my fingers to see if they hurt, which turns out to be an excellent way of keeping them that way.
 
-Sella wraps them loosely. The linen is included in the wayhouse's charge to Vey, according to the woman, who looked much less concerned about this expenditure than I did.
+Sella wraps them loosely. The linen is included in the wayhouse’s charge to Vey, according to the woman, who looked much less concerned about this expenditure than I did.
 
 “Does Brace work without a shield?” I ask.
 
@@ -158,7 +158,7 @@ I look toward the stable. Tolliver is helping Nessa shift a feed sack. He looks 
 
 “I read something about someone who went missing in water.”
 
-“A shield spreads pressure,” Sella says. “A rope puts it through your hands or whatever you've tied it to. Brace doesn't make your skin stronger. It doesn't make the thing behind your feet stronger. If you hold against more than either can take, something tears.”
+“A shield spreads pressure,” Sella says. “A rope puts it through your hands or whatever you’ve tied it to. Brace doesn’t make your skin stronger. It doesn’t make the thing behind your feet stronger. If you hold against more than either can take, something tears.”
 
 “Even if the hold works.”
 
@@ -170,19 +170,19 @@ She finishes the knot.
 
 I thank her. She accepts it with a brief nod and goes to check the shield straps before bed.
 
-Inside, the sleeping platform has been divided by bags and elbows into territories nobody admits to claiming. I take the space beside Sella's pack. My sack goes beneath my head, with the tooth holes facing the wall.
+Inside, the sleeping platform has been divided by bags and elbows into territories nobody admits to claiming. I take the space beside Sella’s pack. My sack goes beneath my head, with the tooth holes facing the wall.
 
 My mother keeps her needles in a tin with strawberries on the lid. Even after I knew the cookies were gone, I used to open it. The little paper packets of needles. A tape measure curled like something asleep.
 
-She could fix this sack in five minutes. She'd turn it inside out first and ask why I hadn't brought it over before the holes got so big.
+She could fix this sack in five minutes. She’d turn it inside out first and ask why I hadn’t brought it over before the holes got so big.
 
 I put my wrapped hand over my mouth.
 
 On Earth someone may be trying to find me. Liam heard me fall. He knows my first and last name. He knows Kansas City. I cannot remember whether I ever gave him my apartment number.
 
-I try to reconstruct every conversation we've had about food delivery until it does something ugly to my breathing.
+I try to reconstruct every conversation we’ve had about food delivery until it does something ugly to my breathing.
 
-Beside me, Sella turns over without waking. I count her breaths until I can match them. When I finally sleep, there is no forest in it. I dream of my phone ringing in a room I can't enter.
+Beside me, Sella turns over without waking. I count her breaths until I can match them. When I finally sleep, there is no forest in it. I dream of my phone ringing in a room I can’t enter.
 
 ---
 
@@ -192,11 +192,11 @@ My reserve is three out of four. I reach for my pack with the wrong arm and have
 
 At the first long stop she gives me a lesson against the side of an old stone cattle pen. Forearms against the wall, feet planted, no shield. She pushes my hip sideways with two fingers and makes my whole carefully arranged body useless.
 
-“You need to know when you've lost it,” she says. “Don't spend because you wanted the first stance to work.”
+“You need to know when you’ve lost it,” she says. “Don’t spend because you wanted the first stance to work.”
 
-We practice moving away, setting again, and admitting when I haven't got it. Nothing flashes or advances; by the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
+We practice moving away, setting again, and admitting when I haven’t got it. Nothing flashes or advances; by the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
 
-The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper's report that a temporary grate was fitted before dawn.
+The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper’s report that a temporary grate was fitted before dawn.
 
 The man lifts a hand in thanks and heads back along the bank. Near midday, the road rises. I see Rook House from the top.
 
@@ -216,7 +216,7 @@ A clerk checks names against a slate. I expose mine when asked. He looks from my
 
 The clerk writes it down.
 
-A woman shouts that if we leave the carts there, the meal wagon won't get through.
+A woman shouts that if we leave the carts there, the meal wagon won’t get through.
 
 We move the carts.
 
@@ -234,11 +234,11 @@ Vey introduces me while I obey. Mara waits through my last name, then asks me to
 
 I retrieve it.
 
-She lays Rook's copy beside mine. We compare them, including the additions about Elena and food on the return journey. The words match. Mara enters tomorrow as the first reading day if I choose to begin. Today is arrival, records, and a bed.
+She lays Rook’s copy beside mine. We compare them, including the additions about Elena and food on the return journey. The words match. Mara enters tomorrow as the first reading day if I choose to begin. Today is arrival, records, and a bed.
 
 Then she sets the agreement aside and opens the first book.
 
-“Elena's entry. Here.”
+“Elena’s entry. Here.”
 
 The script takes a moment to become meaning beneath her finger.
 
@@ -260,15 +260,15 @@ The looping M is ridiculous, big enough to be showing off. I love it immediately
 
 I laugh before I mean to. Mara looks at me, and I press my lips together.
 
-“No,” she says. “It was funny sometimes. She'd be furious to discover I'd made her solemn.”
+“No,” she says. “It was funny sometimes. She’d be furious to discover I’d made her solemn.”
 
-Vey moves toward the window. There isn't much space there. The room contains shelves from floor to ceiling, with bundles tied in cloth and little bone tags hanging off the knots. It smells of dust and damp wool.
+Vey moves toward the window. There isn’t much space there. The room contains shelves from floor to ceiling, with bundles tied in cloth and little bone tags hanging off the knots. It smells of dust and damp wool.
 
 Mara turns several pages in a thinner volume.
 
 “Departure.”
 
-Elena's name. A date eight months and twenty-six days after the entry, Mara explains when I cannot make useful sense of the local month names. Level nine. Trial converted to day hire during the first month. Wages settled. Departed by west gate with a pack and staff. No continuing service claim.
+Elena’s name. A date eight months and twenty-six days after the entry, Mara explains when I cannot make useful sense of the local month names. Level nine. Trial converted to day hire during the first month. Wages settled. Departed by west gate with a pack and staff. No continuing service claim.
 
 “Four years ago?”
 
@@ -300,17 +300,17 @@ I turn back to Mara.
 
 “Released to her. Most personal effects. The card was held with the items whose relation to her survey we could not establish.”
 
-“It's identification.”
+“It’s identification.”
 
 “I know that now. At the time she called it that, and we had no means of reading it.”
 
 “She told you what it was.”
 
-Mara's stained finger rests on the page.
+Mara’s stained finger rests on the page.
 
 “Yes.”
 
-I want an explanation that makes it acceptable. She doesn't offer one.
+I want an explanation that makes it acceptable. She doesn’t offer one.
 
 “The dispute is still open?”
 
@@ -320,7 +320,7 @@ I want an explanation that makes it acceptable. She doesn't offer one.
 
 “It never left her name.”
 
-“Make sure it doesn't.”
+“Make sure it doesn’t.”
 
 Mara draws a narrow slip toward her and writes a note. I cannot tell whether she agrees with me or is merely competent enough to record a complaint.
 
@@ -328,15 +328,15 @@ The closure book is last.
 
 South sluice. Lower works barred following loss of Iven Orrel. Access to inner mechanism prohibited pending examination. Outlet secured; surface water to be carried by bypass. Authorizing signatures follow.
 
-Master Vey's is the second.
+Master Vey’s is the second.
 
 Above them is a short account. Rising water. Loss of visibility. Elena returning along the service passage. Iven unrecovered. Search instructions. Attached witness statements, three in all.
 
 Mara lays them out.
 
-Dain's says the inner wheel moved farther than ordered after a retaining tooth failed. He could not restore it immediately under load. Elena came back during the attempt. By the time he brought the wheel to its prior mark, she was demanding that he open it again.
+Dain’s says the inner wheel moved farther than ordered after a retaining tooth failed. He could not restore it immediately under load. Elena came back during the attempt. By the time he brought the wheel to its prior mark, she was demanding that he open it again.
 
-“So it wasn't just somebody deciding to try a door.”
+“So it wasn’t just somebody deciding to try a door.”
 
 “No,” Mara says.
 
@@ -346,7 +346,7 @@ Dain's says the inner wheel moved farther than ordered after a retaining tooth f
 
 The second statement belongs to someone on the bank who heard shouting and helped Elena out. It confirms very little beyond how wet she was and that her hands were bleeding.
 
-The third has been written in local script by Mara, with Elena's signature at the bottom.
+The third has been written in local script by Mara, with Elena’s signature at the bottom.
 
 I read it twice.
 
@@ -362,13 +362,13 @@ Near the bottom, another sentence has been crossed through once, still readable.
 
 “Why?”
 
-“Because I couldn't get her to describe the lights. I thought she'd struck her head.”
+“Because I couldn’t get her to describe the lights. I thought she’d struck her head.”
 
 “Did she?”
 
 “The mender found no wound there.”
 
-I look at Mara. Her mouth is pressed flat, but she doesn't look away.
+I look at Mara. Her mouth is pressed flat, but she doesn’t look away.
 
 “I left the words legible,” she says.
 
@@ -388,13 +388,13 @@ Outside, somebody rolls a barrel over the stones. The hollow bumps reach us thro
 
 “Yes. The clerk will bring paper. Originals stay here.”
 
-I sit. My feet are grateful enough to distract me for a moment. Then I realize there is a fourth sheet tucked behind Elena's statement.
+I sit. My feet are grateful enough to distract me for a moment. Then I realize there is a fourth sheet tucked behind Elena’s statement.
 
 It is only a scrap. Six words, written in English, the pen pressed hard enough to tear the paper in one place.
 
 *He was still pulling his end.*
 
-I don't know what noise I make.
+I don’t know what noise I make.
 
 Mara reaches across the table, then stops before touching me.
 
