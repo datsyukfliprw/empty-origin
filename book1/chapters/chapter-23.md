@@ -32,7 +32,7 @@ I found it last night while copying the test marks.
 
 The near anchor did not move. The chain did not slip. The frame did not fail because we pulled too late.
 
-But the vibration line on Dain's board begins before the far pin catches.
+But the vibration line on Dain’s board begins before the far pin catches.
 
 A little shiver in the stone.
 
@@ -52,7 +52,7 @@ Vey says, “Greyward.”
 
 “Three days if somebody rides hard, buys immediately and comes straight back,” Tolliver says.
 
-Iven's tank level is lower than the old stain.
+Iven’s tank level is lower than the old stain.
 
 Nobody turns it into days.
 
@@ -106,7 +106,7 @@ The word leaves a bad taste.
 
 I pull the copied sheet from my papers and flatten it beside the broken ash.
 
-“Here. The first tremor is before Mara's second bell. Before far support. Then again after.”
+“Here. The first tremor is before Mara’s second bell. Before far support. Then again after.”
 
 Harra leans over it.
 
@@ -118,7 +118,7 @@ Dain traces the marks.
 
 “Yes.”
 
-“And didn't put it on the first report.”
+“And didn’t put it on the first report.”
 
 “No.”
 
@@ -132,7 +132,7 @@ Because stone vibrating before load crosses means the chamber itself may be reac
 
 Because Iven is on the other side and his water is dropping and I am nineteen and tired of every answer growing teeth.
 
-“I didn't want it to be important.”
+“I didn’t want it to be important.”
 
 Dain nods once.
 
@@ -190,7 +190,7 @@ Then she looks at the paper again.
 
 “Your timing is diseased.”
 
-Tolliver's mouth shifts.
+Tolliver’s mouth shifts.
 
 Not quite a smile.
 
@@ -226,7 +226,7 @@ Nobody joins her.
 
 “Four.”
 
-“She's charging for distance,” Vey says.
+“She’s charging for distance,” Vey says.
 
 “She left yesterday.”
 
@@ -240,7 +240,7 @@ Of course there is.
 
 Rusk will sell the spring strips at ordinary price if Rook recognizes her first examination right on recovered inner iron from the lower station.
 
-Pell's laugh stops.
+Pell’s laugh stops.
 
 “That claim is still disputed.”
 
@@ -308,7 +308,7 @@ Something inside me eases and immediately annoys me for easing.
 
 “Because of us?”
 
-“Because the wagon carried two hired cutters who quit at the cut. Holt's letter calls them missing property.”
+“Because the wagon carried two hired cutters who quit at the cut. Holt’s letter calls them missing property.”
 
 Silence.
 
@@ -336,7 +336,7 @@ That is probably why it lands so hard.
 
 ---
 
-The abandoned works complex is Harra's idea.
+The abandoned works complex is Harra’s idea.
 
 Dain hates it first.
 
@@ -344,7 +344,7 @@ That makes me trust it more.
 
 “There is no reason the east pressure annex still has intact flex stock,” he says.
 
-“There is no reason it doesn't.”
+“There is no reason it doesn’t.”
 
 “It flooded twelve years ago.”
 
@@ -352,7 +352,7 @@ That makes me trust it more.
 
 “The lower gallery cracked.”
 
-“We don't need the lower gallery.”
+“We don’t need the lower gallery.”
 
 “What we need is a tempered return shoe.”
 
@@ -360,7 +360,7 @@ Harra spreads an old service map over the table.
 
 Not Fallow Reach.
 
-Rook's region.
+Rook’s region.
 
 Two ridges north and east, beyond the drained field and a strip of coppice, sits a small boxed mark attached to an old pressure line.
 
@@ -442,7 +442,7 @@ Three heads turn toward me.
 
 My ankle answers before I do.
 
-A dull ache from yesterday's stairs.
+A dull ache from yesterday’s stairs.
 
 I hate my body for having facts.
 
@@ -466,13 +466,13 @@ I sit on the edge of the bench.
 
 “What if I am carried?”
 
-Tolliver's eyes move to mine.
+Tolliver’s eyes move to mine.
 
 I point at him.
 
 “Do not.”
 
-“I didn't say anything.”
+“I didn’t say anything.”
 
 “You thought structurally.”
 
@@ -522,7 +522,7 @@ I open my mouth.
 
 “No shield practice.”
 
-“This isn't practice.”
+“This isn’t practice.”
 
 “No.”
 
@@ -614,7 +614,7 @@ For the approach.
 
 Harra wants us at the old maintenance shelter before dark, then inside the annex at first light.
 
-Pell pays the day's wages before we go because our current extension ends tonight.
+Pell pays the day’s wages before we go because our current extension ends tonight.
 
 Eight bits for me.
 
@@ -638,7 +638,7 @@ Recovered rescue components belong to Rook until Iven is out, after which owners
 
 Personal finds must be declared before division.
 
-Nobody owns another person's body, labor beyond the term, or future route rights.
+Nobody owns another person’s body, labor beyond the term, or future route rights.
 
 I read that line twice.
 
@@ -738,7 +738,7 @@ Three quick taps.
 
 Tolliver is on his feet before the third.
 
-Sella's hand closes around mine.
+Sella’s hand closes around mine.
 
 Harra wakes without speaking.
 
