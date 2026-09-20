@@ -10,8 +10,8 @@ import argparse, hashlib, html, json, re, uuid, zipfile
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-TITLE = 'The Unheld Warder'
-REVISION = '2026-09-19'
+TITLE = 'Empty Origin'
+REVISION = '2026-09-20'
 CSS = '''html { color: #171717; background: #fff; }
 body { font-family: Georgia, "Noto Serif", serif; line-height: 1.45; margin: 5%; }
 p { margin: 0 0 .15em; text-indent: 1.15em; orphans: 2; widows: 2; }
