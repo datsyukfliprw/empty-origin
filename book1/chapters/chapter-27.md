@@ -98,9 +98,7 @@ Her eyes narrow.
 
 She takes the paper to Harra.
 
-I hate victories that walk away without me.
-
-Still a victory.
+I hate that this victory walks away without me, but it is still a victory.
 
 ---
 
@@ -276,7 +274,7 @@ She kisses my hair.
 
 No solution appears.
 
-Apparently adult relationships are allowed to remain unsolved. A terrible design choice.
+Nothing resolves just because both of us are being reasonable. Terrible design choice.
 
 ---
 
@@ -366,9 +364,7 @@ Harra stops.
 
 The frame has not moved.
 
-The anchor has.
-
-Less than a nail-width.
+The anchor has, less than a nail-width.
 
 Dain crouches and touches the stone. "No crack."
 
@@ -380,11 +376,7 @@ Oret points to the packing wedge.
 
 Harra swears.
 
-Not the impressive part.
-
-The shim.
-
-Exactly the sort of small thing that kills people while everybody is staring at the machine.
+A compressing shim moved the anchor while everybody was staring at the machine. Exactly the sort of small thing that kills people.
 
 They replace it with an iron-backed wedge.
 
@@ -478,11 +470,7 @@ Rusk looks at me.
 
 "If the extraction brings disputed fittings across, you leave them in place or put them into joint hold pending hearing."
 
-There it is.
-
-Not a wall.
-
-A hand on the box after we open it.
+There it is. Rusk has not put a wall in front of the rescue. She has put a hand on the box we may open afterward.
 
 I think of the gray door in Iven's room. The EXIT sign. The Earth-made fasteners. The objects that should not be here and therefore might be the only physical proof that somebody, somehow, crossed the same impossible distance I did.
 
@@ -738,14 +726,4 @@ There are too many clocks in the room.
 
 I stop looking at all of them.
 
-Pressure.
-
-Vibration.
-
-Landing.
-
-Three conditions.
-
-One job.
-
-Bring him home alive.
+Pressure, vibration, landing. Three things to watch, and beneath all of them one job: bring him home alive.
