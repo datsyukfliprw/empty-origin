@@ -42,10 +42,6 @@ Still enough.
 
 “No.”
 
-“Not because you think I expect it.”
-
-“No.”
-
 “Not because you owe me.”
 
 I step into his space.
@@ -1412,11 +1408,7 @@ The other grips my hip.
 
 When he enters me from behind, the sound I make is not remotely dignified.
 
-He stops deep.
-
-“Still want this?”
-
-“Yes.”
+He stops deep, waiting.
 
 “How?”
 
