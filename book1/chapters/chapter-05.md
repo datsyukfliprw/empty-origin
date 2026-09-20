@@ -44,7 +44,7 @@ He called it a village this morning and I built something in my head with eight 
 
 The queue is maybe thirty people long, carts and foot traffic separated, and it takes me a minute of watching to understand what he means, and then I cannot see anything else. There is a place ten feet short of the gate, marked by nothing I can see, and every single person crossing it blooms.
 
-The plain little words go, all at once, and names come up in their place. A woman ahead of us who has been [WEAVER, LV. 9] for the whole hour I have been standing behind her opens her name, three lines of her hanging in the air, name and level and a word underneath that must be her holding, and she does not so much as glance up at it. She holds the fingers at her throat, the warden’s eyes go up, the warden waves, and by the time she is six feet inside the gate she is a weaver again.
+The plain little words go, all at once, and names come up in their place. A woman ahead of us who has been **[WEAVER, LV. 9]** for the whole hour I have been standing behind her opens her name, three lines of her hanging in the air, name and level and a word underneath that must be her holding, and she does not so much as glance up at it. She holds the fingers at her throat, the warden’s eyes go up, the warden waves, and by the time she is six feet inside the gate she is a weaver again.
 
 Thirty strangers, one after another, walking naked past two bored men and then getting dressed.
 
@@ -158,7 +158,7 @@ Not one name in the whole town.
 
 Tolliver spends money on me for two hours.
 
-That is the part I will remember. He puts me on a stool in a room off the market that smells of vinegar, and a woman with [MENDER, LV. 22] over her head cuts my wrapping away and makes a noise about what is under it, and I look at the ceiling while she does whatever she does. It takes a long time and it hurts more than the cut did. When she is finished the skin along my arch is closed and shiny and hot, a new pink seam where the split was, and my leg feels like somebody has taken a weight off it that had been there so long I stopped believing in it.
+That is the part I will remember. He puts me on a stool in a room off the market that smells of vinegar, and a woman with **[MENDER, LV. 22]** over her head cuts my wrapping away and makes a noise about what is under it, and I look at the ceiling while she does whatever she does. It takes a long time and it hurts more than the cut did. When she is finished the skin along my arch is closed and shiny and hot, a new pink seam where the split was, and my leg feels like somebody has taken a weight off it that had been there so long I stopped believing in it.
 
 “You should have closed that the first hour,” she says.
 
