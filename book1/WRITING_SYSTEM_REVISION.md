@@ -1,5 +1,7 @@
 # Writing-system application — Chapters One–Twelve
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 Added all six Markdown files from `nora-whitcomb-writing-system.zip` to [writing-system](../writing-system/README.md), byte-for-byte unchanged. The active chapter files received a targeted line edit, and the combined reading draft was rebuilt.
 
 ## Scope and authority
