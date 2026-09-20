@@ -2,9 +2,9 @@
 
 ## Status and controlling direction
 
-The manuscript now ends at Twenty-Two, on local Day 17 after the first bounded spanning test fails safely. Rows 16–22 below retain the original planning objectives as completed-stage reference; consult the ledger for actual events and deviations. Rows 23 onward remain provisional unwritten work. The author wants a longer ongoing series in which Maya **never returns to Earth**. See the [series bible](../SERIES_BIBLE.md).
+**Historical planning record. Book One is complete through Chapter Thirty-Two at 96,894 whitespace-counted words.** This file preserves the causal plan used to build the completed second half; it is no longer an instruction that Chapters Twenty-Three onward are unwritten. For current canon, use the chapter files, [WORKING_DRAFT.md](WORKING_DRAFT.md), [CHAPTER_LEDGER.md](CHAPTER_LEDGER.md), and [STORY_OVERVIEW.md](STORY_OVERVIEW.md). For next steps, use [PUBLICATION_ROADMAP.md](PUBLICATION_ROADMAP.md).
 
-Keep the flexible 95,000–115,000-word range, centered near 105,000. The twenty-two canonical chapters contain 69,806 words. Approximately 35,194 words remain to the center. The remaining chapter rows are planning beats, not a requirement to preserve one beat per chapter. Combine scenes that repeat a result. Give the rescue, reunion, intimacy aftermath, and ending the space they earn.
+The author direction remains active: a longer ongoing series in which Maya **never returns to Earth**. Planning rows below are retained as historical intent-versus-execution references; the written manuscript supersedes them wherever they differ.
 
 ## The complete story this volume owes the reader
 
