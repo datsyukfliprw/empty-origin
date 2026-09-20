@@ -538,7 +538,7 @@ Beside it are three English lines.
 
 The last word has a question mark large enough to take up its own line.
 
-I pull my blank sheet closer. Tomorrow I can ask Dain whether there is any safe way to look from this side. He may say no. Given the available evidence, no would be a reasonable answer.
+I pull my blank sheet closer. Tomorrow I can ask Dain whether there is any safe way to look from this side. He may say no. After today, I won't blame him.
 
 Under the question I write another one.
 
