@@ -442,7 +442,7 @@ His hands stay where they are.
 
 “That I didn’t agree to belong to anybody.”
 
-“I told you—“
+“I told you—”
 
 “I know what you told me. I want the book to tell it too.”
 
