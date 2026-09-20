@@ -1,8 +1,8 @@
 # Empty Origin — active novel project
 
-**Book One title: Empty Origin.** See the [title and pitch](book1/TITLE.md). The linked review files are dated historical snapshots of earlier manuscript states.
+**Book One title: Empty Origin.** See the [title and pitch](book1/TITLE.md). The linked review files are dated historical snapshots of earlier manuscript states. The canonical path from the current manuscript to publication is the [publication roadmap](book1/PUBLICATION_ROADMAP.md).
 
-**Current-version notice (September 20, 2026):** The compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) totals **96,855 words across 32 chapters** after the September 20 prose-restoration and compression passes. The individual chapter files remain canonical, and the compiled draft has been rebuilt from the chapters changed after the September 19 ARC repair. Dated reviews and ARC reports retain the counts and findings from the manuscript versions they actually reviewed.
+**Current-version notice (September 20, 2026):** The latest compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) totals **96,855 words across 32 chapters** after the NCA cleanup through Chapter Twenty-Nine and the subsequent rebuild. The individual chapter files remain canonical. Repository synchronization is still **in progress**: active metadata and historical-review labeling must be brought into agreement with the current manuscript before the fresh cold read. Dated reviews and ARC reports retain the counts and findings from the manuscript versions they actually reviewed.
 
 Read **[book1/WORKING_DRAFT.md](book1/WORKING_DRAFT.md)** for the complete Book One manuscript through Chapter Thirty-Two. Individual chapters are in [book1/chapters](book1/chapters).
 
