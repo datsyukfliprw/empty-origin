@@ -190,7 +190,7 @@ The room goes quiet enough that I can hear the mill. Then Iven raises his half t
 
 ENOUGH.
 
-Mara laughs first, not because anything is funny, but because her brother is still there and still has opinions about our experiments. She presses both hands over her face and says the word back to him, and Dain sends the stop board.
+Mara laughs first. Her brother is still there and still opinionated enough to tell us when to stop. She presses both hands over her face and says the word back to him, and Dain sends the stop board.
 
 ---
 
