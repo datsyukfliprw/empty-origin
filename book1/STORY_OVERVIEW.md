@@ -1,6 +1,6 @@
 # Story overview
 
-**Current manuscript:** *Empty Origin*, 32 chapters, **95,824 whitespace-counted words**, synchronized September 20, 2026.
+**Current manuscript:** *Empty Origin*, 32 chapters, **95,848 whitespace-counted words**, synchronized September 20, 2026.
 
 This cumulative synopsis records the revised manuscript through Chapter Thirty-Two. The September 20 prose-restoration and compression passes supersede the earlier September 19 reading snapshot while preserving the completed plot and ending. Written chapter text governs canon; older editorial reviews describe earlier versions. Character reports, deductions and untested mechanisms remain distinguished from observed facts. Maya never returns to Earth under the author's series direction; her early desire to do so remains part of the story.
 
