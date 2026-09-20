@@ -120,7 +120,7 @@ I turn the copied board around.
 
 “Yes.”
 
-“The East Relief plate says repeated load cycling can wake connected isolation sections.”
+“East Relief says connected isolation sections can wake under repeated load.”
 
 “Yes.”
 
