@@ -8,7 +8,7 @@ She has cut away the splintered wood, let in a darker patch, and wrapped the new
 
 I love it more.
 
-“You're not using it today,” she says.
+“You’re not using it today,” she says.
 
 “I know.”
 
@@ -34,7 +34,7 @@ That matters more than I expected.
 
 The last paid day of my agreement begins at the west kitchen table.
 
-Mara brings Iven's copied marks. Dain brings three sheets of measurements. Harra brings the severed cord, two washers, the fork head and a box of things she is willing to lose.
+Mara brings Iven’s copied marks. Dain brings three sheets of measurements. Harra brings the severed cord, two washers, the fork head and a box of things she is willing to lose.
 
 Pell brings Rusk.
 
@@ -60,7 +60,7 @@ Pell folds her hands. “After that, I need the shear legs here.”
 
 Rusk smiles without warmth. “Then you need money.”
 
-I look at Vey's empty place.
+I look at Vey’s empty place.
 
 The ten pieces against his wool are due when the lift is finished. Beyond that, the house has promised nothing.
 
@@ -78,7 +78,7 @@ Not enough rows.
 
 “Maybe.”
 
-“Or we're measuring the wrong thing.”
+“Or we’re measuring the wrong thing.”
 
 Mara sits opposite me and unwraps a piece of bread. “You wanted both ends.”
 
@@ -86,11 +86,11 @@ I did.
 
 I look at the messenger strip measurements again. Iven can reach the lower stub with his bed-frame crosspiece. Our probe can touch the near sill. Between those facts is a distance we have described too many ways.
 
-“What can we send that doesn't matter?”
+“What can we send that doesn’t matter?”
 
 Harra opens the box.
 
-A chalked wooden slat. A narrow copper strip. Two cords of different thickness. A wax tablet no bigger than my palm. Four clay tags drilled with holes. A child's tin cup with no handle.
+A chalked wooden slat. A narrow copper strip. Two cords of different thickness. A wax tablet no bigger than my palm. Four clay tags drilled with holes. A child’s tin cup with no handle.
 
 “Why the cup?”
 
@@ -116,13 +116,13 @@ Everyone tells me we cannot use the upper gallery without me.
 
 Then they prove it is a lie in the most useful way possible.
 
-Mara can read Iven's slate. Dain can record the width marks. Harra can work the instrument. Renn can carry messages up and down the outside stair. Oret can watch the outlet pulse with a staff. Tolliver can stand at the upper collector and call the water level. Sella can do almost all of this while also making sure nobody decides a test needs a hero.
+Mara can read Iven’s slate. Dain can record the width marks. Harra can work the instrument. Renn can carry messages up and down the outside stair. Oret can watch the outlet pulse with a staff. Tolliver can stand at the upper collector and call the water level. Sella can do almost all of this while also making sure nobody decides a test needs a hero.
 
 My job is the table.
 
 I hate the table until the first numbers arrive.
 
-Renn puts Dain's slip beside Oret's.
+Renn puts Dain’s slip beside Oret’s.
 
 Boundary narrow.
 
@@ -130,7 +130,7 @@ Outlet low.
 
 Iven reports the gray door still visible, the uncovered window bright, no change in the tank since dawn.
 
-Tolliver's note follows.
+Tolliver’s note follows.
 
 Collector high by two finger-widths after the night rain.
 
@@ -138,15 +138,15 @@ I put the three together.
 
 “Again,” I tell Renn.
 
-He grins. “You know I don't control it.”
+He grins. “You know I don’t control it.”
 
 “Tell them I said again with conviction.”
 
 The next interval is wider.
 
-Oret records a pulse at the outlet shortly before the change. Tolliver's collector mark falls after Dain's width begins increasing, not before.
+Oret records a pulse at the outlet shortly before the change. Tolliver’s collector mark falls after Dain’s width begins increasing, not before.
 
-That should help. It doesn't.
+That should help. It doesn’t.
 
 I draw arrows and cross two out.
 
@@ -178,7 +178,7 @@ Nobody crosses. The measurements are enough to prove the moving edge is not a do
 
 I knew that yesterday. Seeing it in two columns still tightens my stomach.
 
-The cord on the floor. Elena's shortened rope. The end beside Iven's boot.
+The cord on the floor. Elena’s shortened rope. The end beside Iven’s boot.
 
 “Next test,” I say.
 
@@ -186,11 +186,11 @@ The cord on the floor. Elena's shortened rope. The end beside Iven's boot.
 
 The lift begins while we are still measuring.
 
-I hear it through the kitchen wall before I see anything: timber knocking timber, shouted counts, the slow metallic complaint of Rusk's chain.
+I hear it through the kitchen wall before I see anything: timber knocking timber, shouted counts, the slow metallic complaint of Rusk’s chain.
 
 Bera sends her eldest girl to the house with a strip of blue cloth tied around a stick.
 
-“What's that?” I ask.
+“What’s that?” I ask.
 
 The girl plants it beside my papers.
 
@@ -224,7 +224,7 @@ She considers this.
 
 I add the cloth to the table.
 
-Not because it belongs with the boundary measurements. Because Bera's field is why the rig is here, and problems get beautiful too easily when they stop belonging to anyone.
+Not because it belongs with the boundary measurements. Because Bera’s field is why the rig is here, and problems get beautiful too easily when they stop belonging to anyone.
 
 ---
 
@@ -238,7 +238,7 @@ Time of day does not predict them.
 
 The widest interval comes earlier than the second; the third arrives later and closes faster. No clean period.
 
-Oret's pulses at the old junction are better.
+Oret’s pulses at the old junction are better.
 
 Not perfect.
 
@@ -254,7 +254,7 @@ I stare back.
 
 “It means the thing remembers being pushed.”
 
-“Things don't remember.”
+“Things don’t remember.”
 
 “Fine. It reacts differently going up than coming down.”
 
@@ -288,7 +288,7 @@ Not approximately in the way frightened people want. The window wall, gray door,
 
 He comes in after dusk covered in mud to the elbows.
 
-Dain has drawn the old Fallow Reach service floor from Oret's memory on one sheet and Iven's rooms on another.
+Dain has drawn the old Fallow Reach service floor from Oret’s memory on one sheet and Iven’s rooms on another.
 
 We put them together.
 
@@ -358,7 +358,7 @@ The edge catches it.
 
 The near half drops onto our chamber floor.
 
-Iven's half lands on his side.
+Iven’s half lands on his side.
 
 It parts on a clean diagonal without pulling or twisting.
 
@@ -396,19 +396,19 @@ The thing is thicker than my wrist and black through the middle.
 
 “Was?” Pell asks.
 
-“Slab's hanging from my tackle now. Packing's in. We set the first new support before light goes.”
+“Slab’s hanging from my tackle now. Packing’s in. We set the first new support before light goes.”
 
 “Tomorrow?”
 
 “Lift, rebuild, deck. If the stone behaves.”
 
-“If it doesn't?”
+“If it doesn’t?”
 
 “Then it becomes three days.”
 
-Pell's jaw tightens.
+Pell’s jaw tightens.
 
-Rusk pulls out Vey's paper.
+Rusk pulls out Vey’s paper.
 
 “Your wool covers ten pieces. Tomorrow is already in that price. A third day is eight more.”
 
@@ -442,9 +442,9 @@ She gives me a look.
 
 “What?”
 
-“You have nowhere you're returning to.”
+“You have nowhere you’re returning to.”
 
-Greyward. The word has changed while I wasn't watching it.
+Greyward. The word has changed while I wasn’t watching it.
 
 “Still in writing,” I say.
 
@@ -458,7 +458,7 @@ Pell looks at them next.
 
 “Sella. Two more days. Same rate.”
 
-Sella's face does not change.
+Sella’s face does not change.
 
 “Tolliver?”
 
@@ -484,7 +484,7 @@ She catches me looking.
 
 “Liar.”
 
-“I'm allowed to enjoy two days.”
+“I’m allowed to enjoy two days.”
 
 She pushes off the hearth and comes to stand beside my chair.
 
