@@ -456,7 +456,7 @@ Harra can shift it with the trolley chain and the recovered shoe, but not quickl
 
 The old foreman's office has one door, stone walls, and no floor seams.
 
-Harra checks the ceiling. Tolliver checks the ventilation opening. Sella looks under the desk, because apparently this is who we are now.
+Harra checks the ceiling. Tolliver checks the ventilation opening. Sella looks under the desk, because this is who we are now.
 
 Clear.
 
