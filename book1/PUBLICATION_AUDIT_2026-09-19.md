@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Historical manuscript snapshot.** This report applies to the manuscript state it reviewed and is preserved for provenance only. Do not use it as a current repair list without re-verifying the issue against the synchronized 32-chapter *Empty Origin* manuscript (**96,894 words**, September 20, 2026). Current next steps are in [PUBLICATION_ROADMAP.md](PUBLICATION_ROADMAP.md).
+
 # Publication audit ladder, September 19, 2026
 
 This report records the current manuscript audit in the requested order:
