@@ -72,7 +72,7 @@ Harra bends over the page. Sella puts my cup down. Dain traces the sequence once
 
 "Why?"
 
-Because a shorter pin and a better shoe are fixable. Because a chamber that starts shivering before load crosses is not the same kind of problem. Because Iven is nine days away with less water than he had yesterday, and I am nineteen, and I am tired of every answer opening its mouth and showing me another row of teeth.
+A shorter pin and a better shoe are fixable. A chamber that starts shivering before load crosses is a different kind of problem, and Iven is still over there with less water than he had yesterday. I am nineteen and tired of every answer opening its mouth to show me another row of teeth.
 
 "I didn't want it to matter."
 
@@ -344,13 +344,13 @@ Sella's expression brightens in a way no sensible person's should.
 
 Harra lifts her pack. "Usually whatever moved."
 
-I refuse to give the universe a punch line.
+I keep my mouth shut. Sella looks disappointed anyway.
 
 ---
 
 We leave after midday for the old maintenance shelter below the annex, planning to enter the works at first light.
 
-Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries inside the works belong to the job, not to us. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
+Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries taken inside the works count as job injuries under the house terms. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
 
 Then comes the line I read twice.
 
