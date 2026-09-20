@@ -92,7 +92,7 @@ My excitement rearranges itself.
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Put that foot on ground that shifts, turn, jump, or reach for another step, and it comes apart. It can carry a bounded load through the line I’ve chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
@@ -304,7 +304,7 @@ Bera offers to show the sound path. Pell agrees to pay her for the morning and k
 
 It feels different hearing my name among the jobs. I try the position with an empty frame while Harra corrects my stance and Sella drills the retreat.
 
-No reserve. I only have one left, and tomorrow needs more than my enthusiasm.
+No powered practice. I only have one reserve left, and tomorrow needs more than my enthusiasm.
 
 ---
 
@@ -474,9 +474,9 @@ I cover my face with one hand.
 
 I start laughing and then her fingers move over my clit and the laugh breaks into something else.
 
-There is no room left for embarrassment. Only sensation.
+The heat in my face stops mattering when she moves again.
 
-Her mouth against my breast. Her thigh warm against mine. The rasp of her breathing near my ear. Her fingers learning what makes me tense and what makes me open, not with the efficient precision she uses teaching shield work, but with patience. Curiosity. Pleasure in the fact that I am losing mine.
+Her mouth against my breast. Her thigh warm against mine. The rasp of her breathing near my ear. Her fingers learning what makes me tense and what makes me open, not with the efficient precision she uses teaching shield work, but with patience and curiosity and obvious pleasure in the fact that I am losing mine.
 
 When I grab her wrist, she stops immediately.
 
@@ -532,13 +532,9 @@ The word comes rougher than mine did.
 
 I smile against her skin and keep going.
 
-The first taste of her makes something hot and startled twist through me. Then she moves beneath my mouth and there is no room for observation.
+The first taste of her makes something hot and startled twist through me. Then her hips lift into my mouth, and I stop trying to notice anything except what makes her do it again.
 
-I learn her badly at first.
-
-Then better.
-
-Her hand tightens in my hair when my tongue finds the place that makes her hips lift. I stay there. She says my name once, sharp enough that I feel it in my chest, and again when she comes.
+I learn her badly at first, then better. Her hand tightens in my hair when my tongue finds the place that makes her hips lift. I stay there. She says my name once, sharp enough that I feel it in my chest, and again when she comes.
 
 Afterward I crawl up beside her and discover that smugness is much easier to recognize from the inside.
 
