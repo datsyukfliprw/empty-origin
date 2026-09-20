@@ -92,7 +92,7 @@ My excitement rearranges itself.
 
 “So is falling with someone behind you.”
 
-She calls it Stepguard. The pattern moves the support from one planted foot to the next without letting the shield fold during the transfer. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It will take pressure from the facing I've chosen. The other side of my body stays exposed.
+She calls it Stepguard. The pattern moves support from one planted foot to the next without letting the stance or facing fold during the transfer. A shield is the obvious use because it gives incoming force a face to meet, but the pattern belongs to the step, not the shield. At least one foot stays properly grounded. Turn, jump, reach for another step, and it comes apart. It can carry a bounded load through the line I've chosen; anything outside that line still gets me.
 
 “Can I Brace at the same time?”
 
