@@ -24,6 +24,7 @@ Read these before continuing:
 6. [Series bible](SERIES_BIBLE.md) and [Book One completion plan](book1/BOOK_ONE_PLAN.md), distinguishing binding author preferences from proposed events.
 7. [LitRPG + romantasy + dungeon plan](book1/LITRPG_ROMANTASY_DUNGEON_PLAN.md), governing the hybrid genre engine, faster progression, dungeon cadence, and relationship payoff structure.
 8. [Rescue mechanics](book1/RESCUE_MECHANICS.md), separating the established layout and ability costs from unwritten explanations.
+9. [Nora Compliance Auditor](NCA/SKILL.md), the repair-until-clean audit loop for chapter and manuscript compliance work.
 
 Chapters One–Five originated in `maya-project-through-chapter-05/chapters/`; Chapter Six originated in `Nora_Whitcomb_MD_Files_Partial/Pasted markdown.md`. Chapters Seven–Thirty-Two are the continuation. Chapters One–Twelve previously received a targeted prose pass; its historical scope and counts remain in the [revision report](book1/WRITING_SYSTEM_REVISION.md). The subsequent [chronology repair](book1/CONTINUITY_REVIEW.md) edited Chapters Two–Six without adding an unshown journey night. Both reports retain the counts from their own passes; current counts are in the project notes and continuation review.
 
