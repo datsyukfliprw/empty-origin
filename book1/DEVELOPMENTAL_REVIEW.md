@@ -1,5 +1,7 @@
 # Developmental review — series foundation
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 Historical assessment and revision through Chapter Fifteen. The manuscript now continues through Nineteen; current counts and continuation findings are in [CONTINUATION_REVIEW_16_19.md](CONTINUATION_REVIEW_16_19.md). The original findings and verification below retain their pass-specific scope.
 
 ## Editorial verdict
