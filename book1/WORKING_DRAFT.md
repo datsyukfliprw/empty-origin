@@ -3773,7 +3773,7 @@ At the first long stop she gives me a lesson against the side of an old stone ca
 
 “You need to know when you've lost it,” she says. “Don't spend because you wanted the first stance to work.”
 
-We practice moving away, setting again, and admitting when I haven't got it. No reserve. No exciting numbers. By the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
+We practice moving away, setting again, and admitting when I haven't got it. Nothing flashes or advances; By the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
 
 The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper's report that a temporary grate was fitted before dawn.
 
@@ -5752,7 +5752,7 @@ Then he holds up a packet.
 
 White, creased, with a blue edge. He has flattened it carefully so we can see the writing. I read *DRINKING WATER* and part of a volume printed beneath. The rest is too small or hidden by his hand.
 
-I tell them exactly that. No brand I can name. No date I can read.
+I tell them exactly that. I can't name the brand or make out a date.
 
 Plastic shines where his thumb presses it.
 
@@ -7682,7 +7682,7 @@ She closes her mouth. For a moment I see how tired he is. The three pieces he pu
 
 Rusk checks the invoice and goes with Vey to inspect the bales. Pell sends the clerk for the six pieces. When the captain returns, a tuft of blue wool is caught on her cuff.
 
-Mara reads the new paper. No custody. No exclusive access. Two days to shore and lift the drainage throat, materials supplied by Rook. The old iron claim remains disputed; this payment does not settle it.
+Mara reads the new paper aloud: two days to shore and lift the drainage throat, materials supplied by Rook, with no custody or exclusive access. The old iron claim remains disputed; this payment does not settle it.
 
 Rusk counts the deposit into her purse. Vey signs against his bales. Pell signs beneath him.
 
@@ -7953,11 +7953,7 @@ Then they repeat it during a wider interval.
 
 The same extension reaches farther before the slat disappears from our view.
 
-No one crosses it.
-
-No one needs to.
-
-The moving edge is not a door swinging open from a fixed hinge. The visible boundary itself is changing where the connection exists.
+Nobody crosses. The measurements are enough to prove the moving edge is not a door swinging open from a fixed hinge; the visible boundary itself is changing where the connection exists.
 
 I knew that yesterday.
 
@@ -8115,7 +8111,7 @@ Iven is ready.
 
 We have agreed on the wax tablet because if the edge cuts it, the cut will preserve shape better than cord.
 
-No line across. No hand near it. No person within the marked danger distance.
+We keep the line, our hands, and every body outside the marked danger distance.
 
 Harra advances the tablet on the fork until part of it is visible to Iven. He signals.
 
@@ -8130,8 +8126,6 @@ The edge continues to widen.
 More of the tablet appears.
 
 Harra does not advance.
-
-That matters.
 
 The connection is moving across a stationary object.
 
@@ -9384,11 +9378,7 @@ If Iven calls stop, stop.
 
 If anyone loses visual contact with the person below, stop.
 
-No body crosses the edge.
-
-No hand crosses the edge.
-
-No improvising because an object is “almost there.”
+No body or hand crosses the edge. Nobody improvises because an object is “almost there.”
 
 Mara reads the list.
 
@@ -9514,11 +9504,7 @@ The plan is simple enough to sound sane.
 
 Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook's side.
 
-Iven uses his strip to catch the far nose once it appears and lower it onto the landing.
-
-No through-line remains under tension.
-
-No person touches the boundary.
+Iven uses his strip to catch the far nose once it appears and lower it onto the landing, then releases it. Nobody touches the boundary, and no line remains tensioned across it.
 
 If the frame can rest independently on both structures, we learn something useful about geometry and load.
 
@@ -9974,9 +9960,7 @@ She looks at me.
 
 “Yes.”
 
-Neither of us makes a virtue out of it.
-
-That matters.
+Neither of us tries to make a virtue out of wanting to go down.
 
 ---
 
@@ -19916,11 +19900,11 @@ Growth.
 
 Sella sends no message.
 
-There is no reason she should.
+There is no reason she should. The eastbound crew is moving, and the road does not carry little blue bubbles over people’s heads.
 
-The eastbound crew is moving.
+On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
 
-The road does not carry little blue bubbles over people’s heads.
+At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella's without either of us deciding that. I eat with somebody else's elbow there and discover grief is petty enough to care about benches.
 
 I work.
 
@@ -20099,10 +20083,6 @@ The name hurts.
 Less sharply than nine days ago.
 
 Still enough.
-
-“No.”
-
-“Not because you think I expect it.”
 
 “No.”
 
@@ -21508,11 +21488,7 @@ The other grips my hip.
 
 When he enters me from behind, the sound I make is not remotely dignified.
 
-He stops deep.
-
-“Still want this?”
-
-“Yes.”
+He stops deep, waiting.
 
 “How?”
 
