@@ -8496,7 +8496,7 @@ Behind her, the lower service door stands open for the first time since it was b
 
 ---
 
-The stair smells like wet iron. Not rot, not mold, nothing rank: iron and old water and the particular dust that comes off stone when nobody has walked on it long enough for the air to settle.
+The stair smells like wet iron, old water, and the particular dust that comes off stone when nobody has walked on it long enough for the air to settle. Nothing rotten or moldy. Nothing rank.
 
 Dain and Harra have already marked the damaged steps, the missing rail, and the wheel recess above the chamber. Nobody crossed the boundary while the interval was moving. That is the only reason I am allowed down here at all, and *allowed* is doing a great deal of work in that sentence.
 
@@ -8592,7 +8592,7 @@ Dain orders the near end lowered onto the Rook support block, and the frame sett
 
 "Sound," Harra answers, and Renn repeats it.
 
-For one impossible second the frame is supported on both sides. Not by the boundary. By stone, in two places, in two worlds that are apparently one. Nothing is tied through. Nothing is moving. I understand entirely why every stupid part of me wants to step onto it.
+For one impossible second the frame is supported on both sides, each end resting on stone while the boundary carries nothing. Nothing is tied through. Nothing is moving. I understand entirely why every stupid part of me wants to step onto it.
 
 ---
 
@@ -8622,7 +8622,7 @@ One link. The runner arrives at a dead run.
 
 "Below mark!"
 
-Red was already red. Now it means something else.
+Red was already red, but the runner's face makes the color feel heavier.
 
 "Abort," I say, and Dain has said it before the word is out of my mouth.
 
@@ -8650,7 +8650,7 @@ The near half of the ash frame lies in our chamber. The far half sits on Iven's 
 
 The guide line never crossed the edge. Harra had detached it from the frame before the independent support test, exactly as planned.
 
-We lost a frame. Not the block, not a hand, not a person. I repeat that to myself on the way down the stairs until it begins to sound true.
+We lost a frame and nothing else. The block is intact. Every hand is intact. Every person is intact. I repeat that to myself on the way down the stairs until it begins to sound true.
 
 Mara reaches the chamber before I do, because I am slow on the stairs and nobody comments on it. Dain is sitting on the floor with his back against the wall, staring at the cut ash, and Renn is standing over him.
 
@@ -8856,7 +8856,7 @@ Harra bends over the page. Sella puts my cup down. Dain traces the sequence once
 
 "Why?"
 
-Because a shorter pin and a better shoe are fixable. Because a chamber that starts shivering before load crosses is not the same kind of problem. Because Iven is nine days away with less water than he had yesterday, and I am nineteen, and I am tired of every answer opening its mouth and showing me another row of teeth.
+A shorter pin and a better shoe are fixable. A chamber that starts shivering before load crosses is a different kind of problem, and Iven is still over there with less water than he had yesterday. I am nineteen and tired of every answer opening its mouth to show me another row of teeth.
 
 "I didn't want it to matter."
 
@@ -8926,7 +8926,7 @@ Pell's laugh disappears.
 
 "Then the price is four."
 
-Harra folds the notice. I look at the severed frame on the table and feel something in me go hot and helpless.
+Harra folds the notice. I look at the severed frame and curl my fingers against the table edge until the wood bites.
 
 Rusk has found a way to make Iven's rescue touch her claim without touching the rescue itself. She can call it salvage law, ordinary price, examination rights, whatever respectable words she likes. The result is the same: wait three days, pay four pieces, or give her a handhold on whatever we recover below.
 
@@ -9128,13 +9128,13 @@ Sella's expression brightens in a way no sensible person's should.
 
 Harra lifts her pack. "Usually whatever moved."
 
-I refuse to give the universe a punch line.
+I keep my mouth shut. Sella looks disappointed anyway.
 
 ---
 
 We leave after midday for the old maintenance shelter below the annex, planning to enter the works at first light.
 
-Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries inside the works belong to the job, not to us. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
+Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries taken inside the works count as job injuries under the house terms. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
 
 Then comes the line I read twice.
 
@@ -9162,7 +9162,7 @@ My mouth goes dry. I sign beside the amendment anyway.
 
 The maintenance shelter is a stone box with half a roof and just enough intact wall to make the wind choose sides. We reach it before sunset.
 
-My ankle hurts, but no more than when we left. Harra checks the brace while I sit on a fallen lintel. Sella checks it after her, because apparently my leg has become public infrastructure.
+My ankle hurts, but no more than when we left. Harra checks the brace while I sit on a fallen lintel. Sella checks it after her, because my leg has become public infrastructure by committee.
 
 Tolliver stops beside me. "How is it?"
 
@@ -9214,9 +9214,7 @@ Tomorrow we go inside.
 
 CHAPTER TWENTY-FOUR
 
-The East Relief Works has a front door.
-
-This is disappointing. I was promised a dungeon.
+The East Relief Works has a front door, which is disappointing. I was promised a dungeon.
 
 The door is iron-banded oak, swollen in its frame and hanging low enough that one corner has carved a crescent through the stone threshold. Somebody painted a red hand across it years ago.
 
@@ -9244,7 +9242,7 @@ Tolliver crouches beneath the overhang and studies the mud. The last rain has so
 
 One retreat condition cleared.
 
-Harra takes a pry bar from his pack while I stand nearby with the walking stick the mender inflicted on me. My shield is back at Rook because apparently medical authority outranks dignity.
+Harra takes a pry bar from his pack while I stand nearby with the walking stick the mender inflicted on me. My shield is back at Rook because medical authority has won its argument with dignity.
 
 She works the bar toward the latch side. I look at the door again.
 
@@ -9374,7 +9372,7 @@ Reserve pulls.
 
 **5 / 6 → 3 / 6**
 
-The pattern catches around my stance. The shifting plate takes my foot, and pressure comes up through it hard enough to buckle an ordinary step. Stepguard keeps my facing, not the stone. That is enough.
+The pattern catches around my stance. My back boot stays on the chalked sound stone while my forward foot takes the edge of Tolliver's shifting plate. Pressure comes up through that step hard enough to buckle an ordinary transfer, but the grounded foot gives Stepguard somewhere real to send it. My facing holds.
 
 I grab the back of Tolliver's belt.
 
@@ -9504,7 +9502,7 @@ Harra is staring at the mechanism. "It resets after load."
 
 "No."
 
-Of course not.
+That answer lands exactly where I expected it to.
 
 The return shoe we need is on our side of the sweep. The isolation lever is across the room.
 
@@ -9534,7 +9532,7 @@ Harra studies the sill, the bar, my feet.
 
 "Exactly."
 
-Sella's irritation changes shape. "And if you cannot?"
+Sella's mouth tightens. She looks from me to the iron arm and back. "And if you cannot?"
 
 "I tell you."
 
@@ -9588,9 +9586,7 @@ Sella drops to one knee.
 
 The arm surges against my Brace. The pattern bites down so hard my teeth click together.
 
-"Now," I say.
-
-Not panic. Information.
+"Now," I say, and keep the word flat enough to be useful.
 
 Sella finds the catch and throws the lever.
 
@@ -9618,9 +9614,7 @@ Then the spring strip.
 
 Then the specification plate, because it is riveted to the frame and she looks prepared to commit crimes against history if we leave it.
 
-We have what we came for.
-
-The sensible thing is to leave.
+We have what we came for, and the sensible thing is to leave.
 
 Then Tolliver raises one hand.
 
@@ -9662,9 +9656,7 @@ The room shudders. Three stones on our return route drop one after another, blac
 
 Sella draws her knife. Tolliver nocks an arrow. Harra grabs the recovered shoe against her chest.
 
-I stare at the missing floor.
-
-The dungeon, apparently, has opinions.
+I stare at the missing floor, and the word *dungeon* stops being funny.
 
 CHAPTER TWENTY-FIVE
 
