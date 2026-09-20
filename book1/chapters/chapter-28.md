@@ -72,9 +72,7 @@ The frame stays on the near ledge while Iven catches the far guide loop with his
 
 "Guide only."
 
-We have all become unbearable.
-
-Good.
+We have all become unbearable about the procedure, which is exactly what I want today.
 
 He draws the thin cord to his side without taking load. Harra raises one hand.
 
@@ -172,11 +170,7 @@ He puts it on a third time.
 
 I love her.
 
-The thought arrives without warning and without qualification.
-
-Not new.
-
-Just suddenly impossible to pretend I have not known it.
+The thought arrives without warning and feels less like discovery than getting caught by something I already knew.
 
 Sella glances toward me, eyes softening for half a second, then turns back to Iven.
 
@@ -252,11 +246,7 @@ Sella's voice goes flat. "And Iven?"
 
 "No."
 
-Tolliver looks at me.
-
-Not telling.
-
-Waiting.
+Tolliver looks at me and waits for my call.
 
 Iven has heard enough.
 
@@ -268,11 +258,7 @@ Harra answers immediately. "None."
 
 Behind him, the imported cabinet catches the gray light.
 
-Maybe it holds nothing.
-
-Maybe it holds everything.
-
-The uncertainty is the part that hurts.
+I have no idea what it holds, and the uncertainty is the part that hurts.
 
 "Iven comes with clothes, papers, food, water, and non-iron personal things," I say.
 
@@ -284,17 +270,7 @@ Iven lifts the bed-frame strip. "This?"
 
 He lets it fall.
 
-The small sound of metal hitting stone lands in my chest harder than it should.
-
-There.
-
-That is the cost.
-
-Not theoretical.
-
-Not later.
-
-Today, the mystery stays on the far side.
+The small sound of metal hitting stone makes the cost immediate: today, the mystery stays on the far side so Iven can come out clean.
 
 "Continue," I say.
 
@@ -370,9 +346,7 @@ Tolliver looks over.
 
 He accepts the answer and looks back to the line.
 
-My body chooses this exact moment to find that attractive.
-
-I hate timing.
+The fact that he accepts it without taking over lands somewhere inconvenient. I put it away.
 
 ---
 
@@ -632,13 +606,7 @@ The frame jerks.
 
 Iven falls clear on his side.
 
-Alive.
-
-Far side.
-
-Not rescued.
-
-Alive.
+He is alive on the far side. The rescue failed. He did not.
 
 The severed brace disappears into whatever exists between here and there.
 
