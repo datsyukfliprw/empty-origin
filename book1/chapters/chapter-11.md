@@ -194,7 +194,7 @@ At the first long stop she gives me a lesson against the side of an old stone ca
 
 “You need to know when you've lost it,” she says. “Don't spend because you wanted the first stance to work.”
 
-We practice moving away, setting again, and admitting when I haven't got it. No reserve. No exciting numbers. By the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
+We practice moving away, setting again, and admitting when I haven't got it. Nothing flashes or advances; by the time Nessa calls us back, I have learned that retreat can consist of one extremely unglamorous step.
 
 The marsh opens into fields. Narrow watercourses divide strips of beans and something with a gray seed head. People work along the banks with hooked tools. One waves Nessa down to ask about the damaged crossing; she gives him the wayhouse keeper's report that a temporary grate was fitted before dawn.
 
