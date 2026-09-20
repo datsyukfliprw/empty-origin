@@ -4,9 +4,7 @@ The first thing I do after sleeping with Tolliver is argue about payroll.
 
 This is not how romance novels work.
 
-I know this because Earth produced several billion books and I read enough of the wrong ones at the right age.
-
-Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor written into four separate columns.
+Nobody ever wakes up after life-altering sex and discovers a factor, a keeper, a landholder, and one extremely awake clerk waiting downstairs with twelve days of disputed labor in four columns.
 
 Yet here we are.
 
@@ -50,25 +48,7 @@ Smart man.
 
 I read.
 
-Day Nineteen.
-
-Retained for planning, no lower works entry.
-
-Eight bits.
-
-Day Twenty.
-
-Equipment review and far-side measurement coordination.
-
-Eight bits.
-
-Day Twenty-One.
-
-Rescue operation.
-
-Eight bits.
-
-The days after that continue in Mara's narrow handwriting. Statement work. Measurements. Recovery review. Copies. Two days where the line reads REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember I answered questions from bed and made Harra bring the spring shoe upstairs so I could point at it.
+Mara has separated every day: planning under restriction, equipment review, far-side coordination, rescue, statements, measurements, copies. Two entries read REST RESTRICTION, RETAINED FOR CONSULTATION, which feels deeply unfair until I remember making Harra bring the spring shoe upstairs so I could point at it from bed.
 
 The agreement should have been rewritten.
 
@@ -152,7 +132,7 @@ The original agreement promised transport after the reading work.
 
 Then I stayed.
 
-Then a man got trapped behind a moving piece of reality and paperwork became less urgent than not cutting him in half.
+Then not cutting Iven in half became more urgent than paperwork.
 
 “I want the value instead,” I say.
 
@@ -164,13 +144,7 @@ Pell says, “Reason?”
 
 The room goes quiet.
 
-Not dramatically.
-
-No one gasps.
-
-No System message descends from heaven to congratulate me for emotional development.
-
-Mara just stops moving her pen.
+Mara stops moving her pen.
 
 I look at the purse.
 
@@ -292,13 +266,9 @@ The remainder goes into my purse.
 
 It is heavier than any amount of money I have owned here.
 
-Not rich.
-
-Not safe forever.
+Not rich. Not safe forever.
 
 Enough that tomorrow does not belong to whoever feeds me.
-
-That matters more than the weight.
 
 Mara turns the next page.
 
@@ -356,13 +326,7 @@ Mara rests two fingers on the linen.
 
 Mara slides another sheet toward me.
 
-Not the card.
-
-A careful ink copy of both sides.
-
-Local notes around the edges.
-
-My English transcription below.
+A careful ink copy of both sides waits there, local notes around the edges and my English transcription below.
 
 Name.
 
@@ -374,11 +338,7 @@ The little shape of Missouri.
 
 My chest hurts.
 
-Not because I think I can go there.
-
-That door closed before I was ready.
-
-Maybe all doors do.
+The door back closed before I was ready.
 
 It hurts because I know the place.
 
@@ -396,11 +356,7 @@ Then Tolliver's thumb moves once against the side of my boot.
 
 Tiny pressure.
 
-Here.
-
-Not dragging me back.
-
-Just existing where I can feel him.
+Here, where I can feel him.
 
 I breathe.
 
@@ -420,13 +376,7 @@ I fold the copy carefully.
 
 It goes into my notebook.
 
-Not under a mattress.
-
-Not hidden in a shirt.
-
-Mine.
-
-Carried.
+Mine. Carried.
 
 Mara brings out the last packet.
 
@@ -476,13 +426,7 @@ Pell's mouth flattens.
 
 I sit back.
 
-Not victory forever.
-
-Good enough.
-
-Rusk wanted leverage.
-
-She leaves with a claim to metal nobody is currently touching and a date with clerks.
+Good enough. Rusk leaves with a claim to metal nobody is currently touching and a date with clerks.
 
 I can live with that.
 
@@ -558,11 +502,7 @@ Dain is not here because sensible people avoid payroll meetings.
 
 Mara pulls another sheet from beneath the diagram.
 
-This one is old.
-
-Not Elena old.
-
-Local old.
+This one is older than Elena's. Local.
 
 Copied from a Rook route register.
 
@@ -627,10 +567,6 @@ Suspicious.
 “Because their regular guard company withdrew after a washout report.”
 
 My pulse picks up.
-
-Not fear.
-
-Not exactly.
 
 Pell continues.
 
@@ -704,25 +640,7 @@ Vey looks wounded.
 
 I feel nothing.
 
-We work through the offer.
-
-No automatic claim to personal finds.
-
-No lower works entry without separate consent.
-
-No obligation to operate a mechanism.
-
-No exclusivity on future route knowledge.
-
-Food for the job.
-
-Bed where available.
-
-A return allowance that can become cash if I do not return by the same route.
-
-Medical costs for injuries caused by assigned work.
-
-Right to stop if the road becomes something the contract did not describe.
+We work through the offer: no automatic claim to personal finds, no lower-works entry or mechanism operation without separate consent, no exclusivity on route knowledge. Food and lodging are covered. Return allowance can become cash. Assigned-work injuries are covered. I can stop if the road becomes something the contract did not describe.
 
 The list is familiar.
 
@@ -732,11 +650,7 @@ Months ago I would not have known which questions to ask.
 
 Now I annoy professionals efficiently.
 
-Progress.
-
-Not the kind the System measures.
-
-Still counts.
+Progress the System does not measure.
 
 “I am not signing today,” I say.
 
@@ -758,8 +672,6 @@ I look at Tolliver.
 
 He has not asked to come.
 
-Also progress.
-
 “Are you free in six days?”
 
 “Yes.”
@@ -774,13 +686,7 @@ His gaze stays on mine.
 
 “If you take it, yes.”
 
-Not because you need me.
-
-Not because I found you first.
-
 If you take it.
-
-Yes.
 
 My chest does something inconvenient.
 
@@ -805,8 +711,6 @@ I turn to him.
 “Good.”
 
 His sons both look relieved.
-
-That matters.
 
 He continues, “I will help you read the far-side notes before you leave.”
 
@@ -838,19 +742,13 @@ The room breaks into laughter.
 
 It feels wrong for half a second.
 
-Then it feels exactly right.
-
-Nobody died.
-
-The joke gets to live.
+Then nobody dies from laughing, either.
 
 ---
 
 By afternoon, I own a chest.
 
-This should not be emotional.
-
-It is a box.
+It is a box. It should not be emotional.
 
 Harra found it in a storage room, declared the hinges insulting, replaced them, added an iron loop, and charged me four bits for materials after refusing labor payment.
 
@@ -936,9 +834,7 @@ Lock the chest.
 
 Then lock the room behind us.
 
-No one tells me to.
-
-No one keeps the other key.
+No one tells me to. No one keeps the other key.
 
 Mine.
 
@@ -1006,8 +902,6 @@ Mine taps his wrist.
 
 Not hard.
 
-Still.
-
 I freeze.
 
 He looks at the contact.
@@ -1017,10 +911,6 @@ Then at me.
 There it is again.
 
 That look.
-
-Not threatened.
-
-Not indulgent.
 
 Interested.
 
@@ -1063,8 +953,6 @@ Yet.
 The sky is clear after three days of broken cloud.
 
 Rook looks different from up here.
-
-Not prettier.
 
 More specific.
 
@@ -1144,11 +1032,7 @@ That helps.
 
 Tolliver nods.
 
-No warning.
-
-No are you sure.
-
-No list of reasons I should stay.
+No warning. No list of reasons I should stay.
 
 I look at him.
 
@@ -1218,21 +1102,11 @@ He reaches over.
 
 Palm up on the stone between us.
 
-Not taking.
-
 Offering.
 
 I put my hand in his.
 
-Ordinary daylight relationship proof.
-
-No wall.
-
-No bed.
-
-No one naked.
-
-Still dangerous.
+Still dangerous in daylight.
 
 “What do I call you?” he asks.
 
@@ -1260,10 +1134,6 @@ I open my measure.
 
 The familiar awareness settles over me.
 
-Not words floating in the air.
-
-Not a game window.
-
 A pattern I know how to attend to now.
 
 Level Six.
@@ -1280,9 +1150,7 @@ Controlled Release sitting in the strange place where learned judgment has becom
 
 Blank origin.
 
-That still bothers me.
-
-Less than it did.
+It bothers me less than it did.
 
 I used to look at the empty place and see proof that I belonged nowhere.
 
@@ -1357,8 +1225,6 @@ Somewhere beyond Greyward, Elena may be alive.
 Somewhere under a ridge, another old station waits.
 
 None of those things are mine yet.
-
-That is the point.
 
 I fold the contract and tuck it into my notebook.
 
