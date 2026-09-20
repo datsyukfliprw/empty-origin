@@ -32,19 +32,13 @@ Pell brings Rusk, who does not sit.
 
 "Then I need the rig terms after tomorrow."
 
-Rusk looks at the papers on the table rather than at Pell, which is its own kind of answer. "My terms were departure or standing time."
+Rusk looks at the papers instead of Pell. "My terms were departure or standing time."
 
-"Today is already paid under the lift."
+"Tomorrow finishes the minimum," Pell says. "After that, I need the shear legs here."
 
-"Today is."
+"Then you need money."
 
-"And tomorrow finishes the minimum."
-
-"It does."
-
-Pell folds her hands. "After that, I need the shear legs here."
-
-"Then you need money," Rusk says, and smiles in a way that has nothing warm in it. I look at the empty place where Vey usually sits. The ten pieces against his wool fall due when the lift is finished, and beyond that the house has promised nobody anything.
+Rusk smiles without warmth. I look at the empty place where Vey usually sits. The ten pieces against his wool fall due when the lift is finished, and beyond that the house has promised nobody anything.
 
 Dain slides the boundary sheet across to me before I can finish assembling a debt I do not own.
 
@@ -82,11 +76,9 @@ Harra looks at me. I look at Dain. He shrugs and says the cup was already dented
 
 ---
 
-Everyone keeps telling me we cannot use the upper gallery without me, and then, in the most useful way possible, they spend the morning proving it is a lie.
+Being barred from the gallery turns out not to make me essential to it. Mara reads Iven's slate, Dain records width, Harra works the instrument, Oret watches the outlet pulse, and Tolliver calls the collector level. Renn carries the slips between them with the cheerfulness of a man whose job involves stairs instead of judgment. Sella fills whatever gap is left while making certain nobody decides a test requires a hero.
 
-Mara reads Iven's slate. Dain records the width marks. Harra works the instrument. Renn carries messages up and down the outside stair with the cheerfulness of a man who has found a job that involves no thinking and a great deal of walking. Oret watches the outlet pulse with a staff. Tolliver stands at the upper collector and calls the water level. Sella does most of these things at various points while also making certain that nobody decides a test requires a hero.
-
-My job is the table. I hate the table until the first numbers come down.
+My job is the table. I hate it until the first numbers come down.
 
 Renn puts Dain's slip beside Oret's. Boundary narrow, outlet low. Iven reports the gray door still visible, the uncovered window bright, no change in the tank since dawn. Tolliver's note follows: collector high by two finger-widths after the night rain. I set the three of them side by side and something in my chest sharpens.
 
@@ -108,13 +100,11 @@ The next interval is wider. Oret records a pulse at the outlet shortly before th
 
 ---
 
-At midday Harra sends down the first object, not through the boundary but to the edge of it. The chalked slat goes onto the probe and advances until its nose sits almost at the dark line. Dain marks the extension. Harra withdraws.
+At midday Harra puts the chalked slat on the probe and advances it to the edge. Dain records the extension. During a wider interval, the same reach carries more of the slat into Iven's view.
 
-Then they do it again during a wider interval, and the same extension reaches farther before the slat disappears from our view.
+That settles one argument. The opening is not a fixed doorway we are failing to measure correctly; the connection itself moves.
 
-Nobody crosses. The measurements are enough to prove the thing I have been trying not to think about since the cord fell: the moving edge is not a door swinging on a fixed hinge. The boundary itself changes where the connection exists.
-
-I knew that yesterday. Seeing it in two columns still tightens my stomach, because I can still see the linen lying slack on the floor with the end curled against Iven's boot, and Elena's rope coming back shorter than the length she paid out.
+I knew that yesterday in the way you know something after watching a cord fall in two pieces. Seeing it in Dain's columns makes my stomach tighten anyway.
 
 "Next test," I say.
 
@@ -148,13 +138,13 @@ Her disappointment arrives instantly and without disguise.
 
 She thinks about that for a moment, then allows, "Still counts," and goes back down the yard at a speed I resent.
 
-I put the cloth marker on the table with the boundary sheets. Not because it belongs in the measurements. Because Bera's field is why the rig is here at all, and a problem gets beautiful far too easily once it stops belonging to anybody.
+I put the cloth marker beside the boundary sheets. It does not belong in the measurements. That is why I leave it there. The numbers have been getting easier to care about than Bera's drowned rows.
 
 ---
 
-By afternoon we have three observed widenings and two narrowings. Not enough for a law, but enough to kill one. Time of day predicts nothing. The widest interval comes earlier than the second, the third arrives later and closes faster, and there is no clean period anywhere in the numbers.
+By afternoon we have three widenings and two narrowings, enough to kill the idea that time of day predicts anything. The widest interval comes first; the third arrives later and closes faster.
 
-Oret's pulses at the old junction are better. Not perfect. Better. Before each widening he records a pressure change in the loaded old works, though the delay is never the same twice, and the boundary keeps widening after the pulse peaks and starts to contract while the outlet is still falling.
+Oret's outlet readings are more useful. Each widening follows a pressure change in the loaded old works, but the delay shifts, and the boundary keeps opening after the pulse peaks before beginning to contract while the outlet is still falling.
 
 "Hysteresis," I say.
 
@@ -172,21 +162,19 @@ I write it without the word. A rising threshold and a falling threshold, differe
 
 ---
 
-The next test uses the copper strip, which Harra has filed with two shallow notches, one near each end. We measure from our side. Iven measures from his with his rule. The strip never spans the boundary. First we advance from Rook until the far notch vanishes, and later, during another interval, Iven extends his bed-frame messenger with a chalked tag tied near the hook and tells us where our mark falls against his landing stones.
+The copper-strip test gives us measurements from both sides without ever spanning the boundary. Harra advances her notched strip from Rook; later Iven uses his bed-frame messenger and landing stones to give us a second reference.
 
-Two independent references. Still not a bridge. Still enough.
+It is enough to settle the next question.
 
-The dimensions of the room he is living in match.
-
-Not approximately, in the way frightened people want things to match. The window wall, the gray door, the stair landing and the side passage produce a plan that Oret recognizes across a kitchen table when he comes in after dusk with mud to the elbows.
+The dimensions of his rooms match the old Fallow Reach service floor closely enough that Oret recognizes the plan across the kitchen table when he comes in after dusk with mud to the elbows.
 
 Dain has drawn the old Fallow Reach service floor from Oret's memory on one sheet and Iven's rooms on another. We lay them together. The stair turns the right way. The wall thickness is right. The dead side passage sits where Oret says there was once a pressure room. The gray door occupies a place where the station plan had a freight opening before he was born.
 
 Somebody changed it. Somebody carried pieces of my world into an abandoned works station nine days from here and fitted them into a wall.
 
-But the station is ours. This world. I trace the two moons Iven drew beside his window with one finger and there is no argument left anywhere in me to make.
+But the station is here. This world. I trace the two moons Iven drew beside his window and wait for that fact to hurt harder than it does.
 
-I thought grief would feel larger when it became official. Instead I mostly want to know who put the fucking EXIT sign there.
+Mostly I want to know who put the fucking EXIT sign there.
 
 ---
 
@@ -194,11 +182,9 @@ I thought grief would feel larger when it became official. Instead I mostly want
 
 The interval has begun widening again and Iven is ready. We have agreed on the wax tablet, because if the edge cuts it, wax will hold the shape of the cut better than cord did.
 
-We keep the line, our hands, and every part of every body outside the marked danger distance. Harra advances the tablet on the fork until part of it becomes visible to Iven, and he signals, and Dain records the extension. Then we wait.
+Every hand and body stays outside the marked danger distance. Harra advances the wax tablet until Iven can see part of it, then holds the fork fixed while the opening widens across it.
 
-The edge widens further. More of the tablet appears. Harra does not advance it by so much as a finger, which is the whole point: the connection is moving across a stationary object rather than the object moving into the connection.
-
-Dain calls the first contraction mark. Harra withdraws one measured increment. The tablet stays visible. Another contraction, another withdrawal, still visible. On the third the edge catches it, and the near half drops onto our chamber floor while Iven's half lands on his side, parted along a clean diagonal with no pulling and no twist anywhere in the break.
+When contraction begins, she withdraws by the agreed increments. The tablet survives the first two. On the third, the edge catches it. Our half drops to the chamber floor and Iven's lands on his side, divided on a clean diagonal without pull or twist.
 
 Harra had drilled a tiny hole near the center and filled it with black pigment.
 
@@ -280,7 +266,7 @@ She pushes off the hearth and comes to stand beside my chair, and her fingers br
 
 ---
 
-The clerk pays today's eight bits separately, because the extension begins tomorrow and Mara is incapable of letting two agreements touch each other. I sign the new paper before bed. Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty. My handwriting looks less like a ransom note than it did a week ago, which I choose to record as progress.
+The clerk pays today's eight bits separately because the extension begins tomorrow and Mara refuses to let two agreements blur together. I sign the new paper before bed: Maya Szczepaniak. Two days. Sixteen bits total. No new crossing duty. My handwriting looks less like a ransom note than it did a week ago.
 
 Upstairs I open the measure.
 
@@ -300,6 +286,8 @@ Sella brings the fare sheet and sits on the edge of the bed while I read the num
 
 She watches me. I tap the price with one finger, and she says, "I noticed," and neither of us builds anything on top of it.
 
-Outside, chain links settle under load in the dark. Nine days from here, an abandoned station holds a man behind a boundary that cuts rope and wax and does not care which side of it anybody is standing on. Not Earth. Not home. The pain of that is still exactly where it was this afternoon.
+Outside, chain links settle under load in the dark. Nine days from here, an abandoned station holds a man behind a boundary that cuts rope and wax without caring which side anybody stands on. It is not Earth, and knowing that still hurts.
 
-So is the fare sheet. I fold it once and put it with my own papers.
+The fare sheet is still in my hands.
+
+I fold it once and put it with my own papers.
