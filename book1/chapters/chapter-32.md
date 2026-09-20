@@ -80,7 +80,7 @@ Then a third time, because getting transported to another world has not cured me
 
 “Do not spread it around.”
 
-I look at Tolliver's sheet.
+I look at Tolliver’s sheet.
 
 He covers it with one hand.
 
@@ -152,7 +152,7 @@ Then at Pell.
 
 “If the contract owes me a cart and I choose not to use it, I want the equivalent fare credited toward my room here.”
 
-Pell's expression changes.
+Pell’s expression changes.
 
 Barely.
 
@@ -200,7 +200,7 @@ Pell rubs one hand over his mouth.
 
 “I also accept impressive.”
 
-Tolliver's mouth moves.
+Tolliver’s mouth moves.
 
 I kick him under the table.
 
@@ -276,7 +276,7 @@ Mara turns the next page.
 
 My attention snaps up.
 
-Vey's humor disappears.
+Vey’s humor disappears.
 
 Elena Ruth Mercer has been in this room for months without physically being in it.
 
@@ -320,7 +320,7 @@ Interesting.
 
 Mara rests two fingers on the linen.
 
-“Elena's personal effects remain Elena's. The card stays in recorded custody here unless she returns, sends lawful instruction, or a higher authority orders otherwise.”
+“Elena’s personal effects remain Elena’s. The card stays in recorded custody here unless she returns, sends lawful instruction, or a higher authority orders otherwise.”
 
 “And my copy?”
 
@@ -352,7 +352,7 @@ I know there is probably a version of Independence where people are standing in 
 
 For one dangerous second I can almost put my hand through the paper.
 
-Then Tolliver's thumb moves once against the side of my boot.
+Then Tolliver’s thumb moves once against the side of my boot.
 
 Tiny pressure.
 
@@ -382,11 +382,11 @@ Mara brings out the last packet.
 
 This one is thicker.
 
-Iven's testimony.
+Iven’s testimony.
 
-Harra's measurements.
+Harra’s measurements.
 
-Dain's diagrams.
+Dain’s diagrams.
 
 My notes.
 
@@ -408,7 +408,7 @@ Not very sorry.
 
 “What happens to her claim?” I ask.
 
-Pell's mouth flattens.
+Pell’s mouth flattens.
 
 “Hearing in Greyward when the district clerk can take it.”
 
@@ -430,7 +430,7 @@ Good enough. Rusk leaves with a claim to metal nobody is currently touching and 
 
 I can live with that.
 
-Especially because I am about to become someone else's paperwork problem.
+Especially because I am about to become someone else’s paperwork problem.
 
 Mara taps the top page.
 
@@ -502,7 +502,7 @@ Dain is not here because sensible people avoid payroll meetings.
 
 Mara pulls another sheet from beneath the diagram.
 
-This one is older than Elena's. Local.
+This one is older than Elena’s. Local.
 
 Copied from a Rook route register.
 
@@ -690,7 +690,7 @@ If you take it.
 
 My chest does something inconvenient.
 
-I look at Harra's empty chair.
+I look at Harra’s empty chair.
 
 “Harra?”
 
@@ -780,7 +780,7 @@ The copied Missouri card lies in the top tray beneath my notebook.
 
 My coins are split between my purse and a cloth packet under the tray because I have finally learned not to carry every asset on my body like a game character with infinite inventory.
 
-Sella's badly folded shirt is still on the chair.
+Sella’s badly folded shirt is still on the chair.
 
 I leave it there.
 
@@ -960,7 +960,7 @@ The repaired drainage channel catches the last light beyond the lower field.
 
 Water moves where it is supposed to move.
 
-Pell's people are still arguing over the final retaining stones.
+Pell’s people are still arguing over the final retaining stones.
 
 A cart comes through the gate with flour.
 
@@ -1244,7 +1244,7 @@ I stand.
 
 Shield in one hand.
 
-Tolliver's hand in the other for exactly three steps, until Harra yells at us to stop being useless and help with the inventory.
+Tolliver’s hand in the other for exactly three steps, until Harra yells at us to stop being useless and help with the inventory.
 
 Home, apparently, has chores.
 
