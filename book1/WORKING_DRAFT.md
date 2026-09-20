@@ -6952,7 +6952,7 @@ Her eyebrows rise.
 
 “What?”
 
-“I contain multitudes.”
+“Apparently I have range.”
 
 She laughs once, then stops when I kiss down the center of her chest.
 
@@ -10722,11 +10722,11 @@ Her face softens.
 
 "I don't want you to feel temporary."
 
-"I know."
+"Then don't make promises for me because you're afraid I'll leave."
 
-"That is worse."
+That lands exactly where it should.
 
-"Yes."
+"Okay."
 
 She bends and kisses me.
 
@@ -10922,13 +10922,9 @@ Mara points at me. "Do not test it."
 
 "I moved my toes."
 
-"You had the face."
+"You were about to do more."
 
-"What face?"
-
-"The one before you do something foolish."
-
-Sella says, "She has several."
+Sella says, "She absolutely was."
 
 Tolliver is looking at me even though he cannot see the measure.
 
@@ -11084,17 +11080,13 @@ Sella turns her face and kisses the inside of my wrist.
 
 "I wasn't."
 
-"You were making the face."
-
-"What face?"
-
-"The one before you do something foolish."
+"You were already halfway through tomorrow."
 
 I stare down at her.
 
-"Mara said that."
+"That is an accusation."
 
-"Mara is wise."
+"It is an observation."
 
 "Treason everywhere."
 
@@ -11400,9 +11392,9 @@ I make three laps of the kitchen because freedom has become humiliatingly small.
 
 "You limped less on the second lap."
 
-I stop. "That is rude."
+I stop. "You were not invited to audit my limp."
 
-"Yes."
+"Still true."
 
 He puts down the line.
 
@@ -11624,7 +11616,7 @@ On the third morning, the mender lets me walk to the yard and back. The ankle st
 
 "Because you turn permission into philosophy."
 
-Fair.
+Unfortunately, that tracks.
 
 "If pain sharpens, you are out."
 
@@ -12594,7 +12586,7 @@ Perfect. I confess love with a rescue crew waiting twenty steps away.
 
 "You schedule nothing."
 
-Fair.
+She has me there.
 
 She catches my face and kisses me.
 
@@ -13280,7 +13272,7 @@ For today, that is enough.
 
 CHAPTER THIRTY
 
-Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. Fair. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
+Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. I cannot defend myself. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
 
 Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella's pack is beside the west wall. Bad.
 
@@ -13326,7 +13318,7 @@ Good man. The mender raises one eyebrow.
 
 "Thank you."
 
-She points at me. "You are the stupid part." Also fair. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
+She points at me. "You are the stupid part." She has a point. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
 
 Sella leads us to the low wall beside the east herb beds. Tolliver lowers me onto it, careful with the bad foot. Sella puts my pack beneath my heel. He straightens.
 
@@ -13558,7 +13550,7 @@ I laugh. It comes out broken. She leans in until our foreheads touch. For anothe
 
 "Useless answer."
 
-"Fair."
+"You're right."
 
 She kisses me. Not hard. Not desperate. Slow enough that my mouth recognizes every part of it. Her lower lip. The small catch in her breathing when I touch her cheek. Her fingers sliding into my hair and staying there. My body remembers bed with brutal precision. Her thigh over mine. Her mouth lower. My hands on her hips. This kiss does not try to become sex. It is trying to remember itself. When she pulls back, neither of us is dry-eyed. She wipes my face with her sleeve.
 
@@ -14212,7 +14204,7 @@ His eyebrows rise.
 
 "You're not allowed to be stupid with it."
 
-"Fair."
+"Accepted."
 
 He stands and unties them. I watch. Every bit of composure he stole from me becomes revenge fuel. He is hard. Very. My mouth goes dry. Tolliver catches exactly where I am looking.
 
@@ -14490,7 +14482,7 @@ I blink.
 
 "You asked for truth."
 
-Fair. He looks at the ceiling.
+That lands cleanly. He looks at the ceiling.
 
 "I don't know what I can live with until I'm living with it."
 
@@ -14534,7 +14526,7 @@ His eyes move across my face.
 
 "It is not obvious to you."
 
-Rude. Correct.
+Accurate enough to sting.
 
 "I communicate through atmosphere."
 
@@ -14584,11 +14576,11 @@ One eyebrow rises.
 
 "I thought you wanted me in control."
 
-"I contain multitudes."
+"Both can be true."
 
-"That phrase again."
+"Convenient."
 
-"Get used to it."
+"Extremely."
 
 I swing a leg over him. He lets me. For now. The knowledge makes me smile. Tomorrow I will still be Level Six. Warder. Homesick. In love with a woman somewhere on the east road. Falling harder for the man beneath me. Still mine, even when I choose not to be.
 
@@ -14702,7 +14694,7 @@ The shield is not present to defend itself. We settle at twenty-eight bits in ca
 
 "Yes."
 
-She nods. Fair. I slide three pieces and four bits back across for the room. The rest goes into my purse. It is heavier than any amount of money I have owned here. Not enough to make me rich. Enough that tomorrow does not belong to whoever feeds me. Mara turns the next page.
+She nods. She knows exactly why. I slide three pieces and four bits back across for the room. The rest goes into my purse. It is heavier than any amount of money I have owned here. Not enough to make me rich. Enough that tomorrow does not belong to whoever feeds me. Mara turns the next page.
 
 "Now the card."
 
@@ -14792,7 +14784,7 @@ The door opens behind us. Iven walks in carrying a cup. Actually walks. Slowly. 
 
 "That does not improve them."
 
-Rude. He points at the symbol.
+I take that personally. He points at the symbol.
 
 "I thought it was a mason mark. Dain says it is not."
 
@@ -14886,11 +14878,11 @@ Vey looks almost proud.
 
 "Good."
 
-"Do not make that face."
+"Do not look pleased with yourself."
 
-"What face?"
+"I am merely attentive."
 
-"The one where you take credit for me becoming difficult."
+"You're taking credit for me becoming difficult."
 
 "I would never."
 
@@ -15124,7 +15116,7 @@ His eyebrows lift.
 
 "You planned that."
 
-"I contain multitudes."
+"I occasionally plan ahead."
 
 He groans. Below us, Harra shouts that if we are really taking the ridge job, she wants two pack frames, a proper rope inventory, and written authority to refuse any idiot who tries to make her carry decorative iron. I lean over the wall.
 
