@@ -468,7 +468,7 @@ Slowly.
 
 Still too thin.
 
-Still grey around the eyes.
+Still gray around the eyes.
 
 Alive enough to be annoyed by stairs.
 
