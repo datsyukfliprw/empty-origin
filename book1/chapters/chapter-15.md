@@ -70,7 +70,7 @@ I take the broken chalk and give her the larger piece.
 
 We tell him very little before the light begins to narrow.
 
-Both sons are living. Mara can bring news. Dain is at the wheel, holding the present setting. No one has entered the chamber. The letters on his board say he has food and water, that he cannot reach the arch from where he stands without stepping beyond the rail onto a section of stair we cannot see.
+Both sons are living. Mara can bring news. Dain is in charge of the wheel, and the present setting is clamped. No one has entered the chamber. The letters on his board say he has food and water, that he cannot reach the arch from where he stands without stepping beyond the rail onto a section of stair we cannot see.
 
 *Missing below third.*
 
@@ -78,7 +78,7 @@ He underlines it. I picture the fourth step we counted in the mirror and ask Dai
 
 “Could be a break across it. Could be another flight. Ask him to show us tomorrow. No guessing with feet.”
 
-Tomorrow goes through Mara visibly.
+Mara’s fingers tighten on the slate at the word *tomorrow*.
 
 “We can’t leave him there.”
 
@@ -288,7 +288,7 @@ He hands me the pages and goes downstairs. I have to move aside to let him pass.
 
 I want to call him back.
 
-I wasn’t prepared to want Sella and still hate the shape of his back going away. One feeling has not had the courtesy to cancel the other.
+If Sella asked me tomorrow, I would still say yes. My chest aches anyway as Tolliver disappears down the stairs.
 
 I open my door instead. My measure blurs the first time I try to read it.
 
@@ -562,7 +562,7 @@ On my table lies the sketch we made from Iven’s measurements. The broken stair
 
 I set my candle beside it and take out a clean page.
 
-Tomorrow he can show us what is beyond that door. He has been living there for an amount of time neither of us can name, deciding which packets are safe and listening to noises beyond boarded windows. I have been asking him whether there is a way home.
+Tomorrow he can show us what is beyond that door. He has been living there for an amount of time neither of us can name, deciding which packets are safe and listening to noises beyond boarded windows. I have spent days looking past him for a way home.
 
 At the top of the page I write a different question to show him first.
 
