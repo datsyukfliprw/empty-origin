@@ -330,13 +330,7 @@ Tolliver looks at Pell, not me.
 
 “I thought you should have a copy because Holt and Rusk are working the same road.”
 
-Costly transparency.
-
-Not romantic.
-
-Not for me.
-
-Useful anyway.
+Useful before it is anything else.
 
 That is probably why it lands so hard.
 
@@ -716,11 +710,7 @@ He nods.
 
 “Tell me if it becomes worse.”
 
-No touching.
-
-No argument.
-
-No decision made for me.
+He leaves the decision with me.
 
 I hate how much I notice.
 
