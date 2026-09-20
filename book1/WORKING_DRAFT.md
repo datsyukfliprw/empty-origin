@@ -7240,7 +7240,7 @@ It surprises me to discover that I am.
 
 The first water is brown and slow, a thin tongue pushing dead leaves ahead of it. Harra works a knot of roots loose. I lift my end of the screen while she shifts hers into the next slot, then lower it again when the overlap is restored.
 
-No reserve. Just work.
+Nothing powered. Just work.
 
 She nods once without taking her eyes off the bar.
 
@@ -7896,7 +7896,7 @@ The room goes quiet enough that I can hear the mill. Then Iven raises his half t
 
 ENOUGH.
 
-Mara laughs first, not because anything is funny, but because her brother is still there and still has opinions about our experiments. She presses both hands over her face and says the word back to him, and Dain sends the stop board.
+Mara laughs first. Her brother is still there and still opinionated enough to tell us when to stop. She presses both hands over her face and says the word back to him, and Dain sends the stop board.
 
 ---
 
@@ -7996,7 +7996,7 @@ I fold it once and put it with my own papers.
 
 CHAPTER TWENTY-ONE
 
-The fields begin draining before I am allowed out of bed. Not all of them, and not quickly, but enough that Bera comes into the kitchen with mud to her knees and puts a cabbage on the table in front of Pell.
+The fields begin draining before I am allowed anywhere near them. Not all of them, and not quickly, but enough that Bera comes into the kitchen with mud to her knees and puts a cabbage on the table in front of Pell.
 
 It is a terrible cabbage. Yellow outer leaves, one side split open, a slug still attached to the stem. Pell looks at it the way you would look at a crown.
 
@@ -8016,9 +8016,7 @@ The drainage throat still hangs from Rusk's chain. New stone supports stand unde
 
 ---
 
-My last required day off rough ground lasts until midday.
-
-The mender comes after breakfast and makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
+Late that morning the mender comes to reassess the ankle. She makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
 
 "Again."
 
@@ -8026,9 +8024,9 @@ The mender comes after breakfast and makes me walk the length of the west passag
 
 "Again."
 
-I turn. The ankle is stiff and weak rather than sharp, which is apparently the distinction the whole morning depends on. Flat and centered, it holds. Rolled outward, it answers.
+I turn. The ankle is stiff and weak instead of sharp, a distinction the mender cares about much more than I do. Flat and centered, it holds. Rolled outward, it answers.
 
-"No field," she says. "No shield practice. No stairs if somebody else can carry the message."
+"No field," she says. "No shield practice. No gallery stairs. Three steps with a rail if someone is beside you. No more."
 
 "I know. I know. I know."
 
@@ -8042,7 +8040,7 @@ She stares at me long enough that I start to feel examined again.
 
 "You've developed bruising."
 
-She allows flat indoor walking, and short stairs tomorrow if the swelling stays down. I take that as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
+She keeps me to flat indoor walking otherwise. I take the three-step exception as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
 
 ---
 
@@ -8120,7 +8118,7 @@ Harra straightens off the wall. "Sell?"
 
 "Then enjoy being unrobbed."
 
-They argue about it for six minutes, and it is beautiful, not because of the numbers but because for the first time in days the argument is about equipment rather than about whether another human being belongs to whoever is holding the paperwork. They settle at two pieces and four bits.
+They argue about it for six minutes, and it is beautiful. For once the price is attached to iron: chain, hook, rust, a missing keeper. They settle at two pieces and four bits.
 
 Twenty bits. Pell has almost nothing loose. I do.
 
@@ -8148,13 +8146,13 @@ By the end Pell pays eight bits from the house's free cash, Vey eight, Mara four
 
 "Hook's missing a keeper."
 
-Harra snatches the coins before she can reconsider. The block becomes Rook's, and the captain leaves before sunrise the next morning, and what Rook has bought is exactly the thing sitting on the floor: a used piece of equipment with somebody else's grease still in the links. Not Rusk's labor. Not a claim on what she can do next. Not a season of access to anything.
+Harra snatches the coins before she can reconsider. The block belongs to Rook. Rusk is still leaving before sunrise.
 
-I think that is why Pell looks happier about it than she did when the fields started draining.
+Pell looks happier about that than she did when the fields started draining.
 
 ---
 
-Tolliver finds me in the pantry passage after supper, carrying the fare sheet and three copies of the station plan, because flat indoor walking has apparently converted me into a clerk with ambitions.
+Tolliver finds me in the pantry passage after supper, carrying the fare sheet and three copies of the station plan, because flat indoor walking has converted me into a clerk with ambitions.
 
 He takes two of the sheets out of my hands.
 
@@ -8212,7 +8210,7 @@ My stomach hardens. He does not soften any part of it for me.
 
 "Yes."
 
-I stare at him and he lets me do it, and the worst part is how much of the last ten days rearranges while I stand there. A man who decided where I would sleep because deciding felt like protection. A captain who wanted custody in writing. The same shape, wearing different coats.
+I stare at him and he lets me do it, and the worst part is how much of the last ten days rearranges while I stand there. He decided where I would sleep because he thought he knew better. Rusk wanted custody in writing. He gave a father the location of a daughter who had run. My brain stacks the three together whether I want it to or not.
 
 "That is why you wanted the wagon owner's name."
 
@@ -8246,7 +8244,7 @@ I want to touch him badly enough that not doing it takes effort, and I don't, an
 
 ---
 
-Sella is waiting on the roof. Not the pantry roof where we sat with the onions between us, but the lower drying roof above the west kitchen, reached by three indoor steps and a door the mender has reluctantly approved.
+Sella is waiting at the three-step stair to the lower drying roof above the west kitchen, exactly where the mender said somebody had to be. Not the pantry roof where we sat with the onions between us. This one is three steps, a rail, and a door the mender has reluctantly approved.
 
 She has two blankets, a bottle of watered wine, and the cabbage.
 
@@ -8280,7 +8278,7 @@ She gives me half the bread. Out past the yard, Rusk's shear legs stand dark aga
 
 "I can't promise east," I say.
 
-Her face does not change, so I keep going, because stopping here would be cowardice wearing caution's coat. "I want to. I want to see it. I want to see the coast. I also want to get Iven out, and I want to know who built that station, and I don't know what happens with Tolliver."
+Her face does not change, so I keep going before I can pretend that sentence was enough. "I want to. I want to see it. I want to see the coast. I also want to get Iven out, and I want to know who built that station, and I don't know what happens with Tolliver."
 
 "There it is."
 
@@ -8300,7 +8298,7 @@ She eats another piece of cabbage while I look at her.
 
 "Then tell me what you can give me."
 
-I look at our knees under the blanket. Truth has become a recurring expense this week, and I am running out of ways to pretend I can put off paying it.
+I look at our knees under the blanket. I have already answered this question three safer ways in my head, and every one of them is bullshit.
 
 "The next two days. After that, if Iven isn't out, I stay until we get him or until the attempt becomes impossible."
 
@@ -8316,7 +8314,7 @@ She nods. "And if he is out?"
 
 I swallow. "Yes."
 
-Her eyes close briefly, and it is not relief exactly, more like something that had been holding still for a long time deciding it is allowed to stop. When she opens them I tell her I still don't know what any of it means about Tolliver, and she says she knows, and that she still wants east even if I don't come, and I say okay, and she says okay, and the word turns out to be small enough to carry.
+Her eyes close briefly. Her shoulders loosen on the breath she lets out. When she opens them I tell her I still don't know what any of it means about Tolliver, and she says she knows, and that she still wants east even if I don't come. I say okay. She says okay. We leave it there.
 
 ---
 
@@ -8358,7 +8356,7 @@ The bruises from the reed-jack have gone yellow at the edges. I saw them when th
 
 "Not like that."
 
-I leave my hand there anyway, and she covers it with hers, and for a moment neither of us moves. Then she lifts my fingers and kisses my palm, and the tenderness of it lands somewhere far more dangerous than anything else she has done tonight, and I pull her down with me.
+I leave my hand there anyway, and she covers it with hers, and for a moment neither of us moves. Then she lifts my fingers and kisses my palm. That hits harder than the hand under my tunic did, which is unfair enough that I pull her down with me.
 
 She braces one knee on the mattress, keeps her weight clear of my ankle without making an announcement of it, and kisses me until my head is empty enough to stop planning tomorrow. Her mouth moves to my throat. My hands find her waist, and then lower, and she makes a quiet sound when I squeeze.
 
@@ -8442,7 +8440,7 @@ She lowers her arm from her eyes and looks at the ceiling for long enough that I
 
 "I'm not used to someone asking twice."
 
-The sentence is not about bruises, and I know enough by now not to turn it into a speech. "Then I will," I say, and she says that is annoying, and I agree that it is frequently annoying, and she reaches for my hand and puts it back over the bruise herself. No pressure. Just there.
+I keep my hand where she put it. "Then I will," I say, and she says that is annoying, and I agree that it is frequently annoying, and she reaches for my hand and puts it back over the bruise herself. No pressure. Just there.
 
 After a while she says, "If we go east, I won't pay your fare."
 
@@ -8458,7 +8456,7 @@ After a while she says, "If we go east, I won't pay your fare."
 
 "That is what worries me."
 
-I laugh into her shoulder. The future does not become simple, lying there. It becomes visible, which is not the same thing and is considerably better than it was this morning. She said *if we go east*, not *if you do*, and I hear it and do not say so, because the word feels like something I could break by handling it.
+I laugh into her shoulder. Lying there does not decide anything about Tolliver, Rook, or east. It does let me picture a future with Sella in it without pretending the rest is settled. She said *if we go east*, not *if you do*. I hear it and keep my mouth shut.
 
 ---
 
