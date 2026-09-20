@@ -20,7 +20,7 @@ The drainage throat still hangs from Rusk's chain. New stone supports stand unde
 
 ---
 
-My last required day off rough ground lasts until midday.
+At midday, after two days off rough ground, the mender comes to reassess the ankle.
 
 The mender comes after breakfast and makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
 
@@ -32,7 +32,7 @@ The mender comes after breakfast and makes me walk the length of the west passag
 
 I turn. The ankle is stiff and weak rather than sharp, which is apparently the distinction the whole morning depends on. Flat and centered, it holds. Rolled outward, it answers.
 
-"No field," she says. "No shield practice. No stairs if somebody else can carry the message."
+"No field," she says. "No shield practice. No gallery stairs. Three steps with a rail if someone is beside you. No more."
 
 "I know. I know. I know."
 
@@ -46,7 +46,7 @@ She stares at me long enough that I start to feel examined again.
 
 "You've developed bruising."
 
-She keeps me to flat indoor walking. Short stairs tomorrow if the swelling stays down. I take that as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
+She keeps me to flat indoor walking otherwise. I take the three-step exception as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
 
 ---
 
@@ -250,7 +250,7 @@ I want to touch him badly enough that not doing it takes effort, and I don't, an
 
 ---
 
-Sella is waiting on the roof. Not the pantry roof where we sat with the onions between us, but the lower drying roof above the west kitchen, reached by three indoor steps and a door the mender has reluctantly approved.
+Sella is waiting at the three-step stair to the lower drying roof above the west kitchen, exactly where the mender said somebody had to be. Not the pantry roof where we sat with the onions between us. This one is three steps, a rail, and a door the mender has reluctantly approved.
 
 She has two blankets, a bottle of watered wine, and the cabbage.
 
