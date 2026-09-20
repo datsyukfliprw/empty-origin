@@ -120,7 +120,7 @@ Fourteen. Her level is fourteen. My arms are still shaking from a load she carri
 
 The woman comes back down the plank. There is no contempt anywhere in her, and no interest either, and I would take contempt.
 
-"How," I say.
+"How?" I say.
 
 She looks at me. She looks at the sack going up on the next shoulder, and at my hands, and I watch her try to find the beginning of an answer to a question nobody has ever asked her.
 
@@ -154,7 +154,7 @@ There are five people in front of her and one of them is a man with a cart of sa
 
 I go around to the end of her table and stop beside it, out in the open where the man with the cart can see me and she can see me and neither of them has to wonder what I am doing.
 
-"Do you want the salt off him or do you want the peas," I say.
+"Do you want the salt off him or do you want the peas?" I say.
 
 She turns her head about four inches.
 
@@ -170,7 +170,7 @@ Everything I have is in the ten seconds after that, and I know it, and what come
 
 I have no earthly idea whether a piece is a fortune or an insult, and *do not accept a first price* is a rule I have been carrying around since yesterday morning like a stone in a pocket, and I accept the first price in something under two seconds.
 
-"What's the boy want."
+"What's the boy want?"
 
 "Two cards of thread and he's got the money in his fist and he's been standing there since I got here."
 
@@ -220,7 +220,7 @@ She is not looking at my hand. She is looking about two feet above my hair.
 
 "Sorry?"
 
-"Who receives." She holds the coin back. "You're Household, girl."
+"Who receives?" She holds the coin back. "You're Household, girl."
 
 My palm stays open beneath the coin. I pull it back before she can look down at it.
 
@@ -234,7 +234,7 @@ My palm stays open beneath the coin. I pull it back before she can look down at 
 
 "I earned it."
 
-"You did," Ordway says again, and she means every word of it. "And it's not yours to take off my table, and it's not mine to put in your hand, and if I do it, then some day this week whoever answers for you comes and stands where you're standing and asks me what I paid you and how long you were behind my table and whether I knew you were out without leave. I've had that man at my table. He had a stick." She sets the coin down on the boards in front of her, where I can see it. "It's not you I'd be paying. It's your house I'd be taking from."
+"You did," Ordway says again, and she means every word of it. "And it's not yours to take off my table, and it's not mine to put in your hand, and if I do it, then someday this week whoever answers for you comes and stands where you're standing and asks me what I paid you and how long you were behind my table and whether I knew you were out without leave. I've had that man at my table. He had a stick." She sets the coin down on the boards in front of her, where I can see it. "It's not you I'd be paying. It's your house I'd be taking from."
 
 Somebody two stalls down is laughing. A dog noses among the peas, and Ordway glances toward it without moving the coin.
 
