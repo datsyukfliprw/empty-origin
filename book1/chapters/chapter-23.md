@@ -142,7 +142,7 @@ Pell's laugh disappears.
 
 "Then the price is four."
 
-Harra folds the notice. I look at the severed frame on the table and feel something in me go hot and helpless.
+Harra folds the notice. I look at the severed frame and curl my fingers against the table edge until the wood bites.
 
 Rusk has found a way to make Iven's rescue touch her claim without touching the rescue itself. She can call it salvage law, ordinary price, examination rights, whatever respectable words she likes. The result is the same: wait three days, pay four pieces, or give her a handhold on whatever we recover below.
 
