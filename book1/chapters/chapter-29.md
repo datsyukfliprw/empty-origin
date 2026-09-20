@@ -196,7 +196,7 @@ Rusk is not defeated, only contained, and I can live with that for the next hour
 
 Sella finds me alone for perhaps thirty seconds before the second attempt.
 
-Thirty seconds is apparently what romance gets today.
+Today romance gets exactly thirty seconds.
 
 I am checking the rescue belt when she takes it from my hands.
 
@@ -616,7 +616,7 @@ He looks offended, so ordinarily irritated that relief almost knocks the breath 
 
 My ankle is still screaming.
 
-The mender notices because apparently bodies have no secrets from her.
+The mender notices because bodies have no secrets from her.
 
 "You."
 
@@ -641,8 +641,6 @@ My ankle votes.
 "Fine. He can carry me."
 
 Tolliver waits.
-
-Of course he does.
 
 "Can I?"
 
