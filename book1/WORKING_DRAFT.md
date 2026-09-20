@@ -7930,15 +7930,7 @@ Then she looks at me, and Pell looks at me, and I put my pencil down because I k
 
 "I know."
 
-"I can pay you two more days at the same rate. Copy work, contact, no field duty. Food and room continue."
-
-"Sixteen bits."
-
-"Yes."
-
-"Same property terms? Same right to stop an assignment?"
-
-"Yes to both."
+"Two more days. Same rate, same terms. Copy work and contact. No field duty."
 
 "Return cart?"
 
@@ -7946,11 +7938,11 @@ Pell gives me a look that lasts long enough to become an answer on its own. "You
 
 Greyward. The word has changed shape while I was not watching it, and I have to sit with that for a second before I can make my mouth work.
 
-"Still in writing," I say.
+"Still in writing."
 
-"Still in writing." She almost smiles, and Mara pulls a fresh page toward herself without being asked.
+"Still in writing." Mara is already pulling a fresh page toward herself.
 
-Sella is leaning against the hearth with her arms folded. Tolliver sits beside the flour chest with one boot braced against it. Pell looks at them next and offers Sella two more days at the same rate, and Tolliver the same, and Tolliver asks what happens after.
+Pell offers Sella and Tolliver the same extension. Tolliver asks what happens after.
 
 Pell looks at Rusk, and Rusk picks the root off the table again. "After, I leave unless somebody hires me."
 
@@ -8016,31 +8008,15 @@ The drainage throat still hangs from Rusk's chain. New stone supports stand unde
 
 ---
 
-Late that morning the mender comes to reassess the ankle. She makes me walk the length of the west passage with one hand on the wall. I get six steps before I limp. The seventh catches, and she notices, because she notices everything.
+Late that morning the mender makes me walk the west passage with one hand on the wall. Six steps are fine. The seventh catches. The ankle is stiff and weak instead of sharp, which earns me exactly three indoor steps with a rail and another person beside me. Still no field, shield practice, or gallery stairs.
 
-"Again."
-
-"I thought this was an examination, not revenge."
-
-"Again."
-
-I turn. The ankle is stiff and weak instead of sharp, a distinction the mender cares about much more than I do. Flat and centered, it holds. Rolled outward, it answers.
-
-"No field," she says. "No shield practice. No gallery stairs. Three steps with a rail if someone is beside you. No more."
-
-"I know. I know. I know."
-
-She stares at me long enough that I start to feel examined again.
-
-"What?"
-
-"I am waiting for the argument."
+"I am waiting for the argument," she says.
 
 "I've developed character."
 
 "You've developed bruising."
 
-She keeps me to flat indoor walking otherwise. I take the three-step exception as a victory. Sella calls it being permitted to cross a room, and we disagree about scale for most of the afternoon.
+I take the three-step exception as a victory. Sella calls it permission to cross a room, and we disagree about scale for most of the afternoon.
 
 ---
 
@@ -8518,17 +8494,13 @@ Sella looks delighted. I decide to respect neither of them for the remainder of 
 
 ---
 
-We establish the abort conditions at the kitchen table, in daylight, with food in front of us. Not in the chamber. Not while anyone is frightened, and not after somebody has already put a boot somewhere it should not be.
+We establish the abort conditions at the kitchen table, in daylight, before anyone is frightened enough to renegotiate them. Dain writes the essentials large enough to read from the doorway: early contraction, pressure below threshold, anchor movement, lost visual contact, or a stop call means withdraw. No body crosses the edge. No improvising because something is almost there.
 
-Dain writes them large enough to read from the doorway. If the boundary contracts early, if the outlet drops past threshold, if an anchor moves, if visual contact is lost, or if either Harra or Iven calls stop, we withdraw. No body and no hand crosses the edge. Nobody improvises because an object is almost there.
+Mara adds one line of her own: NO SECOND TRY TODAY AFTER EQUIPMENT LOSS.
 
-Mara reads the list through twice and then adds one of her own. NO SECOND TRY TODAY AFTER EQUIPMENT LOSS.
+"You will want one," she tells Dain.
 
-Dain looks up. "What?"
-
-"You will want one."
-
-He thinks about that for a moment, which is more consideration than I expected, and then writes it down. I love her a little for it.
+He writes it down. I love her a little for it.
 
 ---
 
@@ -8754,11 +8726,9 @@ The difference is small enough to miss, and I don't miss it. He brings me the st
 
 ---
 
-The house extends all three of us by one more day. Not because Pell has found money, but because the drainage is operating now and three tenants have paid part of what they owe in stored grain, which frees a small works purse without touching seed. She explains every bit of it, which I appreciate more than I want to admit to her face.
+The house extends all three of us by one more day at the same rates. The drainage has freed enough of the works purse to manage it without touching seed, and Pell explains that part before I can ask.
 
-Eight bits for me, twelve for Sella, ten for Tolliver. One day. Flat work for me unless the mender changes her mind, which she will not.
-
-Harra gets materials for a second frame: shorter pin, adjustable far shoe. No new rescue attempt tomorrow. First we inspect the far half when the boundary permits, then load-test the near anchor without spanning, and then we decide.
+Harra gets materials for a second frame: shorter pin, adjustable far shoe. Tomorrow is inspection and dry testing, not another rescue attempt.
 
 The clerk pays today's eight bits before I sign for tomorrow. The money is becoming less important to me than the paper, which frightens me in a completely different way.
 
@@ -9044,41 +9014,7 @@ Tolliver adds, "Me."
 
 Three heads turn toward me. My ankle contributes its opinion with a dull pulse from yesterday's stairs.
 
-The mender arrives twenty minutes later and dislikes the plan with admirable consistency.
-
-"No field."
-
-"The annex isn't a field."
-
-"It is farther than the field."
-
-"There may be floors."
-
-"That is worse."
-
-"What if I ride?"
-
-"No."
-
-"What if somebody carries me?"
-
-Tolliver's eyes flick toward me.
-
-I point at him. "Do not."
-
-"I didn't say anything."
-
-"You were thinking structurally."
-
-The mender makes me stand, walk, rise onto my toes, turn, and walk again. The ankle is stiff rather than swollen, and when she presses along the outside the pain is less than yesterday. Harra explains the route: upper annex only, no flooded gallery, no load carrying, no jumping unless the building develops a personal grudge and retreat becomes interesting.
-
-The mender closes her eyes for a moment.
-
-"One controlled walk. Brace. Stick. Somebody else carries your equipment. At the first sharp increase in pain, instability, or swelling, you turn back."
-
-"That sounds like permission."
-
-"It is permission with conditions."
+The mender arrives twenty minutes later and dislikes the plan with admirable consistency. After making me walk, turn, and rise onto my toes, she grudgingly allows one controlled trip: brace, stick, no load carrying, somebody else handles my equipment, and any sharp increase in pain or instability sends me back.
 
 "My shield?"
 
@@ -9092,15 +9028,9 @@ Sella pats my knee. I consider our relationship under review.
 
 ---
 
-We define the expedition before anyone packs, because I have developed a deep suspicion of plans invented while standing in dangerous places.
+We define the expedition before anyone packs. Harra needs one of three things: a tempered return shoe, spring stock long enough to forge one, or a maintenance specification that gives her another answer. Anything else stays where it is unless we need it to get out.
 
-Harra needs one of three things: a tempered return shoe from an intact isolation shutter, a spring strip long enough to forge one, or an old maintenance specification that gives her another material and shape. Anything else stays where it is unless we need it to get out.
-
-Vey looks physically pained by this rule.
-
-The rest is familiar enough that Dain does not make us recite a page of procedure. My ankle gets one stop and recheck if it worsens; sharp pain or instability sends me back with one person. If a marked floor section moves, if we lose a secure route to the entrance, or if we find fresh occupation, we leave. My reserve does not drop below two while I am on the active route.
-
-Harra adds one condition herself.
+The retreat rules are familiar now: worsening ankle, lost route, moving floor, fresh occupation, or reserve below two means leave. Harra adds one condition herself.
 
 "If we hear repeated heavy movement we cannot identify, we do not follow it."
 
@@ -9134,7 +9064,7 @@ I keep my mouth shut. Sella looks disappointed anyway.
 
 We leave after midday for the old maintenance shelter below the annex, planning to enter the works at first light.
 
-Before we go, Pell pays the last day of our current extension and puts a new contract on the table. Two days for the recovery expedition: eight bits a day for me, twelve for Sella, ten for Tolliver. Food and room remain covered if we return late. Injuries taken inside the works count as job injuries under the house terms. Components needed for Iven's rescue belong to Rook until he is out; personal finds get declared before division.
+Before we go, Pell pays the current extension and puts a two-day expedition contract on the table at our existing rates and house terms. Job injuries are covered; rescue components belong to Rook until Iven is out; personal finds get declared before division.
 
 Then comes the line I read twice.
 
@@ -10560,65 +10490,9 @@ Harra goes inside.
 
 I feel much less singled out.
 
-The house mender is waiting in the west room. Tolliver carries me to the bed and sets me down. The mender unwraps the ankle in silence, each layer somehow worsening her opinion of me.
-
-Sella leans against the wall.
-
-Tolliver stays by the door until the mender says, "Out."
-
-He goes.
-
-She presses along the outside of my ankle. Pain flashes hard enough to make me hiss.
-
-"Here?"
-
-"Yes."
-
-Lower.
-
-"Yes."
-
-Higher.
-
-"Less."
-
-She turns the foot one finger-width.
-
-I grab the blanket. "Do that again and I become violent."
-
-"No fracture sign I can feel. More swelling. You loaded it after it worsened?"
-
-I look at the wall.
-
-"Maya."
-
-"Yes."
-
-"How much?"
-
-"Some."
-
-Sella says, "She rode Tolliver down the ridge."
-
-The mender looks at me. "That is not loading."
-
-"I walked before that."
-
-"How much?"
-
-"Dungeon amount."
-
-Sella snorts. The mender does not.
-
-"Three days. No stairs, no rough ground, no shield, no Stepguard."
-
-"What about flat indoor—"
-
-"No."
+The house mender is waiting in the west room. Tolliver carries me to the bed, then leaves when ordered. By the time the wrap is off, the verdict is obvious: more swelling, no fracture sign she can feel, and three days without stairs, rough ground, shield work, Stepguard, or powered loading.
 
 "I can Brace without walking."
-
-Her stare could strip paint.
 
 "Can you Brace without your body taking load?"
 
@@ -10628,9 +10502,7 @@ The forge track answers for me.
 
 "Then no powered work today."
 
-The word *today* is the part I hold on to.
-
-She splints the ankle and makes me promise to call before I stand.
+The word *today* is the part I hold on to. She splints the ankle and makes me promise to call before I stand.
 
 I promise.
 
@@ -10738,13 +10610,9 @@ It is a way forward.
 
 ---
 
-Pell pays the expedition after lunch.
+Pell pays the expedition after lunch: sixteen new bits for my two days. Mara records it separately from the earlier extension because she has correctly identified arithmetic as one of the most dangerous forces in the house.
 
-Sixteen new bits for me, the two days at eight each. Mara records the payment separately from the day we were paid before leaving, because she has correctly identified arithmetic as one of the most dangerous forces in the house.
-
-Pell offers the same daily rates for frame work, contact, and the rescue itself. Food, room, property, and treatment terms remain unchanged.
-
-I ask for it in writing.
+Pell keeps our existing rates and house terms for frame work, contact, and the rescue. I ask for it in writing.
 
 Mara is already pulling out paper when a runner arrives with a message for Sella.
 
@@ -11132,13 +11000,9 @@ Renn reports that he laughed, then coughed hard enough to brace himself against 
 
 The room changes.
 
-His water is lower again.
+His water is lower again. We still refuse to turn the tank into a false deadline.
 
-We still refuse to turn the tank into a false deadline.
-
-Harra needs two days to build properly. Oret wants a dry load sequence. Dain wants chamber vibration measured before any span goes in.
-
-Mara sends the estimate exactly as it is.
+Harra needs two days to build and test properly. Mara sends the estimate exactly as it is.
 
 Iven underlines *two days*.
 
@@ -11286,15 +11150,7 @@ I look at Tolliver, who is repairing a leather strap at the other end of the tab
 
 Sella snorts.
 
-I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven's receiving-side sketch, the old pressure map, and Harra's charcoal notes.
-
-How much movement can the far shoe absorb before it hits its stop?
-
-How much vibration reaches the near anchor under a crooked load?
-
-What happens if the boundary contracts while a person is on the frame?
-
-That one sits badly in my stomach.
+I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven's receiving-side sketch, the old pressure map, and Harra's charcoal notes. The questions are narrower now: how much movement the shoe can absorb, how much vibration reaches the anchor, and what happens if the boundary moves under a person instead of sand.
 
 Iven is not a test weight.
 
@@ -11528,35 +11384,15 @@ Nothing resolves just because both of us are being reasonable. Terrible design c
 
 ---
 
-The second day of rest is worse because I feel better.
+The second day of rest is worse because I feel better. The swelling is down, the ankle moves without making me see God, and the mender rewards this triumph with flat indoor walking and a stick. Still no stairs, rough ground, or powered loading.
 
-The swelling is down. I can flex the ankle without seeing God. The mender is unmoved.
-
-"No stairs."
-
-"I didn't ask."
-
-"No rough ground."
-
-"I know."
-
-"No powered loading."
-
-"I know."
-
-She studies me.
-
-"You are learning."
+"You are learning," she says.
 
 "Do not sound surprised."
 
 "I have evidence."
 
-She rewraps the ankle more lightly and allows flat indoor walking with the stick.
-
-I make three laps of the kitchen, because freedom has become humiliatingly small.
-
-On the fourth, Tolliver appears in the doorway with a coil of new line.
+I make three laps of the kitchen because freedom has become humiliatingly small. On the fourth, Tolliver appears in the doorway with a coil of new line.
 
 "You are limping."
 
@@ -11564,9 +11400,7 @@ On the fourth, Tolliver appears in the doorway with a coil of new line.
 
 "You limped less on the second lap."
 
-I stop.
-
-"That is rude."
+I stop. "That is rude."
 
 "Yes."
 
@@ -11584,47 +11418,15 @@ Nobody comments.
 
 ---
 
-The dry test uses sacks of wet sand.
+The dry test uses wet sand: Iven's weight, then gear, then extra load for the way frightened people grab whatever is near. They skew the frame and cycle the release until, on the fifth run, the near brace squeaks.
 
-One Iven.
+I raise my hand. Harra stops.
 
-Then Iven plus gear.
+The frame has not moved. The anchor has, less than a nail-width.
 
-Then Iven plus the weight of somebody grabbing him badly.
+Oret points to the packing wedge. "Wood compressed."
 
-Harra objects to the last one.
-
-Sella says, "You have never met a frightened person."
-
-Harra adds the weight.
-
-They load, skew, release the far latch, unload. Again. Again.
-
-On the fifth cycle, the near brace squeaks.
-
-I raise my hand.
-
-Harra stops.
-
-The frame has not moved.
-
-The anchor has, less than a nail-width.
-
-Dain crouches and touches the stone. "No crack."
-
-"Then why?" Pell asks.
-
-Oret points to the packing wedge.
-
-"Wood compressed."
-
-Harra swears.
-
-A compressing shim moved the anchor while everybody was staring at the machine. Exactly the sort of small thing that kills people.
-
-They replace it with an iron-backed wedge.
-
-The next cycles stay quiet.
+Harra swears. A shim moved while everybody was staring at the machine, exactly the sort of small thing that kills people. They replace it with an iron-backed wedge, and the next cycles stay quiet.
 
 My measure flickers at the edge of sight.
 
@@ -11816,43 +11618,7 @@ I do not want the person who nearly turned the only Earth objects I have ever se
 
 ---
 
-On the third morning, the mender lets me walk to the yard and back.
-
-Flat ground. Brace on the ankle. No shield. No ability.
-
-She watches every step.
-
-"How is it?"
-
-"Sore."
-
-"Same soreness?"
-
-"Yes."
-
-"Sharp?"
-
-"No."
-
-"Unstable?"
-
-"No."
-
-She has me turn, rise halfway onto my toes, and sit.
-
-Then she gives me the sentence I have been waiting for.
-
-"Limited loading tomorrow."
-
-My chest lifts.
-
-"Meaning?"
-
-"Flat route. Brace. No running. No jumping. No Stepguard unless failure leaves you no safer option."
-
-"What about Brace?"
-
-"One planned use."
+On the third morning, the mender lets me walk to the yard and back. The ankle stays sore but stable, which finally earns me limited loading tomorrow: flat route, no running or jumping, no Stepguard unless the alternative is worse, and one planned use of Brace.
 
 "That is strangely specific."
 
@@ -11866,23 +11632,13 @@ Fair.
 
 "Carried."
 
-I grimace.
-
 "Medical cruelty."
 
 "Medical consequence."
 
 I agree.
 
-Tomorrow is rescue day.
-
-Sella leaves after midday.
-
-The pressure trend near dawn is expected to give us a widening interval.
-
-Expected, not promised.
-
-Harra's frame has passed the dry tests. Dain has no accumulating vibration at the near anchor. Iven has measured his landing twice. Two-finger travel. Short pin. Release before unload.
+Tomorrow is rescue day. Sella leaves after midday. The pressure trend near dawn may give us a widening interval, and the frame has passed its dry tests.
 
 I write three letters on my wrist in charcoal.
 
@@ -12030,81 +11786,17 @@ He smiles.
 
 ---
 
-We start by measuring everything again.
+We measure everything again, then run one loaded cycle before any person goes near the frame. Iven catches the guide without taking load. Tolliver feeds the line, Sella controls the swing, and the short nose crosses into wrong air until the far shoe reaches his landing.
 
-No one complains.
+Pressure rising. Vibration quiet. Stone quiet.
 
-The frame stays on the near ledge while Iven catches the far guide loop with his bed-frame hook.
+"Seat."
 
-"Guide only," Harra says.
-
-"I know."
-
-"Say it."
-
-"Guide only."
-
-We have all become unbearable about the procedure, which is exactly what I want today.
-
-He draws the thin cord to his side without taking load. Harra raises one hand.
-
-"Frame."
-
-Tolliver feeds the line. Sella controls the swing. The short nose enters the boundary.
-
-Watching an object cross still makes my stomach turn. One side disappears into wrong air and comes back inside Iven's room, as if distance has become optional and nobody bothered to tell physics.
-
-The far shoe reaches his landing.
-
-"Contact."
-
-"Vibration quiet," Oret says.
-
-"Stone quiet," Dain adds.
-
-"Pressure still rising."
-
-I say, "Seat."
-
-Iven lowers the shoe.
-
-The spring takes half a finger.
-
-Then one.
-
-The near rail stays straight.
-
-Harra loads the rescue board with sand.
-
-First sack.
-
-The pointer moves one scratch and stops.
-
-Second.
-
-Two scratches.
-
-Third, enough for Iven and his gear.
-
-The far spring compresses a little farther, then returns when the weight shifts.
-
-No chatter.
-
-No knocking below.
-
-No old mechanism waking up angry.
-
-Harra looks at me.
-
-"Call."
-
-Everyone knows what I am going to say, which does not make the saying easier.
+The spring takes one finger. Harra loads the board to Iven's weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
 
 "Recover load."
 
-Tolliver brings the sacks back. Iven releases the far latch first. The spring unloads. Then the frame comes home.
-
-One clean cycle.
+Iven releases the far latch first. Tolliver brings the weight home. One clean cycle.
 
 Nobody cheers.
 
@@ -12112,33 +11804,11 @@ We are getting very good at being terrified professionals.
 
 ---
 
-The second cycle sends the rescue belt across.
+The second cycle sends the rescue belt across. Sella has rebuilt it twice: chest loop, hip loop, two quick releases, nothing around the throat and nothing Iven cannot reach himself.
 
-Sella has rebuilt it twice: chest loop, hip loop, two quick releases, nothing around the throat and nothing Iven cannot reach himself.
-
-He puts it on.
-
-"Left release," she says.
-
-He pulls it.
-
-The belt opens.
-
-"Again."
-
-He resets it.
-
-"Right."
-
-Open.
-
-"Again."
-
-Iven groans.
+She makes Iven prove both releases, reset them, and prove them again until he groans.
 
 Sella does not blink.
-
-He puts it on a third time.
 
 I love her.
 
@@ -12258,45 +11928,9 @@ Witness on witness.
 
 Pell stands between them and the lower stair.
 
-The frame goes out again.
+The frame goes out again and seats cleanly. Iven stands in the belt with letters and papers tied flat to his chest, no iron. Sella confirms both releases; Tolliver checks the haul, Harra the anchor, Oret the spring, Dain the vibration.
 
-Far shoe seated.
-
-Spring stable.
-
-Iven stands in the rescue belt with a cloth packet tied flat to his chest.
-
-Letters.
-
-Papers.
-
-No iron.
-
-Sella checks the releases by sight.
-
-"Turn."
-
-He turns.
-
-"Left."
-
-Touches it.
-
-"Right."
-
-Touches it.
-
-"Good."
-
-Tolliver checks the haul line.
-
-Harra checks the near anchor.
-
-Oret calls the spring mark.
-
-Dain calls one scratch of vibration.
-
-The pressure continues rising.
+Pressure continues rising.
 
 Iven is one step from the board.
 
@@ -12752,29 +12386,11 @@ The second frame is less of a frame.
 
 That is progress.
 
-Harra removes the rigid near clamp and replaces it with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free unless somebody deliberately releases it.
+Harra replaces the rigid near clamp with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free without a deliberate release. Oret replaces the cut crossbrace while Dain watches the stone for any answer from below.
 
-Oret replaces the cut crossbrace.
-
-Dain checks the stone after every hammer strike because the old mechanism below has reminded us that it is still part of the conversation.
-
-The first dry cycle is ugly.
-
-The near sleeve slides too fast. Harra adds friction leather.
-
-Second cycle, better.
-
-Third, the far shoe releases cleanly.
-
-On the fourth, they skew the load on purpose. The rail settles instead of twisting. The vibration pointer reaches three scratches, then falls.
+The first dry cycle is ugly. The near sleeve slides too fast, so Harra adds friction leather. By the fourth, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They run it twice more.
 
 No knock comes from below.
-
-"Again," Harra says.
-
-Mara says it too.
-
-So they do.
 
 By the sixth cycle, the frame moves the way it was supposed to move yesterday.
 
@@ -12824,45 +12440,17 @@ That makes me angry enough to become calm.
 
 "The boundary nearly reached Iven," I say. "We aborted before it did."
 
-Rusk looks at me.
-
-"And now you want another attempt."
+Rusk looks at me. "And now you want another attempt."
 
 "Yes."
 
 "Why?"
 
-I point at the near sleeve.
+I point to the new sleeve, then the far shoe. "Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles."
 
-"Because that did not exist an hour ago."
+"You are injured, level five, and you attempted a human crossing after one day of prototype work."
 
-Then the far shoe.
-
-"Because the release bound under rigid load and now the near end can travel."
-
-Then the pointer.
-
-"Because the changed design has six clean dry cycles."
-
-Rusk's eyes narrow.
-
-"You are level five."
-
-"News travels."
-
-"You are injured."
-
-"Also public knowledge."
-
-"You attempted a human crossing after one day of prototype work."
-
-"Multiple dry cycles."
-
-"Still."
-
-Pell cuts in. "State your demand."
-
-Rusk does.
+"State your demand," Pell says.
 
 "Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly."
 
@@ -12870,9 +12458,7 @@ There it is.
 
 Jointly.
 
-Safety and custody wearing the same coat.
-
-Maybe she means the safety part. That does not make the custody part disappear.
+Safety and custody wearing the same coat. Maybe she means the safety part. That does not make the custody part disappear.
 
 I look through the opening.
 
@@ -13052,31 +12638,11 @@ She gives me the belt.
 
 The second attempt begins almost quietly.
 
-Pressure rising.
+Pressure rising. Vibration still. Landing dry.
 
-Vibration still.
+The frame seats with one finger at the far shoe and half at the near sleeve. Iven wears the belt, one cloth water flask, and his papers tied flat against his chest. No cabinet. No bed-frame strip. No salvaged answers.
 
-Landing dry.
-
-The frame seats.
-
-The far shoe takes one finger. The near sleeve half.
-
-Iven puts on the belt with no metal except what cannot be avoided in his clothes. His papers are tied flat against his chest. He has one cloth water flask.
-
-He brings no cabinet, no bed-frame strip, no salvaged answers, only himself and the papers against his chest. That has to be enough.
-
-Sella checks the belt.
-
-Tolliver checks the haul.
-
-Harra checks both releases.
-
-Dain watches pressure.
-
-Oret watches the pointer.
-
-I stand with one hand resting lightly on the near rail, feeling only ordinary movement.
+Sella checks the belt, Tolliver the haul, Harra both releases. I rest one hand lightly on the near rail and feel only ordinary movement.
 
 "Call," Harra says.
 
