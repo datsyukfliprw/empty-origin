@@ -1,32 +1,10 @@
 CHAPTER THIRTY
 
-Sella's wagon is late.
+Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. Fair. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which the mender insists is an important distinction in medicine. Iven is inside with Teren and Lio.
 
-Seven minutes.
+Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella's pack is beside the west wall. Bad.
 
-I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster.
-
-Fair.
-
-My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which is apparently an important distinction in medicine.
-
-Iven is inside with Teren and Lio.
-
-Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence.
-
-Harra is asleep at a worktable with her cheek on a coil of rope.
-
-Tolliver is somewhere I cannot see him.
-
-Good.
-
-Sella's pack is beside the west wall.
-
-Bad.
-
-She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Bow across her back. The knife at her thigh is the same one she wore the first night we slept together.
-
-I stare long enough that she catches me.
+She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Bow across her back. The knife at her thigh is the same one she wore the first night we slept together. I stare long enough that she catches me.
 
 "Really?"
 
@@ -38,19 +16,11 @@ I stare long enough that she catches me.
 
 "With terrible timing."
 
-That hurts because it is funny.
-
-For the last two weeks she has touched me whenever she wanted: hip, shoulder, back of my neck, fingers under a table, mouth against mine in hallways. Small things that became ours by repetition.
-
-Now there is a foot of air between us.
-
-I feel every inch.
+That hurts because it is funny. For the last two weeks she has touched me whenever she wanted: hip, shoulder, back of my neck, fingers under a table, mouth against mine in hallways. Small things that became ours by repetition. Now there is a foot of air between us. I feel every inch.
 
 "Walk with me," she says.
 
-From across the room, the mender says, "No."
-
-Sella turns. "Outside."
+From across the room, the mender says, "No." Sella turns. "Outside."
 
 "No."
 
@@ -60,55 +30,25 @@ Sella turns. "Outside."
 
 "Three."
 
-The mender points at the bench. "You can sit outside with her if Tolliver carries the bench."
-
-I close my eyes.
-
-Sella laughs.
-
-The mender does not.
+The mender points at the bench. "You can sit outside with her if Tolliver carries the bench." I close my eyes. Sella laughs. The mender does not.
 
 "This is why healers drink," I say.
 
 "This is why healers poison patients."
 
-Tolliver appears in the doorway at exactly the wrong moment.
-
-Of course he does.
-
-He looks at the bench.
-
-Then at the mender.
+Tolliver appears in the doorway at exactly the wrong moment. Of course he does. He looks at the bench. Then at the mender.
 
 "No."
 
-Good man.
-
-The mender raises one eyebrow.
+Good man. The mender raises one eyebrow.
 
 "I'll carry Maya," he says. "The bench is stupid."
 
 "Thank you."
 
-She points at me. "You are the stupid part."
+She points at me. "You are the stupid part." Also fair. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
 
-Also fair.
-
-Tolliver does not move until I nod.
-
-That still catches under my ribs in a way I have stopped pretending is accidental.
-
-He lifts me. Sella takes my pack because apparently my official role is decorative object.
-
-Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal.
-
-The wagon is still not here.
-
-Seven minutes becomes nine.
-
-Sella leads us to the low wall beside the east herb beds. Tolliver lowers me onto it, careful with the bad foot. Sella puts my pack beneath my heel.
-
-He straightens.
+Sella leads us to the low wall beside the east herb beds. Tolliver lowers me onto it, careful with the bad foot. Sella puts my pack beneath my heel. He straightens.
 
 "Do you need anything?"
 
@@ -118,33 +58,7 @@ His eyes move to Sella.
 
 "I need ten minutes," she says.
 
-He nods and walks away.
-
-He knows what those ten minutes are.
-
-I watch him cross the yard.
-
-Sella watches me watch him.
-
-There it is.
-
-No rescue to hide behind.
-
-No monster.
-
-No pressure gauge.
-
-Just us.
-
-She sits beside me.
-
-For a while, we say nothing.
-
-The yard continues around us. Somebody carries bread from the kitchen. A mule objects to being a mule. Pell comes out of the counting room, sees us, and immediately turns around.
-
-Bless her.
-
-Sella rubs both palms over her thighs.
+He nods and walks away. He knows what those ten minutes are. I watch him cross the yard. Sella watches me watch him. There it is. No rescue to hide behind. No monster. No pressure gauge. Just us. She sits beside me. For a while, we say nothing. The yard continues around us. Somebody carries bread from the kitchen. A mule objects to being a mule. Pell comes out of the counting room, sees us, and immediately turns around. Bless her. Sella rubs both palms over her thighs.
 
 "I meant what I said."
 
@@ -152,7 +66,7 @@ Sella rubs both palms over her thighs.
 
 "I love you."
 
-I look down at my wrapped ankle because apparently that is easier than looking at her.
+I look down at my wrapped ankle because looking at bandages is easier than looking at her.
 
 "I love you too."
 
@@ -168,11 +82,7 @@ Her jaw shifts.
 
 "I don't know."
 
-That surprises me.
-
-Sella usually knows exactly what she wants people to say, or at least what she wants them not to say.
-
-She leans forward, elbows on her knees.
+That surprises me. Sella usually knows exactly what she wants people to say, or at least what she wants them not to say. She leans forward, elbows on her knees.
 
 "I thought this would be easier if you didn't ask me to stay."
 
@@ -202,9 +112,7 @@ She says nothing.
 
 "If I asked today, after you watched me get carried out of a hole and heard me tell you I love you, there is a real chance staying would feel like kindness."
 
-Her eyes go away from me.
-
-That is answer enough.
+Her eyes go away from me. That is answer enough.
 
 "And in a month," I say, "you would still want the road."
 
@@ -222,9 +130,7 @@ Sella swallows.
 
 "No."
 
-Her head snaps back.
-
-I lift both hands.
+Her head snaps back. I lift both hands.
 
 "No. I refused to ask while the answer was tilted."
 
@@ -244,27 +150,7 @@ She laughs once without humor.
 
 "You don't get points for knowing."
 
-I almost say it again.
-
-Stop myself.
-
-Her eyes fill.
-
-Not dramatically.
-
-Just water gathering faster than she can blink it away.
-
-I have seen her naked. Bleeding. Laughing into my mouth. Holding a knife against someone who deserved worse.
-
-I have not seen her cry.
-
-I reach toward her and stop halfway.
-
-She sees the pause.
-
-Then takes my hand.
-
-The permission hurts too.
+I almost say it again. Stop myself. Her eyes fill. Not dramatically. Just water gathering faster than she can blink it away. I have seen her naked. Bleeding. Laughing into my mouth. Holding a knife against someone who deserved worse. I have not seen her cry. I reach toward her and stop halfway. She sees the pause. Then takes my hand. The permission hurts too.
 
 "I wanted you to make it hard," she says.
 
@@ -276,19 +162,7 @@ My thumb moves over her knuckles. "I am making it hard."
 
 "Not with me."
 
-That lands cleanly.
-
-Maybe she is right.
-
-Maybe I have been brave enough to want her body and careful enough to avoid wanting her future out loud.
-
-Or maybe loving her future means not swallowing it.
-
-Both thoughts fit.
-
-Neither helps.
-
-She wipes her cheek with the heel of her hand.
+That lands cleanly. Maybe she is right. Maybe I have been brave enough to want her body and careful enough to avoid wanting her future out loud. Or maybe loving her future means not swallowing it. Both thoughts fit. Neither helps. She wipes her cheek with the heel of her hand.
 
 "I can live with you wanting him."
 
@@ -300,49 +174,23 @@ Her voice cracks. She hates it and keeps going.
 
 "I can live with you sleeping with him. I can live with you loving him if that is where this goes. I can live with you having things with him that you don't have with me."
 
-My pulse jumps.
-
-She looks directly at me.
+My pulse jumps. She looks directly at me.
 
 "But I cannot build my life around being the woman who waits for you to decide when you are done standing between doors."
 
-There is nothing to defend against in that.
-
-She is not asking me to erase Tolliver.
-
-She is not asking me to pick a person.
-
-She is telling me what kind of waiting would hollow her out.
+There is nothing to defend against in that. She is not asking me to erase Tolliver. She is not asking me to pick a person. She is telling me what kind of waiting would hollow her out.
 
 "I don't want you to wait."
 
 "I know."
 
-I flinch.
-
-She almost smiles. "Sorry."
+I flinch. She almost smiles. "Sorry."
 
 "Asshole."
 
 "Yes."
 
-The wagon rattles through the outer gate.
-
-My whole body reacts before my mind does.
-
-There.
-
-Horse.
-
-Canvas cover.
-
-Two people already seated in back. A woman driving.
-
-Departure made physical.
-
-Sella looks at it.
-
-Then at me.
+The wagon rattles through the outer gate. My whole body reacts before my mind does. There. Horse. Canvas cover. Two people already seated in back. A woman driving. Departure made physical. Sella looks at it. Then at me.
 
 "We could stop," she says.
 
@@ -378,9 +226,7 @@ My chest tightens.
 
 "I might."
 
-I nod.
-
-That hurts exactly as much as it should.
+I nod. That hurts exactly as much as it should.
 
 "If I do?"
 
@@ -418,13 +264,7 @@ Heat rises straight up my throat.
 
 "Then stop looking at me like this is my funeral."
 
-I laugh.
-
-It comes out broken.
-
-She leans in until our foreheads touch.
-
-For another minute, I know exactly where she is.
+I laugh. It comes out broken. She leans in until our foreheads touch. For another minute, I know exactly where she is.
 
 "I love you," I whisper.
 
@@ -440,29 +280,7 @@ For another minute, I know exactly where she is.
 
 "Fair."
 
-She kisses me.
-
-Not hard.
-
-Not desperate.
-
-Slow enough that my mouth recognizes every part of it.
-
-Her lower lip.
-
-The small catch in her breathing when I touch her cheek.
-
-Her fingers sliding into my hair and staying there.
-
-My body remembers bed with brutal precision. Her thigh over mine. Her mouth lower. My hands on her hips.
-
-This kiss does not try to become sex.
-
-It is trying to remember itself.
-
-When she pulls back, neither of us is dry-eyed.
-
-She wipes my face with her sleeve.
+She kisses me. Not hard. Not desperate. Slow enough that my mouth recognizes every part of it. Her lower lip. The small catch in her breathing when I touch her cheek. Her fingers sliding into my hair and staying there. My body remembers bed with brutal precision. Her thigh over mine. Her mouth lower. My hands on her hips. This kiss does not try to become sex. It is trying to remember itself. When she pulls back, neither of us is dry-eyed. She wipes my face with her sleeve.
 
 "Terrible."
 
@@ -474,45 +292,9 @@ She wipes my face with her sleeve.
 
 "Suspicious."
 
-The driver calls her name.
+The driver calls her name. Sella stands. I do not. The mender would kill me before the ankle gets the chance. She shoulders her pack. Then looks across the yard. Tolliver is by the stable arch, far enough away not to hear us. She walks over to him. I almost tell her not to. I don't. They speak for less than a minute. Tolliver's face gives me nothing. Sella says something that makes his eyes move toward me, then back to her. He nods once.
 
-Sella stands.
-
-I do not.
-
-The mender would kill me before the ankle gets the chance.
-
-She shoulders her pack.
-
-Then looks across the yard.
-
-Tolliver is by the stable arch, far enough away not to hear us.
-
-She walks over to him.
-
-I almost tell her not to.
-
-I don't.
-
-They speak for less than a minute.
-
-Tolliver's face gives me nothing.
-
-Sella says something that makes his eyes move toward me, then back to her.
-
-He nods once.
-
-She punches him in the chest.
-
-Not hard.
-
-Probably.
-
-He looks offended.
-
-She says one more thing and walks away before he can answer.
-
-I stare at her when she comes back.
+She punches him in the chest. Not hard. Probably. He looks offended. She says one more thing and walks away before he can answer. I stare at her when she comes back.
 
 "What did you say?"
 
@@ -528,11 +310,7 @@ I stare at her when she comes back.
 
 "I am reconsidering."
 
-She bends and kisses my forehead.
-
-Then my mouth.
-
-One last time.
+She bends and kisses my forehead. Then my mouth. One last time.
 
 "Do something with your life, Maya Szczepaniak."
 
@@ -540,71 +318,13 @@ One last time.
 
 "Tomorrow too."
 
-The driver calls again.
+The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. Our stupid signal from the East Relief safe room. Still here. I raise two fingers back. The wagon passes through the gate. Gone. The yard looks larger.
 
-Sella turns.
-
-Walks to the wagon.
-
-Climbs in.
-
-She does not look back immediately.
-
-I am grateful.
-
-If she did, I might ask.
-
-The wagon starts toward the gate.
-
-At the last turn, she twists around and finds me.
-
-Two fingers touch her mouth and lift.
-
-Not exactly a kiss.
-
-Our stupid signal from the East Relief safe room.
-
-Still here.
-
-I raise two fingers back.
-
-The wagon passes through the gate.
-
-Gone.
-
-The yard looks larger.
-
-I sit on the wall until the sound of wheels disappears.
-
-Then longer.
-
-Tolliver does not come over.
-
-Nobody does.
-
-Good.
-
-For once, everyone lets something hurt without trying to fix it.
+I sit on the wall until the sound of wheels disappears. Then longer. Tolliver does not come over. Nobody does. Good. For once, everyone lets something hurt without trying to fix it.
 
 ---
 
-Iven wakes after sunset.
-
-Mara allows me upstairs only if I am carried.
-
-I am becoming furniture.
-
-Tolliver takes me.
-
-He does not ask about Sella.
-
-In the long room, Iven lies beneath two blankets with his sons asleep on pallets beside him. Teren has one hand wrapped around his father's wrist. Lio has stolen half the blanket.
-
-Iven looks exhausted.
-
-Human exhausted.
-
-The kind that belongs after surviving.
+Iven wakes after sunset. Mara allows me upstairs only if I am carried. I am becoming furniture. Tolliver takes me. He does not ask about Sella. In the long room, Iven lies beneath two blankets with his sons asleep on pallets beside him. Teren has one hand wrapped around his father's wrist. Lio has stolen half the blanket. Iven looks exhausted. Human exhausted. The kind that belongs after surviving.
 
 "Warder," he says.
 
@@ -618,11 +338,7 @@ His eyebrows rise.
 
 "Better."
 
-Tolliver settles me into a chair.
-
-Iven watches him.
-
-Then me.
+Tolliver settles me into a chair. Iven watches him. Then me.
 
 "Your friend left."
 
@@ -644,9 +360,7 @@ He shifts against the pillow.
 
 "Cultural difference."
 
-Teren moves in his sleep.
-
-Iven looks down at the hand around his wrist like he still does not believe it is there.
+Teren moves in his sleep. Iven looks down at the hand around his wrist like he still does not believe it is there.
 
 "You told them to leave the iron."
 
@@ -668,15 +382,11 @@ Traitor face.
 
 "And you chose me."
 
-I do not know what to do with that sentence.
-
-So I shrug.
+I do not know what to do with that sentence. So I shrug.
 
 "You were easier to carry."
 
-He smiles.
-
-Then sobers.
+He smiles. Then sobers.
 
 "I heard the captain. The claim is still active."
 
@@ -692,29 +402,15 @@ Tolliver answers before I can.
 
 "No one has said that."
 
-Careful.
-
-Precise.
-
-No promise he cannot keep.
-
-Iven studies him, then looks at me.
+Careful. Precise. No promise he cannot keep. Iven studies him, then looks at me.
 
 "You trust him?"
 
-The question is simple.
-
-The answer is not.
+The question is simple. The answer is not.
 
 "Yes."
 
-Tolliver goes completely still beside the door.
-
-I do not look at him.
-
-Cowardice has uses.
-
-Iven nods.
+Tolliver goes completely still beside the door. I do not look at him. Cowardice has uses. Iven nods.
 
 "Good."
 
@@ -722,31 +418,7 @@ Iven nods.
 
 "You brought better people every time."
 
-That gets under my armor.
-
-Harra.
-
-Sella.
-
-Tolliver.
-
-Dain.
-
-Oret.
-
-Mara.
-
-Pell.
-
-Vey.
-
-Even Rusk, in the irritating way opposition forced every claim into daylight.
-
-I did not rescue Iven by myself.
-
-The thought is not humbling.
-
-It is relieving.
+That gets under my armor. Harra. Sella. Tolliver. Dain. Oret. Mara. Pell. Vey. Even Rusk, in the irritating way opposition forced every claim into daylight. I did not rescue Iven by myself. The thought is not humbling. It is relieving.
 
 "I'm glad you're here," I say.
 
@@ -756,105 +428,25 @@ He looks at his sons.
 
 ---
 
-The mender keeps me off the ankle for six more days.
+The mender keeps me off the ankle for six more days. Six. I negotiate that into five and a half by walking perfectly on the sixth morning while she watches me with open hostility. Flat ground first. Then stairs. Two days later, light shield work. Normal walking comes back in pieces so small I almost miss how much I missed it. The first morning I cross from my room to breakfast without anybody carrying me, I nearly cry over a hallway. I do not. Barely. Sella sends no message.
 
-Six.
+There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people's heads. On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where Sella and I sat with the onions between us. I can still point to the place my heel nearly landed.
 
-I negotiate that into five and a half by walking perfectly on the sixth morning while she watches me with open hostility.
+I spend twenty minutes composing a letter in my head before remembering I do not know where she will sleep tomorrow, let alone where to send it. Loving someone on a road has terrible administrative support. At breakfast the next morning, somebody asks if the place across from me is free. I say yes before realizing it had become Sella's without either of us deciding that. I eat with somebody else's elbow there and discover grief is petty enough to care about benches. I work.
 
-Flat ground first.
+Harra makes me catalog the surviving rescue parts. Pell makes me sit through hearing preparation over Rusk's claim. Vey brings copies. Iven gives a formal account. Teren interrupts twice. Lio steals Vey's pen. Life continues with insulting competence. Tolliver is around without orbiting me. He eats at the same table. Helps Harra move iron when asked. Takes route jobs that keep him away most of the day. He does not touch me. At first, I am grateful. Then I am annoyed. Then I become annoyed that I am annoyed.
 
-Then stairs.
-
-Two days later, light shield work.
-
-Normal walking comes back in pieces so small I almost miss how much I missed it.
-
-The first morning I cross from my room to breakfast without anybody carrying me, I nearly cry over a hallway.
-
-I do not.
-
-Barely.
-
-Sella sends no message.
-
-There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people's heads.
-
-On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof and sit where Sella and I sat with the onions between us.
-
-I can still point to the place my heel nearly landed.
-
-I spend twenty minutes composing a letter in my head before remembering I do not know where she will sleep tomorrow, let alone where to send it.
-
-Loving someone on a road has terrible administrative support.
-
-At breakfast the next morning, somebody asks if the place across from me is free.
-
-I say yes before realizing it had become Sella's without either of us deciding that.
-
-I eat with somebody else's elbow there and discover grief is petty enough to care about benches.
-
-I work.
-
-Harra makes me catalog the surviving rescue parts.
-
-Pell makes me sit through hearing preparation over Rusk's claim.
-
-Vey brings copies.
-
-Iven gives a formal account.
-
-Teren interrupts twice.
-
-Lio steals Vey's pen.
-
-Life continues with insulting competence.
-
-Tolliver is around without orbiting me.
-
-He eats at the same table.
-
-Helps Harra move iron when asked.
-
-Takes route jobs that keep him away most of the day.
-
-He does not touch me.
-
-At first, I am grateful.
-
-Then I am annoyed.
-
-Then I become annoyed that I am annoyed.
-
-On the ninth night after Sella leaves, I find him in the yard splitting kindling.
-
-His shirt sleeves are rolled.
-
-His forearms are doing deeply unnecessary things.
-
-I have survived another world, a dungeon, a collapsing rescue frame, and emotional honesty.
-
-Apparently none of these provide immunity to forearms.
-
-He looks up.
+On the ninth night after Sella leaves, I find him in the yard splitting kindling. His shirt sleeves are rolled. His forearms are doing deeply unnecessary things. I have survived another world, a dungeon, a collapsing rescue frame, and emotional honesty. None of these provide immunity to forearms. He looks up.
 
 "Maya."
 
 "I need to ask you something."
 
-The axe goes down immediately.
-
-Full attention.
-
-Dangerous man.
+The axe goes down immediately. Full attention. Dangerous man.
 
 "Ask."
 
-I step closer.
-
-No limp.
-
-No wrap.
+I step closer. No limp. No wrap.
 
 "What did Sella say to you?"
 
@@ -872,42 +464,18 @@ I stop.
 
 "That does not make it yours."
 
-I stare at him.
-
-Infuriating.
-
-Correct.
-
-Worse because correct.
+I stare at him. Infuriating. Correct. Worse because correct.
 
 "Fine."
 
-He waits.
-
-I had a second question.
-
-It becomes harder now that he is looking at me.
-
-The yard is dark except for two wall lamps. People are inside. Windows glow.
-
-No emergency to blame.
-
-Good.
-
-I take one more step.
+He waits. I had a second question. It becomes harder now that he is looking at me. The yard is dark except for two wall lamps. People are inside. Windows glow. No emergency to blame. Good. I take one more step.
 
 "What are you doing tonight?"
 
-His eyes drop to my mouth.
-
-Then return to mine.
+His eyes drop to my mouth. Then return to mine.
 
 "Nothing I cannot change."
 
-Heat opens low in me.
-
-There it is.
-
-Because he waited.
+Heat opens low in me. There it is. Because he waited.
 
 "Change it."
