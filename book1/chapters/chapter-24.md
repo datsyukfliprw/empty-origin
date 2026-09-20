@@ -46,7 +46,7 @@ No boots fresher than last rain.
 
 One retreat condition cleared.
 
-Harra takes a pry bar from Tolliver's pack.
+Harra takes a pry bar from Tolliver’s pack.
 
 I am carrying a walking stick.
 
@@ -226,7 +226,7 @@ Hard.
 
 The plate jumps.
 
-Sella's knife is in her hand.
+Sella’s knife is in her hand.
 
 Another strike.
 
@@ -280,7 +280,7 @@ Harra looks at me.
 
 “Only when it touches the gap.”
 
-Tolliver's bow is already in his hand.
+Tolliver’s bow is already in his hand.
 
 He does not nock.
 
@@ -346,7 +346,7 @@ Not magic exactly.
 
 Load.
 
-The old system and the creature and Tolliver's weight all arguing about what gets to stay where.
+The old system and the creature and Tolliver’s weight all arguing about what gets to stay where.
 
 Brace wants to happen.
 
@@ -434,13 +434,13 @@ Not the floor.
 
 Me.
 
-I catch Tolliver's belt with one hand.
+I catch Tolliver’s belt with one hand.
 
 His head turns.
 
 “Do not help me,” I say.
 
-“I wasn't.”
+“I wasn’t.”
 
 Good answer.
 
@@ -462,7 +462,7 @@ The plate falls as my weight leaves it.
 
 A pale head punches into the gap.
 
-Sella's knife flashes.
+Sella’s knife flashes.
 
 Not into the creature.
 
@@ -636,7 +636,7 @@ Pure, indecent mechanical joy.
 
 “There.”
 
-She crosses half the room before Dain's voice appears in my head.
+She crosses half the room before Dain’s voice appears in my head.
 
 No.
 
@@ -762,7 +762,7 @@ Good.
 
 I would rather annoy her than watch her get folded by a metal arm.
 
-“We know movement triggers the knockers,” I say. “We know load triggers this. We don't know if the reset is time or weight.”
+“We know movement triggers the knockers,” I say. “We know load triggers this. We don’t know if the reset is time or weight.”
 
 Harra nods slowly.
 
@@ -790,7 +790,7 @@ The right thing.
 
 “I can Brace the arm at the stop after it fires.”
 
-Harra's eyes narrow.
+Harra’s eyes narrow.
 
 “Against what?”
 
@@ -826,7 +826,7 @@ Tolliver accepts it.
 
 Useful.
 
-Harra rigs a retrieval line to Sella's belt that will not tighten unless she pulls twice.
+Harra rigs a retrieval line to Sella’s belt that will not tighten unless she pulls twice.
 
 No dragging her against her choice.
 
@@ -840,7 +840,7 @@ Arm sweeps.
 
 I Brace it against the stop.
 
-Sella crosses outside the arm's path.
+Sella crosses outside the arm’s path.
 
 She pulls the isolation lever.
 
@@ -856,7 +856,7 @@ Simple.
 
 Terrible.
 
-Let's go.
+Let’s go.
 
 ---
 
