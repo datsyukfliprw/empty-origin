@@ -224,7 +224,7 @@ I look up at him.
 
 "But tonight I want to give you control because I want to know what you do with it."
 
-Something opens in his face. Not softness. Something more dangerous and somehow safer because I put it there. He takes my hand from his chest and kisses the center of my palm. Then says, "Take off the boots." I stare at him.
+His focus settles on me with a new weight, dangerous and somehow safer because I put it there. He takes my hand from his chest and kisses the center of my palm. Then says, "Take off the boots." I stare at him.
 
 "That's your opening?"
 
@@ -828,4 +828,4 @@ One eyebrow rises.
 
 "Get used to it."
 
-I swing a leg over him. He lets me. For now. The knowledge makes me smile. Tomorrow I will still be Level Six. Warder. Homesick. In love with a woman somewhere on the east road. Falling harder for the man beneath me. Still mine. Especially when I choose not to be.
+I swing a leg over him. He lets me. For now. The knowledge makes me smile. Tomorrow I will still be Level Six. Warder. Homesick. In love with a woman somewhere on the east road. Falling harder for the man beneath me. Still mine, even when I choose not to be.
