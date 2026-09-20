@@ -58,81 +58,17 @@ He smiles.
 
 ---
 
-We start by measuring everything again.
+We measure everything again, then run one loaded cycle before any person goes near the frame. Iven catches the guide without taking load. Tolliver feeds the line, Sella controls the swing, and the short nose crosses into wrong air until the far shoe reaches his landing.
 
-No one complains.
+Pressure rising. Vibration quiet. Stone quiet.
 
-The frame stays on the near ledge while Iven catches the far guide loop with his bed-frame hook.
+"Seat."
 
-"Guide only," Harra says.
-
-"I know."
-
-"Say it."
-
-"Guide only."
-
-We have all become unbearable about the procedure, which is exactly what I want today.
-
-He draws the thin cord to his side without taking load. Harra raises one hand.
-
-"Frame."
-
-Tolliver feeds the line. Sella controls the swing. The short nose enters the boundary.
-
-Watching an object cross still makes my stomach turn. One side disappears into wrong air and comes back inside Iven's room, as if distance has become optional and nobody bothered to tell physics.
-
-The far shoe reaches his landing.
-
-"Contact."
-
-"Vibration quiet," Oret says.
-
-"Stone quiet," Dain adds.
-
-"Pressure still rising."
-
-I say, "Seat."
-
-Iven lowers the shoe.
-
-The spring takes half a finger.
-
-Then one.
-
-The near rail stays straight.
-
-Harra loads the rescue board with sand.
-
-First sack.
-
-The pointer moves one scratch and stops.
-
-Second.
-
-Two scratches.
-
-Third, enough for Iven and his gear.
-
-The far spring compresses a little farther, then returns when the weight shifts.
-
-No chatter.
-
-No knocking below.
-
-No old mechanism waking up angry.
-
-Harra looks at me.
-
-"Call."
-
-Everyone knows what I am going to say, which does not make the saying easier.
+The spring takes one finger. Harra loads the board to Iven's weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
 
 "Recover load."
 
-Tolliver brings the sacks back. Iven releases the far latch first. The spring unloads. Then the frame comes home.
-
-One clean cycle.
+Iven releases the far latch first. Tolliver brings the weight home. One clean cycle.
 
 Nobody cheers.
 
@@ -140,33 +76,11 @@ We are getting very good at being terrified professionals.
 
 ---
 
-The second cycle sends the rescue belt across.
+The second cycle sends the rescue belt across. Sella has rebuilt it twice: chest loop, hip loop, two quick releases, nothing around the throat and nothing Iven cannot reach himself.
 
-Sella has rebuilt it twice: chest loop, hip loop, two quick releases, nothing around the throat and nothing Iven cannot reach himself.
-
-He puts it on.
-
-"Left release," she says.
-
-He pulls it.
-
-The belt opens.
-
-"Again."
-
-He resets it.
-
-"Right."
-
-Open.
-
-"Again."
-
-Iven groans.
+She makes Iven prove both releases, reset them, and prove them again until he groans.
 
 Sella does not blink.
-
-He puts it on a third time.
 
 I love her.
 
@@ -286,45 +200,9 @@ Witness on witness.
 
 Pell stands between them and the lower stair.
 
-The frame goes out again.
+The frame goes out again and seats cleanly. Iven stands in the belt with letters and papers tied flat to his chest, no iron. Sella confirms both releases; Tolliver checks the haul, Harra the anchor, Oret the spring, Dain the vibration.
 
-Far shoe seated.
-
-Spring stable.
-
-Iven stands in the rescue belt with a cloth packet tied flat to his chest.
-
-Letters.
-
-Papers.
-
-No iron.
-
-Sella checks the releases by sight.
-
-"Turn."
-
-He turns.
-
-"Left."
-
-Touches it.
-
-"Right."
-
-Touches it.
-
-"Good."
-
-Tolliver checks the haul line.
-
-Harra checks the near anchor.
-
-Oret calls the spring mark.
-
-Dain calls one scratch of vibration.
-
-The pressure continues rising.
+Pressure continues rising.
 
 Iven is one step from the board.
 
