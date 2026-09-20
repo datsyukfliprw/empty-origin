@@ -644,7 +644,7 @@ Otherwise the structure carries the stored turn.
 
 I look down at my splinted foot.
 
-Apparently the lesson followed me home.
+The dungeon lesson followed me home whether I wanted it or not.
 
 ---
 
@@ -866,9 +866,7 @@ Sella sees.
 
 Of course she sees.
 
-Her head stays against me. I put my hand into her hair.
-
-I put my hand into her hair because I want the contact, not because it can fix or claim anything.
+Her head stays against me. I put my hand into her hair because I want the contact, not because it can fix or claim anything.
 
 Four days. Two to build. Three off the ankle. Iven waiting across a boundary that cuts rope, wax, and ash. Rusk somewhere out there with a claim she has not abandoned. Level five. Three reserve out of seven.
 
