@@ -4006,9 +4006,9 @@ The words come sharply. She shuts her eyes.
 
 “I know,” she says again, quieter.
 
-We sit until a clerk arrives with paper. Mara sets out a ruler and ink and shows me how to keep my copying sheet from sliding. The ordinary instructions make it possible to start.
+A clerk brings paper. Mara shows me how to keep the copying sheet from sliding, and the ordinary instructions make it possible to start.
 
-I copy the records, including the crossed-out sentence and the six English words. Mara watches me reproduce Elena’s signature as a labeled copy rather than as my own attempt at signing it. When my hand cramps, she tells me to stop. I am finished anyway.
+I copy the records, including the crossed-out sentence and the six English words. By the time my hand cramps, I am finished.
 
 At the door she says, “He had two sons.”
 
@@ -4112,7 +4112,7 @@ I point to his name in local script, followed by an English note.
 
 He makes a small sound through his nose.
 
-For the next hour he helps us separate things Elena measured from things she guessed. I read each page aloud in pieces, and Mara writes the local version. I keep my own notes and check the copies against each other. It is slow work, but it is work I can do, and that steadies me.
+For the next hour he helps us separate what Elena measured from what she guessed while Mara records the local version. The work is slow, exact, and useful enough to steady me.
 
 There is no welcome message for the next person from Earth. No explanation of how to get here or how to leave. Elena has recorded wages in the back, crossed out a shopping list, and spent nearly half a page trying to describe coffee to someone who recommended burnt barley.
 
@@ -4916,11 +4916,7 @@ The image is small, but I can see her broken nose and the dark edge of one braid
 
 Mara has Elena’s drawing open on the bench. I check the angles against it: two mirrors, one at the far end of the rod and one beside my face. Harra angles them until I can read Sella’s chalk marks through the hood. A red handle retracts the whole assembly.
 
-Dain makes me use it. The cage slides back through the pipe, and Sella lowers her slate.
-
-“Again,” he says.
-
-We do it twice more. Then Harra takes the apparatus apart to carry to the gallery.
+Dain makes me retract the cage once myself, then Harra takes the apparatus apart to carry to the gallery.
 
 ---
 
@@ -4958,9 +4954,7 @@ Mara arrives with the notebook in a closed carrying tray. She sets up on a plank
 
 The two-mirror drawing fits the sleeve dimensions. It doesn’t tell us what is on the other side today.
 
-Dain has Mara record the displaced indicator mark beside the old one. Harra checks it against the spindle. The clamp stays where it is.
-
-Dain runs his nail over the chalk line and checks the bolts again.
+Mara records the displaced indicator mark while Harra verifies the spindle and clamp.
 
 Sella takes her shield off her arm before she climbs the stair again. It would block half the doorway. She puts it against the outer wall within reach and checks the way back to the yard.
 
@@ -5124,7 +5118,7 @@ I give him every useless detail I can remember.
 
 ---
 
-The adjustment is a hood on the far mirror, to cut the glare reflected from the wet chamber wall. Harra wants the cage held level while she fits it. The bench isn’t tall enough, and the pole wants to roll.
+Harra adds a hood to the far mirror to cut the glare. The cage has to stay level while she fits it, and the pole wants to roll.
 
 Sella braces its wooden cradle against the workshop pier with her forearms. Harra tightens one screw and frowns at the next.
 
@@ -5504,7 +5498,7 @@ Pell looks at him for a moment, then nods.
 
 “Name them. I’ll send.”
 
-She asks Harra to stay until the night watch arrives, doubles the boundary watch, and leaves the lower path and pump closed. Nobody gets to open the shutter alone. The clamp stays in place. If the indicators move, the watch fetches Dain instead of deciding what that means for themselves.
+She doubles the boundary watch, keeps the lower path and pump closed, and orders that nobody open the shutter alone. If the indicators move, the watch fetches Dain.
 
 Mara rises while Pell is still writing.
 
@@ -5634,7 +5628,7 @@ On it, in Mara’s careful letters, is the man’s first question.
 
 At first daylight the strip is there again.
 
-Same wheel position. Same clamp marks. Dain says both aloud before opening the shutter, and Mara records them. She has come with a clean collar and no sleep in her face. I don’t ask how her evening went until she hands me a folded sheet.
+The wheel position and clamp marks are unchanged. Mara records both before handing me a folded sheet, looking as though she has not slept.
 
 “Their letter,” she says. “We’ll need to show it in pieces.”
 
@@ -5672,7 +5666,7 @@ They will get his words in her hand. The original board stays beside a rail we c
 
 ---
 
-Later, when Mara sits down to copy the replies cleanly, we ask the practical questions.
+Later we move to practical questions.
 
 He is on a stair landing. The flight below him is broken across its width. Beyond the break, the arch appears as a narrow line of light. He has lashed his small mirror to a strip of wood so he can lean it around the rail and see us. The door behind him opens inward to another room. He can open it.
 
@@ -6074,7 +6068,7 @@ The sleeve and wall are sound. The place we put the load is not.
 
 “You told me before it pulled the bolt.” She gets a chisel from her bag. “Move your foot.”
 
-I sit outside while she cuts a hardwood seat against clean stone. Dain leans on a lever to test it. Harra makes him do it again with his weight farther out.
+I sit outside while she cuts a hardwood seat against clean stone and makes Dain load-test it with a lever.
 
 Through the door I see Sella by the boundary rope. She looks up, sees me sitting, and turns back to the yard. I am grateful she doesn’t come over, then angry she hasn’t.
 
@@ -6146,7 +6140,7 @@ Then Harra needs the steps, and we move.
 
 ---
 
-I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop before I have put it away. Dain has the washer in a shallow dish beside his drawing. She reads his account, picks up the dish, and tilts it to examine the linen.
+I collect my fifth reading wage on the way to supper. Pell finds us outside the workshop, reads Dain’s account, and examines the returned washer and cord.
 
 “Captain Rusk will be here tomorrow,” she says. “She’s bringing the lifting rig.”
 
@@ -6206,7 +6200,7 @@ The last English label says *wrong jar*.
 
 There is no jar. Mara tries the string against two stains in the tray, then puts it in a separate paper sleeve.
 
-We finish before midday. Thirty-six written pages, the associated labels, a sheet of unresolved words and missing samples. I read the last copy against the original while Mara checks the numbered slips. On the last page Elena has crossed out a purchase twice. Beneath it: thread, soap, pears if any.
+We finish before midday: thirty-six written pages, the surviving labels, and a short list of unresolved words and missing samples. On Elena’s last page, beneath a purchase crossed out twice: thread, soap, pears if any.
 
 “Was this before?” I ask.
 
@@ -6368,9 +6362,7 @@ For a moment nobody moves. Then Vey puts three pieces beside the drawing.
 
 Pell takes the coins before he can change his mind.
 
-The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace, missing the old junction entirely. Tolliver’s levels say it should fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the rest.
-
-He needs guards. A fitter. Someone at the movable screen while Harra opens the notch.
+The proposed drain bypasses the old junction through an abandoned wash channel to the mill tailrace. Tolliver’s levels say it should fall, but roots and silt block the masonry throat, so Dain wants a guarded test draw before committing the rest.
 
 “I can do that,” I say.
 
@@ -6386,7 +6378,7 @@ She comes to the table and studies the drawing. “There’s no place to stand.�
 
 I wait for her to look at me. She keeps talking to Dain.
 
-They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without another full reading.
+They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My pay, lodging, and return passage stay unchanged. I sign beneath the new dates.
 
 Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
@@ -6550,11 +6542,7 @@ She calls it Stepguard. The pattern moves support from one planted foot to the n
 
 “Finish one. Set the other. Don’t try to fix a broken Stepguard by pouring more into it.”
 
-She draws a second line beside the first, wide enough for my feet, and has me walk it without the shield. Then with the shield. Then while she presses lightly against it. Each time I want to lift my foot high enough to feel brave, she tells me to make it smaller.
-
-I keep trying to lengthen the step. Six inches would barely get me out of a cast circle. Sella puts her boot across the line and makes me start again.
-
-After a while my body understands what my head has been arguing with. The weight stays connected if I don’t hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
+She has me walk the line bare-handed, then with the shield, then under light pressure. Every time I try to make the step heroic, she makes it smaller. Eventually my body understands what my head has resisted: the weight stays connected if I don’t hurry the back foot.
 
 “There,” she says. “Remember that.”
 
@@ -6752,11 +6740,7 @@ The second sluicewright reaches Rook before the evening meal.
 
 Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn’t ask to see the mysterious door first. He asks where the field water comes in.
 
-Within ten minutes they are arguing over the old wash channel.
-
-I understand perhaps a third. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret use Tolliver’s measured points instead of assuming. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
-
-Oret will watch the downstream outlet. Dain will control the inlet. Harra will lift the little screen and clear the notch. Tolliver and Sella will cover the two banks, with another house guard beside the workers. I will keep the movable screen steady at its end, behind my shield, while Harra gets her tool in. If the ground moves, the cut closes and we withdraw along the track.
+Within ten minutes they are arguing over the old wash channel. Oret forces Dain to use the actual fall; Dain forces Oret to use Tolliver’s measured points. They settle on a narrow test cut with an upstream stop board and an uphill withdrawal route. Oret watches the outlet, Dain the inlet, Harra works the screen, and I hold its end behind my shield while the guards cover the banks.
 
 Bera offers to show the sound path. Pell agrees to pay her for the morning and keeps the remaining field hands away from the draw.
 
