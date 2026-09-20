@@ -510,7 +510,7 @@ No jumping.
 
 No load carrying.
 
-Maya turns back at the first increase in pain, instability or swelling.
+Maya stops at the first increase in pain. If it is sharp, does not settle with rest, or comes with instability or swelling, she turns back.
 
 The mender closes her eyes.
 
@@ -562,7 +562,7 @@ He survives.
 
 Retreat conditions:
 
-If my ankle worsens, I turn back with one person.
+If my ankle pain sharpens or does not settle with a stop and recheck, or if instability or swelling appears, I turn back with one person.
 
 If a floor section shifts after being marked stable, the expedition ends.
 
