@@ -1,5 +1,7 @@
 # The Unheld Warder: applied ARC repairs and verification
 
+> **Historical snapshot:** This report records an earlier manuscript state and has not been rewritten to match the September 20, 2026 synchronized *Empty Origin* manuscript. For current canon, use the chapter files, `WORKING_DRAFT.md`, `PROJECT_NOTES.md`, `STORY_OVERVIEW.md`, and `CHAPTER_LEDGER.md`.
+
 **Revision date:** September 19, 2026, America/Chicago.  
 **Reviewed baseline:** `914f2cb1fb3addadcbcf03c60cf6f1fd6ec295f3` (the prior review report commit; manuscript unchanged from `89b176f`).  
 **Applied repair commit:** `e91f8f531085fee7eab35afcb2bdb2f553d75439`.  
