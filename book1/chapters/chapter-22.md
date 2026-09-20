@@ -6,7 +6,7 @@ Her rig goes with her.
 
 The yard looks enormous without the shear legs.
 
-Harra's purchased block hangs beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
+Harra’s purchased block hangs beside the workroom door, small enough to carry with two hands and ugly enough that I trust it immediately.
 
 The hook has no keeper.
 
@@ -16,7 +16,7 @@ Harra has made one.
 
 “Mine closes.”
 
-“That wasn't the question.”
+“That wasn’t the question.”
 
 “It was the answer.”
 
@@ -66,7 +66,7 @@ I decide not to respect either of them.
 
 We establish the abort conditions at the kitchen table.
 
-Not in the chamber, not while afraid, and not after somebody has already put a boot where they shouldn't.
+Not in the chamber, not while afraid, and not after somebody has already put a boot where they shouldn’t.
 
 Dain writes them large.
 
@@ -108,7 +108,7 @@ My job is not the rope, the block, or stepping through a magical murder-slice be
 
 My job is the test board.
 
-Dain has taken yesterday's interval observations and made them physical.
+Dain has taken yesterday’s interval observations and made them physical.
 
 A narrow plank, marked with three zones.
 
@@ -120,7 +120,7 @@ Red: falling below the lowest observed safe continuation mark.
 
 The colors are not a law. They are reminders that uncertainty exists even when people are excited.
 
-I stand at the wheel recess with the board, close enough to hear Oret's runner call the outlet marks from above, far enough from the chamber that nobody can mistake my presence for permission to approach the edge.
+I stand at the wheel recess with the board, close enough to hear Oret’s runner call the outlet marks from above, far enough from the chamber that nobody can mistake my presence for permission to approach the edge.
 
 Sella stands with me.
 
@@ -170,7 +170,7 @@ The runner calls from the stair above.
 
 I move the wooden marker to yellow.
 
-Harra's voice comes up from the chamber.
+Harra’s voice comes up from the chamber.
 
 “Width increasing.”
 
@@ -186,13 +186,13 @@ The test object is a frame, not a bridge. Harra says this six times.
 
 Two ash sidepieces. Cross-braced. Narrow enough to pass the chamber approach. Strong enough to hold a weighted sack. Too narrow for a person to mistake for safe footing unless that person is an idiot.
 
-We have measured Iven's landing.
+We have measured Iven’s landing.
 
 He has cleared a place beside the gray door and braced one end of his bed-frame strip against the wall.
 
 The plan sounds sane when written down.
 
-Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook's side.
+Harra advances the test frame from our side using the block and a guide line that remains entirely on Rook’s side.
 
 Iven uses his strip to catch the far nose once it appears and lower it onto the landing, then releases it. Nobody touches the boundary, and no line remains tensioned across it.
 
@@ -234,7 +234,7 @@ The runner arrives breathless.
 
 Green.
 
-From above, Mara's bell rings once.
+From above, Mara’s bell rings once.
 
 Iven sees the nose.
 
@@ -244,7 +244,7 @@ Dain calls, “Far contact beginning.”
 
 I stare at the board.
 
-Do not imagine the frame, Iven's hands, or what would happen to fingers.
+Do not imagine the frame, Iven’s hands, or what would happen to fingers.
 
 I fail at all three.
 
@@ -256,7 +256,7 @@ The boundary is still wide.
 
 Harra calls, “Holding.”
 
-Mara's bell rings twice.
+Mara’s bell rings twice.
 
 Iven has the frame.
 
@@ -344,9 +344,9 @@ My mouth goes dry.
 
 “Release it,” Dain says.
 
-“Iven's trying.”
+“Iven’s trying.”
 
-Mara's bell from above.
+Mara’s bell from above.
 
 One.
 
@@ -370,7 +370,7 @@ Good. No holding harder. We learned that already.
 
 Harra feeds an inch back.
 
-Mara's bell rings twice.
+Mara’s bell rings twice.
 
 Iven has lifted.
 
@@ -420,7 +420,7 @@ Then she stops.
 
 We do not break our rule because the sound was frightening.
 
-Below, Renn calls, “They're clear!”
+Below, Renn calls, “They’re clear!”
 
 I breathe.
 
@@ -448,7 +448,7 @@ Later, when the interval widens enough to inspect from the glass, the result is 
 
 The near half of the ash frame lies in our chamber.
 
-The far half sits on Iven's landing.
+The far half sits on Iven’s landing.
 
 One crossbrace is gone entirely. Either cut into a piece too small to see or thrown somewhere outside the view.
 
@@ -476,21 +476,21 @@ Dain is sitting on the floor with his back against the wall, staring at the cut 
 
 Renn stands over him.
 
-“You didn't have to drag him?” I ask.
+“You didn’t have to drag him?” I ask.
 
-“Didn't get the pleasure.”
+“Didn’t get the pleasure.”
 
 Dain gives us both a tired look.
 
 Harra is examining the remaining metal pin.
 
-“It wasn't timing alone.”
+“It wasn’t timing alone.”
 
 I wait.
 
 She points to the far end drawing.
 
-“The nose caught because the support face isn't level. Iven's landing pitches toward the door.”
+“The nose caught because the support face isn’t level. Iven’s landing pitches toward the door.”
 
 “The cup would have told us.”
 
@@ -524,7 +524,7 @@ The pin that should have seated into the receiving notch extends farther than th
 
 Known weak point. Fixable. But not today.
 
-Mara's rule.
+Mara’s rule.
 
 No second try after loss.
 
@@ -570,7 +570,7 @@ I look at the slate.
 
 “Why?”
 
-She gives me a look so similar to my mother's that for one awful instant I hate her. Then it passes.
+She gives me a look so similar to my mother’s that for one awful instant I hate her. Then it passes.
 
 Iven writes again.
 
@@ -640,7 +640,7 @@ For the west-road offer.
 
 Declined.
 
-At the bottom he has written the missing man's name and the name of the daughter from years ago.
+At the bottom he has written the missing man’s name and the name of the daughter from years ago.
 
 Elian Vos.
 
@@ -650,9 +650,9 @@ No explanation.
 
 Just the two names.
 
-“You're giving me this?”
+“You’re giving me this?”
 
-“I don't want to keep making you ask what I am hiding.”
+“I don’t want to keep making you ask what I am hiding.”
 
 The sentence lands carefully. Not polished, not enough to erase anything. Real anyway.
 
@@ -668,17 +668,17 @@ Then he looks at my ankle.
 
 “I have been medically cleared to overdo a limited number of stairs.”
 
-“That isn't a thing.”
+“That isn’t a thing.”
 
-“Don't start.”
+“Don’t start.”
 
-“I wasn't going to.”
+“I wasn’t going to.”
 
 I look at him.
 
 He nods toward the stool by the hearth. “I was going to ask if you wanted that under your foot.”
 
-The difference is small enough to miss. I don't.
+The difference is small enough to miss. I don’t.
 
 “Yes,” I say.
 
