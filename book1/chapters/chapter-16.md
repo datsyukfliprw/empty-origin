@@ -234,7 +234,7 @@ I put my hand down, then bring it straight back to my throat.
 
 **[RUN: WARDER]**
 
-Five spaces. Two full. I hold them open until Sella comes down the steps.
+Five reserve marks now. Two full. I keep the measure open until Sella comes down the steps.
 
 “You saw?” I ask.
 
