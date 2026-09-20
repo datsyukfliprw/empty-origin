@@ -50,7 +50,7 @@ I stop walking.
 
 He goes another three paces before he notices, and when he turns there is nothing at all on his face, which is worse than if he had looked caught.
 
-"What's a plate," I say.
+"What's a plate?" I say.
 
 The creek fills the gap. Somewhere behind us a bird works through the same four notes it has been working through for an hour.
 
@@ -78,7 +78,7 @@ And there it is. Where it has been since he came up out of the mist, where it wa
 
 Water catches against a stone beside his boot. I look from his letters to the empty air above me.
 
-"What does mine say."
+"What does mine say?"
 
 Tolliver looks above my head before he answers. I want to grab his coat and make him hurry.
 
@@ -148,7 +148,7 @@ Something has been keeping track of me.
 
 "Yes."
 
-"Is that bad."
+"Is that bad?"
 
 "On a child it's nothing." He has come closer without my hearing him. "On you they'll ask who kept you from learning. Or what you did to lose it."
 
