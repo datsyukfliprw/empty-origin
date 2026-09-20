@@ -48,13 +48,7 @@ I fold my arms.
 
 “What do you want from me?”
 
-Not what do you want to do. From me. My body knows before my pride does. Every time he could have grabbed control and did not. Every time he asked. Every time he watched me call a route and followed.
-
-The ease when he lifted me after the rescue.
-
-The way he looked at me when I released Brace because I trusted him to have Iven.
-
-He knows I am strong. That is the entire problem.
+From me. My body knows before my pride does. Weeks of him asking, waiting, following when I called the route. He knows I am strong. That is the entire problem.
 
 “I want you to stop being careful with me.”
 
@@ -156,7 +150,7 @@ One hand. One wrist. I test him. Actually test. Pull. His arm barely moves. Fuck
 
 “Try.”
 
-I yank harder. Shoulder engaged. Weight shifted. I could Stepguard. I do not. I could kick. I do not. I could tell him to let go. I do not. His eyes track every choice. Not smug. Hungry.
+I yank harder, shoulder engaged, weight shifted. I could stop this. I do not. His eyes track me. Not smug. Hungry.
 
 “That what you wanted?” he asks.
 
@@ -194,7 +188,7 @@ My room has changed since Greyward. Different bed. Different walls. My own boots
 
 Earth under my mattress in a different form now. The Missouri card is not here. The shirt from my apartment is. I have stopped hiding all of it. Not everything. Enough. Tolliver closes the door. I lock it.
 
-He watches me slide the bolt. My choice. My room. My room, covered by my own work. No Household label deciding who owns my wages. No man telling a gate I am his. The memory flashes sharp.
+He watches me slide the bolt. My room, paid for with my own work. The memory of Greyward flashes sharp.
 
 He sees something in my face.
 
@@ -424,7 +418,7 @@ I stare at him. His voice is calm.
 
 “Open.”
 
-I do. Not because I cannot resist him. Because I choose to obey. That distinction lights me from the inside. His eyes drop. My face burns. He touches the inside of my thigh. Not where I need him. Lower. Then higher. Avoiding.
+I do. The choice itself lights me from the inside. His eyes drop. My face burns. He touches the inside of my thigh. Not where I need him. Lower. Then higher. Avoiding.
 
 I swear. He looks up.
 
@@ -472,7 +466,7 @@ He curls it. Adds another. My hips lift. He holds me down with his forearm acros
 
 His other hand works between my legs while his eyes stay on my face.
 
-Everything narrows. Fingers. Pressure. His forearm. His stare. The knowledge that I could say stop and he would. The knowledge that I have not. I reach for him. He catches my wrist and pins it beside my head. One hand. Again.
+Everything narrows to fingers, pressure, his forearm, his stare. I reach for him. He catches my wrist and pins it beside my head. One hand. Again.
 
 My body reacts so violently he notices.
 
@@ -702,7 +696,7 @@ I swear into the room. He laughs low behind me. Then his free hand slides under 
 
 No place to put the sensation. I make noises I will deny under oath. He says my name every time I try to disappear into the blanket. Not praise. Not command. Recognition. Maya. Here. Maya. This. Maya.
 
-Mine for exactly as long as I keep choosing it. The thought almost pulls me out of the moment. His fingers press harder. Nope. Thought over. I come again with my hand braced against the wall. Hard enough that my knees shake.
+His fingers press harder. Thought over. I come again with my hand braced against the wall. Hard enough that my knees shake.
 
 He holds my hips through it. Does not chase his own finish until I stop trembling. Then his rhythm changes. Less controlled. Finally. I look back over my shoulder. His face is wrecked. That does something viciously satisfying to me.
 
