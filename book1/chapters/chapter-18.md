@@ -100,11 +100,7 @@ She calls it Stepguard. The pattern moves support from one planted foot to the n
 
 “Finish one. Set the other. Don’t try to fix a broken Stepguard by pouring more into it.”
 
-She draws a second line beside the first, wide enough for my feet, and has me walk it without the shield. Then with the shield. Then while she presses lightly against it. Each time I want to lift my foot high enough to feel brave, she tells me to make it smaller.
-
-I keep trying to lengthen the step. Six inches would barely get me out of a cast circle. Sella puts her boot across the line and makes me start again.
-
-After a while my body understands what my head has been arguing with. The weight stays connected if I don’t hurry the back foot. The next patch of dirt becomes part of the movement before I reach it.
+She has me walk the line bare-handed, then with the shield, then under light pressure. Every time I try to make the step heroic, she makes it smaller. Eventually my body understands what my head has resisted: the weight stays connected if I don’t hurry the back foot.
 
 “There,” she says. “Remember that.”
 
@@ -302,11 +298,7 @@ The second sluicewright reaches Rook before the evening meal.
 
 Oret is a small man with a shaved head, spectacles tied behind his ears, and **[SLUICEWRIGHT, LV. 22]** above him. Dain meets him with the survey. Oret doesn’t ask to see the mysterious door first. He asks where the field water comes in.
 
-Within ten minutes they are arguing over the old wash channel.
-
-I understand perhaps a third. Oret makes Dain show the actual fall instead of the convenient line on the page. Dain makes Oret use Tolliver’s measured points instead of assuming. By the end they agree to a narrow test cut tomorrow, with an upstream stop board ready to close it and everyone working from the barrow-track side.
-
-Oret will watch the downstream outlet. Dain will control the inlet. Harra will lift the little screen and clear the notch. Tolliver and Sella will cover the two banks, with another house guard beside the workers. I will keep the movable screen steady at its end, behind my shield, while Harra gets her tool in. If the ground moves, the cut closes and we withdraw along the track.
+Within ten minutes they are arguing over the old wash channel. Oret forces Dain to use the actual fall; Dain forces Oret to use Tolliver’s measured points. They settle on a narrow test cut with an upstream stop board and an uphill withdrawal route. Oret watches the outlet, Dain the inlet, Harra works the screen, and I hold its end behind my shield while the guards cover the banks.
 
 Bera offers to show the sound path. Pell agrees to pay her for the morning and keeps the remaining field hands away from the draw.
 
