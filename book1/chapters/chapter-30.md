@@ -928,7 +928,7 @@ There is no reason she should. The eastbound crew is moving, and the road does n
 
 On the fourth evening, I take bread to the pantry roof and sit where we sat with the onions between us. I can still point to the place my heel nearly landed. I spend twenty minutes composing a letter in my head, then remember I do not know where the eastbound crew will sleep tomorrow, let alone where to send one. Loving someone on a road turns out to have terrible administrative support.
 
-At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella's without either of us deciding that. I eat with somebody else's elbow there and discover grief is petty enough to care about benches.
+At breakfast the next morning, someone asks whether the place across from me is free. I say yes before I realize it had become Sella’s without either of us deciding that. I eat with somebody else’s elbow there and discover grief is petty enough to care about benches.
 
 I work.
 
