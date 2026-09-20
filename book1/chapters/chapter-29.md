@@ -190,11 +190,7 @@ Pell hears it too.
 
 Rusk steps back from the line.
 
-Not defeated.
-
-Contained.
-
-Good enough.
+Rusk is not defeated, only contained, and I can live with that for the next hour.
 
 ---
 
@@ -252,7 +248,7 @@ Sella stops breathing.
 
 So do I.
 
-Excellent timing.
+Perfect. I confess love with a rescue crew waiting twenty steps away.
 
 "You absolute asshole."
 
@@ -320,15 +316,7 @@ The far shoe takes one finger. The near sleeve half.
 
 Iven puts on the belt with no metal except what cannot be avoided in his clothes. His papers are tied flat against his chest. He has one cloth water flask.
 
-No cabinet.
-
-No bed-frame strip.
-
-No salvaged answers.
-
-Just him.
-
-That is enough.
+He brings no cabinet, no bed-frame strip, no salvaged answers, only himself and the papers against his chest. That has to be enough.
 
 Sella checks the belt.
 
@@ -460,9 +448,7 @@ The near sleeve is already at one.
 
 The frame goes rigid.
 
-Not because the design failed.
-
-Because both places we gave it to move have been used.
+The design did what it could. We have simply used every inch of travel we gave it.
 
 Vibration climbs to six.
 
@@ -526,9 +512,7 @@ I set both forearms against the near anchor shoe and Brace.
 
 **6 / 7 → 5 / 7**
 
-Not the frame.
-
-The anchor shoe.
+I am holding the anchor shoe, not the whole frame.
 
 One breath of load so Harra can open the near release.
 
@@ -578,9 +562,7 @@ Then he hauls again.
 
 Sella never lets go of the tether.
 
-They are not saving the frame.
-
-They are saving him.
+Nobody wastes a hand trying to preserve the frame; every adjustment serves Iven.
 
 The boundary cuts the last empty piece of board.
 
@@ -606,19 +588,7 @@ Possibly me.
 
 I push up on my hands.
 
-Iven is on our side.
-
-All of him.
-
-Alive.
-
-No music.
-
-No light.
-
-No System announcement.
-
-A tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
+Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
 
 Iven lifts his head and looks at me.
 
@@ -642,11 +612,7 @@ He tries to sit.
 
 She pushes him flat.
 
-He looks offended.
-
-Good.
-
-Offended is alive.
+He looks offended, so ordinarily irritated that relief almost knocks the breath out of me.
 
 My ankle is still screaming.
 
@@ -712,11 +678,7 @@ Dain is watching the dead pointer.
 
 Tolliver's eyes meet mine.
 
-Trust has become something warmer and more dangerous.
-
-Later.
-
-Not now.
+The trust between us has changed temperature. I can deal with that later, when nobody is bleeding or vomiting.
 
 I rest my head against his shoulder for exactly one breath.
 
@@ -778,9 +740,7 @@ Then another line appears.
 
 I stare at it.
 
-Not because the phrase is profound.
-
-Because I know exactly which moment it means.
+The phrase itself is plain. What catches me is knowing exactly which moment the System means.
 
 The measure closes.
 
@@ -794,9 +754,7 @@ Rusk still has her claim.
 
 Tolliver is standing ten feet away with somebody else's blood on one sleeve.
 
-Nothing is solved.
-
-Everything is different.
+The list of unsolved problems is still ridiculous, but the shape of my life has changed anyway.
 
 "Level?" Sella asks.
 
@@ -910,11 +868,7 @@ Rusk nods once.
 
 "I assumed."
 
-She leaves.
-
-No speech.
-
-No threat.
+She leaves without a speech or threat.
 
 Paperwork survives everything.
 
