@@ -508,7 +508,7 @@ Her eyebrows rise.
 
 “What?”
 
-“I contain multitudes.”
+“Apparently I have range.”
 
 She laughs once, then stops when I kiss down the center of her chest.
 
