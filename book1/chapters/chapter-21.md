@@ -18,13 +18,13 @@ Then she turns to me.
 
 “You get none.”
 
-“I didn't ask.”
+“I didn’t ask.”
 
 “You looked.”
 
 “I was admiring it.”
 
-“That's what you said about the shield.”
+“That’s what you said about the shield.”
 
 Harra, at the other end of the table, makes a choking sound into her cup.
 
@@ -34,7 +34,7 @@ Bera takes the cabbage back.
 
 “Planting greens this afternoon if the lower furrows keep showing.”
 
-The drainage throat is still hanging from Rusk's chain. New stone supports stand beneath it, ugly and square against older masonry. Oret has the first sustained draw running at less than half the trial volume while the mortar takes load.
+The drainage throat is still hanging from Rusk’s chain. New stone supports stand beneath it, ugly and square against older masonry. Oret has the first sustained draw running at less than half the trial volume while the mortar takes load.
 
 The fields are not saved, but water is going where it is supposed to go. That feels suspiciously close to good news.
 
@@ -78,9 +78,9 @@ She stares at me.
 
 “I am waiting for the argument.”
 
-“I've developed character.”
+“I’ve developed character.”
 
-“You've developed bruising.”
+“You’ve developed bruising.”
 
 She allows flat indoor walking and short stairs tomorrow if swelling does not return.
 
@@ -132,7 +132,7 @@ Neither do I.
 
 ---
 
-At noon, Rusk's crew lowers the throat slab onto its new supports.
+At noon, Rusk’s crew lowers the throat slab onto its new supports.
 
 The chain goes slack one link at a time.
 
@@ -150,7 +150,7 @@ Sella catches my eye.
 
 “No.”
 
-“I didn't move.”
+“I didn’t move.”
 
 “You thought loudly.”
 
@@ -162,9 +162,9 @@ It is a small thing. A lower note beneath the wheel, steady instead of pulsing.
 
 Dain comes in dripping sweat and grinning.
 
-“Full planned draw. Throat's holding.”
+“Full planned draw. Throat’s holding.”
 
-Bera's cabbage goes back on the table.
+Bera’s cabbage goes back on the table.
 
 This time she leaves it.
 
@@ -172,7 +172,7 @@ This time she leaves it.
 
 Rusk gets paid at sunset.
 
-The six pieces were hers yesterday. Vey's wool covers the other ten. Pell's clerk writes the lien release terms again while Rusk inspects the finished draw with Oret.
+The six pieces were hers yesterday. Vey’s wool covers the other ten. Pell’s clerk writes the lien release terms again while Rusk inspects the finished draw with Oret.
 
 The captain returns with mud on her boots and no expression at all.
 
@@ -190,7 +190,7 @@ Then she lays another paper beside it.
 
 Pell does not touch it.
 
-“We don't have eight.”
+“We don’t have eight.”
 
 “I know.”
 
@@ -206,19 +206,19 @@ Harra leans against the wall.
 
 “The rescue.”
 
-“I've heard of it.”
+“I’ve heard of it.”
 
-Pell's mouth tightens.
+Pell’s mouth tightens.
 
 Rusk rolls the paper once between her hands.
 
-“I'll sell you the old lower block for three pieces.”
+“I’ll sell you the old lower block for three pieces.”
 
 Harra straightens.
 
 “Sell?”
 
-“Chain's worn. Hook is good. Four-to-one. I was going to replace it in Greyward.”
+“Chain’s worn. Hook is good. Four-to-one. I was going to replace it in Greyward.”
 
 “Three pieces is robbery.”
 
@@ -236,7 +236,7 @@ I do.
 
 I know that before anybody looks at me, so I hate the thought immediately.
 
-My purse has forty-six bits from before the extension. Today's eight makes fifty-four.
+My purse has forty-six bits from before the extension. Today’s eight makes fifty-four.
 
 The block would belong to Rook.
 
@@ -256,7 +256,7 @@ Pell turns on him. “No.”
 
 “One piece. Not stock.”
 
-“You've done enough.”
+“You’ve done enough.”
 
 “Apparently not. The man remains behind a wall.”
 
@@ -264,7 +264,7 @@ Mara places four bits on the table.
 
 Everyone looks at her.
 
-“What?” she says. “He's my brother.”
+“What?” she says. “He’s my brother.”
 
 Pell closes her eyes.
 
@@ -276,21 +276,21 @@ Renn, standing by the door, contributes one and immediately regrets doing it bec
 
 “This is why I travel,” the captain says. “Sentiment makes equipment liquid.”
 
-“Two pieces and four bits,” Harra says. “Count, or I'll start taking rust off the price.”
+“Two pieces and four bits,” Harra says. “Count, or I’ll start taking rust off the price.”
 
-By the end, Pell pays eight bits from the house's free cash. Vey pays eight. Mara four. Harra two. Dain one. Renn one.
+By the end, Pell pays eight bits from the house’s free cash. Vey pays eight. Mara four. Harra two. Dain one. Renn one.
 
 Twenty-four.
 
 Rusk gives four back.
 
-“Hook's missing a keeper.”
+“Hook’s missing a keeper.”
 
 Harra snatches the coins before she can change her mind.
 
-The block becomes Rook's. The captain leaves before sunrise.
+The block becomes Rook’s. The captain leaves before sunrise.
 
-What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else's grease still in the links, not Rusk's labor or an exclusive claim on what she can do next.
+What Rook bought is exactly what sits on the floor: a used piece of equipment with somebody else’s grease still in the links, not Rusk’s labor or an exclusive claim on what she can do next.
 
 I think I understand why Pell looks happier about that than she did when the fields started draining.
 
@@ -304,7 +304,7 @@ He takes two sheets from my hands.
 
 “I can carry paper.”
 
-“I've seen you carry paper.”
+“I’ve seen you carry paper.”
 
 “Then this is trust.”
 
@@ -354,13 +354,13 @@ I lean against the wall because I was told I could, and because this no longer f
 
 “What happened?”
 
-“She'd left him.”
+“She’d left him.”
 
 That lands differently.
 
 Tolliver looks down at the station pages in his hand.
 
-“I found her in Kest. She was nineteen. He told me she'd been taken. She told me she'd run.”
+“I found her in Kest. She was nineteen. He told me she’d been taken. She told me she’d run.”
 
 “What did you do?”
 
@@ -370,7 +370,7 @@ My stomach hardens.
 
 He does not soften it for me.
 
-“He brought three men. She disappeared again before they arrived. I don't know if she knew I had told him or if somebody warned her.”
+“He brought three men. She disappeared again before they arrived. I don’t know if she knew I had told him or if somebody warned her.”
 
 “You took his money.”
 
@@ -388,7 +388,7 @@ I stare at him.
 
 He lets me.
 
-“That is why you wanted the wagon owner's name.”
+“That is why you wanted the wagon owner’s name.”
 
 “Yes.”
 
@@ -410,11 +410,11 @@ I think of Chapter Seven, though my life does not call it that. I think of him d
 
 I think of Rusk asking for custody in writing.
 
-“You don't get points for confessing after you already decided not to do it again.”
+“You don’t get points for confessing after you already decided not to do it again.”
 
 “I know.”
 
-“And I don't forgive you for something that didn't happen to me.”
+“And I don’t forgive you for something that didn’t happen to me.”
 
 “I know.”
 
@@ -428,7 +428,7 @@ He gives me the pages back.
 
 I hate how much I want to touch him, so I do not. That matters too.
 
-“I'll see you tomorrow,” I say.
+“I’ll see you tomorrow,” I say.
 
 He steps aside.
 
@@ -442,7 +442,7 @@ Not the pantry roof where we watched the moons. The lower drying roof above the 
 
 She has two blankets, a bottle of watered wine and the cabbage.
 
-“You stole Bera's cabbage.”
+“You stole Bera’s cabbage.”
 
 “Pell cooked it.”
 
@@ -468,9 +468,9 @@ Sella tears bread.
 
 She chews before replying.
 
-“I don't.”
+“I don’t.”
 
-“That's not true.”
+“That’s not true.”
 
 “It is. I need to decide whether I take a job. You need to decide whether you want to come.”
 
@@ -482,15 +482,15 @@ She gives me half the bread.
 
 I look toward the yard.
 
-Rusk's shear legs stand dark against the wall, already lashed for departure. The new drainage channel runs beyond them toward fields I cannot see.
+Rusk’s shear legs stand dark against the wall, already lashed for departure. The new drainage channel runs beyond them toward fields I cannot see.
 
-“I can't promise east,” I say.
+“I can’t promise east,” I say.
 
-Sella's face stays still.
+Sella’s face stays still.
 
 I keep going because stopping here would be cowardice dressed as caution.
 
-“I want to. I want to see it. I want to see the coast. I also want to get Iven out. I want to know who built that station. And I don't know what happens with Tolliver.”
+“I want to. I want to see it. I want to see the coast. I also want to get Iven out. I want to know who built that station. And I don’t know what happens with Tolliver.”
 
 “There it is.”
 
@@ -506,7 +506,7 @@ She eats another piece of cabbage.
 
 “No.”
 
-“Good. I wasn't going to.”
+“Good. I wasn’t going to.”
 
 Relief comes so quickly I resent it.
 
@@ -514,7 +514,7 @@ Then she adds, “But I will not wait in Rook while you decide whether I am temp
 
 Gone.
 
-“You aren't.”
+“You aren’t.”
 
 “Then tell me what you can give me.”
 
@@ -522,7 +522,7 @@ I look at our knees beneath the blanket.
 
 Truth has become a recurring expense.
 
-“I can give you the next two days. After that, if Iven isn't out, I stay until we get him or until the attempt becomes impossible.”
+“I can give you the next two days. After that, if Iven isn’t out, I stay until we get him or until the attempt becomes impossible.”
 
 She nods.
 
@@ -546,11 +546,11 @@ Not relief exactly.
 
 Something that had been holding still.
 
-When she opens them, I say, “I still don't know what that means about Tolliver.”
+When she opens them, I say, “I still don’t know what that means about Tolliver.”
 
 “I know.”
 
-“And you still want east even if I don't come.”
+“And you still want east even if I don’t come.”
 
 “Yes.”
 
@@ -586,7 +586,7 @@ I look at the three steps.
 
 “Very dangerous.”
 
-“I'll carry the wine.”
+“I’ll carry the wine.”
 
 “Hero.”
 
@@ -772,7 +772,7 @@ She lies on her back with one arm over her eyes while I try not to smile at the 
 
 “You are resting smugly.”
 
-“I've had a difficult week.”
+“I’ve had a difficult week.”
 
 “So have I.”
 
@@ -784,7 +784,7 @@ There are bruises along her upper arm from the reed-jack, yellow at the edges no
 
 “Yes.”
 
-“You didn't say.”
+“You didn’t say.”
 
 “You had an ankle the size of a turnip.”
 
@@ -816,7 +816,7 @@ Not pressure.
 
 Just there.
 
-After a while she says, “If we go east, I won't pay your fare.”
+After a while she says, “If we go east, I won’t pay your fare.”
 
 “I have money.”
 
