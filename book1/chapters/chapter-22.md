@@ -38,17 +38,13 @@ Sella looks delighted. I decide to respect neither of them for the remainder of 
 
 ---
 
-We establish the abort conditions at the kitchen table, in daylight, with food in front of us. Not in the chamber. Not while anyone is frightened, and not after somebody has already put a boot somewhere it should not be.
+We establish the abort conditions at the kitchen table, in daylight, before anyone is frightened enough to renegotiate them. Dain writes the essentials large enough to read from the doorway: early contraction, pressure below threshold, anchor movement, lost visual contact, or a stop call means withdraw. No body crosses the edge. No improvising because something is almost there.
 
-Dain writes them large enough to read from the doorway. If the boundary contracts early, if the outlet drops past threshold, if an anchor moves, if visual contact is lost, or if either Harra or Iven calls stop, we withdraw. No body and no hand crosses the edge. Nobody improvises because an object is almost there.
+Mara adds one line of her own: NO SECOND TRY TODAY AFTER EQUIPMENT LOSS.
 
-Mara reads the list through twice and then adds one of her own. NO SECOND TRY TODAY AFTER EQUIPMENT LOSS.
+"You will want one," she tells Dain.
 
-Dain looks up. "What?"
-
-"You will want one."
-
-He thinks about that for a moment, which is more consideration than I expected, and then writes it down. I love her a little for it.
+He writes it down. I love her a little for it.
 
 ---
 
@@ -274,11 +270,9 @@ The difference is small enough to miss, and I don't miss it. He brings me the st
 
 ---
 
-The house extends all three of us by one more day. Not because Pell has found money, but because the drainage is operating now and three tenants have paid part of what they owe in stored grain, which frees a small works purse without touching seed. She explains every bit of it, which I appreciate more than I want to admit to her face.
+The house extends all three of us by one more day at the same rates. The drainage has freed enough of the works purse to manage it without touching seed, and Pell explains that part before I can ask.
 
-Eight bits for me, twelve for Sella, ten for Tolliver. One day. Flat work for me unless the mender changes her mind, which she will not.
-
-Harra gets materials for a second frame: shorter pin, adjustable far shoe. No new rescue attempt tomorrow. First we inspect the far half when the boundary permits, then load-test the near anchor without spanning, and then we decide.
+Harra gets materials for a second frame: shorter pin, adjustable far shoe. Tomorrow is inspection and dry testing, not another rescue attempt.
 
 The clerk pays today's eight bits before I sign for tomorrow. The money is becoming less important to me than the paper, which frightens me in a completely different way.
 
