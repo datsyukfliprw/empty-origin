@@ -28,7 +28,7 @@ The last English label says *wrong jar*.
 
 There is no jar. Mara tries the string against two stains in the tray, then puts it in a separate paper sleeve.
 
-We finish before midday. Thirty-six written pages, the associated labels, a sheet of unresolved words and missing samples. I read the last copy against the original while Mara checks the numbered slips. On the last page Elena has crossed out a purchase twice. Beneath it: thread, soap, pears if any.
+We finish before midday: thirty-six written pages, the surviving labels, and a short list of unresolved words and missing samples. On Elena’s last page, beneath a purchase crossed out twice: thread, soap, pears if any.
 
 “Was this before?” I ask.
 
@@ -190,9 +190,7 @@ For a moment nobody moves. Then Vey puts three pieces beside the drawing.
 
 Pell takes the coins before he can change his mind.
 
-The proposed drain runs from the north field collector along an abandoned wash channel to the mill tailrace, missing the old junction entirely. Tolliver’s levels say it should fall enough, but roots and silt block the masonry throat. Dain wants a test draw before committing the rest.
-
-He needs guards. A fitter. Someone at the movable screen while Harra opens the notch.
+The proposed drain bypasses the old junction through an abandoned wash channel to the mill tailrace. Tolliver’s levels say it should fall, but roots and silt block the masonry throat, so Dain wants a guarded test draw before committing the rest.
 
 “I can do that,” I say.
 
@@ -208,7 +206,7 @@ She comes to the table and studies the drawing. “There’s no place to stand.�
 
 I wait for her to look at me. She keeps talking to Dain.
 
-They agree on a prepared ledge and an uphill retreat. Pell writes three days for the test and contact work, starting tomorrow. Same pay and lodging for me; Sella gets twelve bits a day, Tolliver ten. My old return passage stays on the paper. I sign beneath the new dates without another full reading.
+They agree on a prepared ledge, an uphill retreat, and three days for test and contact work. My pay, lodging, and return passage stay unchanged. I sign beneath the new dates.
 
 Sella’s pen stops over the last date. It is the day she was meant to leave east.
 
