@@ -1,578 +1,664 @@
 CHAPTER TWENTY-FIVE
 
-The first thing I learn about being trapped in a dungeon is that nobody calls it a dungeon.
+The first thing I learn about being trapped underground is that nobody else is willing to call it a dungeon.
 
-Harra calls it “route loss.” Sella calls it “bad.” Tolliver calls it nothing because he is listening to the floor.
+Harra calls it route loss. Sella calls it bad. Tolliver says nothing because he is listening to the floor.
 
-I call it a dungeon in my head because I need one stupid thing that belongs to me.
+I keep *dungeon* for myself. Three plates are down in the corridor behind us, and the gaps beneath them are black and busy. Pale hands slap the neighboring stones hard enough that the rhythm travels through my boots.
 
-Three corridor plates are down. The gaps beneath them are black and moving. Not crawling. Breathing. Pale hands slap the undersides of the adjacent stone. Knock. Knock. Knock. The rhythm travels through my boots. My ankle answers with a pulse of pain.
+Knock. Knock. Knock.
 
-Reserve: two of six. Objective: acquired. Exit: temporarily unavailable. There is a sentence no game tutorial ever put on a loading screen. Harra points to the far door.
+My ankle answers with its own pulse.
 
-“Forge route.”
+Two reserve. Objective acquired. Exit unavailable.
 
-Sella looks at her. “You said we leave.”
+No game I ever played put that sentence on a loading screen.
 
-“We are leaving.”
+Harra points toward the far door. "Forge route."
 
-“That door is the other direction.”
+Sella looks at her. "You said we leave."
 
-“The maintenance forge has a service vent to the upper spill gallery.”
+"We are leaving."
 
-“You know that?”
+"That door is the other direction."
 
-“I know it did twelve years ago.”
+"The maintenance forge had a service vent to the upper spill gallery."
 
-“Wonderful.”
+"Had?"
 
-Tolliver looks at the floor behind us.
+"Twelve years ago."
 
-“One plate rising.”
+Sella closes her eyes for a second.
 
-We wait. The first dropped stone lifts halfway. A knocker’s head appears beneath it. Then another. Two level-six plates flicker in my vision. One becomes three. The stone stops rising. Not a route.
+Behind us, one of the dropped plates begins to rise.
 
-“Forge,” I say.
+A pale head appears in the gap. Then another. Nameplates flicker too quickly to count cleanly, all level six. The stone stalls halfway up under the weight of whatever is gathering beneath it.
 
-Nobody argues. That feels different now. Not because I am in charge. Because the decision has become obvious and I said it first.
+Not a route.
 
----
+"Forge," I say.
 
-The far door has no latch. It has a wheel. Of course it does. Harra turns it one quarter. Metal screams inside the wall. The knocking changes. Faster.
-
-“Stop,” I say.
-
-She stops. The floor under the door trembles. Sella puts two fingers against the stone.
-
-“They’re coming toward the vibration.”
-
-“So opening the door rings dinner,” I say.
-
-Tolliver glances down the corridor.
-
-“They already know we’re here.”
-
-“Knowing and being invited are different.”
-
-Harra studies the wheel.
-
-“Could turn it slowly.”
-
-“Longer vibration.”
-
-“Fast?”
-
-“Bigger vibration.”
-
-Sella says, “Can we hit it with something far away and make them go there?”
-
-We all look at her. She shrugs.
-
-“They’re stupid enough to live under floors.”
-
-Harra’s expression becomes thoughtful. Tolliver unhooks the small hammer from his pack.
-
-“No.”
-
-I point to the broken stone from the sweep-room test. We still have the line attached.
-
-“Throw that back into the pressure room. Hard. Repeated.”
-
-Tolliver understands first.
-
-“Then open while they move toward it.”
-
-Harra nods. Sella looks at me.
-
-“Gamer.”
-
-“Occasionally useful.”
-
-We set it. Tolliver takes the line. Sella stands at the wheel. Harra at the door.
-
-I stand on sound stone and try not to think about having only two reserve.
-
-Tolliver whips the rock into the iron stop. CLANG. The floor erupts. Hands strike below us. Again. CLANG. Movement shifts away.
-
-“Now.”
-
-Sella spins the wheel. Fast. The wall groans. The door opens. Harra gets through. I follow. Tolliver releases the line and crosses. Sella comes last. A pale hand shoots from the seam beside her boot. Tolliver moves. I say, “No.” He stops.
-
-Sella stomps the wrist with her heel, twists free and crosses under her own power.
-
-The hand vanishes as the door closes. Tolliver looks at me. I look at him.
-
-“You were right there,” he says.
-
-“So was she.”
-
-Sella is breathing hard. She looks between us.
-
-Then says, “I appreciate both of you having this revelation after I kept my foot.”
-
-She is joking. Mostly. The sentence still lands.
+Nobody argues.
 
 ---
 
-The forge is enormous. Not grand. Industrial.
+The far door has a wheel instead of a latch.
 
-A long stone chamber cut into the ridge with three cold furnaces along one wall and a central trench full of black water.
+Of course it does.
 
-Chains hang from ceiling tracks. Worktables have rotted down to iron frames.
+Harra turns it a quarter rotation. Metal screams somewhere inside the wall, and the knocking under the floor immediately speeds up.
 
-At the far end, a narrow stair climbs toward a square of gray daylight no bigger than my palm.
+"Stop."
 
-Exit. Beautiful. Between us and it, half the floor is missing. Not dropped. Gone. The spill channel carved through the chamber years ago. Water runs twenty feet below.
+She stops.
 
-The old crossing is a pair of iron rails with plank sockets between them.
+The stone beneath the door trembles. Sella crouches and puts two fingers to it.
 
-Every plank is gone. Harra says a word I have only heard Tolliver use once. Sella nods approvingly. Tolliver studies the rails.
+"They're coming toward the vibration."
 
-“Can they hold?”
+"So opening the door rings dinner."
 
-Harra tests the nearest with the pry bar. Rust flakes. The rail does not move.
+Tolliver glances toward the broken corridor. "They already know we're here."
 
-“Maybe.”
+"Knowing and being summoned are different problems."
 
-“That is not a bridge,” I say.
+Harra studies the wheel. Slow would mean longer vibration. Fast would mean more of it at once.
 
-“No.”
+Sella points back toward the pressure room. "Can we make noise somewhere else?"
 
-“Good. We are learning vocabulary.”
+We all look at her.
 
-A sound comes from the water below. Not knocking. Scraping. Slow. Heavy. Nobody looks down immediately. This is wisdom. Eventually Sella does.
+"What? They live under floors. I am comfortable assuming poor judgment."
 
-“What the fuck is that?”
+Tolliver unhooks his hammer, but I point instead to the test stone still tied to its line.
 
-I join her. Bad choice. Something pale moves under the surface. Longer than a person. Much longer. A plate appears.
+"Throw that into the iron stop. Repeatedly. While they move toward it, we open."
+
+Tolliver nods. "Better."
+
+"Gamer," Sella says.
+
+"Sometimes employable."
+
+We do it once.
+
+Tolliver snaps the stone into the far stop.
+
+CLANG.
+
+The floor erupts with answering blows.
+
+Again.
+
+CLANG.
+
+The movement beneath us shifts away.
+
+"Now."
+
+Sella spins the wheel. Harra shoulders the door as soon as the seal breaks. I cross behind her, then Tolliver. Sella comes last.
+
+A hand shoots from the seam beside her boot.
+
+Tolliver starts forward.
+
+"No."
+
+He stops.
+
+Sella stamps the wrist, twists out of its grip, and crosses under her own power just before the door closes.
+
+For half a breath nobody moves.
+
+Then Sella points at both of us. "I appreciate you having this revelation after I kept my foot."
+
+She is joking.
+
+Mostly.
+
+---
+
+The forge is enormous in the way industrial spaces are enormous: not grand, just built for things heavier than people.
+
+Three cold furnaces line one wall. A central trench runs black with water. Chains hang from ceiling tracks, and the wooden parts of the old worktables have rotted away, leaving iron frames standing by themselves.
+
+At the far end, a narrow stair climbs toward a square of gray daylight.
+
+Exit.
+
+Between us and it, half the floor is gone.
+
+The spill channel cut through the forge years ago. Water runs twenty feet below. Two iron rails still span the opening where a plank deck used to sit, but every plank is missing.
+
+Harra tests the nearest rail with the pry bar. Rust flakes into the dark.
+
+"Maybe."
+
+"That is not a bridge," I say.
+
+"No."
+
+"Good. Our terminology is improving."
+
+Something scrapes below us.
+
+Slow.
+
+Heavy.
+
+Nobody looks down immediately. This is the best decision we make all morning.
+
+Sella eventually leans over the edge. "What the fuck is that?"
+
+I join her, which is not wisdom.
+
+Something pale moves beneath the black water, far longer than a person.
+
+A plate flashes into view.
 
 **[SILT BORER, LV. 9]**
 
-I step back.
+I step back from the edge.
 
-“Level nine.”
+"Level nine."
 
-Harra says, “That would explain the missing planks.”
+Harra looks at the missing deck. "That may explain the planks."
 
-“How?”
+"It explains where they went. Not why there is a monster in the drain."
 
-“They probably fell.”
+"No."
 
-“That explains the planks. Not the monster.”
+The water bulges as the creature turns beneath us.
 
-“No.”
+Everything in these works advertises location through impact. The knockers hear it. The old mechanisms answer it. Whatever is in the channel has just learned we are standing above it.
 
-The borer circles beneath the rails. It has felt us. Vibration. Everything here is about vibration. Load, support and telling the wrong thing where you are. I begin to understand the dungeon. I wish it were less educational.
-
----
-
-We cannot cross one at a time on bare rails. Sella could probably do it. Tolliver maybe. Harra with the recovered shoe strapped to her pack, unlikely. Me with an ankle that is now actively filing complaints, absolutely not.
-
-We need a floor. The forge has materials. Old chain. Two surviving table rails. Iron furnace doors. None light enough to simply lay across the gap. Harra walks the near edge.
-
-“There used to be a traveling work platform.”
-
-She points up. The ceiling track crosses the channel. A chain trolley hangs above us, motionless halfway across. A square iron frame dangles from it. No deck. But the frame exists.
-
-“Can we pull it?”
-
-Tolliver follows the chain to a capstan.
-
-“Maybe.”
-
-Harra examines the gearing.
-
-“Manual. Two people.”
-
-The near track bracket has a diagonal iron stay running down beside the capstan, low enough for me to reach from the solid floor.
-
-Sella says, “And every turn tells the thing downstairs where we are.” Yes. That. The borer bumps the wall below. Stone shivers. My Warder sense does not turn on as a separate power. It is not a radar.
-
-But I have spent days thinking about load. The capstan. The track. The suspended frame. The rail. The creature below. Every movement creates a line. We do not need silence. We need the vibration somewhere else. I look at the three furnaces.
-
-Their chimney flues rise toward the spill gallery. One has a hanging damper plate on a chain.
-
-“Can we make that move?”
-
-Harra follows my finger.
-
-“Yes.”
-
-“Continuously?”
-
-“With a weight.”
-
-Tolliver smiles. Not at me. At the idea. That is somehow worse. Sella catches it. I see her catch it. Her face does not close. It becomes watchful. That hurts more.
-
-Harra threads our line through the return pulley by drawing it after the old one, then has Sella and Tolliver bring the empty trolley to us. It creeps down toward the far landing when they ease the brake. They stop with the near bar over solid floor.
-
-The new return line reaches both banks. Once someone is across, we can haul from either end.
+I am beginning to resent the educational value of this place.
 
 ---
 
-We build a liar. That is what I call it. Harra calls it a vibration decoy. Mine is better.
+Bare rails are not enough.
 
-We rig the heaviest loose furnace door to the damper chain with a counterline over a wall hook.
+Sella might cross them. Tolliver probably could. Harra is carrying the return shoe and specification plate, and my ankle has advanced from complaint to written grievance.
 
-Tolliver hauls it up. Sella wedges a broken stool leg under the release.
+Harra walks the near edge until she finds the remains of a traveling work platform.
 
-When kicked free, the door will drop in short jerks as the chain passes three rusted links.
+A ceiling track crosses the channel. Halfway out hangs a chain trolley with an iron frame suspended beneath it. The deck is gone, but the frame survives.
 
-Three huge impacts.
+Tolliver traces the drive chain back to a capstan.
 
-Then the damper will swing and knock against the chimney frame until it settles.
+"Manual."
 
-Noise. Vibration. A false meal. The borer waits below the gap. I can see the water bulge over its back. Tolliver takes the capstan left. Sella right.
+"Two people," Harra says.
 
-Harra will ride the frame with the salvage and the two table rails. Someone has to secure the far landing and take the return line.
+The creature bumps the channel wall below. The floor gives a small, ugly shiver.
 
-I will not. I am too injured. I am too low on reserve. I know this. I hate it.
+I look toward the furnaces. One chimney still has a heavy damper plate hanging from a chain.
 
-“Your job,” Harra says, “is call.”
+"Can we make that move?"
 
-“What call?”
+Harra follows my finger. "Yes."
 
-“Continue or release.”
+"More than once?"
 
-Of course. Warder. Not strongest person in the room. Not the one who gets to do everything. The person who decides whether holding is still the right answer. I hate how much that makes sense.
+"With enough weight."
 
-I take position where I can see the ceiling track and the water.
+Tolliver understands before I finish. "Give it something louder than us."
 
-“Ready.”
+Exactly.
 
-Sella looks at me. Not Harra. Me.
+We pull the empty trolley to the near landing, then build what I privately name the liar.
 
-“Ready.”
+Harra calls it a vibration decoy, which proves engineers should not be allowed to name anything.
 
-Tolliver does the same.
+The heaviest loose furnace door becomes our weight. Tolliver hauls it up. Sella wedges a broken stool leg beneath the release. When kicked free, the door will drop in three short jerks as damaged links pass the hook, then leave the damper swinging against the chimney frame.
 
-“Ready.”
+Three large impacts, followed by smaller ones.
 
-I kick the stool leg. The furnace door drops. BOOM. Water erupts at the far wall. The borer lunges toward the sound.
+Enough, we hope, to tell the borer the wrong story.
 
-“Turn.”
+Harra will ride the trolley frame with the salvage and two iron table rails for a temporary deck. Once she reaches the far landing, she can secure the return line and bring the frame back for us.
 
-The capstan moves. Iron shrieks. The trolley creeps. Second drop. BOOM. The creature hits stone. Hard enough that dust falls from the ceiling.
+I do not volunteer to cross first.
 
-“Turn.”
+This is personal growth and I hate it.
 
-Harra rides the hanging frame out over the channel. Ten feet. Fifteen. The track flexes. I feel it through the floor. Not dangerous yet. Third drop. BOOM. The borer turns. Too soon. The damper begins knocking. Clang. Clang. Clang. The creature hesitates.
+Harra looks at me. "You call continue or release."
 
-The trolley catches at a damaged section of track, a yard short of the far landing.
+I look at the track, the suspended frame, the water.
 
-“Brake!” Harra calls.
+"That is becoming a suspiciously specific job."
 
-Tolliver holds it.
+"It suits you."
 
-Harra stays in the frame with one leg hooked over the lower bar. Still above the water.
+There are several possible responses to that, none useful.
 
-She starts lashing the two table rails across its base for the rest of us.
+I take a position where I can see both the track and the channel.
 
-Sella says, “That will take time.” The damper slows. Clang. … Clang. The borer turns beneath us. Tolliver looks at the furnace.
+"Ready."
 
-“No second decoy.”
+Sella puts both hands on the capstan. Tolliver takes the other side.
 
-“I know.”
+"Ready."
 
-He reaches for his bow.
+I kick the stool leg.
 
-“Arrow won’t stop that.”
+The furnace door drops.
 
-“I know.”
+BOOM.
 
-“Then why?”
+Water erupts at the far wall as the borer lunges toward the impact.
 
-“Eyes.”
+"Turn."
 
-“It has eyes?”
+The capstan moves. The trolley creeps out over the gap.
 
-“I am hoping.”
+Second drop.
 
-Reasonable. Terrible.
+BOOM.
+
+The creature hits stone. Dust sifts from the ceiling.
+
+"Turn."
+
+Harra is ten feet out, then fifteen. The track flexes, but not enough to frighten me yet.
+
+Third drop.
+
+BOOM.
+
+The damper begins its smaller rhythm.
+
+Clang. Clang. Clang.
+
+The borer hesitates between the false vibration and the real one.
+
+Then the trolley catches at a damaged joint a yard short of the far landing.
+
+"Brake," Harra calls.
+
+Tolliver locks it.
+
+Harra hooks one leg through the frame and starts lashing the first table rail across the bottom.
+
+The damper slows.
+
+Clang.
+
+A longer pause.
+
+Clang.
+
+The water beneath us turns.
+
+Tolliver reaches for his bow.
+
+"An arrow is not stopping that."
+
+"I know."
+
+"What are you shooting?"
+
+"Eyes."
+
+"Does it have eyes?"
+
+"I am choosing optimism."
+
+The borer rises.
+
+It is worse in air: long plates of pale armor, a mouth at the front opening in concentric bone.
+
+No eyes.
+
+Tolliver lowers the bow. "Optimism revised."
+
+Sella draws her knife.
+
+I stare at it. "And your plan?"
+
+"Emotional support."
+
+Fair.
+
+The borer slams the near wall.
+
+The ceiling track jumps. Harra nearly loses her grip.
+
+I set both forearms against the low diagonal stay beside the capstan and Brace before I have finished deciding to do it.
+
+**2 / 6 → 1 / 6**
+
+The track steadies.
+
+Pressure comes through iron and bone into the stone beneath my boots. Harra catches the upper bar and hauls herself upright.
+
+Another impact.
+
+I can hold.
+
+That is the problem.
+
+The track is stable because the force is going somewhere else, and the bracket above me is bending farther with every hit. I can keep the line straight until the bracket tears itself out of the wall.
+
+The first ash frame flashes through my head, cut in half because holding harder felt safer than releasing.
+
+"Harra."
+
+"I need ten breaths."
+
+"No."
+
+She looks at me.
+
+The bracket groans.
+
+"Five."
+
+The borer circles for another strike.
+
+I release Brace.
+
+The track drops four inches.
+
+Harra swears, but the bent bracket gives instead of snapping. The changed angle lifts the trolley wheel over the damaged joint.
+
+The frame starts rolling toward the far landing.
+
+"Let it run!"
+
+Tolliver's hand is on the brake. He looks at me once.
+
+Then he opens it.
+
+The trolley rolls.
+
+Harra hits the far stop hard enough to curse us all, but she stays in the frame. The borer launches where she used to be and smashes into the underside of the channel.
+
+Water blows upward.
+
+Sella laughs, breathless and a little wild.
+
+My arms are shaking.
+
+Tolliver looks from the bent bracket to me. "You saw it failing."
+
+"Eventually."
+
+"You let the track move."
+
+"That was the idea."
+
+He keeps looking at me for one beat too long.
+
+Sella notices. Her laughter stops first.
 
 ---
 
-Harra gets one rail fixed. The second hangs loose. The damper stops. Silence. Then the water below us swells. The borer rises. It is worse in air. Long pale armor plates.
+Harra finishes the temporary deck on the far landing.
 
-A mouth at the front like a circular saw made of bone. No eyes. Tolliver lowers the bow.
+We send the trolley back empty and cross one at a time. Sella goes first to help Harra with the return line. I go next.
 
-“Hope withdrawn.”
+Stepping into the frame makes my ankle hurt. The first sway makes it worse.
 
-Sella draws her knife. I almost laugh.
+The channel opens beneath me.
 
-“What are you going to do with that?”
+I decide not to look down.
 
-“Feel better.”
+I look down.
 
-Fair. The borer slams the near wall. The ceiling track jumps. Harra nearly falls.
+The borer's plate moves under the water.
 
-“Hold!” Sella shouts.
+Level nine. I am level four. It feels personally rude.
 
-I press both forearms against the low diagonal stay and Brace. I do not think first. That is the mistake. Reserve drops. **2 / 6 → 1 / 6**
+Harra pulls from the far side while Tolliver controls the brake. Halfway across, the borer strikes the wall again. The frame swings and my bad foot slips.
 
-The track steadies through the iron against my arms. I feel the load down my back and into the stone beneath my boots.
+Pain flashes white through my ankle.
 
-For one second everything stabilizes. Harra gets both hands on the frame. The borer hits again. Pressure drives through the Brace. Harder. I can hold. That is the trap. I can feel it. The support stone above me is sound.
+I make a sound I plan to deny forever.
 
-The bracket is not. Every hit bends it a little more.
+The trolley stops.
 
-If I keep holding the track in place, the bracket takes all of the force.
+Tolliver has locked the brake.
 
-It will tear out. Holding harder is the wrong answer. I learned this with the first ash frame. The world is not subtle.
+"No."
 
-“Harra!”
+"You slipped."
 
-“I need ten breaths!”
+"I'm still in the frame."
 
-“No.”
+Below me, the borer turns toward the fresh vibration.
 
-She looks at me. The track groans.
+"Keep me moving."
 
-“Five!”
+He releases the brake.
 
-The borer circles. I release the Brace. The track drops four inches. Harra swears.
+Immediately.
 
-The bracket bends instead of breaking. At the changed angle, the trolley wheel clears the damaged joint.
+The trolley reaches the far landing. Sella waits until the frame touches stone before catching my forearm.
 
-The trolley rolls toward the far side. Good. Movement. Not collapse.
+When I step out, the ankle nearly folds.
 
-“Let it run!” I shout.
+She holds me upright.
 
-Tolliver has a hand on the capstan brake. He looks at me. Every old version of him would have made the safer choice for me. He opens his hand. The brake spins. The trolley rolls. Harra rides it to the far wall.
+"Worse?"
 
-The borer launches where the frame used to be. Misses. Hits the underside of the channel. Water explodes upward. Sella laughs. Not because it is funny. Because we are alive. My reserve is one. My whole body shakes.
+"Yes."
 
-Tolliver looks at the bent bracket. Then at me.
+The word costs more than the pain.
 
-“You released.”
+"Sharp?"
 
-“Yes.”
+"Yes."
 
-“You saved the support by giving up the hold.”
+Harra does not even look up from the line. "You are done walking."
 
-“Yes.”
+"I had reached a similar conclusion."
 
-His face changes. Attraction is not subtle either. Sella sees it. This time I know she sees it because she stops laughing.
+Tolliver crosses last. By the time he reaches us, Sella has my boot loosened and the wrap half off. He looks once at the ankle, jaw tight, and turns to help Harra secure the trolley.
 
----
-
-Harra steps onto the far landing and finishes lashing the second table rail across the frame. She leans her weight onto both.
-
-Tolliver checks the bent near bracket with the pry bar. It has settled against the lower stone shoulder. It no longer moves under the empty trolley.
-
-We cross using the trolley. One at a time. Harra and Tolliver work the return line to bring the frame back empty. Sella crosses first to help Harra. Then me.
-
-Tolliver goes last. Until three of us are across, he controls the near brake. After that, Harra and Sella can take the trolley’s weight on the return line from the far landing.
-
-I step into the iron frame. My ankle hates the first shift. Then the floor drops away. The channel opens beneath me. The borer is somewhere under the black water. I do not look. I look. Mistake. Its plate moves below me.
-
-Level nine. I am level four. This seems rude. Harra pulls from the far side. Tolliver controls the brake. Halfway across, the borer hits the wall again. The frame swings. My bad foot slips. I grab the upper bar.
-
-Pain flashes up my ankle. I make a sound I will deny later. Tolliver’s hand closes on the brake. The trolley stops.
-
-“No,” I say.
-
-He freezes.
-
-“Keep it moving.”
-
-“You slipped.”
-
-“I am still in the frame.”
-
-The borer turns toward the vibration. Stopping makes me a target. Tolliver understands. He releases. Immediately. The trolley moves. Sella reaches from the far edge. Not across the gap. Waits until the frame touches stone. Then she catches my forearm.
-
-I step off. My ankle almost folds. She holds me.
-
-“Worse?”
-
-“Yes.”
-
-That word costs more than I expected.
-
-“Sharp?”
-
-“Yes.”
-
-Harra says, “You are done walking.”
-
-“I noticed.”
-
-Tolliver secures the near brake open only after Harra confirms she has the load on the far line. Then he crosses.
-
-When he steps off the frame, he takes one look at me sitting on the stone with Sella rewrapping my ankle.
-
-His jaw tightens. He says nothing. Good. I cannot survive being proud of him every ten minutes.
+I am grateful enough not to make a joke about it.
 
 ---
 
-The spill stair is blocked. Of course it is. A collapsed beam lies across the first turn. Harra can move it with the recovered return shoe and the trolley chain. Not quickly. We need a secured place while she works.
+The spill stair is blocked by a fallen beam at the first turn.
 
-The old foreman’s office has one door, stone walls and no floor seams. Harra checks the ceiling.
+Harra can shift it with the trolley chain and the recovered shoe, but not quickly. We need a room while she works.
 
-Tolliver checks the narrow ventilation opening. Too small for any of us; the grate is still fixed.
+The old foreman's office has one door, stone walls, and no floor seams.
 
-Sella checks under the desk because apparently we are people who check under desks for monsters now.
+Harra checks the ceiling. Tolliver checks the ventilation opening. Sella looks under the desk, because apparently this is who we are now.
 
-Clear. We close the door. Safe room. The phrase appears in my head before I can stop it. I sit on a rolled coat with my foot elevated. Harra and Tolliver go back to rig the beam. Sella stays with me.
+Clear.
 
-Not because I need babysitting. Because somebody needs to stay with the injured person and she chose. Still different. She finishes the wrap.
+I sit on a rolled coat with my foot elevated while Harra and Tolliver go back to rig the beam. Sella stays and rewinds the ankle wrap.
 
-“The rest at the gallery helped,” she says.
+"The rest at the gallery helped," she says.
 
-“Yes.”
+"Yes."
 
-“When did the ache come back?”
+"When did it start getting worse again?"
 
-“The pressure room. Before we tried to leave.”
+"Pressure room. Before we tried to leave."
 
-“Tell me next time. Not just after something gives.”
+Her hands stop.
 
-“I will.”
+I look at her.
 
-She ties the knot harder than necessary.
+"Tell me then next time."
 
-“Ow.”
+"I will."
 
-“Good.”
+"Not after it becomes a problem."
 
-I look at her. She sits back against the wall. For a while neither of us talks. The room smells like wet leather and old paper. There are ledgers on the shelves, fused together by damp.
+"I said I will."
 
-One page on the floor still has writing. I do not pick it up. Growth. Eventually Sella says, “He listens to you.” I know who she means.
+She ties the knot.
 
-“Yes.”
+Too hard.
 
-“He didn’t before.”
+"Ow."
 
-“No.”
+"Good."
 
-“He looks at you differently when you are right.”
+I glare. She sits back against the wall.
 
-Heat moves up my neck.
+For a while the room contains only our breathing and the sound of chain moving somewhere outside. Old ledgers have fused together on the shelves. One loose page lies near my boot with half a column still legible.
 
-“This is a terrible time.”
+I leave it there.
 
-“I know.”
+Growth.
 
-“Then why are we doing this?”
+Eventually Sella says, "He listens to you."
 
-“Because later you will pretend you didn’t notice.”
+I know who she means.
 
-I open my mouth. Close it. She knows me too well. Sella picks at a loose thread on her glove.
+"Yes."
 
-“I like him more now.”
+"He didn't before."
 
-That surprises me.
+"No."
 
-“You do?”
+"He looks at you differently when you're right."
 
-“No.”
+Heat climbs my neck.
 
-I laugh. She smiles.
+"This is a terrible time."
 
-“More than before.”
+"I know."
 
-“Low bar.”
+"Then why are we doing this now?"
 
-“Underground.”
+"Because later you'll pretend you didn't notice."
 
-The smile goes.
+I open my mouth and discover she has removed every useful answer.
 
-“He makes you angry.”
+Sella pulls at a loose thread on her glove.
 
-“Yes.”
+"I like him more now."
 
-“He also makes you…” She gestures vaguely at my entire body.
+That surprises a laugh out of me. "You do?"
 
-“Please do not diagnose me in a dungeon.”
+"No."
 
-“Works complex.”
+I stare at her.
 
-“Traitor.”
+"More than before."
 
-She looks at the door. Then back at me.
+"Low bar."
 
-“I don’t need an answer today.”
+"Underground."
 
-My chest tightens.
+The smile fades.
 
-“To what?”
+"He makes you angry."
 
-“That.”
+"Frequently."
 
-A boundary not yet drawn. A future approaching. I reach for her hand.
+"He also makes you..." She gestures vaguely at all of me.
 
-She gives it, then touches two fingers to her mouth and presses them against the back of my hand.
+"Please do not diagnose me in a dungeon."
 
-“Still here.”
+"Works complex."
 
-I return the gesture. Her fingers curl around mine.
+"Traitor."
 
-“I meant what I said on the roof.”
+Her expression softens.
 
-“I know.”
+"I don't need an answer today."
 
-“I want to go with you.”
+My chest tightens. "To what?"
 
-“I know.”
+"That."
 
-“And I don’t know what he is.”
+There it is. Not an ultimatum. Not permission either. Just a thing between us that has become too large to pretend is furniture.
 
-“I know.”
+I reach for her hand.
+
+She gives it to me.
+
+"I meant what I said on the roof," she says.
+
+"I know."
+
+"I want to go with you."
+
+"I know."
+
+"And I don't know what he is."
+
+"I know."
 
 She squeezes my fingers.
 
-“That is the problem.”
+"That is the problem."
 
-Plain steel. No speech. Nothing to solve tonight. I lean my head against her shoulder. She lets me.
+There is nothing to solve in this room. I lean my head against her shoulder.
 
----
-
-Harra finds the maintenance specification while Tolliver is freeing the beam. Not the one we came for. Another. Pressure-isolation notes. Old local script.
-
-I can read more of it than she can because the System translation has stopped feeling like translation most days.
-
-The plate describes resonance faults. Repeated load cycling can wake dormant isolation sections after long disuse. A damaged pressure line may transmit false activation through connected stone. I read the line twice. Resonance. False activation. Connected stone.
-
-The rescue chamber vibrated before the frame caught. The East Relief Works woke under load. Same regional system. Not proof. Useful enough to matter. Harra looks at the plate.
-
-“We take this.”
-
-“Yes.”
-
-“More weight.”
-
-“Yes.”
-
-She gives me a look.
-
-“We leave the spare chain.”
-
-That hurts. The chain is worth money. Useful money. Dungeon cost. We leave it. The rescue gets the plate. The rescue gets the return shoe. Rook does not get every shiny thing because we survived. I understand why that feels important.
+She lets me.
 
 ---
 
-We exit near dusk. The spill gallery opens onto the ridge above the entrance. Tolliver carries Harra’s pack. Harra carries the return shoe wrapped against her chest. Sella carries my pack.
+Harra finds another specification plate while Tolliver is freeing the beam.
 
-I carry myself with one arm over Tolliver’s shoulder because there are limits to principle and my ankle has reached one.
+Not the one we came for. This one is a pressure-isolation notice in old local script, and the System has made the writing familiar enough that I can read more of it than she can.
 
-He asked first.
+Repeated load cycling may wake dormant isolation sections after long disuse. Damaged pressure lines can transmit false activation through connected stone.
 
-“Can I?”
+I read the passage twice.
 
-I said yes. The answer changes everything. His arm is around my waist. Practical. Strong. He could pick me up. He does not. I feel the possibility anyway. That is new. Or maybe only newly honest. We descend slowly.
+The rescue chamber shivered before the frame caught.
 
-Sella walks on my other side. Not shut out. Not pretending not to see. The configuration is absurdly intimate for four exhausted people covered in rust.
+The East Relief Works woke under load.
 
-Harra ruins it by saying, “If you three fall over, I am leaving you.”
+Same regional system. Not proof, but enough to carry home.
 
-“Professional leadership,” I say.
+"We take it," Harra says.
 
-“Move.”
+"Yes."
+
+"More weight."
+
+"Yes."
+
+Her eyes flick toward a coil of spare chain we found in the office.
+
+We leave the chain.
+
+It is worth money. Useful money. I feel the loss when Harra sets it back on the floor, and that is probably good for me.
+
+We came for Iven.
+
+Not for everything that glitters under a ruined roof.
 
 ---
 
-At the maintenance shelter I open the measure.
+We reach the spill gallery near dusk.
+
+The exit opens onto the ridge above the front entrance. Harra carries the return shoe wrapped against her chest. Sella has my pack. Tolliver takes Harra's heavier tools.
+
+I make it down the first part of the ridge using the stick and one good leg, then stop before pride turns into a second injury.
+
+Tolliver waits.
+
+"Can I?"
+
+I look at the slope, then at him.
+
+"Yes."
+
+He puts my arm over his shoulder and an arm around my waist. He could lift me. He does not. We go down slowly, with Sella on my other side and Harra ahead muttering about daylight.
+
+The arrangement is absurdly intimate for four people who smell like rust and stagnant water.
+
+Harra glances back once. "If you three fall over, I am leaving you."
+
+"Professional leadership."
+
+"Move."
+
+---
+
+At the shelter I open the measure.
 
 **[MAYA SZCZEPANIAK, LV. 4]**
 
@@ -582,14 +668,30 @@ At the maintenance shelter I open the measure.
 
 **[RUN: WARDER]**
 
-Nine progress. No level five. Good. I am too tired to become another person today. The System gives me one more line.
+Nine progress.
+
+No level five, which is fine. I am too tired to become anything else today.
+
+Then another line appears.
 
 **[TECHNIQUE RECOGNITION: RELEASE UNDER LOAD]**
 
-Not an ability. Recognition. Something I did enough, correctly enough, that the System has named it. I stare at the words. Tolliver is rebuilding the fire. Sella is cutting cheese with the knife she threatened a level-nine monster with.
+Not an ability.
 
-Harra has the return shoe beside her like a baby. We entered for one piece of metal.
+Recognition.
 
-We are coming back with the metal, a pressure plate, a damaged ankle, almost no reserve and the knowledge that the old works may be connected in ways nobody at Rook understood.
+The System has named something I did.
 
-A successful dungeon, apparently. I close the measure. Tomorrow we get home. Then we find out whether what we learned can get Iven out.
+Across the shelter, Tolliver rebuilds the fire. Sella cuts cheese with the same knife she offered as emotional support against a level-nine monster. Harra has set the return shoe beside her like a baby.
+
+We went into the works for one piece of metal.
+
+We came out with it, a pressure plate, a worse ankle, almost no reserve, and evidence that the old infrastructure may still be talking to itself across miles of stone.
+
+For a successful dungeon, the accounting feels appropriately terrible.
+
+I close the measure.
+
+Tomorrow we get back to Rook.
+
+Then we find out whether any of this gets Iven home.
