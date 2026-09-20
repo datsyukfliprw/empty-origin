@@ -174,11 +174,7 @@ Then they repeat it during a wider interval.
 
 The same extension reaches farther before the slat disappears from our view.
 
-No one crosses it.
-
-No one needs to.
-
-The moving edge is not a door swinging on a fixed hinge. The boundary itself is changing where the connection exists.
+Nobody crosses. The measurements are enough to prove the moving edge is not a door swinging on a fixed hinge; the boundary itself is changing where the connection exists.
 
 I knew that yesterday. Seeing it in two columns still tightens my stomach.
 
@@ -326,7 +322,7 @@ Iven is ready.
 
 We have agreed on the wax tablet because if the edge cuts it, the cut will preserve shape better than cord.
 
-No line across. No hand near it. No person within the marked danger distance.
+We keep the line, our hands, and every body outside the marked danger distance.
 
 Harra advances the tablet on the fork until part of it is visible to Iven. He signals.
 
@@ -342,7 +338,7 @@ More of the tablet appears.
 
 Harra does not advance.
 
-That matters. The connection is moving across a stationary object.
+The connection is moving across a stationary object.
 
 Then Dain calls the first contraction mark.
 
@@ -364,7 +360,7 @@ The near half drops onto our chamber floor.
 
 Iven's half lands on his side.
 
-No pull. No twist. A clean diagonal through wax.
+It parts on a clean diagonal without pulling or twisting.
 
 Harra had drilled a tiny hole near the center and filled it with black pigment.
 
