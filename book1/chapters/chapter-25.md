@@ -474,7 +474,7 @@ Her hands stop.
 
 I look at her.
 
-“Tell me then next time.”
+“Tell me then, next time.”
 
 “I will.”
 
