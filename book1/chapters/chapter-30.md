@@ -428,7 +428,7 @@ He looks at his sons.
 
 ---
 
-The mender keeps me off the ankle for six more days.
+The mender orders me off the ankle for six more days.
 
 Six.
 
