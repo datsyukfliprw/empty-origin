@@ -188,7 +188,7 @@ Her head comes up. “Maya.”
 
 “You go.”
 
-“Iven—“
+“Iven—”
 
 “Has Harra, Oret, Dain, Tolliver, and me, assuming Mara eventually returns my leg from state custody.”
 
