@@ -1,7 +1,7 @@
 # Empty Origin — Publication Roadmap
 
 **Status date:** September 20, 2026  
-**Current position:** **Final technical passes complete — final proof complete; manuscript freeze next**  
+**Current position:** **Manuscript frozen — beta/ARC round next**  
 **Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,693 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
@@ -12,7 +12,7 @@ The book itself is complete through Chapter Thirty-Two, and Chapters Twenty–Th
 
 Repository synchronization is complete. The chapter files, compiled draft, README, project notes, chapter ledger, story overview, series-status headers, and active title references now agree on the current manuscript state. Superseded editorial reports are clearly labeled historical snapshots.
 
-The developmental, cold-read, and technical revision work is closed. The **final proof is complete**. The immediate job is manuscript freeze.
+The developmental, cold-read, technical revision, and final-proof work is closed. The manuscript is now **frozen as the beta/ARC master**. The immediate job is the beta/ARC round.
 
 ## Stage 1 — Synchronize the repository after the Chapters 20–32 rewrite
 
@@ -94,15 +94,15 @@ Run, in order:
 
 ## Stage 4 — Freeze the manuscript
 
-**Status: PENDING**
+**Status: COMPLETE**
 
-Create a clearly identified frozen manuscript/version.
+Frozen master created at `book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md` and recorded in `book1/MANUSCRIPT_FREEZE.md`. The frozen manuscript is byte-identical to the proofed `WORKING_DRAFT.md`, with blob SHA `64bce9b3d916fd60ec99f00789cf7f5fe104faa8`, **32 chapters**, and **96,693 whitespace-counted words**.
 
 After freeze, do **not** keep rewriting prose because a sentence could theoretically be different. Reopen substantive prose only when a beta/ARC reader identifies an actual reader-facing problem or production exposes a concrete defect.
 
 This is the anti–Revision Purgatory™ rule. Otherwise every comma eventually develops a backstory.
 
-**Exit condition:** One version is designated as the beta/ARC master and all further changes are tracked against it.
+**Exit condition: COMPLETE.** The September 20, 2026 frozen manuscript is the designated beta/ARC master. All subsequent manuscript changes must be tracked against it.
 
 ## Stage 5 — Beta / ARC round
 
