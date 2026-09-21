@@ -106,7 +106,7 @@ This is the anti–Revision Purgatory™ rule. Otherwise every comma eventually 
 
 ## Stage 5 — Beta / ARC round
 
-**Status: PENDING**
+**Status: NEXT**
 
 Give the frozen book to several cold readers who have never seen the planning documents, repair plans, or prior editorial debates.
 
