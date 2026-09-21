@@ -1,6 +1,6 @@
 CHAPTER TWENTY-EIGHT
 
-At dawn, the boundary is wide enough to show Iven's whole face.
+At dawn, the boundary is wide enough to show Iven’s whole face.
 
 That should feel like good news.
 
@@ -14,7 +14,7 @@ He has been there long enough to mend things.
 
 Down at the near ledge, with the sleeve glass no longer bending his voice into something distant, Dain says his name.
 
-"Yes, I heard you the first time."
+“Yes, I heard you the first time.”
 
 Thin voice.
 
@@ -26,13 +26,13 @@ Dain makes him repeat one number, then answers another. Slates stay ready for wh
 
 Harra looks toward the gauge.
 
-"Pressure?"
+“Pressure?”
 
-"Rising. Slow."
+“Rising. Slow.”
 
-Oret watches the waxed pointer fixed to the near wall. "Vibration quiet."
+Oret watches the waxed pointer fixed to the near wall. “Vibration quiet.”
 
-Iven raises his measuring strip on the far side. "Landing dry. No new shift."
+Iven raises his measuring strip on the far side. “Landing dry. No new shift.”
 
 I touch the letters on my wrist.
 
@@ -44,17 +44,17 @@ Sella stands to my left with the rescue belt and board hook. Tolliver is on my r
 
 The mender waits above with Mara and Pell.
 
-Rusk's witness is at the upper works with Vey, where the agreement says he belongs.
+Rusk’s witness is at the upper works with Vey, where the agreement says he belongs.
 
 Iven looks through the opening.
 
-"Everyone ready?"
+“Everyone ready?”
 
-"No," I say.
+“No,” I say.
 
 He smiles.
 
-"Good."
+“Good.”
 
 ---
 
@@ -62,11 +62,11 @@ We measure everything again, then run one loaded cycle before any person goes ne
 
 Pressure rising. Vibration quiet. Stone quiet.
 
-"Seat."
+“Seat.”
 
-The spring takes one finger. Harra loads the board to Iven's weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
+The spring takes one finger. Harra loads the board to Iven’s weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
 
-"Recover load."
+“Recover load.”
 
 Iven releases the far latch first. Tolliver brings the weight home. One clean cycle.
 
@@ -88,47 +88,47 @@ The thought arrives without warning and feels less like discovery than getting c
 
 Sella glances toward me, eyes softening for half a second, then turns back to Iven.
 
-"Good. Leave it on."
+“Good. Leave it on.”
 
 ---
 
 A runner comes down from above at exactly the wrong moment.
 
-Pell's voice follows.
+Pell’s voice follows.
 
-"Hold operation."
+“Hold operation.”
 
 Everything stops.
 
-Nothing crosses. Tolliver ties off the haul line. Sella's hand settles on her knife.
+Nothing crosses. Tolliver ties off the haul line. Sella’s hand settles on her knife.
 
 I know who is upstairs before Pell says the name.
 
-"Rusk moved her witness."
+“Rusk moved her witness.”
 
 Harra closes her eyes.
 
-"What?"
+“What?”
 
-"She is at the upper works with two crew."
+“She is at the upper works with two crew.”
 
 Agreement broken.
 
 Vey is already arguing.
 
-Rusk's voice carries faintly through the stone, calm enough to be worse than shouting.
+Rusk’s voice carries faintly through the stone, calm enough to be worse than shouting.
 
-"I have not entered the lower chamber."
+“I have not entered the lower chamber.”
 
-Pell says, "You entered the works."
+Pell says, “You entered the works.”
 
-"The preservation order requires observation."
+“The preservation order requires observation.”
 
-"The agreement did not."
+“The agreement did not.”
 
-"I have reason to believe disputed inner iron is being prepared for removal."
+“I have reason to believe disputed inner iron is being prepared for removal.”
 
-I look through the boundary at Iven's room.
+I look through the boundary at Iven’s room.
 
 The metal cabinet.
 
@@ -146,47 +146,47 @@ Harra says my name.
 
 I look at her.
 
-"The legal decision is not yours," she says. "The sequence is."
+“The legal decision is not yours,” she says. “The sequence is.”
 
 Pell comes down to us, face hard.
 
-"Rusk says anything disputed that crosses gets seized into joint hold in the upper gallery."
+“Rusk says anything disputed that crosses gets seized into joint hold in the upper gallery.”
 
-Sella's voice goes flat. "And Iven?"
+Sella’s voice goes flat. “And Iven?”
 
-"No custody right."
+“No custody right.”
 
-"Paper does not stop hands."
+“Paper does not stop hands.”
 
-"No."
+“No.”
 
 Tolliver looks at me and waits for my call.
 
 Iven has heard enough.
 
-"What iron do I need?" he asks.
+“What iron do I need?” he asks.
 
-Harra answers immediately. "None."
+Harra answers immediately. “None.”
 
-"Then I leave it."
+“Then I leave it.”
 
 Behind him, the imported cabinet catches the gray light.
 
 I have no idea what it holds, and the uncertainty is the part that hurts.
 
-"Iven comes with clothes, papers, food, water, and non-iron personal things," I say.
+“Iven comes with clothes, papers, food, water, and non-iron personal things,” I say.
 
 Pell nods.
 
-Iven lifts the bed-frame strip. "This?"
+Iven lifts the bed-frame strip. “This?”
 
-"Leave it," Harra says.
+“Leave it,” Harra says.
 
 He lets it fall.
 
 The small sound of metal hitting stone makes the cost immediate: today, the mystery stays on the far side so Iven can come out clean.
 
-"Continue," I say.
+“Continue,” I say.
 
 ---
 
@@ -212,15 +212,15 @@ My ankle aches inside the brace, but not sharply.
 
 Sella notices.
 
-"Same?"
+“Same?”
 
-"Same."
+“Same.”
 
 She nods.
 
 Tolliver looks over.
 
-"Same," I tell him.
+“Same,” I tell him.
 
 He accepts the answer and looks back to the line.
 
@@ -234,7 +234,7 @@ The spring compresses to one finger.
 
 Then a little more.
 
-"Good," Oret says.
+“Good,” Oret says.
 
 The vibration pointer moves two scratches and stops.
 
@@ -244,7 +244,7 @@ Iven shifts.
 
 The rail twists slightly.
 
-"Center."
+“Center.”
 
 He does.
 
@@ -268,21 +268,21 @@ I know that sentence is nonsense.
 
 My brain does not care.
 
-"Pressure?"
+“Pressure?”
 
-"Rising."
+“Rising.”
 
-"Vibration?"
+“Vibration?”
 
-"Three."
+“Three.”
 
-"Spring?"
+“Spring?”
 
-"One and a half."
+“One and a half.”
 
 Still inside limit.
 
-"Move."
+“Move.”
 
 Tolliver takes one controlled draw.
 
@@ -294,7 +294,7 @@ Not much.
 
 Enough.
 
-Dain says, "Stop."
+Dain says, “Stop.”
 
 Everybody stops.
 
@@ -304,13 +304,13 @@ The delay.
 
 We knew about the delay.
 
-Knowing it on paper is not the same as watching the edge descend behind a man's shoulder.
+Knowing it on paper is not the same as watching the edge descend behind a man’s shoulder.
 
-"Vibration four," Oret says.
+“Vibration four,” Oret says.
 
-"Frame stable," Harra says.
+“Frame stable,” Harra says.
 
-"Boundary still narrowing," Dain says.
+“Boundary still narrowing,” Dain says.
 
 Iven is exactly at midpoint.
 
@@ -318,27 +318,27 @@ Of course he is.
 
 The rule says reverse before midpoint. After midpoint, continue only if the near route is clearly shorter and the supports remain good.
 
-"Distance?" I ask.
+“Distance?” I ask.
 
 Sella judges the board.
 
-"Same."
+“Same.”
 
 Perfectly unhelpful.
 
 The boundary narrows another finger.
 
-"Spring one and three-quarter."
+“Spring one and three-quarter.”
 
-"Vibration five."
+“Vibration five.”
 
 The numbers are no longer reassuring.
 
-From above, Rusk says, "Do not bring claimed hardware with him."
+From above, Rusk says, “Do not bring claimed hardware with him.”
 
-Sella's head snaps toward the stair.
+Sella’s head snaps toward the stair.
 
-Iven says, "I have none."
+Iven says, “I have none.”
 
 One breath lost.
 
@@ -346,7 +346,7 @@ Then another.
 
 I look at the board.
 
-"Back."
+“Back.”
 
 No one argues.
 
@@ -364,7 +364,7 @@ The rail goes rigid.
 
 My stomach drops.
 
-"Release far."
+“Release far.”
 
 Harra pulls the latch.
 
@@ -374,7 +374,7 @@ Again.
 
 The line jumps but does not travel.
 
-"Bound."
+“Bound.”
 
 The loaded shoe has twisted against the side lip.
 
@@ -402,7 +402,7 @@ Tolliver hauls harder.
 
 The rail grinds.
 
-"Stop."
+“Stop.”
 
 He stops immediately.
 
@@ -422,25 +422,25 @@ The frame does not need to become stronger.
 
 It needs somewhere to move.
 
-"Near clamp. Open one notch."
+“Near clamp. Open one notch.”
 
-Harra stares at me. "That adds motion."
+Harra stares at me. “That adds motion.”
 
-"Yes."
+“Yes.”
 
-"The boundary is contracting."
+“The boundary is contracting.”
 
-"Give the twist somewhere else."
+“Give the twist somewhere else.”
 
 Her face changes.
 
 She sees it.
 
-"Near clamp one."
+“Near clamp one.”
 
 Tolliver reaches for the catch.
 
-Harra says, "Not you."
+Harra says, “Not you.”
 
 His hand stops.
 
@@ -454,7 +454,7 @@ The frame rotates.
 
 The far shoe comes free.
 
-"Now."
+“Now.”
 
 Harra yanks the release.
 
@@ -468,7 +468,7 @@ Tolliver waits.
 
 The boundary keeps contracting.
 
-"Back."
+“Back.”
 
 He pulls.
 
@@ -496,27 +496,27 @@ Iven rolls onto his back.
 
 Raises one hand.
 
-"I'm fine."
+“I’m fine.”
 
 Sella sits down hard.
 
 Tolliver closes his eyes.
 
-Harra's hands are shaking.
+Harra’s hands are shaking.
 
 Mine are too.
 
 Mara comes three steps down before Pell physically stops her at the safety line.
 
-"What happened?"
+“What happened?”
 
-"Abort worked," I say.
+“Abort worked,” I say.
 
-My voice sounds like somebody else's.
+My voice sounds like somebody else’s.
 
 Harra looks at the frame.
 
-"Barely."
+“Barely.”
 
 I look at the released far shoe.
 
@@ -524,21 +524,21 @@ At the shifted near clamp.
 
 At the empty section that got cut.
 
-"No. It worked because we stopped trying to save the frame."
+“No. It worked because we stopped trying to save the frame.”
 
 Everyone looks at me.
 
-"We can replace a brace."
+“We can replace a brace.”
 
-Harra's breathing slows.
+Harra’s breathing slows.
 
-"The spring housing took side load."
+“The spring housing took side load.”
 
-"Can you inspect it?"
+“Can you inspect it?”
 
-"Yes."
+“Yes.”
 
-"Then inspect it."
+“Then inspect it.”
 
 Dain watches the pointer settle back to one.
 
@@ -550,13 +550,13 @@ Again.
 
 Sella gets to her feet.
 
-"What now?"
+“What now?”
 
 I look at Iven.
 
 He is sitting up, angry enough to be healthy.
 
-From above, Rusk says, "Operation is concluded."
+From above, Rusk says, “Operation is concluded.”
 
 I laugh.
 
@@ -568,53 +568,53 @@ I am looking at the near clamp.
 
 The one notch that saved the release.
 
-"We made both sides too fixed."
+“We made both sides too fixed.”
 
 Harra follows my gaze.
 
-"We need support."
+“We need support.”
 
-"Yes. But not a locked near head."
+“Yes. But not a locked near head.”
 
 Oret understands first.
 
-"Captured guide."
+“Captured guide.”
 
 Harra turns to him.
 
-"A floating head," he says. "Near end can travel without leaving the cradle."
+“A floating head,” he says. “Near end can travel without leaving the cradle.”
 
-Dain nods. "Decouple the sides."
+Dain nods. “Decouple the sides.”
 
 We kept saying *independent support* and then built a frame that still wanted to behave like one rigid object.
 
 Iven calls through the opening.
 
-"Can you change it today?"
+“Can you change it today?”
 
 Nobody answers immediately.
 
 Harra studies the damaged brace.
 
-"One hour to replace that and convert the near head. Less if Oret already has the sleeve stock."
+“One hour to replace that and convert the near head. Less if Oret already has the sleeve stock.”
 
-"I have it."
+“I have it.”
 
-Mara says, "No second human attempt without full inspection."
+Mara says, “No second human attempt without full inspection.”
 
-"Yes," I say.
+“Yes,” I say.
 
 She looks at me, surprised.
 
-"Full inspection. Dry cycle. No person until it passes."
+“Full inspection. Dry cycle. No person until it passes.”
 
 Sella exhales.
 
 Tolliver looks at me.
 
-"You're not rushing."
+“You’re not rushing.”
 
-"I'm trying not to."
+“I’m trying not to.”
 
 A small smile touches his mouth.
 
@@ -626,7 +626,7 @@ Sella sees.
 
 She takes my hand anyway.
 
-"One hour," she says.
+“One hour,” she says.
 
 Her team leaves after midday.
 
@@ -646,7 +646,7 @@ Sella leans into me.
 
 Tolliver shakes his head.
 
-Harra says, "If you're finished losing your mind, I need the drawing board."
+Harra says, “If you’re finished losing your mind, I need the drawing board.”
 
 I am not finished.
 
