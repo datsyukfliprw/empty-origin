@@ -13700,7 +13700,7 @@ He looks at his sons.
 
 ---
 
-The mender keeps me off the ankle for six more days.
+The mender orders me off the ankle for six more days.
 
 Six.
 
@@ -14098,7 +14098,7 @@ Then come back.
 
 "Nothing I cannot change."
 
-Heat opens low in me. He has not reached for me once in ten days.
+Heat opens low in me. He has not made one move toward me in ten days.
 
 "Change it."
 
