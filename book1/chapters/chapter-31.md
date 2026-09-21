@@ -26,10 +26,6 @@ He studies me for one long second.
 
 "Yes."
 
-The answer is immediate this time.
-
-That matters.
-
 His shoulders go still.
 
 I keep going.
@@ -52,8 +48,6 @@ I keep going.
 
 I step closer.
 
-"None of that changes the answer."
-
 His eyes drop to my mouth.
 
 Then come back.
@@ -62,13 +56,7 @@ Then come back.
 
 "Nothing I cannot change."
 
-Heat opens low in me.
-
-There it is.
-
-Not because he rescued me from grief.
-
-Because he waited outside it.
+Heat opens low in me. He has not reached for me once in ten days.
 
 "Change it."
 
