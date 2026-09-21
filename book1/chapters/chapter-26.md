@@ -320,7 +320,7 @@ She taps the spring.
 
 “That is a dangerous phrase.”
 
-“If the travel is bounded, the pin cannot escape, and the spring is replaceable—“
+“If the travel is bounded, the pin cannot escape, and the spring is replaceable—”
 
 “Back up.”
 
