@@ -410,7 +410,7 @@ There is only one useful piece of arithmetic left.
 
 Harra goes white.
 
-“His back foot—“
+“His back foot—”
 
 “Iven. Forward.”
 
