@@ -1,8 +1,8 @@
 # Empty Origin — Publication Roadmap
 
 **Status date:** September 20, 2026  
-**Current position:** **Focused post–cold-read revision pass — next immediate work**  
-**Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **95,848 whitespace-counted words**.
+**Current position:** **Final technical passes — copyedit complete; final proof next**  
+**Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,693 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
 
@@ -21,7 +21,7 @@ The immediate job is **not another developmental rewrite**. It is now to read th
 - [x] Complete the major Chapters Twenty–Thirty-Two rewrite.
 - [x] Rebuild `WORKING_DRAFT.md` after the latest NCA batch through Chapter Twenty-Nine.
 - [x] Rebuild `WORKING_DRAFT.md` one final time from all 32 canonical chapter files.
-- [x] Recalculate the manuscript word count (**95,848**) and propagate it through active project metadata.
+- [x] Recalculate the manuscript word count (**96,693**) and propagate it through active project metadata.
 - [x] Update `README.md`.
 - [x] Update `PROJECT_NOTES.md`.
 - [x] Update `CHAPTER_LEDGER.md`.
@@ -53,7 +53,7 @@ Record only findings that are present in the current manuscript. Do not resurrec
 
 ## Immediate next revisions — cold-review consensus
 
-**Status: IN PROGRESS — Steps 1–2 complete; Step 3 next**
+**Status: COMPLETE — focused cold-review revisions incorporated before the technical pass**
 
 These are the only focused editorial revisions currently proposed. This is **polish and compression, not a developmental rewrite**.
 
@@ -69,7 +69,7 @@ These are the only focused editorial revisions currently proposed. This is **pol
 
 ## Stage 3 — Final technical manuscript passes
 
-**Status: PENDING**
+**Status: IN PROGRESS — true copyedit complete; final proof next**
 
 This is a finishing sequence, not another developmental rewrite.
 
@@ -84,10 +84,10 @@ Run, in order:
 3. **Repetition scan**  
    Find repeated explanations, repeated metaphors, repeated sentence/cadence habits, accidental word echoes, and late-book restatements of already-established mechanics.
 
-4. **True copyedit**  
+4. **COMPLETE — True copyedit**  
    Grammar, punctuation, usage, sentence-level clarity, capitalization, hyphenation, dialogue punctuation, numerical/System-display consistency, names/titles, and tiny continuity slips exposed at line level.
 
-5. **Final proof**  
+5. **NEXT — Final proof**  
    Read the frozen text for residual typos, missing words, duplicated words, formatting errors, broken scene separators, malformed System displays, and chapter-heading issues.
 
 **Exit condition:** No known continuity, mechanics, copy, or proof defect remains that justifies reopening developmental structure.
