@@ -13740,9 +13740,7 @@ Worse.
 
 She helps me up anyway.
 
-I put the tie in the top drawer beside my Earth shirt. Not hidden. Not displayed. Just there.
-
-That turns out to be harder.
+I put the tie in the top drawer beside my Earth shirt. Then I leave the drawer open while I wash my face, because closing it feels too much like deciding what the cloth means.
 
 ---
 
@@ -13830,9 +13828,9 @@ Then I am annoyed.
 
 Then I become annoyed that I am annoyed.
 
-None of those feelings are Sella's fault.
+I almost use Sella as a reason to stay that way.
 
-That matters.
+She would hate that.
 
 ---
 
@@ -13982,19 +13980,13 @@ The stupid hair tie in my drawer.
 
 The ache is immediate.
 
-So is the wanting standing three feet in front of me.
+I look at Tolliver. Nothing about him disappears.
 
-That scares me more than if one erased the other.
+My mouth opens.
 
-Tolliver watches my face.
+Nothing comes out.
 
-I could answer quickly.
-
-I do not.
-
-Good.
-
-He nods once.
+He waits, then nods once.
 
 "That's why."
 
@@ -14044,11 +14036,9 @@ Not making the moment bigger.
 
 I go upstairs alone.
 
-I miss Sella.
+The hair tie is still in the drawer. The unfinished letter is still in the notebook.
 
-I want Tolliver.
-
-For the first time, I stop treating those facts like they are fighting for the same chair.
+I leave both where they are and go to bed.
 
 CHAPTER THIRTY-ONE
 
@@ -14078,10 +14068,6 @@ He studies me for one long second.
 
 "Yes."
 
-The answer is immediate this time.
-
-That matters.
-
 His shoulders go still.
 
 I keep going.
@@ -14104,8 +14090,6 @@ I keep going.
 
 I step closer.
 
-"None of that changes the answer."
-
 His eyes drop to my mouth.
 
 Then come back.
@@ -14114,13 +14098,7 @@ Then come back.
 
 "Nothing I cannot change."
 
-Heat opens low in me.
-
-There it is.
-
-Not because he rescued me from grief.
-
-Because he waited outside it.
+Heat opens low in me. He has not reached for me once in ten days.
 
 "Change it."
 
