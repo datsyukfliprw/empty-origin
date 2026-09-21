@@ -10274,15 +10274,15 @@ Then we find out whether any of this gets Iven home.
 
 CHAPTER TWENTY-SIX
 
-I wake because my ankle has developed a religion. Its central doctrine is pain, and its sacred text appears to be a complete record of yesterday's decisions.
+I wake because my ankle has developed a religion. Its central doctrine is pain, and its sacred text appears to be a complete record of yesterday’s decisions.
 
 Gray light leaks around the shelter shutters while I lie under two blankets and wait for my left foot to stop throbbing in time with my pulse. It does not. Somewhere nearby, a knife whispers against wood.
 
 Breakfast, not murder. Sella cuts food like she expects it to insult her.
 
-"Morning," she says.
+“Morning,” she says.
 
-"Debatable."
+“Debatable.”
 
 She comes into view with bread in one hand and cheese in the other. Her hair is tied back badly, soot streaks one cheek, and one sleeve is torn at the elbow.
 
@@ -10290,69 +10290,69 @@ Beautiful, which is annoying.
 
 Some reckless part of me supplies *mine*. I put a lid on that before it grows teeth.
 
-She crouches beside the bedroll. "How bad?"
+She crouches beside the bedroll. “How bad?”
 
-"Worse."
+“Worse.”
 
-"Sharp?"
+“Sharp?”
 
-"When I move it."
+“When I move it.”
 
-"Hot?"
+“Hot?”
 
-"Not really."
+“Not really.”
 
-"Can you put weight on it?"
+“Can you put weight on it?”
 
-"I can put weight on anything once."
+“I can put weight on anything once.”
 
 Her expression goes flat.
 
-"No," I admit.
+“No,” I admit.
 
 Yesterday I could limp. Then I could lean. Then Tolliver helped me down the ridge because I asked. This morning, standing sounds like a negotiation I am not going to win.
 
 Sella hands me the bread.
 
-"Harra says we make Rook by afternoon if we stop pretending you're walking."
+“Harra says we make Rook by afternoon if we stop pretending you’re walking.”
 
-"I'm not being carried."
+“I’m not being carried.”
 
-From the dead hearth, Tolliver says, "All right."
+From the dead hearth, Tolliver says, “All right.”
 
 He is restringing his bow and does not look at me. That should make the answer easier.
 
 It does not.
 
-Sella takes a bite of cheese. "You can ride the salvage."
+Sella takes a bite of cheese. “You can ride the salvage.”
 
-Harra looks up from the recovered return shoe. "No."
+Harra looks up from the recovered return shoe. “No.”
 
-"It has a harness."
+“It has a harness.”
 
-"It has a carrying frame. For iron."
+“It has a carrying frame. For iron.”
 
-"I'm lighter than iron."
+“I’m lighter than iron.”
 
-"Not enough lighter."
+“Not enough lighter.”
 
-"Very reassuring."
+“Very reassuring.”
 
 Harra returns to the specification plate.
 
-In morning light, the old incisions are clearer: pressure isolation, resonance faults, connected stone. Iven's chamber shivered before the frame caught. East Relief woke under repeated load. Not proof, but the first explanation we have that does more than repeat the symptoms.
+In morning light, the old incisions are clearer: pressure isolation, resonance faults, connected stone. Iven’s chamber shivered before the frame caught. East Relief woke under repeated load. Not proof, but the first explanation we have that does more than repeat the symptoms.
 
-"Show me the fault section again."
+“Show me the fault section again.”
 
-Sella points the cheese at me. "Eat."
+Sella points the cheese at me. “Eat.”
 
-"Both."
+“Both.”
 
-"Food first."
+“Food first.”
 
-"You are becoming controlling."
+“You are becoming controlling.”
 
-"Yes."
+“Yes.”
 
 She smiles without apology.
 
@@ -10364,7 +10364,7 @@ An hour later, we leave the shelter.
 
 I do not walk.
 
-Tolliver kneels in front of the steps with his back to me. "If you want."
+Tolliver kneels in front of the steps with his back to me. “If you want.”
 
 The path is wet, steep, and broken enough that a walking stick would be theater. My ankle pulses while I look at his shoulders.
 
@@ -10372,21 +10372,21 @@ Sella raises both eyebrows. Harra has already vetoed every method involving the 
 
 There are choices that exist mostly so you can resent them before making the obvious one.
 
-"Fine."
+“Fine.”
 
 Tolliver waits.
 
 Right. The rest of the sentence.
 
-"Yes. Carry me."
+“Yes. Carry me.”
 
-He glances back. "On my back?"
+He glances back. “On my back?”
 
 Heat crawls up my neck. This should not be remotely erotic. My ankle is swollen, my clothes smell like old water, and I have mud dried into places mud should never reach.
 
 My body declines the argument.
 
-"Yes."
+“Yes.”
 
 He braces one knee. I put my arms around his shoulders. His hands settle behind my thighs, firm and careful, and he stands with an amount of effort I find insulting.
 
@@ -10398,13 +10398,13 @@ She smiles.
 
 I hate her.
 
-"Comfortable?" she asks.
+“Comfortable?” she asks.
 
-"No."
+“No.”
 
-"Liar," Tolliver says.
+“Liar,” Tolliver says.
 
-I tighten one arm around his shoulder. "Do not become confident."
+I tighten one arm around his shoulder. “Do not become confident.”
 
 His laugh moves through his back into my chest.
 
@@ -10420,25 +10420,25 @@ Tolliver sets me down on sound ground.
 
 I look uphill. Three old iron eyes are sunk into the retaining wall. Two are rusted through. One is not.
 
-"High line," I say.
+“High line,” I say.
 
-Harra follows my gaze. "Handrail."
+Harra follows my gaze. “Handrail.”
 
-"Stay against the wall. The outer edge is going."
+“Stay against the wall. The outer edge is going.”
 
 Tolliver clips in first.
 
-"Because?" Sella asks.
+“Because?” Sella asks.
 
-"If the eye pulls, I'm cheapest."
+“If the eye pulls, I’m cheapest.”
 
-Harra glances at his bow. "Objectively false."
+Harra glances at his bow. “Objectively false.”
 
 He crosses anyway. On the second step, the shelf shifts.
 
 He freezes.
 
-"Left shoulder in."
+“Left shoulder in.”
 
 He leans into the wall. The load settles toward the stone instead of the crumbling edge, and he reaches the far side without anything dramatic happening.
 
@@ -10446,9 +10446,9 @@ Harra crosses with the shoe. Sella follows.
 
 Tolliver comes back.
 
-"For me?"
+“For me?”
 
-"For the pack."
+“For the pack.”
 
 He takes mine, then waits.
 
@@ -10456,7 +10456,7 @@ I look at the shelf, then at my ankle.
 
 Choice is not the same thing as proving I can suffer.
 
-"Back," I say.
+“Back,” I say.
 
 He kneels.
 
@@ -10470,21 +10470,21 @@ Rook sees us before we reach the yard.
 
 Mara comes out first, then Pell, then two workers, then enough people to make returning from an abandoned works complex feel like a public performance.
 
-Mara's eyes go directly to my foot.
+Mara’s eyes go directly to my foot.
 
-"No."
+“No.”
 
-"I haven't said anything."
+“I haven’t said anything.”
 
-"Inside."
+“Inside.”
 
-Harra lifts the wrapped return shoe. "We have it."
+Harra lifts the wrapped return shoe. “We have it.”
 
 Mara points toward the kitchen.
 
-"The specification plate too."
+“The specification plate too.”
 
-"Harra."
+“Harra.”
 
 Harra goes inside.
 
@@ -10492,15 +10492,15 @@ I feel much less singled out.
 
 The house mender is waiting in the west room. Tolliver carries me to the bed, then leaves when ordered. By the time the wrap is off, the verdict is obvious: more swelling, no fracture sign she can feel, and three days without stairs, rough ground, shield work, Stepguard, or powered loading.
 
-"I can Brace without walking."
+“I can Brace without walking.”
 
-"Can you Brace without your body taking load?"
+“Can you Brace without your body taking load?”
 
 The forge track answers for me.
 
-"No."
+“No.”
 
-"Then no powered work today."
+“Then no powered work today.”
 
 The word *today* is the part I hold on to. She splints the ankle and makes me promise to call before I stand.
 
@@ -10514,59 +10514,59 @@ Mostly.
 
 The expedition contract ends over stew.
 
-Harra puts the recovered return shoe in the middle of Pell's table on folded cloth. It is ugly in exactly the right way: tempered metal, a deep spring seat, nothing glowing, nothing mystical, just engineering that survived twelve years underground with creatures trying to eat our feet.
+Harra puts the recovered return shoe in the middle of Pell’s table on folded cloth. It is ugly in exactly the right way: tempered metal, a deep spring seat, nothing glowing, nothing mystical, just engineering that survived twelve years underground with creatures trying to eat our feet.
 
-Pell touches the edge. "This fits?"
+Pell touches the edge. “This fits?”
 
-"Not directly," Harra says.
+“Not directly,” Harra says.
 
-Pell's face falls.
+Pell’s face falls.
 
-"It gives me the geometry. The spring strip gives me the temper."
+“It gives me the geometry. The spring strip gives me the temper.”
 
 Then she sets down the specification plate.
 
-"And this may tell us why the first frame felt wrong before it caught."
+“And this may tell us why the first frame felt wrong before it caught.”
 
 Dain and Oret are at the table now. I explain the vibration marks again, briefly this time. Harra shows them the passage on resonance faults.
 
-Dain rests two fingers on the plate. "Can wake isolation sections."
+Dain rests two fingers on the plate. “Can wake isolation sections.”
 
-"Can," Harra says.
+“Can,” Harra says.
 
-"Not will."
+“Not will.”
 
-"Correct."
+“Correct.”
 
-Oret leans closer. "So the chamber could be feeding load into something we cannot see."
+Oret leans closer. “So the chamber could be feeding load into something we cannot see.”
 
-"Or receiving it from the far side."
+“Or receiving it from the far side.”
 
-Pell looks toward the floor as though Iven is directly below us. "Does that make this worse?"
+Pell looks toward the floor as though Iven is directly below us. “Does that make this worse?”
 
-"It makes it less unknown."
+“It makes it less unknown.”
 
 Everyone looks at me.
 
 I wish I had said something more comforting.
 
-Harra turns the return shoe in her hands. "If the frame is transmitting load into old stone, stronger is not automatically better."
+Harra turns the return shoe in her hands. “If the frame is transmitting load into old stone, stronger is not automatically better.”
 
-"A rigid bridge couples both sides," Oret says.
+“A rigid bridge couples both sides,” Oret says.
 
 The phrase lands.
 
-I look at the shoe, then at Harra's earlier drawing.
+I look at the shoe, then at Harra’s earlier drawing.
 
-"What if the far foot can move?"
+“What if the far foot can move?”
 
-"Move how?"
+“Move how?”
 
-"Not come loose. Give."
+“Not come loose. Give.”
 
 I use my hands because the words are not enough.
 
-"Short pin. Shoe under it. Spring behind. If the landing pitches or the stone moves, the foot takes the change instead of levering the whole span."
+“Short pin. Shoe under it. Spring behind. If the landing pitches or the stone moves, the foot takes the change instead of levering the whole span.”
 
 Harra pulls scrap paper toward herself and starts drawing.
 
@@ -10578,29 +10578,29 @@ Pell forgets the stew.
 
 On the third sketch, the support becomes a short steel nose seated in a shallow shoe with a bounded spring behind it.
 
-"Adjustable foot," Harra says.
+“Adjustable foot,” Harra says.
 
-"That was already the next design."
+“That was already the next design.”
 
-"Yes."
+“Yes.”
 
 She taps the spring.
 
-"This makes the adjustment live under load."
+“This makes the adjustment live under load.”
 
-"Good?"
+“Good?”
 
-"It can be."
+“It can be.”
 
-"That is a dangerous phrase."
+“That is a dangerous phrase.”
 
-"If the travel is bounded, the pin cannot escape, and the spring is replaceable—"
+“If the travel is bounded, the pin cannot escape, and the spring is replaceable—”
 
-"Back up."
+“Back up.”
 
 Harra smiles.
 
-"We can build it."
+“We can build it.”
 
 The room shifts around the possibility.
 
@@ -10630,13 +10630,13 @@ A team out of Dower Ford needs a route guard and second scout eastbound. Departu
 
 I read the note twice.
 
-"You wanted moving work."
+“You wanted moving work.”
 
-"Yes."
+“Yes.”
 
-"You should answer."
+“You should answer.”
 
-"I know."
+“I know.”
 
 Four days.
 
@@ -10644,57 +10644,57 @@ My ankle gets three days of no loading. The rescue does not have a date. Iven is
 
 Sella sits beside me, leaving more space between us than usual.
 
-"I can ask them to hold my answer one day."
+“I can ask them to hold my answer one day.”
 
-"For me?"
+“For me?”
 
-"For my answer."
+“For my answer.”
 
 I fold the paper along its old crease.
 
-"Do you want the job?"
+“Do you want the job?”
 
-"Yes."
+“Yes.”
 
 No hesitation.
 
 The clean certainty in her yes catches under my ribs.
 
-"Then take it."
+“Then take it.”
 
 Her eyes lift.
 
-"That easy?"
+“That easy?”
 
-"No."
+“No.”
 
 I put the note on the table.
 
-"I said I wanted to go with you after Iven is out, if the opportunity still exists. I meant it. I am not asking you to turn down a job because our rescue keeps moving."
+“I said I wanted to go with you after Iven is out, if the opportunity still exists. I meant it. I am not asking you to turn down a job because our rescue keeps moving.”
 
-"Maya."
+“Maya.”
 
-"I'm not."
+“I’m not.”
 
-The forge yard rings with three hammer strikes, a pause, then two. Harra's rhythm.
+The forge yard rings with three hammer strikes, a pause, then two. Harra’s rhythm.
 
 Sella puts her hand on my knee, above the splint.
 
-"I can accept and still leave in four days."
+“I can accept and still leave in four days.”
 
-"Yes."
+“Yes.”
 
-"You might come."
+“You might come.”
 
-"Yes."
+“Yes.”
 
-"You might not."
+“You might not.”
 
 That one hurts more.
 
-"Yes."
+“Yes.”
 
-"And if you do, there is still him."
+“And if you do, there is still him.”
 
 She does not look toward the yard.
 
@@ -10702,31 +10702,31 @@ She does not need to.
 
 I cover her hand with mine.
 
-"Yes."
+“Yes.”
 
 Sella closes her eyes for one second.
 
-"Good."
+“Good.”
 
-"That did not sound good."
+“That did not sound good.”
 
-"It sounded true."
+“It sounded true.”
 
 She stands. I catch her fingers before she gets away.
 
-"I want you."
+“I want you.”
 
 Her face softens.
 
-"I know."
+“I know.”
 
-"I don't want you to feel temporary."
+“I don’t want you to feel temporary.”
 
-"Then don't make promises for me because you're afraid I'll leave."
+“Then don’t make promises for me because you’re afraid I’ll leave.”
 
 That lands exactly where it should.
 
-"Okay."
+“Okay.”
 
 She bends and kisses me.
 
@@ -10734,19 +10734,19 @@ Slow enough that I stop trying to solve it.
 
 When she pulls back, her forehead rests against mine.
 
-"I'm taking the job."
+“I’m taking the job.”
 
-"Okay."
+“Okay.”
 
-"I'm not leaving today."
+“I’m not leaving today.”
 
-"Okay."
+“Okay.”
 
-"And if you make me drag the truth out of you later, I will throw you into a ditch."
+“And if you make me drag the truth out of you later, I will throw you into a ditch.”
 
-"There are kinder relationship models."
+“There are kinder relationship models.”
 
-"Not ours."
+“Not ours.”
 
 She leaves to send her answer.
 
@@ -10770,25 +10770,25 @@ The chair.
 
 Tolliver and Pell lift the whole thing down the kitchen steps with me still in it.
 
-"This is worse than being carried."
+“This is worse than being carried.”
 
-Tolliver says, "You chose the chair."
+Tolliver says, “You chose the chair.”
 
-"I did not choose the procession."
+“I did not choose the procession.”
 
-Pell grunts beneath the back legs. "Complain lighter."
+Pell grunts beneath the back legs. “Complain lighter.”
 
 The forge yard has become a model of the lower chamber: two stone blocks, an ash rail between them, a short pin entering a scrap-steel shoe copied from the recovered piece. Behind it sits a spring built to the same dimensions, but not from the salvage strip itself.
 
 Harra points.
 
-"Finger and a half maximum travel. Side lips stop escape. Pin cannot project through the shoe."
+“Finger and a half maximum travel. Side lips stop escape. Pin cannot project through the shoe.”
 
 Oret has a hanging test weight. Dain has a measuring cord. Mara has crossed arms. Sella returns from the runner post and stands behind my chair. Tolliver takes the near block.
 
 The first two tests are beautifully boring.
 
-Harra shifts the far block on the third, adding a rough stone under one side to mimic Iven's sloped landing.
+Harra shifts the far block on the third, adding a rough stone under one side to mimic Iven’s sloped landing.
 
 The pin seats crooked.
 
@@ -10798,45 +10798,45 @@ The ash rail starts to twist.
 
 I feel it in my stomach before I can explain why.
 
-"Stop."
+“Stop.”
 
 Harra freezes on the weight line.
 
-Tolliver checks the near support. "Holding."
+Tolliver checks the near support. “Holding.”
 
-"That is the problem."
+“That is the problem.”
 
 Harra follows the twist.
 
 The misalignment is traveling back through the rail toward the near block. Stronger material would only carry more of it.
 
-"Unload the far side," Oret says.
+“Unload the far side,” Oret says.
 
 He reaches for the weight.
 
-"No."
+“No.”
 
 Everyone looks at me.
 
 I point at the shoe latch.
 
-"Release the shoe first. If you lift the weight now, the twisted rail snaps back through the pin."
+“Release the shoe first. If you lift the weight now, the twisted rail snaps back through the pin.”
 
-Harra's eyes sharpen.
+Harra’s eyes sharpen.
 
-"Near side?" she asks.
+“Near side?” she asks.
 
-Tolliver checks the clamp. "Sound."
+Tolliver checks the clamp. “Sound.”
 
 Harra looks at me.
 
-"Call it."
+“Call it.”
 
 My pulse jumps.
 
 There is no ability or nameplate to hide behind, only people with their hands on real things waiting for my decision.
 
-"Release far latch."
+“Release far latch.”
 
 Harra pulls it.
 
@@ -10848,9 +10848,9 @@ Harra stares at the model.
 
 Then at me.
 
-"That is the order."
+“That is the order.”
 
-Dain nods. "Release before unload."
+Dain nods. “Release before unload.”
 
 Otherwise the structure carries the stored turn.
 
@@ -10870,9 +10870,9 @@ I say no first.
 
 That surprises everybody, including me.
 
-"My reserve is not the limiting resource. My foot is."
+“My reserve is not the limiting resource. My foot is.”
 
-Mara's expression changes by about one degree.
+Mara’s expression changes by about one degree.
 
 Approval from Mara feels like being knighted by weather.
 
@@ -10894,7 +10894,7 @@ I open my measure.
 
 I stop breathing.
 
-Sella sees my face. "What?"
+Sella sees my face. “What?”
 
 The next line appears.
 
@@ -10918,25 +10918,25 @@ Good on both counts.
 
 I flex my toes.
 
-Mara points at me. "Do not test it."
+Mara points at me. “Do not test it.”
 
-"I moved my toes."
+“I moved my toes.”
 
-"You were about to do more."
+“You were about to do more.”
 
-Sella says, "She absolutely was."
+Sella says, “She absolutely was.”
 
 Tolliver is looking at me even though he cannot see the measure.
 
-"Level?"
+“Level?”
 
-"Five."
+“Five.”
 
 Harra smiles. Pell swears softly. Oret studies the prototype as if the answer might be written there.
 
-"From the model?" he asks.
+“From the model?” he asks.
 
-"I don't know."
+“I don’t know.”
 
 That matters enough that I leave it alone.
 
@@ -10946,21 +10946,21 @@ Tolliver steps closer.
 
 His eyes move over me with an intensity that makes my skin remember this morning.
 
-"You earned that."
+“You earned that.”
 
 My mouth goes dry.
 
-"Do not make it weird."
+“Do not make it weird.”
 
-One corner of his mouth lifts. "I did not say anything weird."
+One corner of his mouth lifts. “I did not say anything weird.”
 
-"You thought it."
+“You thought it.”
 
-"Yes."
+“Yes.”
 
 Sella laughs behind me.
 
-Harra bangs a tool against the table. "Take your romance away from my prototype."
+Harra bangs a tool against the table. “Take your romance away from my prototype.”
 
 Pell looks scandalized. Mara does not. Oret suddenly finds the spring fascinating.
 
@@ -10976,13 +10976,13 @@ Not the level.
 
 The shoe.
 
-Renn carries pages between the kitchen and the upper glass while Mara copies Iven's replies. Harra sends the short-pin drawing, the bounded travel, the release order, and the rule that no person crosses until the full frame survives dry tests and a chamber test.
+Renn carries pages between the kitchen and the upper glass while Mara copies Iven’s replies. Harra sends the short-pin drawing, the bounded travel, the release order, and the rule that no person crosses until the full frame survives dry tests and a chamber test.
 
-Iven's first response is written beneath the drawing.
+Iven’s first response is written beneath the drawing.
 
 *You went into East Relief?*
 
-"Unfortunately," Sella says.
+“Unfortunately,” Sella says.
 
 Mara writes that back.
 
@@ -10990,7 +10990,7 @@ The next reply asks about the forge. Harra tells him we found enough of it.
 
 *Mad,* Iven writes.
 
-"Yes," Harra says.
+“Yes,” Harra says.
 
 Renn reports that he laughed, then coughed hard enough to brace himself against the rail.
 
@@ -11006,19 +11006,19 @@ Then asks about me.
 
 *Is the girl still hurt?*
 
-"I have a name."
+“I have a name.”
 
-Mara's pen waits.
+Mara’s pen waits.
 
-"Tell him I am improving strategically."
+“Tell him I am improving strategically.”
 
 She writes it with obvious disapproval.
 
-Renn comes back smiling. "He laughed."
+Renn comes back smiling. “He laughed.”
 
-Then, quieter: "Coughed again."
+Then, quieter: “Coughed again.”
 
-Sella's team leaves in four days.
+Sella’s team leaves in four days.
 
 My ankle gets three days.
 
@@ -11028,7 +11028,7 @@ I take the pencil.
 
 *We do it right.*
 
-On Renn's last trip, Iven sends one word back beneath mine.
+On Renn’s last trip, Iven sends one word back beneath mine.
 
 *Good.*
 
@@ -11050,15 +11050,15 @@ Tonight it feels almost peaceful.
 
 Sella rests her head against my knee, carefully above the splint.
 
-"I accepted."
+“I accepted.”
 
-"The job."
+“The job.”
 
-"Yes."
+“Yes.”
 
-"Four days?"
+“Four days?”
 
-"Yes."
+“Yes.”
 
 I look across the yard.
 
@@ -11076,19 +11076,19 @@ Four days. Two to build. Three off the ankle. Iven waiting across a boundary tha
 
 Sella turns her face and kisses the inside of my wrist.
 
-"Do not spend tonight solving all of it."
+“Do not spend tonight solving all of it.”
 
-"I wasn't."
+“I wasn’t.”
 
-"You were already halfway through tomorrow."
+“You were already halfway through tomorrow.”
 
 I stare down at her.
 
-"That is an accusation."
+“That is an accusation.”
 
-"It is an observation."
+“It is an observation.”
 
-"Treason everywhere."
+“Treason everywhere.”
 
 She smiles.
 
@@ -11116,7 +11116,7 @@ On our first full morning back at Rook, Harra carries the rescue frame past the 
 
 I sit at the table with my left foot on a stool.
 
-Mara has moved the stool farther from the door so I cannot, in her words, "accidentally supervise from the yard."
+Mara has moved the stool farther from the door so I cannot, in her words, “accidentally supervise from the yard.”
 
 Harra passes the window. I raise my hand.
 
@@ -11126,23 +11126,23 @@ Not that finger. Just one.
 
 Stay.
 
-"This place has become authoritarian."
+“This place has become authoritarian.”
 
-Sella does not look up from sharpening her knife. "Your ankle staged the coup."
+Sella does not look up from sharpening her knife. “Your ankle staged the coup.”
 
 I look at Tolliver, who is repairing a leather strap at the other end of the table.
 
-"Nothing?"
+“Nothing?”
 
-"I have learned when not to enter a discussion."
+“I have learned when not to enter a discussion.”
 
-"Disturbingly healthy."
+“Disturbingly healthy.”
 
-"Yes."
+“Yes.”
 
 Sella snorts.
 
-I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven's receiving-side sketch, the old pressure map, and Harra's charcoal notes. The questions are narrower now: how much movement the shoe can absorb, how much vibration reaches the anchor, and what happens if the boundary moves under a person instead of sand.
+I return to my actual job: the failed-frame vibration board, the East Relief resonance plate, Iven’s receiving-side sketch, the old pressure map, and Harra’s charcoal notes. The questions are narrower now: how much movement the shoe can absorb, how much vibration reaches the anchor, and what happens if the boundary moves under a person instead of sand.
 
 Iven is not a test weight.
 
@@ -11152,47 +11152,47 @@ I read the first board again.
 
 By noon, I have made myself useful enough that Mara notices.
 
-"What are you doing?"
+“What are you doing?”
 
-"Reading."
+“Reading.”
 
-"You have the face."
+“You have the face.”
 
-"Everyone needs to stop saying that."
+“Everyone needs to stop saying that.”
 
-She sets stew beside my papers. "What did you find?"
+She sets stew beside my papers. “What did you find?”
 
 I turn the copied vibration board toward her.
 
-"The first frame transmitted movement before the pin caught. East Relief says repeated loading can wake connected isolation sections."
+“The first frame transmitted movement before the pin caught. East Relief says repeated loading can wake connected isolation sections.”
 
-"Yes."
+“Yes.”
 
-"If we install the full frame and leave it sitting while we wait for the boundary, we may start the dangerous part before anyone steps on it."
+“If we install the full frame and leave it sitting while we wait for the boundary, we may start the dangerous part before anyone steps on it.”
 
 Mara studies the sheet, then me.
 
-"That sounds like Harra's problem."
+“That sounds like Harra’s problem.”
 
-"It is."
+“It is.”
 
-"Good."
+“Good.”
 
 I wait.
 
 She waits longer.
 
-"You are not going outside."
+“You are not going outside.”
 
-"I know."
+“I know.”
 
 Her eyes narrow.
 
-"I said I know."
+“I said I know.”
 
-"That sounded rehearsed."
+“That sounded rehearsed.”
 
-"It is a common phrase."
+“It is a common phrase.”
 
 She takes the paper to Harra.
 
@@ -11204,51 +11204,51 @@ Harra comes back with the full-size far shoe and sets it on the table.
 
 It is less elegant than the model: a steel cup with side lips, a short nose pin, a spring block behind it, and two stop bolts limiting the travel.
 
-"The stops are too close," I say.
+“The stops are too close,” I say.
 
-Harra raises her eyebrows. "I have not explained them."
+Harra raises her eyebrows. “I have not explained them.”
 
-"I can see them."
+“I can see them.”
 
-"Then explain."
+“Then explain.”
 
-"If Iven's landing slopes more than we estimated, the shoe hits the stop before the rail settles. Then we are rigid again."
+“If Iven’s landing slopes more than we estimated, the shoe hits the stop before the rail settles. Then we are rigid again.”
 
-"Yes."
+“Yes.”
 
 I hate tests where the right answer is also bad news.
 
-"Can we change the limit?"
+“Can we change the limit?”
 
-"Before load, yes."
+“Before load, yes.”
 
 She shows me three settings: one finger, one and a half, two.
 
-"Why not just use two?"
+“Why not just use two?”
 
-"Too much travel and the nose can climb out of alignment."
+“Too much travel and the nose can climb out of alignment.”
 
-"So the right setting depends on the landing."
+“So the right setting depends on the landing.”
 
-"Yes."
+“Yes.”
 
-I look at Iven's sketch.
+I look at Iven’s sketch.
 
-"He can measure the slope."
+“He can measure the slope.”
 
-"He has no level."
+“He has no level.”
 
-"He has a bed-frame strip."
+“He has a bed-frame strip.”
 
 Harra smiles.
 
 We send the question to the upper glass.
 
-Five minutes later, Renn comes back with Iven's reply copied beneath it.
+Five minutes later, Renn comes back with Iven’s reply copied beneath it.
 
 *You people have become very bossy.*
 
-I give Renn my answer. "Experience."
+I give Renn my answer. “Experience.”
 
 Two more trips get us the measurements. Iven uses the bed-frame strip and the edge of a wall block, then measures again near the stair remnant. The slope is slightly worse than our estimate.
 
@@ -11264,49 +11264,49 @@ At this point, I will take my miracles in fractions.
 
 ---
 
-Sella's eastbound team sends another note.
+Sella’s eastbound team sends another note.
 
 Departure remains the fourth day after acceptance, but not until after midday.
 
 She reads it by the window. I can see the arithmetic happening behind her eyes.
 
-"I can do the rescue and still leave."
+“I can do the rescue and still leave.”
 
-"If the rescue happens that morning."
+“If the rescue happens that morning.”
 
-"Yes."
+“Yes.”
 
-"If it goes clean."
+“If it goes clean.”
 
-"Yes."
+“Yes.”
 
-"And if it doesn't?"
+“And if it doesn’t?”
 
 She folds the paper carefully.
 
-"That is why I am telling you now."
+“That is why I am telling you now.”
 
 I make myself say it.
 
-"If it runs long, you go."
+“If it runs long, you go.”
 
-Her head comes up. "Maya."
+Her head comes up. “Maya.”
 
-"You go."
+“You go.”
 
-"Iven—"
+“Iven—”
 
-"Has Harra, Oret, Dain, Tolliver, and me, assuming Mara eventually returns my leg from state custody."
+“Has Harra, Oret, Dain, Tolliver, and me, assuming Mara eventually returns my leg from state custody.”
 
-"Maya."
+“Maya.”
 
-"You already delayed one job because of the rescue."
+“You already delayed one job because of the rescue.”
 
-"That was my choice."
+“That was my choice.”
 
-"Yes."
+“Yes.”
 
-"So is this."
+“So is this.”
 
 I look at her.
 
@@ -11314,57 +11314,57 @@ I want to tell her she is wrong and make it sound like love.
 
 The desire has claws.
 
-Instead I say, "I don't want you staying because you're afraid I'll think leaving means you chose me wrong."
+Instead I say, “I don’t want you staying because you’re afraid I’ll think leaving means you chose me wrong.”
 
 Sella goes very still.
 
-"That is almost emotionally competent."
+“That is almost emotionally competent.”
 
-"Do not ruin it."
+“Do not ruin it.”
 
 She sits beside me, thigh against mine.
 
-"You are not temporary."
+“You are not temporary.”
 
-Her eyes drop to our knees. "I know what you mean."
+Her eyes drop to our knees. “I know what you mean.”
 
-"That sounds ominous."
+“That sounds ominous.”
 
-"It is supposed to sound complicated."
+“It is supposed to sound complicated.”
 
 She takes my hand.
 
-"There are things I want," she says. "Roads. Moving work. Places I haven't seen. Enough money that I can stop pretending terrible contracts are interesting."
+“There are things I want,” she says. “Roads. Moving work. Places I haven’t seen. Enough money that I can stop pretending terrible contracts are interesting.”
 
-"Reasonable."
+“Reasonable.”
 
-"It is."
+“It is.”
 
 Her thumb moves across my knuckles.
 
-"And I want you."
+“And I want you.”
 
 My throat tightens.
 
-"I know."
+“I know.”
 
-"No. Listen."
+“No. Listen.”
 
 So I do.
 
-"I want you. I don't want to become the reason you cut every other part of yourself away so I can feel safe."
+“I want you. I don’t want to become the reason you cut every other part of yourself away so I can feel safe.”
 
 I look toward the yard even though Tolliver is not there.
 
 Sella follows my eyes anyway.
 
-"Exactly."
+“Exactly.”
 
-"I hate this conversation."
+“I hate this conversation.”
 
-"So do I."
+“So do I.”
 
-"Good. Mutual suffering."
+“Good. Mutual suffering.”
 
 I lean my forehead against her shoulder.
 
@@ -11378,23 +11378,23 @@ Nothing resolves just because both of us are being reasonable. Terrible design c
 
 The second day of rest is worse because I feel better. The swelling is down, the ankle moves without making me see God, and the mender rewards this triumph with flat indoor walking and a stick. Still no stairs, rough ground, or powered loading.
 
-"You are learning," she says.
+“You are learning,” she says.
 
-"Do not sound surprised."
+“Do not sound surprised.”
 
-"I have evidence."
+“I have evidence.”
 
 I make three laps of the kitchen because freedom has become humiliatingly small. On the fourth, Tolliver appears in the doorway with a coil of new line.
 
-"You are limping."
+“You are limping.”
 
-"You are observant."
+“You are observant.”
 
-"You limped less on the second lap."
+“You limped less on the second lap.”
 
-I stop. "You were not invited to audit my limp."
+I stop. “You were not invited to audit my limp.”
 
-"Still true."
+“Still true.”
 
 He puts down the line.
 
@@ -11410,13 +11410,13 @@ Nobody comments.
 
 ---
 
-The dry test uses wet sand: Iven's weight, then gear, then extra load for the way frightened people grab whatever is near. They skew the frame and cycle the release until, on the fifth run, the near brace squeaks.
+The dry test uses wet sand: Iven’s weight, then gear, then extra load for the way frightened people grab whatever is near. They skew the frame and cycle the release until, on the fifth run, the near brace squeaks.
 
 I raise my hand. Harra stops.
 
 The frame has not moved. The anchor has, less than a nail-width.
 
-Oret points to the packing wedge. "Wood compressed."
+Oret points to the packing wedge. “Wood compressed.”
 
 Harra swears. A shim moved while everybody was staring at the machine, exactly the sort of small thing that kills people. They replace it with an iron-backed wedge, and the next cycles stay quiet.
 
@@ -11438,37 +11438,37 @@ Rusk sees him.
 
 Then me.
 
-"Warder."
+“Warder.”
 
-"Captain."
+“Captain.”
 
-Her eyes drop to my ankle. "East Relief?"
+Her eyes drop to my ankle. “East Relief?”
 
 I dislike competent enemies.
 
-"Tourism."
+“Tourism.”
 
-"You found something."
+“You found something.”
 
-Pell cuts in. "What do you want, Rusk?"
+Pell cuts in. “What do you want, Rusk?”
 
 Rusk takes a folded notice from her coat.
 
-"My claim has been acknowledged for hearing."
+“My claim has been acknowledged for hearing.”
 
 Pell does not take the paper immediately.
 
-"By whom?"
+“By whom?”
 
-"District salvage clerk."
+“District salvage clerk.”
 
-"That is not a ruling."
+“That is not a ruling.”
 
-"No."
+“No.”
 
-"What does it give you?"
+“What does it give you?”
 
-"Preservation rights over disputed recovered inner iron until the hearing."
+“Preservation rights over disputed recovered inner iron until the hearing.”
 
 My stomach drops before I fully understand why.
 
@@ -11476,77 +11476,77 @@ Pell takes the notice.
 
 Vey appears from nowhere, which seems to be his relationship with paper.
 
-Rusk looks toward the covered frame. "Any inner-works fitting recovered through the lower station falls under the hold."
+Rusk looks toward the covered frame. “Any inner-works fitting recovered through the lower station falls under the hold.”
 
 Harra steps out of the forge yard.
 
-"Iven is not a fitting."
+“Iven is not a fitting.”
 
-"No."
+“No.”
 
-"The frame is ours."
+“The frame is ours.”
 
-"Yes."
+“Yes.”
 
-"The East Relief shoe is not from your claim."
+“The East Relief shoe is not from your claim.”
 
-Rusk's mouth tightens. "Correct."
+Rusk’s mouth tightens. “Correct.”
 
 She is not here to steal everything.
 
 That almost makes it worse.
 
-Pell reads the notice twice. "You cannot block a human extraction."
+Pell reads the notice twice. “You cannot block a human extraction.”
 
-"No."
+“No.”
 
-"But?"
+“But?”
 
 Rusk looks at me.
 
-"If the extraction brings disputed fittings across, you leave them in place or put them into joint hold pending hearing."
+“If the extraction brings disputed fittings across, you leave them in place or put them into joint hold pending hearing.”
 
 There it is. Rusk has not put a wall in front of the rescue. She has put a hand on the box we may open afterward.
 
-I think of the gray door in Iven's room. The EXIT sign. The Earth-made fasteners. The objects that should not be here and therefore might be the only physical proof that somebody, somehow, crossed the same impossible distance I did.
+I think of the gray door in Iven’s room. The EXIT sign. The Earth-made fasteners. The objects that should not be here and therefore might be the only physical proof that somebody, somehow, crossed the same impossible distance I did.
 
 I have been treating them like clues.
 
-Rusk's paper turns them into material.
+Rusk’s paper turns them into material.
 
 Recovered iron.
 
 Tagged property.
 
-A list in somebody else's handwriting.
+A list in somebody else’s handwriting.
 
 The anger arrives so quickly I taste metal.
 
-Vey says, "You chose excellent timing."
+Vey says, “You chose excellent timing.”
 
-"I chose the hearing schedule."
+“I chose the hearing schedule.”
 
-"You filed after you left."
+“You filed after you left.”
 
-"Yes."
+“Yes.”
 
 Pell keeps reading.
 
-I stare at Rusk's notice and see the EXIT sign taken down, wrapped, numbered, argued over by men who have never heard of Missouri.
+I stare at Rusk’s notice and see the EXIT sign taken down, wrapped, numbered, argued over by men who have never heard of Missouri.
 
-Something in my chest goes tight enough that Sella's fingers touch the back of my chair.
+Something in my chest goes tight enough that Sella’s fingers touch the back of my chair.
 
 I do not look at her.
 
-Rusk says, "I want a witness at the lower works."
+Rusk says, “I want a witness at the lower works.”
 
-"No," Pell says.
+“No,” Pell says.
 
-"I have preservation rights."
+“I have preservation rights.”
 
-"To disputed material. Not automatic access to my works."
+“To disputed material. Not automatic access to my works.”
 
-"Then every claimed item comes to the yard for inspection."
+“Then every claimed item comes to the yard for inspection.”
 
 Pell says nothing.
 
@@ -11572,15 +11572,15 @@ EARTH OBJECTS ARE NOT AUTOMATICALLY SALVAGE SOLELY BECAUSE THEY CONTAIN METAL. P
 
 Rusk reads it.
 
-"That is broad."
+“That is broad.”
 
-"So is your claim," Vey says.
+“So is your claim,” Vey says.
 
 For once in my life, I could kiss a factor.
 
 Rusk adds a condition of her own.
 
-"If the route opens into recoverable inner works after the man is out, nobody strips the site before hearing."
+“If the route opens into recoverable inner works after the man is out, nobody strips the site before hearing.”
 
 Pell agrees.
 
@@ -11588,21 +11588,21 @@ Harra says we were not planning to strip anything.
 
 Rusk looks at me.
 
-"You went to East Relief."
+“You went to East Relief.”
 
-"Not your claim."
+“Not your claim.”
 
-"No."
+“No.”
 
 Her expression almost becomes a smile.
 
-"You learn quickly."
+“You learn quickly.”
 
-"I get injured quickly too."
+“I get injured quickly too.”
 
-"I noticed."
+“I noticed.”
 
-She camps outside Rook instead of taking Pell's room offer.
+She camps outside Rook instead of taking Pell’s room offer.
 
 Good.
 
@@ -11612,21 +11612,21 @@ I do not want the person who nearly turned the only Earth objects I have ever se
 
 On the third morning, the mender lets me walk to the yard and back. The ankle stays sore but stable, which finally earns me limited loading tomorrow: flat route, no running or jumping, no Stepguard unless the alternative is worse, and one planned use of Brace.
 
-"That is strangely specific."
+“That is strangely specific.”
 
-"Because you turn permission into philosophy."
+“Because you turn permission into philosophy.”
 
 Unfortunately, that tracks.
 
-"If pain sharpens, you are out."
+“If pain sharpens, you are out.”
 
-"Out how?"
+“Out how?”
 
-"Carried."
+“Carried.”
 
-"Medical cruelty."
+“Medical cruelty.”
 
-"Medical consequence."
+“Medical consequence.”
 
 I agree.
 
@@ -11640,13 +11640,13 @@ Pressure. Vibration. Landing.
 
 Sella sees them.
 
-"Very sophisticated."
+“Very sophisticated.”
 
-"Field notation."
+“Field notation.”
 
-"You wrote three letters on yourself."
+“You wrote three letters on yourself.”
 
-"I am a professional."
+“I am a professional.”
 
 She kisses my temple.
 
@@ -11654,29 +11654,29 @@ Tolliver comes in carrying the haul line and sees her mouth leave my skin.
 
 He puts the line down.
 
-"Harra wants you to call the final sequence."
+“Harra wants you to call the final sequence.”
 
-I look at him. "Me?"
+I look at him. “Me?”
 
-"She says this part is Warder work."
+“She says this part is Warder work.”
 
 I hate how much I want that.
 
-Sella's hand stays on my shoulder.
+Sella’s hand stays on my shoulder.
 
 I stand carefully.
 
 The ankle holds.
 
-"Fine. But if I say release, you release."
+“Fine. But if I say release, you release.”
 
-Tolliver's gaze sharpens. "Yes."
+Tolliver’s gaze sharpens. “Yes.”
 
-"No heroic correction."
+“No heroic correction.”
 
-"Yes."
+“Yes.”
 
-"No deciding I am wrong because I am the person on the frame."
+“No deciding I am wrong because I am the person on the frame.”
 
 He goes still.
 
@@ -11684,7 +11684,7 @@ Good.
 
 That one needed to land.
 
-"Yes."
+“Yes.”
 
 Sella looks between us.
 
@@ -11692,17 +11692,17 @@ Something in her face hurts to see, but she does not take her hand away.
 
 Tolliver steps close enough to be heard quietly and no closer.
 
-"You call. I follow."
+“You call. I follow.”
 
 Heat moves under my skin.
 
 Sella squeezes my shoulder.
 
-"Tomorrow," she says, "try to keep your professional face."
+“Tomorrow,” she says, “try to keep your professional face.”
 
-"I hate both of you."
+“I hate both of you.”
 
-"No," she says.
+“No,” she says.
 
 Tolliver wisely does not answer for me.
 
@@ -11720,7 +11720,7 @@ Pressure, vibration, landing. Three things to watch, and beneath all of them one
 
 CHAPTER TWENTY-EIGHT
 
-At dawn, the boundary is wide enough to show Iven's whole face.
+At dawn, the boundary is wide enough to show Iven’s whole face.
 
 That should feel like good news.
 
@@ -11734,7 +11734,7 @@ He has been there long enough to mend things.
 
 Down at the near ledge, with the sleeve glass no longer bending his voice into something distant, Dain says his name.
 
-"Yes, I heard you the first time."
+“Yes, I heard you the first time.”
 
 Thin voice.
 
@@ -11746,13 +11746,13 @@ Dain makes him repeat one number, then answers another. Slates stay ready for wh
 
 Harra looks toward the gauge.
 
-"Pressure?"
+“Pressure?”
 
-"Rising. Slow."
+“Rising. Slow.”
 
-Oret watches the waxed pointer fixed to the near wall. "Vibration quiet."
+Oret watches the waxed pointer fixed to the near wall. “Vibration quiet.”
 
-Iven raises his measuring strip on the far side. "Landing dry. No new shift."
+Iven raises his measuring strip on the far side. “Landing dry. No new shift.”
 
 I touch the letters on my wrist.
 
@@ -11764,17 +11764,17 @@ Sella stands to my left with the rescue belt and board hook. Tolliver is on my r
 
 The mender waits above with Mara and Pell.
 
-Rusk's witness is at the upper works with Vey, where the agreement says he belongs.
+Rusk’s witness is at the upper works with Vey, where the agreement says he belongs.
 
 Iven looks through the opening.
 
-"Everyone ready?"
+“Everyone ready?”
 
-"No," I say.
+“No,” I say.
 
 He smiles.
 
-"Good."
+“Good.”
 
 ---
 
@@ -11782,11 +11782,11 @@ We measure everything again, then run one loaded cycle before any person goes ne
 
 Pressure rising. Vibration quiet. Stone quiet.
 
-"Seat."
+“Seat.”
 
-The spring takes one finger. Harra loads the board to Iven's weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
+The spring takes one finger. Harra loads the board to Iven’s weight plus gear. The pointer moves two scratches and stops; the spring compresses and returns cleanly.
 
-"Recover load."
+“Recover load.”
 
 Iven releases the far latch first. Tolliver brings the weight home. One clean cycle.
 
@@ -11808,47 +11808,47 @@ The thought arrives without warning and feels less like discovery than getting c
 
 Sella glances toward me, eyes softening for half a second, then turns back to Iven.
 
-"Good. Leave it on."
+“Good. Leave it on.”
 
 ---
 
 A runner comes down from above at exactly the wrong moment.
 
-Pell's voice follows.
+Pell’s voice follows.
 
-"Hold operation."
+“Hold operation.”
 
 Everything stops.
 
-Nothing crosses. Tolliver ties off the haul line. Sella's hand settles on her knife.
+Nothing crosses. Tolliver ties off the haul line. Sella’s hand settles on her knife.
 
 I know who is upstairs before Pell says the name.
 
-"Rusk moved her witness."
+“Rusk moved her witness.”
 
 Harra closes her eyes.
 
-"What?"
+“What?”
 
-"She is at the upper works with two crew."
+“She is at the upper works with two crew.”
 
 Agreement broken.
 
 Vey is already arguing.
 
-Rusk's voice carries faintly through the stone, calm enough to be worse than shouting.
+Rusk’s voice carries faintly through the stone, calm enough to be worse than shouting.
 
-"I have not entered the lower chamber."
+“I have not entered the lower chamber.”
 
-Pell says, "You entered the works."
+Pell says, “You entered the works.”
 
-"The preservation order requires observation."
+“The preservation order requires observation.”
 
-"The agreement did not."
+“The agreement did not.”
 
-"I have reason to believe disputed inner iron is being prepared for removal."
+“I have reason to believe disputed inner iron is being prepared for removal.”
 
-I look through the boundary at Iven's room.
+I look through the boundary at Iven’s room.
 
 The metal cabinet.
 
@@ -11866,47 +11866,47 @@ Harra says my name.
 
 I look at her.
 
-"The legal decision is not yours," she says. "The sequence is."
+“The legal decision is not yours,” she says. “The sequence is.”
 
 Pell comes down to us, face hard.
 
-"Rusk says anything disputed that crosses gets seized into joint hold in the upper gallery."
+“Rusk says anything disputed that crosses gets seized into joint hold in the upper gallery.”
 
-Sella's voice goes flat. "And Iven?"
+Sella’s voice goes flat. “And Iven?”
 
-"No custody right."
+“No custody right.”
 
-"Paper does not stop hands."
+“Paper does not stop hands.”
 
-"No."
+“No.”
 
 Tolliver looks at me and waits for my call.
 
 Iven has heard enough.
 
-"What iron do I need?" he asks.
+“What iron do I need?” he asks.
 
-Harra answers immediately. "None."
+Harra answers immediately. “None.”
 
-"Then I leave it."
+“Then I leave it.”
 
 Behind him, the imported cabinet catches the gray light.
 
 I have no idea what it holds, and the uncertainty is the part that hurts.
 
-"Iven comes with clothes, papers, food, water, and non-iron personal things," I say.
+“Iven comes with clothes, papers, food, water, and non-iron personal things,” I say.
 
 Pell nods.
 
-Iven lifts the bed-frame strip. "This?"
+Iven lifts the bed-frame strip. “This?”
 
-"Leave it," Harra says.
+“Leave it,” Harra says.
 
 He lets it fall.
 
 The small sound of metal hitting stone makes the cost immediate: today, the mystery stays on the far side so Iven can come out clean.
 
-"Continue," I say.
+“Continue,” I say.
 
 ---
 
@@ -11932,15 +11932,15 @@ My ankle aches inside the brace, but not sharply.
 
 Sella notices.
 
-"Same?"
+“Same?”
 
-"Same."
+“Same.”
 
 She nods.
 
 Tolliver looks over.
 
-"Same," I tell him.
+“Same,” I tell him.
 
 He accepts the answer and looks back to the line.
 
@@ -11954,7 +11954,7 @@ The spring compresses to one finger.
 
 Then a little more.
 
-"Good," Oret says.
+“Good,” Oret says.
 
 The vibration pointer moves two scratches and stops.
 
@@ -11964,7 +11964,7 @@ Iven shifts.
 
 The rail twists slightly.
 
-"Center."
+“Center.”
 
 He does.
 
@@ -11988,21 +11988,21 @@ I know that sentence is nonsense.
 
 My brain does not care.
 
-"Pressure?"
+“Pressure?”
 
-"Rising."
+“Rising.”
 
-"Vibration?"
+“Vibration?”
 
-"Three."
+“Three.”
 
-"Spring?"
+“Spring?”
 
-"One and a half."
+“One and a half.”
 
 Still inside limit.
 
-"Move."
+“Move.”
 
 Tolliver takes one controlled draw.
 
@@ -12014,7 +12014,7 @@ Not much.
 
 Enough.
 
-Dain says, "Stop."
+Dain says, “Stop.”
 
 Everybody stops.
 
@@ -12024,13 +12024,13 @@ The delay.
 
 We knew about the delay.
 
-Knowing it on paper is not the same as watching the edge descend behind a man's shoulder.
+Knowing it on paper is not the same as watching the edge descend behind a man’s shoulder.
 
-"Vibration four," Oret says.
+“Vibration four,” Oret says.
 
-"Frame stable," Harra says.
+“Frame stable,” Harra says.
 
-"Boundary still narrowing," Dain says.
+“Boundary still narrowing,” Dain says.
 
 Iven is exactly at midpoint.
 
@@ -12038,27 +12038,27 @@ Of course he is.
 
 The rule says reverse before midpoint. After midpoint, continue only if the near route is clearly shorter and the supports remain good.
 
-"Distance?" I ask.
+“Distance?” I ask.
 
 Sella judges the board.
 
-"Same."
+“Same.”
 
 Perfectly unhelpful.
 
 The boundary narrows another finger.
 
-"Spring one and three-quarter."
+“Spring one and three-quarter.”
 
-"Vibration five."
+“Vibration five.”
 
 The numbers are no longer reassuring.
 
-From above, Rusk says, "Do not bring claimed hardware with him."
+From above, Rusk says, “Do not bring claimed hardware with him.”
 
-Sella's head snaps toward the stair.
+Sella’s head snaps toward the stair.
 
-Iven says, "I have none."
+Iven says, “I have none.”
 
 One breath lost.
 
@@ -12066,7 +12066,7 @@ Then another.
 
 I look at the board.
 
-"Back."
+“Back.”
 
 No one argues.
 
@@ -12084,7 +12084,7 @@ The rail goes rigid.
 
 My stomach drops.
 
-"Release far."
+“Release far.”
 
 Harra pulls the latch.
 
@@ -12094,7 +12094,7 @@ Again.
 
 The line jumps but does not travel.
 
-"Bound."
+“Bound.”
 
 The loaded shoe has twisted against the side lip.
 
@@ -12122,7 +12122,7 @@ Tolliver hauls harder.
 
 The rail grinds.
 
-"Stop."
+“Stop.”
 
 He stops immediately.
 
@@ -12142,25 +12142,25 @@ The frame does not need to become stronger.
 
 It needs somewhere to move.
 
-"Near clamp. Open one notch."
+“Near clamp. Open one notch.”
 
-Harra stares at me. "That adds motion."
+Harra stares at me. “That adds motion.”
 
-"Yes."
+“Yes.”
 
-"The boundary is contracting."
+“The boundary is contracting.”
 
-"Give the twist somewhere else."
+“Give the twist somewhere else.”
 
 Her face changes.
 
 She sees it.
 
-"Near clamp one."
+“Near clamp one.”
 
 Tolliver reaches for the catch.
 
-Harra says, "Not you."
+Harra says, “Not you.”
 
 His hand stops.
 
@@ -12174,7 +12174,7 @@ The frame rotates.
 
 The far shoe comes free.
 
-"Now."
+“Now.”
 
 Harra yanks the release.
 
@@ -12188,7 +12188,7 @@ Tolliver waits.
 
 The boundary keeps contracting.
 
-"Back."
+“Back.”
 
 He pulls.
 
@@ -12216,27 +12216,27 @@ Iven rolls onto his back.
 
 Raises one hand.
 
-"I'm fine."
+“I’m fine.”
 
 Sella sits down hard.
 
 Tolliver closes his eyes.
 
-Harra's hands are shaking.
+Harra’s hands are shaking.
 
 Mine are too.
 
 Mara comes three steps down before Pell physically stops her at the safety line.
 
-"What happened?"
+“What happened?”
 
-"Abort worked," I say.
+“Abort worked,” I say.
 
-My voice sounds like somebody else's.
+My voice sounds like somebody else’s.
 
 Harra looks at the frame.
 
-"Barely."
+“Barely.”
 
 I look at the released far shoe.
 
@@ -12244,21 +12244,21 @@ At the shifted near clamp.
 
 At the empty section that got cut.
 
-"No. It worked because we stopped trying to save the frame."
+“No. It worked because we stopped trying to save the frame.”
 
 Everyone looks at me.
 
-"We can replace a brace."
+“We can replace a brace.”
 
-Harra's breathing slows.
+Harra’s breathing slows.
 
-"The spring housing took side load."
+“The spring housing took side load.”
 
-"Can you inspect it?"
+“Can you inspect it?”
 
-"Yes."
+“Yes.”
 
-"Then inspect it."
+“Then inspect it.”
 
 Dain watches the pointer settle back to one.
 
@@ -12270,13 +12270,13 @@ Again.
 
 Sella gets to her feet.
 
-"What now?"
+“What now?”
 
 I look at Iven.
 
 He is sitting up, angry enough to be healthy.
 
-From above, Rusk says, "Operation is concluded."
+From above, Rusk says, “Operation is concluded.”
 
 I laugh.
 
@@ -12288,53 +12288,53 @@ I am looking at the near clamp.
 
 The one notch that saved the release.
 
-"We made both sides too fixed."
+“We made both sides too fixed.”
 
 Harra follows my gaze.
 
-"We need support."
+“We need support.”
 
-"Yes. But not a locked near head."
+“Yes. But not a locked near head.”
 
 Oret understands first.
 
-"Captured guide."
+“Captured guide.”
 
 Harra turns to him.
 
-"A floating head," he says. "Near end can travel without leaving the cradle."
+“A floating head,” he says. “Near end can travel without leaving the cradle.”
 
-Dain nods. "Decouple the sides."
+Dain nods. “Decouple the sides.”
 
 We kept saying *independent support* and then built a frame that still wanted to behave like one rigid object.
 
 Iven calls through the opening.
 
-"Can you change it today?"
+“Can you change it today?”
 
 Nobody answers immediately.
 
 Harra studies the damaged brace.
 
-"One hour to replace that and convert the near head. Less if Oret already has the sleeve stock."
+“One hour to replace that and convert the near head. Less if Oret already has the sleeve stock.”
 
-"I have it."
+“I have it.”
 
-Mara says, "No second human attempt without full inspection."
+Mara says, “No second human attempt without full inspection.”
 
-"Yes," I say.
+“Yes,” I say.
 
 She looks at me, surprised.
 
-"Full inspection. Dry cycle. No person until it passes."
+“Full inspection. Dry cycle. No person until it passes.”
 
 Sella exhales.
 
 Tolliver looks at me.
 
-"You're not rushing."
+“You’re not rushing.”
 
-"I'm trying not to."
+“I’m trying not to.”
 
 A small smile touches his mouth.
 
@@ -12346,7 +12346,7 @@ Sella sees.
 
 She takes my hand anyway.
 
-"One hour," she says.
+“One hour,” she says.
 
 Her team leaves after midday.
 
@@ -12366,7 +12366,7 @@ Sella leans into me.
 
 Tolliver shakes his head.
 
-Harra says, "If you're finished losing your mind, I need the drawing board."
+Harra says, “If you’re finished losing your mind, I need the drawing board.”
 
 I am not finished.
 
@@ -12396,29 +12396,29 @@ I am becoming excellent at ignoring divine user interface.
 
 Captain Rusk loses patience at exactly the moment we become ready.
 
-She comes down to Pell's safety line and stops with her boot toes at the chalk mark. Vey is beside her. One of her crew stands behind.
+She comes down to Pell’s safety line and stops with her boot toes at the chalk mark. Vey is beside her. One of her crew stands behind.
 
-"I will not permit a second extraction attempt while the site is unstable."
+“I will not permit a second extraction attempt while the site is unstable.”
 
-Pell turns toward her. "You do not permit rescue."
+Pell turns toward her. “You do not permit rescue.”
 
-"I permit my crew to withdraw from unsafe work."
+“I permit my crew to withdraw from unsafe work.”
 
-"They are not working."
+“They are not working.”
 
-"I am a recognized claimant in an active works hazard."
+“I am a recognized claimant in an active works hazard.”
 
 Harra keeps her hands on the spring housing.
 
-Rusk points toward the chamber. "You woke an isolation section."
+Rusk points toward the chamber. “You woke an isolation section.”
 
-"We stopped it," Dain says.
+“We stopped it,” Dain says.
 
-"You triggered it."
+“You triggered it.”
 
-"The frame triggered it."
+“The frame triggered it.”
 
-"The distinction will comfort the dead."
+“The distinction will comfort the dead.”
 
 Harra flinches.
 
@@ -12430,21 +12430,21 @@ Rusk sees it too.
 
 That makes me angry enough to become calm.
 
-"The boundary nearly reached Iven," I say. "We aborted before it did."
+“The boundary nearly reached Iven,” I say. “We aborted before it did.”
 
-Rusk looks at me. "And now you want another attempt."
+Rusk looks at me. “And now you want another attempt.”
 
-"Yes."
+“Yes.”
 
-"Why?"
+“Why?”
 
-I point to the new sleeve, then the far shoe. "Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles."
+I point to the new sleeve, then the far shoe. “Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles.”
 
-"You are injured, level five, and you attempted a human crossing after one day of prototype work."
+“You are injured, level five, and you attempted a human crossing after one day of prototype work.”
 
-"State your demand," Pell says.
+“State your demand,” Pell says.
 
-"Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly."
+“Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly.”
 
 There it is.
 
@@ -12464,47 +12464,47 @@ Her team leaves after midday.
 
 Harra finally stands.
 
-"Your rigger uses rigid shear loading."
+“Your rigger uses rigid shear loading.”
 
-"He knows his work."
+“He knows his work.”
 
-"So do I."
+“So do I.”
 
-"You nearly cut a man in half."
+“You nearly cut a man in half.”
 
 Harra goes still again.
 
 I answer before she has to.
 
-"We nearly lost him because our release bound. We changed the part that bound."
+“We nearly lost him because our release bound. We changed the part that bound.”
 
 Rusk studies the frame.
 
-"What if you are wrong?"
+“What if you are wrong?”
 
 The room becomes colder.
 
 There is no clever answer.
 
-"We abort."
+“We abort.”
 
-"And if abort fails?"
+“And if abort fails?”
 
 I swallow.
 
-"Emergency cut. We send him to whichever side is closer."
+“Emergency cut. We send him to whichever side is closer.”
 
-Rusk's brows lift.
+Rusk’s brows lift.
 
 Sella knows about the sacrificial joint. Harra built it after the first attempt. A narrow pin divides the rescue board so the structure can be sacrificed without asking a person to stay attached to it.
 
-Rusk looks at Harra. "You built that today?"
+Rusk looks at Harra. “You built that today?”
 
-"Yes."
+“Yes.”
 
 Silence.
 
-Then Rusk says, "I still advise waiting."
+Then Rusk says, “I still advise waiting.”
 
 Advise.
 
@@ -12512,7 +12512,7 @@ Different word.
 
 Pell hears it too.
 
-"So noted."
+“So noted.”
 
 Rusk steps back from the line.
 
@@ -12526,19 +12526,19 @@ Today romance gets exactly thirty seconds.
 
 I am checking the rescue belt when she takes it from my hands.
 
-"Maya."
+“Maya.”
 
-"What?"
+“What?”
 
-"If this runs past midday."
+“If this runs past midday.”
 
 My chest tightens.
 
-"You go."
+“You go.”
 
-"You already said that."
+“You already said that.”
 
-"I need to know you are not lying now."
+“I need to know you are not lying now.”
 
 The lower chamber is twenty steps away.
 
@@ -12552,13 +12552,13 @@ Sella is leaving.
 
 All of those things are true at the same time.
 
-"If the rescue is stable and I am not the only thing keeping someone alive, you go."
+“If the rescue is stable and I am not the only thing keeping someone alive, you go.”
 
 Her face changes.
 
-"And if you are?"
+“And if you are?”
 
-"Then you decide."
+“Then you decide.”
 
 She hates that.
 
@@ -12566,7 +12566,7 @@ Good.
 
 It belongs to her.
 
-"I love you," I say.
+“I love you,” I say.
 
 The words leave before I can build anything around them.
 
@@ -12576,15 +12576,15 @@ So do I.
 
 Perfect. I confess love with a rescue crew waiting twenty steps away.
 
-"You absolute asshole."
+“You absolute asshole.”
 
-"That seems unfair."
+“That seems unfair.”
 
-"You waited until a rescue attempt."
+“You waited until a rescue attempt.”
 
-"I did not schedule it."
+“I did not schedule it.”
 
-"You schedule nothing."
+“You schedule nothing.”
 
 She has me there.
 
@@ -12598,25 +12598,25 @@ Not a kiss for privacy or patience. A kiss for thirty seconds.
 
 When she lets go, her forehead touches mine.
 
-"I love you too."
+“I love you too.”
 
 My chest hurts.
 
-"And I am still leaving."
+“And I am still leaving.”
 
-"I know."
+“I know.”
 
-"And you are still falling in love with him, or already there, or whatever disaster this is."
+“And you are still falling in love with him, or already there, or whatever disaster this is.”
 
 I close my eyes.
 
-"I know."
+“I know.”
 
-"Good."
+“Good.”
 
-"That word is carrying too much today."
+“That word is carrying too much today.”
 
-"It can manage."
+“It can manage.”
 
 A terrible Warder joke.
 
@@ -12624,7 +12624,7 @@ I laugh anyway.
 
 She gives me the belt.
 
-"Bring him home."
+“Bring him home.”
 
 ---
 
@@ -12636,9 +12636,9 @@ The frame seats with one finger at the far shoe and half at the near sleeve. Ive
 
 Sella checks the belt, Tolliver the haul, Harra both releases. I rest one hand lightly on the near rail and feel only ordinary movement.
 
-"Call," Harra says.
+“Call,” Harra says.
 
-"Move."
+“Move.”
 
 Iven steps onto the board.
 
@@ -12670,13 +12670,13 @@ The near sleeve reaches its one-finger stop.
 
 The far shoe is at one and a quarter.
 
-Harra says, "Near limit."
+Harra says, “Near limit.”
 
-"I know."
+“I know.”
 
 Iven is still moving, but we have spent the near travel.
 
-"Pause."
+“Pause.”
 
 Everything stops.
 
@@ -12686,9 +12686,9 @@ Not contraction.
 
 Something else.
 
-Dain looks at the gauge. "Pressure spike."
+Dain looks at the gauge. “Pressure spike.”
 
-Oret says, "Vibration four."
+Oret says, “Vibration four.”
 
 A heavy knock comes from below.
 
@@ -12698,11 +12698,11 @@ The frame is not twisted this time.
 
 Dain puts his hand to the wall.
 
-"Not us."
+“Not us.”
 
-"What changed?"
+“What changed?”
 
-"Below."
+“Below.”
 
 Another knock.
 
@@ -12718,9 +12718,9 @@ The far landing shifts.
 
 Iven feels it first.
 
-"Stone moved."
+“Stone moved.”
 
-"Spring one and three-quarter," Oret says.
+“Spring one and three-quarter,” Oret says.
 
 No room at the near sleeve.
 
@@ -12730,7 +12730,7 @@ Iven is past midpoint now.
 
 Closer to us.
 
-"Continue."
+“Continue.”
 
 Tolliver draws.
 
@@ -12740,9 +12740,9 @@ The boundary contracts.
 
 Fast.
 
-Dain shouts, "Pressure falling."
+Dain shouts, “Pressure falling.”
 
-"Iven, move."
+“Iven, move.”
 
 He moves.
 
@@ -12766,7 +12766,7 @@ I see the problem.
 
 If she opens it now, Iven is still standing on that section.
 
-"Wait."
+“Wait.”
 
 She freezes.
 
@@ -12780,19 +12780,19 @@ The sacrificial joint is nearer him than the far landing.
 
 There is only one useful piece of arithmetic left.
 
-"Break the joint."
+“Break the joint.”
 
 Harra goes white.
 
-"His back foot—"
+“His back foot—”
 
-"Iven. Forward."
+“Iven. Forward.”
 
 He lunges one step.
 
 His rear boot clears the marked segment.
 
-"Now."
+“Now.”
 
 Harra slams the release lever.
 
@@ -12822,7 +12822,7 @@ I am holding the anchor shoe, not the whole frame.
 
 One breath of load so Harra can open the near release.
 
-"Near."
+“Near.”
 
 She slams it.
 
@@ -12830,7 +12830,7 @@ The captured sleeve opens.
 
 The frame shifts.
 
-The boundary drops behind Iven's hips.
+The boundary drops behind Iven’s hips.
 
 Tolliver hauls again.
 
@@ -12894,15 +12894,15 @@ Possibly me.
 
 I push up on my hands.
 
-Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
+Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, “Wait for the mender.”
 
 Iven lifts his head and looks at me.
 
-"You fall a lot."
+“You fall a lot.”
 
 I start sobbing hard enough to laugh through it.
 
-"Fuck you."
+“Fuck you.”
 
 He smiles.
 
@@ -12912,7 +12912,7 @@ Then Mara reaches him.
 
 Medical work is mostly people being rude for excellent reasons.
 
-The mender orders everyone back except Mara. She checks Iven's pupils, pulse, hands, feet, breathing. Makes him say his name. Gives him two mouthfuls of water and takes the cup away.
+The mender orders everyone back except Mara. She checks Iven’s pupils, pulse, hands, feet, breathing. Makes him say his name. Gives him two mouthfuls of water and takes the cup away.
 
 He tries to sit.
 
@@ -12924,33 +12924,33 @@ My ankle is still screaming.
 
 The mender notices because bodies have no secrets from her.
 
-"You."
+“You.”
 
-"I'm fine."
+“I’m fine.”
 
-"You are on the floor."
+“You are on the floor.”
 
-"I like floors."
+“I like floors.”
 
 She looks at Tolliver.
 
-"No."
+“No.”
 
 He stops.
 
-I point at the mender. "I can move."
+I point at the mender. “I can move.”
 
 I try.
 
 My ankle votes.
 
-"Fine. He can carry me."
+“Fine. He can carry me.”
 
 Tolliver waits.
 
-"Can I?"
+“Can I?”
 
-"Yes."
+“Yes.”
 
 He picks me up, one arm under my knees, one behind my back, with a care that does not make the lift look difficult.
 
@@ -12960,15 +12960,15 @@ Deeply unserious.
 
 His face is not.
 
-"You released," he says quietly.
+“You released,” he says quietly.
 
 I know what he means.
 
 The last breath.
 
-"Yes."
+“Yes.”
 
-"You knew I had him."
+“You knew I had him.”
 
 I look toward Iven.
 
@@ -12978,9 +12978,9 @@ Harra is checking the ruined frame.
 
 Dain is watching the dead pointer.
 
-"You had him."
+“You had him.”
 
-Tolliver's eyes meet mine.
+Tolliver’s eyes meet mine.
 
 The trust between us has changed temperature. I can deal with that later, when nobody is bleeding or vomiting.
 
@@ -12990,11 +12990,11 @@ Then Sella is beside us, exhausted and bright-eyed and sad around the edges.
 
 She touches my boot.
 
-"Alive?"
+“Alive?”
 
-"Unfortunately."
+“Unfortunately.”
 
-"Good."
+“Good.”
 
 Tolliver lowers me onto the treatment bench.
 
@@ -13056,13 +13056,13 @@ The Earth objects are still on the far side.
 
 Rusk still has her claim.
 
-Tolliver is standing ten feet away with somebody else's blood on one sleeve.
+Tolliver is standing ten feet away with somebody else’s blood on one sleeve.
 
 The list of unsolved problems is still ridiculous, but the shape of my life has changed anyway.
 
-"Level?" Sella asks.
+“Level?” Sella asks.
 
-"Six."
+“Six.”
 
 She laughs.
 
@@ -13070,21 +13070,21 @@ Actually laughs.
 
 Then Iven vomits again.
 
-She points at him. "You level during that."
+She points at him. “You level during that.”
 
-"I do not control presentation."
+“I do not control presentation.”
 
-Harra glances over. "Ability?"
+Harra glances over. “Ability?”
 
-"No. Capacity eight. Five current."
+“No. Capacity eight. Five current.”
 
-The mender says, "And none of it gets used today."
+The mender says, “And none of it gets used today.”
 
-"I know."
+“I know.”
 
 Her eyebrows rise.
 
-"Stop looking surprised."
+“Stop looking surprised.”
 
 ---
 
@@ -13100,21 +13100,21 @@ Then looks at the severed frame.
 
 Then through the boundary into the room he left.
 
-"Successful extraction."
+“Successful extraction.”
 
-Iven looks up. "Apparently."
+Iven looks up. “Apparently.”
 
-"I am Captain Rusk."
+“I am Captain Rusk.”
 
-"I gathered."
+“I gathered.”
 
-"You left iron material on the receiving side."
+“You left iron material on the receiving side.”
 
-"Yes."
+“Yes.”
 
-"By instruction?"
+“By instruction?”
 
-"Yes," I say.
+“Yes,” I say.
 
 Her eyes move to me.
 
@@ -13124,13 +13124,13 @@ We paid that cost before the crossing.
 
 Vey steps down with the written agreement.
 
-"Personal papers and non-iron effects remain Iven's."
+“Personal papers and non-iron effects remain Iven’s.”
 
-"I am aware."
+“I am aware.”
 
 Iven pats the cloth packet against his chest.
 
-"Good."
+“Good.”
 
 Rusk looks through the opening.
 
@@ -13156,21 +13156,21 @@ That matters enough that I can live with the rest today.
 
 Rusk looks at the ruined frame.
 
-"You will not get another person through that route."
+“You will not get another person through that route.”
 
-Harra says, "Not with that frame."
+Harra says, “Not with that frame.”
 
-Rusk's gaze sharpens.
+Rusk’s gaze sharpens.
 
 Future problem.
 
-Pell says, "Captain."
+Pell says, “Captain.”
 
 Rusk nods once.
 
-"I maintain the claim."
+“I maintain the claim.”
 
-"I assumed."
+“I assumed.”
 
 She leaves without a speech or threat.
 
@@ -13234,7 +13234,7 @@ This moment is not about him.
 
 It is not really about me either.
 
-Iven kneels despite Mara's protest. His sons cling to him.
+Iven kneels despite Mara’s protest. His sons cling to him.
 
 Pell cries openly.
 
@@ -13262,7 +13262,7 @@ Her wagon leaves in less than an hour.
 
 I let that hurt too.
 
-Across the yard, Iven laughs into his sons' hair.
+Across the yard, Iven laughs into his sons’ hair.
 
 We brought him home.
 
@@ -13272,323 +13272,323 @@ For today, that is enough.
 
 CHAPTER THIRTY
 
-Sella's wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. I cannot defend myself. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
+Sella’s wagon is late. Seven minutes. I know because I ask three different people what time it is, and the third looks at me as though I am trying to intimidate the sun into moving faster. I cannot defend myself. My ankle is wrapped again. The mender has upgraded me from *do not be stupid* to *do not stand unless the building is on fire*, which she insists is an important distinction in medicine. Iven is inside with Teren and Lio.
 
-Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella's pack is beside the west wall. Bad.
+Pell is in the counting room with Rusk and Vey arguing over drainage rights, salvage holds, and which pieces of our ruined rescue frame count as evidence. Harra is asleep at a worktable with her cheek on a coil of rope. Tolliver is somewhere I cannot see him. Good. Sella’s pack is beside the west wall. Bad.
 
 She has changed out of the clothes she wore into the lower works. Clean shirt. Dark trousers. Soft leather coat. Bow across her back. The knife at her thigh is the same one she wore the first night we slept together. I stare long enough that she catches me.
 
-"Really?"
+“Really?”
 
-"I was looking at the sheath."
+“I was looking at the sheath.”
 
-"Liar."
+“Liar.”
 
-"Tactically."
+“Tactically.”
 
-"With terrible timing."
+“With terrible timing.”
 
 That hurts because it is funny. For the last two weeks she has touched me whenever she wanted: hip, shoulder, back of my neck, fingers under a table, mouth against mine in hallways. Small things that became ours by repetition. Now there is a foot of air between us. I feel every inch.
 
-"Walk with me," she says.
+“Walk with me,” she says.
 
-From across the room, the mender says, "No." Sella turns. "Outside."
+From across the room, the mender says, “No.” Sella turns. “Outside.”
 
-"No."
+“No.”
 
-"Five steps."
+“Five steps.”
 
-"No."
+“No.”
 
-"Three."
+“Three.”
 
-The mender points at the bench. "You can sit outside with her if Tolliver carries the bench." I close my eyes. Sella laughs. The mender does not.
+The mender points at the bench. “You can sit outside with her if Tolliver carries the bench.” I close my eyes. Sella laughs. The mender does not.
 
-"This is why healers drink," I say.
+“This is why healers drink,” I say.
 
-"This is why healers poison patients."
+“This is why healers poison patients.”
 
 Tolliver appears in the doorway at exactly the wrong moment. Of course he does. He looks at the bench. Then at the mender.
 
-"No."
+“No.”
 
 Good man. The mender raises one eyebrow.
 
-"I'll carry Maya," he says. "The bench is stupid."
+“I’ll carry Maya,” he says. “The bench is stupid.”
 
-"Thank you."
+“Thank you.”
 
-She points at me. "You are the stupid part." She has a point. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
+She points at me. “You are the stupid part.” She has a point. Tolliver does not move until I nod. That still catches under my ribs in a way I have stopped pretending is accidental. He lifts me. Sella takes my pack because my official role has become decorative object. Outside, the afternoon is thin and bright after the rain. Rook smells like wet stone, horse sweat, boiled grain, and the sharp oil Harra uses on metal. The wagon is still not here. Seven minutes becomes nine.
 
 Sella leads us to the low wall beside the east herb beds. Tolliver lowers me onto it, careful with the bad foot. Sella puts my pack beneath my heel. He straightens.
 
-"Do you need anything?"
+“Do you need anything?”
 
-"No."
+“No.”
 
 His eyes move to Sella.
 
-"I need ten minutes," she says.
+“I need ten minutes,” she says.
 
 He nods and walks away. He knows what those ten minutes are. I watch him cross the yard. Sella watches me watch him. There it is. No rescue to hide behind. No monster. No pressure gauge. Just us. She sits beside me. For a while, we say nothing. The yard continues around us. Somebody carries bread from the kitchen. A mule objects to being a mule. Pell comes out of the counting room, sees us, and immediately turns around. Bless her. Sella rubs both palms over her thighs.
 
-"I meant what I said."
+“I meant what I said.”
 
-"I know."
+“I know.”
 
-"I love you."
+“I love you.”
 
 I look down at my wrapped ankle because looking at bandages is easier than looking at her.
 
-"I love you too."
+“I love you too.”
 
-"And I am still going."
+“And I am still going.”
 
-"I know."
+“I know.”
 
 Her jaw shifts.
 
-"You keep saying that."
+“You keep saying that.”
 
-"What do you want me to say?"
+“What do you want me to say?”
 
-"I don't know."
+“I don’t know.”
 
 That surprises me. Sella usually knows exactly what she wants people to say, or at least what she wants them not to say. She leans forward, elbows on her knees.
 
-"I thought this would be easier if you didn't ask me to stay."
+“I thought this would be easier if you didn’t ask me to stay.”
 
 My throat tightens.
 
-"I almost did."
+“I almost did.”
 
 She turns.
 
-"I almost asked before the second crossing. Then when Iven came out. Then when you picked up your pack."
+“I almost asked before the second crossing. Then when Iven came out. Then when you picked up your pack.”
 
-"Why didn't you?"
+“Why didn’t you?”
 
-"Because you might have."
+“Because you might have.”
 
 Her face goes still.
 
-"That is what you think of me?"
+“That is what you think of me?”
 
-"No."
+“No.”
 
 I turn toward her despite the pull in my ankle.
 
-"I think you love me. I think you already gave up one road when I was hurt. I think you have been standing still while I tried to decide whether this place could become a life."
+“I think you love me. I think you already gave up one road when I was hurt. I think you have been standing still while I tried to decide whether this place could become a life.”
 
 She says nothing.
 
-"If I asked today, after you watched me get carried out of a hole and heard me tell you I love you, there is a real chance staying would feel like kindness."
+“If I asked today, after you watched me get carried out of a hole and heard me tell you I love you, there is a real chance staying would feel like kindness.”
 
 Her eyes go away from me. That is answer enough.
 
-"And in a month," I say, "you would still want the road."
+“And in a month,” I say, “you would still want the road.”
 
-"Yes."
+“Yes.”
 
-"Two months."
+“Two months.”
 
-"Yes."
+“Yes.”
 
-"And every time I looked at you, I would wonder whether I had turned the fact that you love me into a rope."
+“And every time I looked at you, I would wonder whether I had turned the fact that you love me into a rope.”
 
 Sella swallows.
 
-"So you decided for me."
+“So you decided for me.”
 
-"No."
+“No.”
 
 Her head snaps back. I lift both hands.
 
-"No. I refused to ask while the answer was tilted."
+“No. I refused to ask while the answer was tilted.”
 
-"That is still a decision."
+“That is still a decision.”
 
-"Yes."
+“Yes.”
 
-"About us."
+“About us.”
 
-"Yes."
+“Yes.”
 
 She laughs once without humor.
 
-"You are infuriating."
+“You are infuriating.”
 
-"I know."
+“I know.”
 
-"You don't get points for knowing."
+“You don’t get points for knowing.”
 
 I almost say it again. Stop myself. Her eyes fill. Not dramatically. Just water gathering faster than she can blink it away. I have seen her naked. Bleeding. Laughing into my mouth. Holding a knife against someone who deserved worse. I have not seen her cry. I reach toward her and stop halfway. She sees the pause. Then takes my hand. The permission hurts too.
 
-"I wanted you to make it hard," she says.
+“I wanted you to make it hard,” she says.
 
-My thumb moves over her knuckles. "I am making it hard."
+My thumb moves over her knuckles. “I am making it hard.”
 
-"No. I wanted you to be selfish."
+“No. I wanted you to be selfish.”
 
-"I am selfish."
+“I am selfish.”
 
-"Not with me."
+“Not with me.”
 
 That lands cleanly. Maybe she is right. Maybe I have been brave enough to want her body and careful enough to avoid wanting her future out loud. Or maybe loving her future means not swallowing it. Both thoughts fit. Neither helps. She wipes her cheek with the heel of her hand.
 
-"I can live with you wanting him."
+“I can live with you wanting him.”
 
 I say nothing.
 
-"I mean it."
+“I mean it.”
 
 Her voice cracks. She hates it and keeps going.
 
-"I can live with you sleeping with him. I can live with you loving him if that is where this goes. I can live with you having things with him that you don't have with me."
+“I can live with you sleeping with him. I can live with you loving him if that is where this goes. I can live with you having things with him that you don’t have with me.”
 
 My pulse jumps. She looks directly at me.
 
-"But I cannot build my life around being the woman who waits for you to decide when you are done standing between doors."
+“But I cannot build my life around being the woman who waits for you to decide when you are done standing between doors.”
 
 There is nothing to defend against in that. She is not asking me to erase Tolliver. She is not asking me to pick a person. She is telling me what kind of waiting would hollow her out.
 
-"I don't want you to wait."
+“I don’t want you to wait.”
 
-"I know."
+“I know.”
 
-I flinch. She almost smiles. "Sorry."
+I flinch. She almost smiles. “Sorry.”
 
-"Asshole."
+“Asshole.”
 
-"Yes."
+“Yes.”
 
 The wagon rattles through the outer gate. My whole body reacts before my mind does. There. Horse. Canvas cover. Two people already seated in back. A woman driving. Departure made physical. Sella looks at it. Then at me.
 
-"We could stop," she says.
+“We could stop,” she says.
 
 I tighten my hand around hers.
 
-"I don't want to."
+“I don’t want to.”
 
 She closes her eyes.
 
-"Me neither."
+“Me neither.”
 
 I breathe out.
 
-"What does that mean?"
+“What does that mean?”
 
-"For today?"
+“For today?”
 
-"Yes."
+“Yes.”
 
-"It means I go east."
+“It means I go east.”
 
-"Yes."
+“Yes.”
 
-"It means you figure out what you're doing here."
+“It means you figure out what you’re doing here.”
 
-"Yes."
+“Yes.”
 
-"It means if I come back and you still want me, you tell me."
+“It means if I come back and you still want me, you tell me.”
 
 My chest tightens.
 
-"And if you meet someone?"
+“And if you meet someone?”
 
-"I might."
+“I might.”
 
 I nod. That hurts exactly as much as it should.
 
-"If I do?"
+“If I do?”
 
-"You tell me."
+“You tell me.”
 
-"I will."
+“I will.”
 
-"No noble silence because you think it protects me."
+“No noble silence because you think it protects me.”
 
-"Fuck."
+“Fuck.”
 
-"Maya."
+“Maya.”
 
-"Fine."
+“Fine.”
 
 She squeezes my hand.
 
-"And him."
+“And him.”
 
-"What about him?"
+“What about him?”
 
-"Do not make me into an excuse not to touch him."
+“Do not make me into an excuse not to touch him.”
 
 Heat rises straight up my throat.
 
-"Sella."
+“Sella.”
 
-"I mean it."
+“I mean it.”
 
-"You are leaving me and giving me instructions about somebody else's bed."
+“You are leaving me and giving me instructions about somebody else’s bed.”
 
-"I'm saying if you want him, do not turn me into a dead wife in your head."
+“I’m saying if you want him, do not turn me into a dead wife in your head.”
 
-"You are not dead."
+“You are not dead.”
 
-"Then stop looking at me like this is my funeral."
+“Then stop looking at me like this is my funeral.”
 
 I laugh. It comes out broken. She leans in until our foreheads touch. For another minute, I know exactly where she is.
 
-"I love you," I whisper.
+“I love you,” I whisper.
 
-"I love you too."
+“I love you too.”
 
-"I'm sorry."
+“I’m sorry.”
 
-"For what?"
+“For what?”
 
-"Everything."
+“Everything.”
 
-"Useless answer."
+“Useless answer.”
 
-"You're right."
+“You’re right.”
 
 She kisses me. Not hard. Not desperate. Slow enough that my mouth recognizes every part of it. Her lower lip. The small catch in her breathing when I touch her cheek. Her fingers sliding into my hair and staying there. My body remembers bed with brutal precision. Her thigh over mine. Her mouth lower. My hands on her hips. This kiss does not try to become sex. It is trying to remember itself. When she pulls back, neither of us is dry-eyed. She wipes my face with her sleeve.
 
-"Terrible."
+“Terrible.”
 
-"What?"
+“What?”
 
-"You're ugly when you cry."
+“You’re ugly when you cry.”
 
-"I was going to say something nice."
+“I was going to say something nice.”
 
-"Suspicious."
+“Suspicious.”
 
-The driver calls her name. Sella stands. I do not. The mender would kill me before the ankle gets the chance. She shoulders her pack. Then looks across the yard. Tolliver is by the stable arch, far enough away not to hear us. She walks over to him. I almost tell her not to. I don't. They speak for less than a minute. Tolliver's face gives me nothing. Sella says something that makes his eyes move toward me, then back to her. He nods once.
+The driver calls her name. Sella stands. I do not. The mender would kill me before the ankle gets the chance. She shoulders her pack. Then looks across the yard. Tolliver is by the stable arch, far enough away not to hear us. She walks over to him. I almost tell her not to. I don’t. They speak for less than a minute. Tolliver’s face gives me nothing. Sella says something that makes his eyes move toward me, then back to her. He nods once.
 
 She punches him in the chest. Not hard. Probably. He looks offended. She says one more thing and walks away before he can answer. I stare at her when she comes back.
 
-"What did you say?"
+“What did you say?”
 
-"Private conversation."
+“Private conversation.”
 
-"I am the obvious subject."
+“I am the obvious subject.”
 
-"Still private."
+“Still private.”
 
-"I hate both of you."
+“I hate both of you.”
 
-"You love at least one of us."
+“You love at least one of us.”
 
-"I am reconsidering."
+“I am reconsidering.”
 
 She bends and kisses my forehead. Then my mouth. One last time.
 
-"Do something with your life, Maya Szczepaniak."
+“Do something with your life, Maya Szczepaniak.”
 
-"I rescued a man this morning."
+“I rescued a man this morning.”
 
-"Tomorrow too."
+“Tomorrow too.”
 
 The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. Our stupid signal from the East Relief safe room. Still here. I raise two fingers back. The wagon passes through the gate. Gone. The yard looks larger.
 
@@ -13596,107 +13596,107 @@ I sit on the wall until the sound of wheels disappears. Then longer. Tolliver do
 
 ---
 
-Iven wakes after sunset. Mara allows me upstairs only if I am carried. I am becoming furniture. Tolliver takes me. He does not ask about Sella. In the long room, Iven lies beneath two blankets with his sons asleep on pallets beside him. Teren has one hand wrapped around his father's wrist. Lio has stolen half the blanket. Iven looks exhausted. Human exhausted. The kind that belongs after surviving.
+Iven wakes after sunset. Mara allows me upstairs only if I am carried. I am becoming furniture. Tolliver takes me. He does not ask about Sella. In the long room, Iven lies beneath two blankets with his sons asleep on pallets beside him. Teren has one hand wrapped around his father’s wrist. Lio has stolen half the blanket. Iven looks exhausted. Human exhausted. The kind that belongs after surviving.
 
-"Warder," he says.
+“Warder,” he says.
 
 I stop.
 
-"No."
+“No.”
 
 His eyebrows rise.
 
-"Maya."
+“Maya.”
 
-"Better."
+“Better.”
 
 Tolliver settles me into a chair. Iven watches him. Then me.
 
-"Your friend left."
+“Your friend left.”
 
 The word *friend* is doing criminal labor.
 
-"Yes."
+“Yes.”
 
-"Sorry."
+“Sorry.”
 
-"Me too."
+“Me too.”
 
 He shifts against the pillow.
 
-"I wanted to thank you while I was awake enough to mean it."
+“I wanted to thank you while I was awake enough to mean it.”
 
-"You already insulted me after I fell."
+“You already insulted me after I fell.”
 
-"That was gratitude."
+“That was gratitude.”
 
-"Cultural difference."
+“Cultural difference.”
 
 Teren moves in his sleep. Iven looks down at the hand around his wrist like he still does not believe it is there.
 
-"You told them to leave the iron."
+“You told them to leave the iron.”
 
-"Yes."
+“Yes.”
 
-"Even the strip with the stamped marks."
+“Even the strip with the stamped marks.”
 
-"Yes."
+“Yes.”
 
-"That hurt."
+“That hurt.”
 
 I look at the blanket.
 
-"I could see your face from across the room," he says.
+“I could see your face from across the room,” he says.
 
 Traitor face.
 
-"I wanted answers."
+“I wanted answers.”
 
-"And you chose me."
+“And you chose me.”
 
 I do not know what to do with that sentence. So I shrug.
 
-"You were easier to carry."
+“You were easier to carry.”
 
 He smiles. Then sobers.
 
-"I heard the captain. The claim is still active."
+“I heard the captain. The claim is still active.”
 
-"Yes."
+“Yes.”
 
-"She will want me at the hearing."
+“She will want me at the hearing.”
 
-"Probably."
+“Probably.”
 
-"Do I have to go?"
+“Do I have to go?”
 
 Tolliver answers before I can.
 
-"No one has said that."
+“No one has said that.”
 
 Careful. Precise. No promise he cannot keep. Iven studies him, then looks at me.
 
-"You trust him?"
+“You trust him?”
 
 The question is simple. The answer is not.
 
-"Yes."
+“Yes.”
 
 Tolliver goes completely still beside the door. I do not look at him. Cowardice has uses. Iven nods.
 
-"Good."
+“Good.”
 
-"That is a lot of confidence for a man who met me through murder architecture."
+“That is a lot of confidence for a man who met me through murder architecture.”
 
-"You brought better people every time."
+“You brought better people every time.”
 
 That gets under my armor. Harra. Sella. Tolliver. Dain. Oret. Mara. Pell. Vey. Even Rusk, in the irritating way opposition forced every claim into daylight. I did not rescue Iven by myself. The thought is not humbling. It is relieving.
 
-"I'm glad you're here," I say.
+“I’m glad you’re here,” I say.
 
 He looks at his sons.
 
-"Me too."
+“Me too.”
 
 ---
 
@@ -13714,7 +13714,7 @@ Barely.
 
 Sella sends no message.
 
-There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people's heads. Knowing that does not stop me from looking toward the gate whenever wheels enter the yard.
+There is no reason she should. Her crew is moving, and roads here do not come with little blue bubbles over people’s heads. Knowing that does not stop me from looking toward the gate whenever wheels enter the yard.
 
 On the third day, I find one of her hair ties under my bed.
 
@@ -13728,15 +13728,15 @@ For once, she does not say anything rude.
 
 Worse.
 
-"Don't," I tell her.
+“Don’t,” I tell her.
 
-"I did not speak."
+“I did not speak.”
 
-"Your face did."
+“Your face did.”
 
-"My face is medically neutral."
+“My face is medically neutral.”
 
-"Your face is a crime."
+“Your face is a crime.”
 
 She helps me up anyway.
 
@@ -13802,7 +13802,7 @@ I leave the page intact anyway.
 
 At breakfast the next morning, somebody asks if the place across from me is free.
 
-I say yes before realizing it had become Sella's without either of us deciding that.
+I say yes before realizing it had become Sella’s without either of us deciding that.
 
 A stoneworker named Nemm sits there and spends ten minutes explaining why the kitchen ruins oats.
 
@@ -13814,7 +13814,7 @@ Grief is petty enough to care about benches.
 
 I work.
 
-Harra makes me catalog the surviving rescue parts. Pell makes me sit through hearing preparation over Rusk's claim. Vey brings copies. Iven gives a formal account. Teren interrupts twice. Lio steals Vey's pen again.
+Harra makes me catalog the surviving rescue parts. Pell makes me sit through hearing preparation over Rusk’s claim. Vey brings copies. Iven gives a formal account. Teren interrupts twice. Lio steals Vey’s pen again.
 
 Life continues with insulting competence.
 
@@ -13842,9 +13842,9 @@ I have survived another world, a dungeon, a collapsing rescue frame, and emotion
 
 He looks up.
 
-"Maya."
+“Maya.”
 
-"I need to ask you something."
+“I need to ask you something.”
 
 The axe goes down immediately.
 
@@ -13852,25 +13852,25 @@ Full attention.
 
 Dangerous man.
 
-"Ask."
+“Ask.”
 
 I step closer. No limp. No wrap.
 
-"What did Sella say to you?"
+“What did Sella say to you?”
 
 One corner of his mouth moves.
 
-"No."
+“No.”
 
 I stop.
 
-"No?"
+“No?”
 
-"She said it was private."
+“She said it was private.”
 
-"I am almost certainly the subject."
+“I am almost certainly the subject.”
 
-"That does not make it yours."
+“That does not make it yours.”
 
 I stare at him.
 
@@ -13880,7 +13880,7 @@ Correct.
 
 Worse because correct.
 
-"Fine."
+“Fine.”
 
 He waits.
 
@@ -13888,61 +13888,61 @@ I should leave.
 
 Instead I look at his hands.
 
-"Why haven't you touched me?"
+“Why haven’t you touched me?”
 
 He goes still.
 
 The question sounds different in the yard than it did in my head.
 
-"Because you were hurt."
+“Because you were hurt.”
 
-"I'm not now."
+“I’m not now.”
 
-"Because she left."
+“Because she left.”
 
 My chest tightens.
 
-"That is not contagious."
+“That is not contagious.”
 
-"No."
+“No.”
 
-"Then what?"
+“Then what?”
 
 He leans the axe against the block.
 
-"When you lost Earth, you grabbed whatever made the floor stop moving."
+“When you lost Earth, you grabbed whatever made the floor stop moving.”
 
 The words sting because they are true enough to be dangerous.
 
-"I am not grabbing you."
+“I am not grabbing you.”
 
-"I know."
+“I know.”
 
-"Do you?"
+“Do you?”
 
-"Yes."
+“Yes.”
 
 He does not soften it.
 
-"I wanted you before she left."
+“I wanted you before she left.”
 
 My pulse jumps.
 
-"I want you now."
+“I want you now.”
 
 Worse.
 
-"But I am not going to make the first night after you stop crying about someone else into proof that you chose me."
+“But I am not going to make the first night after you stop crying about someone else into proof that you chose me.”
 
 Anger arrives fast enough to be useful.
 
-"I have not been crying every night."
+“I have not been crying every night.”
 
-"I know."
+“I know.”
 
-"How would you know?"
+“How would you know?”
 
-"Your walls are not that thin."
+“Your walls are not that thin.”
 
 That almost makes me laugh.
 
@@ -13950,13 +13950,13 @@ Almost.
 
 He takes one step closer and stops outside reach.
 
-"If you want me, tell me when you can answer one question."
+“If you want me, tell me when you can answer one question.”
 
 I fold my arms.
 
-"I already hate this."
+“I already hate this.”
 
-"Would you still want me if Sella's wagon came back through that gate tomorrow?"
+“Would you still want me if Sella’s wagon came back through that gate tomorrow?”
 
 The yard goes quiet.
 
@@ -13988,7 +13988,7 @@ Nothing comes out.
 
 He waits, then nods once.
 
-"That's why."
+“That’s why.”
 
 I hate him.
 
@@ -13996,13 +13996,13 @@ Specifically.
 
 With focus.
 
-"You're very pleased with yourself."
+“You’re very pleased with yourself.”
 
-"No."
+“No.”
 
-"Your face is."
+“Your face is.”
 
-"My face is medically neutral."
+“My face is medically neutral.”
 
 I stare.
 
@@ -14014,15 +14014,15 @@ A laugh escapes me before I can stop it.
 
 His mouth moves.
 
-"Go to bed, Maya."
+“Go to bed, Maya.”
 
-"Do not tell me what to do."
+“Do not tell me what to do.”
 
-"Stay up, then."
+“Stay up, then.”
 
-"Asshole."
+“Asshole.”
 
-"Yes."
+“Yes.”
 
 I turn away furious enough to walk perfectly.
 
@@ -14054,39 +14054,39 @@ He sees me crossing toward him and sets the axe down before I say anything. I ha
 
 It was not efficient.
 
-"You told me to answer a question," I say.
+“You told me to answer a question,” I say.
 
 His expression changes by almost nothing.
 
-"I did."
+“I did.”
 
-"Ask it again."
+“Ask it again.”
 
 He studies me for one long second.
 
-"Would you still want me if Sella came back tomorrow?"
+“Would you still want me if Sella came back tomorrow?”
 
-"Yes."
+“Yes.”
 
 His shoulders go still.
 
 I keep going.
 
-"I would want her too."
+“I would want her too.”
 
-"I know."
+“I know.”
 
-"I might be very confused."
+“I might be very confused.”
 
-"I know."
+“I know.”
 
-"I might cry again."
+“I might cry again.”
 
-"I assumed."
+“I assumed.”
 
-"Rude."
+“Rude.”
 
-"Accurate."
+“Accurate.”
 
 I step closer.
 
@@ -14094,185 +14094,185 @@ His eyes drop to my mouth.
 
 Then come back.
 
-"What are you doing tonight?" I ask.
+“What are you doing tonight?” I ask.
 
-"Nothing I cannot change."
+“Nothing I cannot change.”
 
 Heat opens low in me. He has not made one move toward me in ten days.
 
-"Change it."
+“Change it.”
 
 Tolliver does not move.
 
 For one terrible second, I think I have miscalculated so badly that I will need to leave the region.
 
-Then he says, "To what?"
+Then he says, “To what?”
 
 The bastard knows.
 
 He also knows I need to say it.
 
-"You."
+“You.”
 
 His pupils widen. I keep going before courage discovers an exit.
 
-"I want to be with you tonight."
+“I want to be with you tonight.”
 
-"With me."
+“With me.”
 
-"Yes."
+“Yes.”
 
-"Not because Sella left."
+“Not because Sella left.”
 
 Her name still hurts. Less sharply than ten days ago, but enough.
 
-"No."
+“No.”
 
-"Not because you owe me."
+“Not because you owe me.”
 
 I step into his space.
 
-"You absolutely do not want to finish that sentence."
+“You absolutely do not want to finish that sentence.”
 
 One corner of his mouth moves.
 
-"Why?"
+“Why?”
 
-"Because I am already doing something difficult, and if you turn this into a consent interview in the yard, I will push you into the woodpile."
+“Because I am already doing something difficult, and if you turn this into a consent interview in the yard, I will push you into the woodpile.”
 
 His eyes darken. Unfair.
 
-"Maya."
+“Maya.”
 
-"What?"
+“What?”
 
-"One more."
+“One more.”
 
-I fold my arms. "Fine."
+I fold my arms. “Fine.”
 
-"What do you want from me?"
+“What do you want from me?”
 
 My body knows before my pride does. Weeks of him asking. Waiting. Following the call instead of deciding it. Weeks of knowing exactly how much stronger he is and exactly how carefully he has chosen not to use that.
 
-"I want you to stop being careful with me."
+“I want you to stop being careful with me.”
 
 He goes very still. I swallow.
 
-"Not with my choices."
+“Not with my choices.”
 
 His eyes stay on mine.
 
-"With me."
+“With me.”
 
 The words come quieter.
 
-"I want to know what it feels like when you don't have to pretend I can overpower you."
+“I want to know what it feels like when you don’t have to pretend I can overpower you.”
 
 His breathing changes. Mine follows.
 
-"I can," he says.
+“I can,” he says.
 
-"I know."
+“I know.”
 
-"You have reserve."
+“You have reserve.”
 
-"Eight."
+“Eight.”
 
-"Abilities."
+“Abilities.”
 
-"Two."
+“Two.”
 
-"Training."
+“Training.”
 
-"Some."
+“Some.”
 
-"You can stop me."
+“You can stop me.”
 
-"Yes."
+“Yes.”
 
-"Say it."
+“Say it.”
 
-"I can stop you."
+“I can stop you.”
 
-"How?"
+“How?”
 
-"Words. Hands. Knee to the groin if you become stupid."
+“Words. Hands. Knee to the groin if you become stupid.”
 
 That smile appears. Brief. Dangerous.
 
-"Good."
+“Good.”
 
 I am so turned on that I resent the existence of architecture. He steps closer without touching me.
 
-"Your ankle."
+“Your ankle.”
 
-"Cleared."
+“Cleared.”
 
-"Shield work?"
+“Shield work?”
 
-"Light. Full stairs. No powered-load restriction."
+“Light. Full stairs. No powered-load restriction.”
 
-"Stepguard?"
+“Stepguard?”
 
-"The mender cleared it this morning."
+“The mender cleared it this morning.”
 
 His gaze sharpens.
 
-"You didn't tell me."
+“You didn’t tell me.”
 
-"I'm telling you now."
+“I’m telling you now.”
 
 He takes one slow breath.
 
-"If you say stop?"
+“If you say stop?”
 
-"Everything stops."
+“Everything stops.”
 
-"Slow?"
+“Slow?”
 
-"You slow."
+“You slow.”
 
-"If you change your mind?"
+“If you change your mind?”
 
-"I tell you."
+“I tell you.”
 
-He nods. Then, softer, "Last chance to walk away from the woodpile threat." I grab his shirt and kiss him. For half a second, he lets me. Then his hand closes around my wrist. Not hard enough to hurt. Hard enough to show me exactly how little my grip matters if he decides it does not. He pulls my hand away from his shirt. My pulse detonates. His other hand catches my jaw, and the kiss changes. Not rough. Controlled. Worse. Better.
+He nods. Then, softer, “Last chance to walk away from the woodpile threat.” I grab his shirt and kiss him. For half a second, he lets me. Then his hand closes around my wrist. Not hard enough to hurt. Hard enough to show me exactly how little my grip matters if he decides it does not. He pulls my hand away from his shirt. My pulse detonates. His other hand catches my jaw, and the kiss changes. Not rough. Controlled. Worse. Better.
 
 His mouth moves against mine with the patience of someone who has spent weeks learning the difference between wanting and taking. I push into him. He gives me one step, then turns us. My back meets the stone wall beside the stable arch, cool through my shirt. His body is heat in front of me. He pins my wrist beside my head. One hand. One wrist. I test him. Actually test him. Pull. His arm barely moves. Fuck. He feels it. His mouth leaves mine.
 
-"Again."
+“Again.”
 
-"What?"
+“What?”
 
-"Try."
+“Try.”
 
 I yank harder, shoulder engaged, weight shifted. I could stop this. I do not. His eyes track the effort, hungry rather than smug.
 
-"That what you wanted?"
+“That what you wanted?”
 
 I hate the tremor in my voice.
 
-"Yes."
+“Yes.”
 
 He releases me immediately. The absence of pressure is almost worse. He waits while I rub my wrist, not because it hurts but because the skin remembers his hand.
 
-"Inside," I say.
+“Inside,” I say.
 
-"Your room?"
+“Your room?”
 
-"Yes."
+“Yes.”
 
-"Door?"
+“Door?”
 
-"Locked."
+“Locked.”
 
-"By you?"
+“By you?”
 
-"Yes."
+“Yes.”
 
 His eyes burn.
 
-"Lead."
+“Lead.”
 
 I do.
 
@@ -14282,661 +14282,661 @@ My room is not Greyward. Different bed. Different walls. My own boots by the doo
 
 The memory of Greyward comes anyway, sharp and ugly. He sees it.
 
-"What?"
+“What?”
 
-"I remembered the gate."
+“I remembered the gate.”
 
 His expression closes.
 
-"Do you want me to leave?"
+“Do you want me to leave?”
 
-"No."
+“No.”
 
-"Maya."
+“Maya.”
 
-"No."
+“No.”
 
 I cross the room until I am standing in front of him.
 
-"That is why this matters."
+“That is why this matters.”
 
 He does not touch me.
 
-"I hated when you said I was yours."
+“I hated when you said I was yours.”
 
-"I know."
+“I know.”
 
-"I hated you deciding things before I understood them."
+“I hated you deciding things before I understood them.”
 
-"I know."
+“I know.”
 
-"I hated how much I wanted you anyway."
+“I hated how much I wanted you anyway.”
 
 His jaw tightens.
 
-"That part was inconvenient."
+“That part was inconvenient.”
 
 A breath of laughter escapes him. I put my hand against his chest.
 
-"I am not yours because you said it at a gate."
+“I am not yours because you said it at a gate.”
 
-"No."
+“No.”
 
-"Or because you paid for a room."
+“Or because you paid for a room.”
 
-"No."
+“No.”
 
-"Or because you found me first."
+“Or because you found me first.”
 
-"No."
+“No.”
 
 I look up at him.
 
-"But tonight I want to give you control because I want to know what you do with it."
+“But tonight I want to give you control because I want to know what you do with it.”
 
-His focus settles on me with a new weight, dangerous and somehow safer because I put it there. He takes my hand from his chest and kisses the center of my palm. Then says, "Take off the boots." I stare at him.
+His focus settles on me with a new weight, dangerous and somehow safer because I put it there. He takes my hand from his chest and kisses the center of my palm. Then says, “Take off the boots.” I stare at him.
 
-"That's your opening?"
+“That’s your opening?”
 
-"Do you want a speech?"
+“Do you want a speech?”
 
-"No."
+“No.”
 
-"Boots."
+“Boots.”
 
 Heat crawls up my spine. I sit and pull them off. He watches without helping or rushing me. When I stand, he points at my shield.
 
-"Move it."
+“Move it.”
 
-"Why?"
+“Why?”
 
-"I don't want you falling into it."
+“I don’t want you falling into it.”
 
 Practicality, ruining everything beautifully. I move the shield. He points at the table corner. I shift that too.
 
-"You are deeply romantic."
+“You are deeply romantic.”
 
-"I am planning to throw you onto the bed."
+“I am planning to throw you onto the bed.”
 
 My knees nearly fail. He notices. Of course he notices.
 
-"That," he says quietly. "I want that."
+“That,” he says quietly. “I want that.”
 
-"What?"
+“What?”
 
-"The part where you try not to react."
+“The part where you try not to react.”
 
 I recover enough to glare. His gaze moves over me.
 
-"You do it when you're frightened. Angry. Hurt. You lock everything down until your face becomes a lie."
+“You do it when you’re frightened. Angry. Hurt. You lock everything down until your face becomes a lie.”
 
-"That is an accusation."
+“That is an accusation.”
 
-"Observation."
+“Observation.”
 
-"And your plan?"
+“And your plan?”
 
 He walks toward me slowly.
 
-"Make the lie impossible."
+“Make the lie impossible.”
 
 My stomach flips. He stops close enough that I can feel his heat.
 
-"Still yes?"
+“Still yes?”
 
-"Yes."
+“Yes.”
 
 His hand goes into my hair. Not gentle. Not painful. Enough to tip my head back. The first kiss destroys every clever answer I had. He kisses me like he has been rationing it for weeks. I grab his waist. He catches both wrists and pins them behind my back with one hand. My breath breaks. There. That. His mouth moves to my jaw, then my neck. He bites just below my ear. A small sound escapes me. He stops moving for half a heartbeat, listening.
 
 Then I feel his mouth curve against my skin.
 
-"Oh."
+“Oh.”
 
-"Do not."
+“Do not.”
 
-"That was fast."
+“That was fast.”
 
-"Fuck you."
+“Fuck you.”
 
-"Later."
+“Later.”
 
 I laugh despite myself. His grip tightens. The laugh catches. His free hand slides under my shirt, warm against my stomach, then higher until his palm covers one breast through the thin wrap beneath. My body leans into him before I make any decision at all. He notices that too.
 
-"You want this off?"
+“You want this off?”
 
-"Yes."
+“Yes.”
 
-He releases my wrists. I pull the shirt over my head. The wrap follows. I stand bare from the waist up. I have been naked in front of people before. Sella. Healers. Mirrors. This is different. Tolliver's gaze is not greedy in the way I expected. It is focused. Like he is memorizing a route he intends to ruin. His hands settle at my waist, move over my ribs, then to the underside of my breast. His thumb brushes my nipple. I inhale. He does it again.
+He releases my wrists. I pull the shirt over my head. The wrap follows. I stand bare from the waist up. I have been naked in front of people before. Sella. Healers. Mirrors. This is different. Tolliver’s gaze is not greedy in the way I expected. It is focused. Like he is memorizing a route he intends to ruin. His hands settle at my waist, move over my ribs, then to the underside of my breast. His thumb brushes my nipple. I inhale. He does it again.
 
-"You are watching my face."
+“You are watching my face.”
 
-"Yes."
+“Yes.”
 
-"That is creepy."
+“That is creepy.”
 
-"Do you want me to stop?"
+“Do you want me to stop?”
 
-"No."
+“No.”
 
 His thumb circles until the nipple tightens beneath it. Then he pinches. Not hard. Enough. My mouth opens. No sound. His eyes sharpen. Again. Harder. A broken noise gets out. Satisfaction moves through his face. Not because I cannot stop him. Because I reacted. I grab his shirt. This time he lets me.
 
-"Off."
+“Off.”
 
 He pulls it over his head. I have seen him shirtless. Not enough. Lean, but not slight. Shoulders, chest, old pale scar along one side. The body that carried me like I weighed nothing. The body that spent weeks refusing to use that fact against me. I put both hands on him. He lets me explore for three breaths. Then catches my wrists again.
 
-"Bed."
+“Bed.”
 
 I glance over my shoulder. Three steps.
 
-"I can walk."
+“I can walk.”
 
-"I know."
+“I know.”
 
 That should warn me. He bends, wraps one arm around my thighs, and the world tilts. I yelp when he lifts me over his shoulder. Actually over his fucking shoulder.
 
-"Tolliver!"
+“Tolliver!”
 
-"You said you wanted to know."
+“You said you wanted to know.”
 
-"I hate you."
+“I hate you.”
 
-"No, you don't."
+“No, you don’t.”
 
 I smack his back. He laughs. Then his hand lands on my ass. A sharp slap. My whole body jolts. He stops.
 
-"Too much?"
+“Too much?”
 
-"No."
+“No.”
 
-"Again?"
+“Again?”
 
 I cannot believe this is my life.
 
-"Yes."
+“Yes.”
 
 The second slap is harder. Heat blooms across my skin. A pulse answers between my legs. He carries me the remaining step and puts me on the bed. Not drops. Puts. Then stands over me. I push up on my elbows.
 
-"You are enjoying this too much."
+“You are enjoying this too much.”
 
-"Not yet."
+“Not yet.”
 
 The words go straight through me. He kneels between my knees. Hands on my thighs.
 
-"Can I take these off?"
+“Can I take these off?”
 
 My trousers.
 
-"Yes."
+“Yes.”
 
 He does it slowly. No tearing. No performance. I lift my hips to help. My underwear goes with them. Then I am naked on my own bed while Tolliver still has his trousers on, looking at me with enough concentration to make nudity feel like a tactical error. I close my knees. His hand lands between them.
 
-"Don't."
+“Don’t.”
 
 I stare at him. His voice stays calm.
 
-"Open."
+“Open.”
 
 I do. The choice itself lights something low in my body. His eyes drop. My face burns. He touches the inside of my thigh, lower than I need him. Then higher. Still avoiding. I swear. He looks up.
 
-"What?"
+“What?”
 
-"You know."
+“You know.”
 
-"I want to hear it."
+“I want to hear it.”
 
-I could refuse. Instead I say, "Touch my pussy." His eyes close for half a second. Good. Not the only one suffering. When he opens them, his restraint has thinned. Two fingers slide through me slowly. I am already wet enough that the sound is obscene. My head falls back. He traces around my clit without touching it directly. Past. Back. Every pass makes my hips chase his hand. He catches one thigh and presses it into the mattress. Not both. Just enough.
+I could refuse. Instead I say, “Touch my pussy.” His eyes close for half a second. Good. Not the only one suffering. When he opens them, his restraint has thinned. Two fingers slide through me slowly. I am already wet enough that the sound is obscene. My head falls back. He traces around my clit without touching it directly. Past. Back. Every pass makes my hips chase his hand. He catches one thigh and presses it into the mattress. Not both. Just enough.
 
-"You keep moving."
+“You keep moving.”
 
-"You keep missing."
+“You keep missing.”
 
-"I am not missing."
+“I am not missing.”
 
 I glare. He smiles. Then touches my clit. Direct. Steady. My whole body contracts.
 
-"There."
+“There.”
 
 He watches me.
 
-"Fuck."
+“Fuck.”
 
-"There too."
+“There too.”
 
 I cover my face with one hand. He catches my wrist and pulls it away.
 
-"No."
+“No.”
 
-"What?"
+“What?”
 
-"I want to see you."
+“I want to see you.”
 
 The words are quiet. Serious. They hit harder than the slap. I stop fighting my own expression. For perhaps four seconds. Then one finger slides inside me and I lose the ability to conduct experiments. He curls it and adds another. My hips lift. He braces one forearm across my lower stomach, not crushing, simply making it impossible to pretend I am not moving. His other hand works between my legs while his eyes stay on my face. Everything narrows. Fingers. Pressure. His forearm. His stare. I reach for him.
 
 He catches my wrist and pins it beside my head. One hand. Again. My body reacts so hard he notices.
 
-"Is that it?"
+“Is that it?”
 
 I cannot answer. He slows his fingers.
 
-"No."
+“No.”
 
 The offended sound I make is humiliating.
 
-"Answer."
+“Answer.”
 
-"You know."
+“You know.”
 
-"I want you to say it."
+“I want you to say it.”
 
-"Yes."
+“Yes.”
 
 His grip tightens around my wrist. His fingers move again, harder now, more precise. I am close far too quickly. He knows.
 
-"Toll."
+“Toll.”
 
-"Mm?"
+“Mm?”
 
-"Don't stop."
+“Don’t stop.”
 
-"I wasn't planning to."
+“I wasn’t planning to.”
 
 He changes the angle. My orgasm hits before I can protect myself from it. No graceful rise. No warning. One second I am holding together. The next I am shaking under him, clenching around his fingers and saying his name much too loudly. He keeps going through it. Not faster. Steady. My free hand fists in the blanket. My pinned hand cannot move. The loss of control is not the restraint. It is that he has made control useless. When the shaking starts to ease, he slows. Lets me breathe.
 
 Releases my wrist. I stare at the ceiling. He kisses the inside of my knee.
 
-"Still with me?"
+“Still with me?”
 
-"Unfortunately."
+“Unfortunately.”
 
 He laughs. I lift my head.
 
-"Pants."
+“Pants.”
 
 His eyebrows rise.
 
-"Now."
+“Now.”
 
-"I thought I was in control."
+“I thought I was in control.”
 
-"You're not allowed to be stupid with it."
+“You’re not allowed to be stupid with it.”
 
-"Accepted."
+“Accepted.”
 
 He stands and unties them. I watch. Every bit of composure he stole from me becomes revenge fuel. He is hard. Very. My mouth goes dry. Tolliver catches exactly where I am looking.
 
-"Problem?"
+“Problem?”
 
-"No."
+“No.”
 
-"Lie."
+“Lie.”
 
-"Shut up."
+“Shut up.”
 
 He steps out of the trousers. I sit up and reach for him. He catches my wrist again. I look up.
 
-"What?"
+“What?”
 
-"Tell me what you want."
+“Tell me what you want.”
 
-"You."
+“You.”
 
-"Specific."
+“Specific.”
 
 I consider murder. Instead I take his hand and put it against my throat. Not squeezing. Just there. His face changes.
 
-"No."
+“No.”
 
 I blink.
 
-"No?"
+“No?”
 
-"Not tonight."
+“Not tonight.”
 
 Embarrassment flashes hot. He sees it before I can hide it.
 
-"Not because I don't want to."
+“Not because I don’t want to.”
 
 His thumb moves lightly against the side of my neck.
 
-"I want your face. Your mouth. Your hands. Your hips. Every sound you keep trying to swallow. I am not adding your airway to the list the first night you give me this."
+“I want your face. Your mouth. Your hands. Your hips. Every sound you keep trying to swallow. I am not adding your airway to the list the first night you give me this.”
 
 The embarrassment disappears. Trust can be filthy.
 
-"Fine," I whisper.
+“Fine,” I whisper.
 
-"Good."
+“Good.”
 
 I pull him closer.
 
-"Fuck me."
+“Fuck me.”
 
 His eyes close again. That little fracture in his control. Mine. Then he climbs onto the bed and kisses me. I wrap my legs around him. His cock presses against me. He stops there.
 
-"Last check."
+“Last check.”
 
-"Yes."
+“Yes.”
 
-"Condom?"
+“Condom?”
 
 I stare. He reaches toward his discarded trousers. Of course he planned. I start laughing. His forehead drops to mine.
 
-"What?"
+“What?”
 
-"You planned."
+“You planned.”
 
-"I hoped."
+“I hoped.”
 
-"How long have you been carrying that?"
+“How long have you been carrying that?”
 
 He refuses to answer. I laugh harder. He bites my lower lip. The laughter breaks into a gasp.
 
-"That works."
+“That works.”
 
-"I noticed."
+“I noticed.”
 
 He handles the sheath quickly and settles between my thighs. He looks at me. Waits. I hook my heel behind him and pull. He enters slowly. Even as wet as I am, the stretch empties my head. His jaw goes tight. Mine probably does too. He stops halfway.
 
-"Okay?"
+“Okay?”
 
-"Yes."
+“Yes.”
 
-"More?"
+“More?”
 
-"Yes."
+“Yes.”
 
 He pushes deeper. I breathe through it, hands sliding over his shoulders. He is bigger than I expected. Not absurd. Enough that my body has to make room deliberately. When he is fully inside me, he stays still. The room contracts around my pulse, his breathing, the faint scrape of a chair somewhere downstairs. I look at him. This is Tolliver. The man who found me barefoot in the rain. The man who lied. The man who fed me. The man who scared me. The man who learned.
 
 The man I chose tonight.
 
-"Move."
+“Move.”
 
 He does. One slow stroke out. Back in. My eyes close. His fingers catch my chin.
 
-"Open."
+“Open.”
 
 I do. He keeps the pace slow until I start meeting him. Then he hooks one hand under my knee and pushes it higher. The angle changes. Deepens. I cry out. He watches. There. Again. Every thrust lands where my thoughts scatter. I claw at his shoulder. He catches both wrists and pins them above my head with one hand. His body keeps moving. Power without hurry. I test his grip again. Not because I want free.
 
 Because I want to feel that I could fight and still be choosing not to. He holds. My hips chase every thrust.
 
-"Toll."
+“Toll.”
 
-"You can tell me to let go."
+“You can tell me to let go.”
 
-"I know."
+“I know.”
 
-"Do you want me to?"
+“Do you want me to?”
 
-"No."
+“No.”
 
 His mouth comes to my ear.
 
-"Then stop pretending you do."
+“Then stop pretending you do.”
 
 Fuck. I turn my face and bite his shoulder. He grunts. Finally. A reaction I caused. I bite again. He drives into me harder. My back arches.
 
-"That was rude," I gasp.
+“That was rude,” I gasp.
 
-"You started it."
+“You started it.”
 
 He lets my wrists go. Before I can decide what to do with my freedom, he rolls me. Suddenly I am on my stomach.
 
-"Wait."
+“Wait.”
 
 He stops. Instantly. Hands off. Nothing moving. The speed of it cracks something soft open in my chest. I push up.
 
-"My ankle."
+“My ankle.”
 
-"Position?"
+“Position?”
 
-"Fine. Just don't fold the left one under me."
+“Fine. Just don’t fold the left one under me.”
 
 He nods.
 
-"Show me."
+“Show me.”
 
 I arrange myself with my knees apart and the left foot extended enough not to torque the joint. He touches my hip.
 
-"Good?"
+“Good?”
 
-"Yes."
+“Yes.”
 
-"Continue?"
+“Continue?”
 
-"Yes."
+“Yes.”
 
 His hand slides into my hair and gathers it. Not yanking. Holding. The other closes around my hip. When he enters me from behind, the sound I make is not remotely dignified. He stops deep and waits.
 
-"How?"
+“How?”
 
 I know what he means.
 
-"Harder."
+“Harder.”
 
 He does. The bed knocks the wall. Once. Twice. I bury my face in the blanket. His hand tightens in my hair and lifts my head.
 
-"No hiding."
+“No hiding.”
 
 I swear into the room. He laughs low behind me. Then his free hand slides under my body and finds my clit. My arms nearly collapse. He slows his thrusts enough to keep me balanced. Fingers circling. Cock deep. Grip in my hair. There is nowhere to put the sensation. I make sounds I will deny under oath. He says my name whenever I try to disappear into the blanket. Not praise. Not command. Recognition. Maya. Here. Maya. This. His fingers press harder. Thought ends.
 
 I come again with one hand braced against the wall, hard enough that my knees shake. He holds my hips through it. Does not chase his own finish until I stop trembling. Then his rhythm changes. Less controlled. Finally. I look back over my shoulder. His face is wrecked. Something viciously satisfying moves through me.
 
-"You're losing it."
+“You’re losing it.”
 
 He opens his eyes.
 
-"Careful."
+“Careful.”
 
 I smile.
 
-"Make me."
+“Make me.”
 
 His hand leaves my hair and closes hard around my hip. He pulls me back onto him. The smile disappears. Again. Again. I grab the headboard.
 
-"Tolliver."
+“Tolliver.”
 
-"Yes?"
+“Yes?”
 
-"Asshole."
+“Asshole.”
 
-"Yes."
+“Yes.”
 
 I laugh and moan at once. Then he bends over me, mouth against my shoulder, and comes with one broken sound that I feel more than hear. For a moment he stays there, breathing against my skin, heavy enough that I understand exactly what he meant when he said he could overpower me. Not hurting. Never accidental. He moves first, careful with my leg. Careful with everything now. He disposes of the sheath, brings me water, and waits until I drink. Then he sits on the edge of the bed.
 
 Suddenly there is space between us. I hate it. The realization is embarrassing enough that I almost say nothing. Instead I touch his back. He turns.
 
-"What?"
+“What?”
 
-"Come here."
+“Come here.”
 
 He does. No hesitation. He lies beside me and I put my head on his chest. For a while, neither of us speaks. His fingers move slowly through my hair, nothing like the grip from before. My body is loose and pleasantly sore. My ankle is fine. I check because I am not an idiot. Mostly.
 
-"Was that what you wanted?" he asks.
+“Was that what you wanted?” he asks.
 
 I think about it.
 
-"Yes."
+“Yes.”
 
-"Anything you didn't?"
+“Anything you didn’t?”
 
-"The interrogation."
+“The interrogation.”
 
-"You answered every question."
+“You answered every question.”
 
-"Under protest."
+“Under protest.”
 
-"I noticed."
+“I noticed.”
 
 I trace the scar along his ribs. He catches my fingers, not stopping me, just holding them for a moment.
 
-"Was I too rough?"
+“Was I too rough?”
 
-"No."
+“No.”
 
-"Too careful?"
+“Too careful?”
 
 I laugh against his chest.
 
-"Possibly."
+“Possibly.”
 
 His hand tightens in my hair just enough to remind me. My body reacts immediately. Traitor. He feels it.
 
-"Interesting."
+“Interesting.”
 
-"Do not become unbearable."
+“Do not become unbearable.”
 
-"Too late."
+“Too late.”
 
 I lift my head. He is smiling. Small. Real. I kiss him. This one has no game in it. No proving. Just mouth, warmth, choice. When I pull back, the smile is gone.
 
-"Maya."
+“Maya.”
 
-"What?"
+“What?”
 
-"What happens now?"
+“What happens now?”
 
 There it is. We are still required to speak after sex. I roll onto my back and stare at the ceiling.
 
-"I don't know."
+“I don’t know.”
 
 He nods. No flinch. No punishment. I turn my head.
 
-"I want this again."
+“I want this again.”
 
 His mouth twitches.
 
-"Useful data."
+“Useful data.”
 
-"I want you."
+“I want you.”
 
 That ends the joke.
 
-"I'm not promising forever."
+“I’m not promising forever.”
 
-"I didn't ask."
+“I didn’t ask.”
 
-"I'm not promising I stop loving Sella."
+“I’m not promising I stop loving Sella.”
 
-"I would think less of you if you did."
+“I would think less of you if you did.”
 
 My chest tightens.
 
-"She might come back."
+“She might come back.”
 
-"Yes."
+“Yes.”
 
-"I might want both of you."
+“I might want both of you.”
 
-"Yes."
+“Yes.”
 
-"You might decide you hate that."
+“You might decide you hate that.”
 
-"Yes."
+“Yes.”
 
 I blink.
 
-"Very supportive."
+“Very supportive.”
 
-"You asked for truth."
+“You asked for truth.”
 
 That lands cleanly. He looks at the ceiling.
 
-"I don't know what I can live with until I'm living with it."
+“I don’t know what I can live with until I’m living with it.”
 
-"That is annoyingly mature."
+“That is annoyingly mature.”
 
-"I have other qualities."
+“I have other qualities.”
 
-"I saw one."
+“I saw one.”
 
 He covers his face with one hand. Victory. I grin. Then the grin fades.
 
-"I need one thing from you."
+“I need one thing from you.”
 
 He lowers his hand.
 
-"What?"
+“What?”
 
-"No disappearing into decisions again. If something affects me, you tell me before you choose for me."
+“No disappearing into decisions again. If something affects me, you tell me before you choose for me.”
 
-"Yes."
+“Yes.”
 
-"Even if you think you're protecting me."
+“Even if you think you’re protecting me.”
 
-"Yes."
+“Yes.”
 
-"Even if you know better."
+“Even if you know better.”
 
-A pause. Then, "Yes." I believe him because he has spent weeks practicing the answer before tonight.
+A pause. Then, “Yes.” I believe him because he has spent weeks practicing the answer before tonight.
 
-"Your turn."
+“Your turn.”
 
 He looks surprised.
 
-"What do you need?"
+“What do you need?”
 
 His eyes move across my face.
 
-"When you're angry, tell me what I did."
+“When you’re angry, tell me what I did.”
 
-"That seems obvious."
+“That seems obvious.”
 
-"It is not obvious to you."
+“It is not obvious to you.”
 
 Accurate enough to sting.
 
-"I communicate through atmosphere."
+“I communicate through atmosphere.”
 
-"You communicate through violence toward furniture."
+“You communicate through violence toward furniture.”
 
-"One chair."
+“One chair.”
 
-"Two."
+“Two.”
 
-"The second deserved it."
+“The second deserved it.”
 
 He waits.
 
-"Fine."
+“Fine.”
 
-"And if you want me to take control like this again, say so."
+“And if you want me to take control like this again, say so.”
 
 Heat returns to my face.
 
-"You can't tell?"
+“You can’t tell?”
 
-"I can tell when you're aroused. I cannot tell what you consent to tomorrow from what you consented to tonight."
+“I can tell when you’re aroused. I cannot tell what you consent to tomorrow from what you consented to tonight.”
 
 That shuts me up. He kisses my forehead. Tenderness after being pinned to a mattress turns out to be a weapon.
 
-"Fine."
+“Fine.”
 
-"Fine?"
+“Fine?”
 
-"I'll use words."
+“I’ll use words.”
 
-"Tragic."
+“Tragic.”
 
 I bite his chest. He laughs and catches my chin.
 
-"Again?"
+“Again?”
 
 I should sleep. Harra wants inventory in the morning. Vey wants a statement. Pell wants to reconcile the retained workdays since the expedition contract ended. My life is an administrative fire with bedding. Also, I am naked with Tolliver. Priorities.
 
-"Yes."
+“Yes.”
 
 His eyes darken.
 
-"But this time," I say, "I'm on top."
+“But this time,” I say, “I’m on top.”
 
 One eyebrow rises.
 
-"I thought you wanted me in control."
+“I thought you wanted me in control.”
 
-"Both can be true."
+“Both can be true.”
 
-"Convenient."
+“Convenient.”
 
-"Extremely."
+“Extremely.”
 
 I swing a leg over him. He lets me. For now. The knowledge makes me smile. Tomorrow I will still be Level Six. Warder. Homesick. In love with a woman somewhere on the east road. Falling harder for the man beneath me. Still mine, even when I choose not to be.
 
