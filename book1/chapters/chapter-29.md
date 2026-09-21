@@ -22,29 +22,29 @@ I am becoming excellent at ignoring divine user interface.
 
 Captain Rusk loses patience at exactly the moment we become ready.
 
-She comes down to Pell's safety line and stops with her boot toes at the chalk mark. Vey is beside her. One of her crew stands behind.
+She comes down to Pell’s safety line and stops with her boot toes at the chalk mark. Vey is beside her. One of her crew stands behind.
 
-"I will not permit a second extraction attempt while the site is unstable."
+“I will not permit a second extraction attempt while the site is unstable.”
 
-Pell turns toward her. "You do not permit rescue."
+Pell turns toward her. “You do not permit rescue.”
 
-"I permit my crew to withdraw from unsafe work."
+“I permit my crew to withdraw from unsafe work.”
 
-"They are not working."
+“They are not working.”
 
-"I am a recognized claimant in an active works hazard."
+“I am a recognized claimant in an active works hazard.”
 
 Harra keeps her hands on the spring housing.
 
-Rusk points toward the chamber. "You woke an isolation section."
+Rusk points toward the chamber. “You woke an isolation section.”
 
-"We stopped it," Dain says.
+“We stopped it,” Dain says.
 
-"You triggered it."
+“You triggered it.”
 
-"The frame triggered it."
+“The frame triggered it.”
 
-"The distinction will comfort the dead."
+“The distinction will comfort the dead.”
 
 Harra flinches.
 
@@ -56,21 +56,21 @@ Rusk sees it too.
 
 That makes me angry enough to become calm.
 
-"The boundary nearly reached Iven," I say. "We aborted before it did."
+“The boundary nearly reached Iven,” I say. “We aborted before it did.”
 
-Rusk looks at me. "And now you want another attempt."
+Rusk looks at me. “And now you want another attempt.”
 
-"Yes."
+“Yes.”
 
-"Why?"
+“Why?”
 
-I point to the new sleeve, then the far shoe. "Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles."
+I point to the new sleeve, then the far shoe. “Because the release bound under rigid load. Now both ends can travel, and the changed design has six clean dry cycles.”
 
-"You are injured, level five, and you attempted a human crossing after one day of prototype work."
+“You are injured, level five, and you attempted a human crossing after one day of prototype work.”
 
-"State your demand," Pell says.
+“State your demand,” Pell says.
 
-"Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly."
+“Wait until tomorrow. Let my rigger inspect the site. Then proceed jointly.”
 
 There it is.
 
@@ -90,47 +90,47 @@ Her team leaves after midday.
 
 Harra finally stands.
 
-"Your rigger uses rigid shear loading."
+“Your rigger uses rigid shear loading.”
 
-"He knows his work."
+“He knows his work.”
 
-"So do I."
+“So do I.”
 
-"You nearly cut a man in half."
+“You nearly cut a man in half.”
 
 Harra goes still again.
 
 I answer before she has to.
 
-"We nearly lost him because our release bound. We changed the part that bound."
+“We nearly lost him because our release bound. We changed the part that bound.”
 
 Rusk studies the frame.
 
-"What if you are wrong?"
+“What if you are wrong?”
 
 The room becomes colder.
 
 There is no clever answer.
 
-"We abort."
+“We abort.”
 
-"And if abort fails?"
+“And if abort fails?”
 
 I swallow.
 
-"Emergency cut. We send him to whichever side is closer."
+“Emergency cut. We send him to whichever side is closer.”
 
-Rusk's brows lift.
+Rusk’s brows lift.
 
 Sella knows about the sacrificial joint. Harra built it after the first attempt. A narrow pin divides the rescue board so the structure can be sacrificed without asking a person to stay attached to it.
 
-Rusk looks at Harra. "You built that today?"
+Rusk looks at Harra. “You built that today?”
 
-"Yes."
+“Yes.”
 
 Silence.
 
-Then Rusk says, "I still advise waiting."
+Then Rusk says, “I still advise waiting.”
 
 Advise.
 
@@ -138,7 +138,7 @@ Different word.
 
 Pell hears it too.
 
-"So noted."
+“So noted.”
 
 Rusk steps back from the line.
 
@@ -152,19 +152,19 @@ Today romance gets exactly thirty seconds.
 
 I am checking the rescue belt when she takes it from my hands.
 
-"Maya."
+“Maya.”
 
-"What?"
+“What?”
 
-"If this runs past midday."
+“If this runs past midday.”
 
 My chest tightens.
 
-"You go."
+“You go.”
 
-"You already said that."
+“You already said that.”
 
-"I need to know you are not lying now."
+“I need to know you are not lying now.”
 
 The lower chamber is twenty steps away.
 
@@ -178,13 +178,13 @@ Sella is leaving.
 
 All of those things are true at the same time.
 
-"If the rescue is stable and I am not the only thing keeping someone alive, you go."
+“If the rescue is stable and I am not the only thing keeping someone alive, you go.”
 
 Her face changes.
 
-"And if you are?"
+“And if you are?”
 
-"Then you decide."
+“Then you decide.”
 
 She hates that.
 
@@ -192,7 +192,7 @@ Good.
 
 It belongs to her.
 
-"I love you," I say.
+“I love you,” I say.
 
 The words leave before I can build anything around them.
 
@@ -202,15 +202,15 @@ So do I.
 
 Perfect. I confess love with a rescue crew waiting twenty steps away.
 
-"You absolute asshole."
+“You absolute asshole.”
 
-"That seems unfair."
+“That seems unfair.”
 
-"You waited until a rescue attempt."
+“You waited until a rescue attempt.”
 
-"I did not schedule it."
+“I did not schedule it.”
 
-"You schedule nothing."
+“You schedule nothing.”
 
 She has me there.
 
@@ -224,25 +224,25 @@ Not a kiss for privacy or patience. A kiss for thirty seconds.
 
 When she lets go, her forehead touches mine.
 
-"I love you too."
+“I love you too.”
 
 My chest hurts.
 
-"And I am still leaving."
+“And I am still leaving.”
 
-"I know."
+“I know.”
 
-"And you are still falling in love with him, or already there, or whatever disaster this is."
+“And you are still falling in love with him, or already there, or whatever disaster this is.”
 
 I close my eyes.
 
-"I know."
+“I know.”
 
-"Good."
+“Good.”
 
-"That word is carrying too much today."
+“That word is carrying too much today.”
 
-"It can manage."
+“It can manage.”
 
 A terrible Warder joke.
 
@@ -250,7 +250,7 @@ I laugh anyway.
 
 She gives me the belt.
 
-"Bring him home."
+“Bring him home.”
 
 ---
 
@@ -262,9 +262,9 @@ The frame seats with one finger at the far shoe and half at the near sleeve. Ive
 
 Sella checks the belt, Tolliver the haul, Harra both releases. I rest one hand lightly on the near rail and feel only ordinary movement.
 
-"Call," Harra says.
+“Call,” Harra says.
 
-"Move."
+“Move.”
 
 Iven steps onto the board.
 
@@ -296,13 +296,13 @@ The near sleeve reaches its one-finger stop.
 
 The far shoe is at one and a quarter.
 
-Harra says, "Near limit."
+Harra says, “Near limit.”
 
-"I know."
+“I know.”
 
 Iven is still moving, but we have spent the near travel.
 
-"Pause."
+“Pause.”
 
 Everything stops.
 
@@ -312,9 +312,9 @@ Not contraction.
 
 Something else.
 
-Dain looks at the gauge. "Pressure spike."
+Dain looks at the gauge. “Pressure spike.”
 
-Oret says, "Vibration four."
+Oret says, “Vibration four.”
 
 A heavy knock comes from below.
 
@@ -324,11 +324,11 @@ The frame is not twisted this time.
 
 Dain puts his hand to the wall.
 
-"Not us."
+“Not us.”
 
-"What changed?"
+“What changed?”
 
-"Below."
+“Below.”
 
 Another knock.
 
@@ -344,9 +344,9 @@ The far landing shifts.
 
 Iven feels it first.
 
-"Stone moved."
+“Stone moved.”
 
-"Spring one and three-quarter," Oret says.
+“Spring one and three-quarter,” Oret says.
 
 No room at the near sleeve.
 
@@ -356,7 +356,7 @@ Iven is past midpoint now.
 
 Closer to us.
 
-"Continue."
+“Continue.”
 
 Tolliver draws.
 
@@ -366,9 +366,9 @@ The boundary contracts.
 
 Fast.
 
-Dain shouts, "Pressure falling."
+Dain shouts, “Pressure falling.”
 
-"Iven, move."
+“Iven, move.”
 
 He moves.
 
@@ -392,7 +392,7 @@ I see the problem.
 
 If she opens it now, Iven is still standing on that section.
 
-"Wait."
+“Wait.”
 
 She freezes.
 
@@ -406,19 +406,19 @@ The sacrificial joint is nearer him than the far landing.
 
 There is only one useful piece of arithmetic left.
 
-"Break the joint."
+“Break the joint.”
 
 Harra goes white.
 
-"His back foot—"
+“His back foot—“
 
-"Iven. Forward."
+“Iven. Forward.”
 
 He lunges one step.
 
 His rear boot clears the marked segment.
 
-"Now."
+“Now.”
 
 Harra slams the release lever.
 
@@ -448,7 +448,7 @@ I am holding the anchor shoe, not the whole frame.
 
 One breath of load so Harra can open the near release.
 
-"Near."
+“Near.”
 
 She slams it.
 
@@ -456,7 +456,7 @@ The captured sleeve opens.
 
 The frame shifts.
 
-The boundary drops behind Iven's hips.
+The boundary drops behind Iven’s hips.
 
 Tolliver hauls again.
 
@@ -520,15 +520,15 @@ Possibly me.
 
 I push up on my hands.
 
-Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, "Wait for the mender."
+Iven is on our side, all of him, alive. There is no music or light or System announcement, only a tired man face-down on wet stone while Sella tries to roll him and Tolliver says, “Wait for the mender.”
 
 Iven lifts his head and looks at me.
 
-"You fall a lot."
+“You fall a lot.”
 
 I start sobbing hard enough to laugh through it.
 
-"Fuck you."
+“Fuck you.”
 
 He smiles.
 
@@ -538,7 +538,7 @@ Then Mara reaches him.
 
 Medical work is mostly people being rude for excellent reasons.
 
-The mender orders everyone back except Mara. She checks Iven's pupils, pulse, hands, feet, breathing. Makes him say his name. Gives him two mouthfuls of water and takes the cup away.
+The mender orders everyone back except Mara. She checks Iven’s pupils, pulse, hands, feet, breathing. Makes him say his name. Gives him two mouthfuls of water and takes the cup away.
 
 He tries to sit.
 
@@ -550,33 +550,33 @@ My ankle is still screaming.
 
 The mender notices because bodies have no secrets from her.
 
-"You."
+“You.”
 
-"I'm fine."
+“I’m fine.”
 
-"You are on the floor."
+“You are on the floor.”
 
-"I like floors."
+“I like floors.”
 
 She looks at Tolliver.
 
-"No."
+“No.”
 
 He stops.
 
-I point at the mender. "I can move."
+I point at the mender. “I can move.”
 
 I try.
 
 My ankle votes.
 
-"Fine. He can carry me."
+“Fine. He can carry me.”
 
 Tolliver waits.
 
-"Can I?"
+“Can I?”
 
-"Yes."
+“Yes.”
 
 He picks me up, one arm under my knees, one behind my back, with a care that does not make the lift look difficult.
 
@@ -586,15 +586,15 @@ Deeply unserious.
 
 His face is not.
 
-"You released," he says quietly.
+“You released,” he says quietly.
 
 I know what he means.
 
 The last breath.
 
-"Yes."
+“Yes.”
 
-"You knew I had him."
+“You knew I had him.”
 
 I look toward Iven.
 
@@ -604,9 +604,9 @@ Harra is checking the ruined frame.
 
 Dain is watching the dead pointer.
 
-"You had him."
+“You had him.”
 
-Tolliver's eyes meet mine.
+Tolliver’s eyes meet mine.
 
 The trust between us has changed temperature. I can deal with that later, when nobody is bleeding or vomiting.
 
@@ -616,11 +616,11 @@ Then Sella is beside us, exhausted and bright-eyed and sad around the edges.
 
 She touches my boot.
 
-"Alive?"
+“Alive?”
 
-"Unfortunately."
+“Unfortunately.”
 
-"Good."
+“Good.”
 
 Tolliver lowers me onto the treatment bench.
 
@@ -682,13 +682,13 @@ The Earth objects are still on the far side.
 
 Rusk still has her claim.
 
-Tolliver is standing ten feet away with somebody else's blood on one sleeve.
+Tolliver is standing ten feet away with somebody else’s blood on one sleeve.
 
 The list of unsolved problems is still ridiculous, but the shape of my life has changed anyway.
 
-"Level?" Sella asks.
+“Level?” Sella asks.
 
-"Six."
+“Six.”
 
 She laughs.
 
@@ -696,21 +696,21 @@ Actually laughs.
 
 Then Iven vomits again.
 
-She points at him. "You level during that."
+She points at him. “You level during that.”
 
-"I do not control presentation."
+“I do not control presentation.”
 
-Harra glances over. "Ability?"
+Harra glances over. “Ability?”
 
-"No. Capacity eight. Five current."
+“No. Capacity eight. Five current.”
 
-The mender says, "And none of it gets used today."
+The mender says, “And none of it gets used today.”
 
-"I know."
+“I know.”
 
 Her eyebrows rise.
 
-"Stop looking surprised."
+“Stop looking surprised.”
 
 ---
 
@@ -726,21 +726,21 @@ Then looks at the severed frame.
 
 Then through the boundary into the room he left.
 
-"Successful extraction."
+“Successful extraction.”
 
-Iven looks up. "Apparently."
+Iven looks up. “Apparently.”
 
-"I am Captain Rusk."
+“I am Captain Rusk.”
 
-"I gathered."
+“I gathered.”
 
-"You left iron material on the receiving side."
+“You left iron material on the receiving side.”
 
-"Yes."
+“Yes.”
 
-"By instruction?"
+“By instruction?”
 
-"Yes," I say.
+“Yes,” I say.
 
 Her eyes move to me.
 
@@ -750,13 +750,13 @@ We paid that cost before the crossing.
 
 Vey steps down with the written agreement.
 
-"Personal papers and non-iron effects remain Iven's."
+“Personal papers and non-iron effects remain Iven’s.”
 
-"I am aware."
+“I am aware.”
 
 Iven pats the cloth packet against his chest.
 
-"Good."
+“Good.”
 
 Rusk looks through the opening.
 
@@ -782,21 +782,21 @@ That matters enough that I can live with the rest today.
 
 Rusk looks at the ruined frame.
 
-"You will not get another person through that route."
+“You will not get another person through that route.”
 
-Harra says, "Not with that frame."
+Harra says, “Not with that frame.”
 
-Rusk's gaze sharpens.
+Rusk’s gaze sharpens.
 
 Future problem.
 
-Pell says, "Captain."
+Pell says, “Captain.”
 
 Rusk nods once.
 
-"I maintain the claim."
+“I maintain the claim.”
 
-"I assumed."
+“I assumed.”
 
 She leaves without a speech or threat.
 
@@ -860,7 +860,7 @@ This moment is not about him.
 
 It is not really about me either.
 
-Iven kneels despite Mara's protest. His sons cling to him.
+Iven kneels despite Mara’s protest. His sons cling to him.
 
 Pell cries openly.
 
@@ -888,7 +888,7 @@ Her wagon leaves in less than an hour.
 
 I let that hurt too.
 
-Across the yard, Iven laughs into his sons' hair.
+Across the yard, Iven laughs into his sons’ hair.
 
 We brought him home.
 
