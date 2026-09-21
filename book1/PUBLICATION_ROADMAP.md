@@ -1,7 +1,7 @@
 # Empty Origin — Publication Roadmap
 
 **Status date:** September 20, 2026  
-**Current position:** **Final technical passes — copyedit complete; final proof next**  
+**Current position:** **Final technical passes complete — final proof complete; manuscript freeze next**  
 **Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,693 whitespace-counted words**.
 
 This file is the canonical path from the current manuscript to publication. It supersedes older “what next?” checklists when they conflict with this sequence.
@@ -12,7 +12,7 @@ The book itself is complete through Chapter Thirty-Two, and Chapters Twenty–Th
 
 Repository synchronization is complete. The chapter files, compiled draft, README, project notes, chapter ledger, story overview, series-status headers, and active title references now agree on the current manuscript state. Superseded editorial reports are clearly labeled historical snapshots.
 
-The developmental and cold-read revision work is closed. The immediate job is **final proof**, followed by manuscript freeze.
+The developmental, cold-read, and technical revision work is closed. The **final proof is complete**. The immediate job is manuscript freeze.
 
 ## Stage 1 — Synchronize the repository after the Chapters 20–32 rewrite
 
@@ -69,7 +69,7 @@ These are the only focused editorial revisions currently proposed. This is **pol
 
 ## Stage 3 — Final technical manuscript passes
 
-**Status: IN PROGRESS — steps 1–4 complete; final proof next**
+**Status: COMPLETE**
 
 This is a finishing sequence, not another developmental rewrite.
 
@@ -87,8 +87,8 @@ Run, in order:
 4. **COMPLETE — True copyedit**  
    Grammar, punctuation, usage, sentence-level clarity, capitalization, hyphenation, dialogue punctuation, numerical/System-display consistency, names/titles, and tiny continuity slips exposed at line level.
 
-5. **NEXT — Final proof**  
-   Read the frozen text for residual typos, missing words, duplicated words, formatting errors, broken scene separators, malformed System displays, and chapter-heading issues.
+5. **COMPLETE — Final proof**  
+   Read the current text for residual typos, missing words, duplicated words, formatting errors, broken scene separators, malformed System displays, and chapter-heading issues. Final proof completed September 20, 2026. No manuscript corrections were required; all 32 canonical chapter files and `WORKING_DRAFT.md` remain synchronized at **96,693 whitespace-counted words**.
 
 **Exit condition:** No known continuity, mechanics, copy, or proof defect remains that justifies reopening developmental structure.
 
