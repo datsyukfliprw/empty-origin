@@ -12,7 +12,7 @@ The book itself is complete through Chapter Thirty-Two, and Chapters Twenty–Th
 
 Repository synchronization is complete. The chapter files, compiled draft, README, project notes, chapter ledger, story overview, series-status headers, and active title references now agree on the current manuscript state. Superseded editorial reports are clearly labeled historical snapshots.
 
-The immediate job is **not another developmental rewrite**. It is now to read the actual synchronized manuscript cold before doing the final technical passes.
+The developmental and cold-read revision work is closed. The immediate job is **final proof**, followed by manuscript freeze.
 
 ## Stage 1 — Synchronize the repository after the Chapters 20–32 rewrite
 
@@ -34,7 +34,7 @@ The immediate job is **not another developmental rewrite**. It is now to read th
 
 ## Stage 2 — Fresh cold read of the actual current manuscript
 
-**Status: NEXT / READY**
+**Status: COMPLETE**
 
 Read Chapters One–Thirty-Two in sequence as a new reader, without treating planning docs or old reviews as instructions. This is the highest-value editorial test after the late-book rewrite.
 
@@ -59,9 +59,9 @@ These are the only focused editorial revisions currently proposed. This is **pol
 
 1. **COMPLETE — Tighten Chapters 20–29.** Cut repeated testing, measurement, contract, safety, and rescue-procedure explanation once the reader already understands the process.
 2. **COMPLETE — Reduce repeated voice tics.** Trim recurring constructions such as “the face,” “I contain multitudes,” one-word banter, and repeated joke/cadence patterns across the ensemble.
-3. **Give Sella’s departure more breathing room.** Make sure the transition into the Tolliver payoff does not read as an emotional handoff or permission slip.
-4. **Keep Earth emotionally alive.** Add only a few brief, well-placed reminders of Maya’s parents, Liam, Missouri, and the cost of what she has lost.
-5. **Strengthen Tolliver slightly on-page before Chapter 31.** Ensure the romantic/sexual payoff is fully supported by visible behavior and development the reader has actually witnessed.
+3. **COMPLETE — Give Sella’s departure more breathing room.** Make sure the transition into the Tolliver payoff does not read as an emotional handoff or permission slip.
+4. **COMPLETE — Keep Earth emotionally alive.** Add only a few brief, well-placed reminders of Maya’s parents, Liam, Missouri, and the cost of what she has lost.
+5. **COMPLETE — Strengthen Tolliver slightly on-page before Chapter 31.** Ensure the romantic/sexual payoff is fully supported by visible behavior and development the reader has actually witnessed.
 
 **Guardrail:** Do not rebuild the plot, harden the LitRPG, remove the labor/contract/engineering identity, simplify Rusk, retroactively absolve Tolliver, weaken Sella, resolve the Earth mystery, or replace the ending. Protect the existing ending and the “blank does not mean empty” resolution.
 
@@ -69,19 +69,19 @@ These are the only focused editorial revisions currently proposed. This is **pol
 
 ## Stage 3 — Final technical manuscript passes
 
-**Status: IN PROGRESS — true copyedit complete; final proof next**
+**Status: IN PROGRESS — steps 1–4 complete; final proof next**
 
 This is a finishing sequence, not another developmental rewrite.
 
 Run, in order:
 
-1. **Continuity / System audit**  
+1. **COMPLETE — Continuity / System audit**  
    Verify chronology, injuries, travel, money, contracts, inventory, levels, progress, reserve, ability limits, names, kinship, locations, dungeon/rescue mechanics, and relationship state.
 
-2. **Dialogue fingerprint pass**  
+2. **COMPLETE — Dialogue fingerprint pass**  
    Check that Maya, Tolliver, Sella, Mara, Harra, Vey, Rusk, Iven, and recurring supporting characters remain distinguishable without flattening natural overlap.
 
-3. **Repetition scan**  
+3. **COMPLETE — Repetition scan**  
    Find repeated explanations, repeated metaphors, repeated sentence/cadence habits, accidental word echoes, and late-book restatements of already-established mechanics.
 
 4. **COMPLETE — True copyedit**  
