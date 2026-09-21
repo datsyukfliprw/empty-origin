@@ -56,7 +56,7 @@ Then come back.
 
 "Nothing I cannot change."
 
-Heat opens low in me. He has not reached for me once in ten days.
+Heat opens low in me. He has not made one move toward me in ten days.
 
 "Change it."
 
