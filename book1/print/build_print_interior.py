@@ -12,7 +12,7 @@ OUT="book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf"
 WORDS=["","ONE","TWO","THREE","FOUR","FIVE","SIX","SEVEN","EIGHT","NINE","TEN","ELEVEN","TWELVE","THIRTEEN","FOURTEEN","FIFTEEN","SIXTEEN","SEVENTEEN","EIGHTEEN","NINETEEN","TWENTY","TWENTY-ONE","TWENTY-TWO","TWENTY-THREE","TWENTY-FOUR","TWENTY-FIVE","TWENTY-SIX","TWENTY-SEVEN","TWENTY-EIGHT","TWENTY-NINE","THIRTY","THIRTY-ONE","THIRTY-TWO"]
 
 class Ring(Flowable):
-    def __init__(self,n): Flowable.__init__(self); self.n=n; self.width=82; self.height=72
+    def __init__(self,n): Flowable.__init__(self); self.n=n; self.width=82; self.height=72; self.hAlign="CENTER"
     def draw(self):
         c=self.canv; cx=41; cy=38; r=24
         c.setLineWidth(.85); c.circle(cx,cy,r)
@@ -58,7 +58,7 @@ def chapter(path,n):
     txt=open(path,encoding="utf-8").read().replace("\r\n","\n")
     parts=re.split(r"\n\s*\n",txt)
     if parts and parts[0].strip().upper().startswith("CHAPTER"): parts=parts[1:]
-    out=[Spacer(1,7),Ring(n),Spacer(1,1),Paragraph(" ".join(list("CHAPTER "+WORDS[n])),chap),Spacer(1,3)]
+    out=[Spacer(1,7),Ring(n),Spacer(1,1),Paragraph("C H A P T E R&nbsp;&nbsp;&nbsp;"+WORDS[n],chap),Spacer(1,3)]
     fresh=True
     for raw in parts:
         t=raw.strip()
