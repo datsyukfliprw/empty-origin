@@ -142,3 +142,16 @@ def chapter(path,n):
         out.append(make_prose(t,fresh)); fresh=False; i+=1
     return out
 
+
+
+os.makedirs(os.path.dirname(OUT),exist_ok=True)
+story=[Spacer(1,2.15*inch),Paragraph("EMPTY ORIGIN",title),Spacer(1,.26*inch),Paragraph("NORA WHITCOMB",author),PageBreak(),PageBreak()]
+files=sorted(glob.glob("book1/chapters/chapter-*.md"))
+if len(files)!=32:
+    raise SystemExit(f"Expected 32 chapters, found {len(files)}")
+for i,p in enumerate(files,1):
+    if i>1:
+        story.append(PageBreak())
+    story.extend(chapter(p,i))
+BookDoc(OUT).build(story)
+print(OUT)
