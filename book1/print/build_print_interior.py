@@ -5,6 +5,13 @@ from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, PageBreak, Flowable, KeepTogether
 from reportlab.pdfbase.pdfmetrics import stringWidth
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+
+SERIF="/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+SANS="/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf"
+pdfmetrics.registerFont(TTFont("BookSerif",SERIF))
+pdfmetrics.registerFont(TTFont("BookSans",SANS))
 
 PAGE=(6*inch,9*inch)
 OUT="book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf"
@@ -29,8 +36,8 @@ class Ring(Flowable):
         c.setLineWidth(.8)
         for x,y in [(17,79),(24,91),(29,111),(43,119),(96,118),(118,104),(129,82),(126,48),(113,25),(91,14),(48,13),(27,30),(14,51)]:
             c.circle(x,y,1.1,stroke=1,fill=0)
-        c.setFont("Times-Roman",36); s=str(self.n)
-        c.drawString(cx-stringWidth(s,"Times-Roman",36)/2,cy-12,s)
+        c.setFont("BookSerif",36); s=str(self.n)
+        c.drawString(cx-stringWidth(s,"BookSerif",36)/2,cy-12,s)
 
 class SceneMark(Flowable):
     def __init__(self): Flowable.__init__(self); self.width=48; self.height=16; self.hAlign="CENTER"
@@ -40,7 +47,7 @@ class SceneMark(Flowable):
 def footer(canvas,doc):
     p=canvas.getPageNumber()
     if p<=2:return
-    canvas.saveState(); canvas.setFont("Times-Roman",8.8)
+    canvas.saveState(); canvas.setFont("BookSerif",8.8)
     canvas.drawCentredString(PAGE[0]/2,0.34*inch,str(p-2)); canvas.restoreState()
 
 class BookDoc(BaseDocTemplate):
@@ -48,12 +55,12 @@ class BookDoc(BaseDocTemplate):
         BaseDocTemplate.__init__(self,fn,pagesize=PAGE,leftMargin=.72*inch,rightMargin=.58*inch,topMargin=.48*inch,bottomMargin=.62*inch,title="Empty Origin",author="Nora Whitcomb")
         self.addPageTemplates(PageTemplate(id="main",frames=[Frame(self.leftMargin,self.bottomMargin,self.width,self.height,id="body")],onPage=footer))
 
-body=ParagraphStyle("Body",fontName="Times-Roman",fontSize=10.6,leading=13.25,alignment=TA_JUSTIFY,firstLineIndent=15,spaceAfter=0,widowOrphanControl=1)
+body=ParagraphStyle("Body",fontName="BookSerif",fontSize=10.6,leading=13.25,alignment=TA_JUSTIFY,firstLineIndent=15,spaceAfter=0,widowOrphanControl=1)
 first=ParagraphStyle("First",parent=body,firstLineIndent=0)
-system=ParagraphStyle("System",fontName="Helvetica",fontSize=8.55,leading=11.2,alignment=TA_CENTER,spaceBefore=3,spaceAfter=3)
-chap=ParagraphStyle("Chap",fontName="Times-Roman",fontSize=15.2,leading=18,alignment=TA_CENTER,spaceAfter=12)
-title=ParagraphStyle("Title",fontName="Times-Roman",fontSize=29,leading=34,alignment=TA_CENTER)
-author=ParagraphStyle("Author",fontName="Times-Roman",fontSize=13,leading=18,alignment=TA_CENTER)
+system=ParagraphStyle("System",fontName="BookSans",fontSize=8.55,leading=11.2,alignment=TA_CENTER,spaceBefore=3,spaceAfter=3)
+chap=ParagraphStyle("Chap",fontName="BookSerif",fontSize=15.2,leading=18,alignment=TA_CENTER,spaceAfter=12)
+title=ParagraphStyle("Title",fontName="BookSerif",fontSize=29,leading=34,alignment=TA_CENTER)
+author=ParagraphStyle("Author",fontName="BookSerif",fontSize=13,leading=18,alignment=TA_CENTER)
 drop=ParagraphStyle("Drop",parent=first)
 
 def esc(s): return html.escape(s)
@@ -107,20 +114,29 @@ def chapter(path,n):
                         sysunit.append(Paragraph(esc(clean(parts[j])),system)); j+=1
                     unit.extend(sysunit)
                     if j<len(parts) and parts[j]!="---":
-                        unit.append(make_prose(parts[j],True)); j+=1
+                        unit.append(make_prose(parts[j],False)); j+=1
                     i=j
                 else:
-                    unit.append(make_prose(nxt,True)); i+=2
+                    unit.append(make_prose(nxt,False)); i+=2
                 out.append(KeepTogether(unit)); fresh=False; continue
             out.append(KeepTogether(unit)); i+=1; fresh=True; continue
 
         if is_system(t):
-            unit=[]; j=i
-            while j<len(parts) and is_system(parts[j]):
-                unit.append(Paragraph(esc(clean(parts[j])),system)); j+=1
-            # Preserve the reveal and the immediate reaction as one narrative beat.
-            if j<len(parts) and parts[j]!="---":
-                unit.append(make_prose(parts[j],False)); j+=1
+            # Build one complete System reveal beat. Short prose bridges such as
+            # "Then:" or "The line brightens..." stay with the System lines they connect.
+            unit=[]; j=i; seen_system=False
+            while j<len(parts) and parts[j]!="---":
+                cur=parts[j]
+                if is_system(cur):
+                    unit.append(Paragraph(esc(clean(cur)),system)); seen_system=True; j+=1; continue
+                words=len(cur.replace("\n"," ").split())
+                # If a short prose bridge is followed by more System output, keep bridging.
+                if words<=28 and j+1<len(parts) and is_system(parts[j+1]):
+                    unit.append(make_prose(cur,False)); j+=1; continue
+                # Keep the immediate reaction after the final System line.
+                if seen_system:
+                    unit.append(make_prose(cur,False)); j+=1
+                break
             out.append(KeepTogether(unit)); i=j; fresh=False; continue
 
         out.append(make_prose(t,fresh)); fresh=False; i+=1
