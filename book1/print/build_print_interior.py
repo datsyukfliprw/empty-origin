@@ -3,7 +3,7 @@ import re, glob, os, html
 from reportlab.lib.pagesizes import inch
 from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
 from reportlab.lib.styles import ParagraphStyle
-from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, PageBreak, Flowable
+from reportlab.platypus import BaseDocTemplate, PageTemplate, Frame, Paragraph, Spacer, PageBreak, Flowable, KeepTogether
 from reportlab.pdfbase.pdfmetrics import stringWidth
 
 PAGE=(6*inch,9*inch)
@@ -71,32 +71,58 @@ def dropcap_text(t):
         return '<font size="25">'+esc(t[0])+'</font>'+esc(t[1:])
     return esc(t)
 
+def make_prose(t,fresh=False):
+    return Paragraph(dropcap_text(t) if fresh else esc(t).replace("\n"," "), drop if fresh else body)
+
 def chapter(path,n):
     txt=open(path,encoding="utf-8").read().replace("\r\n","\n")
-    parts=re.split(r"\n\s*\n",txt)
-    if parts and parts[0].strip().upper().startswith("CHAPTER"): parts=parts[1:]
-    out=[Ring(n),Spacer(1,-2),Paragraph("C H A P T E R&nbsp;&nbsp;&nbsp;"+WORDS[n],chap),
-         Paragraph("[ LOCATION: "+LOC[n]+" ]",system),Paragraph("[ RUN: "+run_for(n)+" ]",system),Spacer(1,18)]
-    fresh=True
-    for raw in parts:
-        t=raw.strip()
-        if not t: continue
+    parts=[p.strip() for p in re.split(r"\n\s*\n",txt) if p.strip()]
+    if parts and parts[0].upper().startswith("CHAPTER"): parts=parts[1:]
+
+    opener=[Ring(n),Spacer(1,-2),
+            Paragraph("C H A P T E R&nbsp;&nbsp;&nbsp;"+WORDS[n],chap),
+            Paragraph("[ LOCATION: "+LOC[n]+" ]",system),
+            Paragraph("[ RUN: "+run_for(n)+" ]",system),Spacer(1,18)]
+    out=[]
+    i=0
+    # Keep the entire opener with its first prose paragraph.
+    if parts:
+        first_text=parts[0]
+        if first_text!="---" and not is_system(first_text):
+            opener.append(make_prose(first_text,True))
+            i=1
+    out.append(KeepTogether(opener))
+    fresh=(i==0)
+
+    while i<len(parts):
+        t=parts[i]
         if t=="---":
-            out += [Spacer(1,6),SceneMark(),Spacer(1,6)]; fresh=True; continue
+            unit=[Spacer(1,6),SceneMark(),Spacer(1,6)]
+            if i+1<len(parts) and parts[i+1]!="---":
+                nxt=parts[i+1]
+                if is_system(nxt):
+                    # Scene begins with System output: keep the complete System block together.
+                    j=i+1; sysunit=[]
+                    while j<len(parts) and is_system(parts[j]):
+                        sysunit.append(Paragraph(esc(clean(parts[j])),system)); j+=1
+                    unit.extend(sysunit)
+                    if j<len(parts) and parts[j]!="---":
+                        unit.append(make_prose(parts[j],True)); j+=1
+                    i=j
+                else:
+                    unit.append(make_prose(nxt,True)); i+=2
+                out.append(KeepTogether(unit)); fresh=False; continue
+            out.append(KeepTogether(unit)); i+=1; fresh=True; continue
+
         if is_system(t):
-            out.append(Paragraph(esc(clean(t)),system)); fresh=False; continue
-        if fresh:
-            out.append(Paragraph(dropcap_text(t),drop)); fresh=False
-        else:
-            out.append(Paragraph(esc(t).replace("\n"," "),body))
+            unit=[]; j=i
+            while j<len(parts) and is_system(parts[j]):
+                unit.append(Paragraph(esc(clean(parts[j])),system)); j+=1
+            # Preserve the reveal and the immediate reaction as one narrative beat.
+            if j<len(parts) and parts[j]!="---":
+                unit.append(make_prose(parts[j],False)); j+=1
+            out.append(KeepTogether(unit)); i=j; fresh=False; continue
+
+        out.append(make_prose(t,fresh)); fresh=False; i+=1
     return out
 
-os.makedirs(os.path.dirname(OUT),exist_ok=True)
-story=[Spacer(1,2.15*inch),Paragraph("EMPTY ORIGIN",title),Spacer(1,.26*inch),Paragraph("NORA WHITCOMB",author),PageBreak(),PageBreak()]
-files=sorted(glob.glob("book1/chapters/chapter-*.md"))
-if len(files)!=32: raise SystemExit(f"Expected 32 chapters, found {len(files)}")
-for i,p in enumerate(files,1):
-    if i>1: story.append(PageBreak())
-    story.extend(chapter(p,i))
-BookDoc(OUT).build(story)
-print(OUT)
