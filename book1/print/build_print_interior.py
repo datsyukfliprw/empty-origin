@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Build trigger: 2026-09-22
 import re, glob, os
 from reportlab.lib.pagesizes import inch
 from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER, TA_LEFT
