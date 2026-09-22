@@ -4,6 +4,8 @@ on:
     paths:
       - 'book1/print/build_print_interior.py'
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,3 +20,11 @@ jobs:
         with:
           name: empty-origin-6x9-print-interior
           path: book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
+      - name: Commit generated interior
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Build 6x9 Empty Origin print interior"
+          git push
