@@ -1,0 +1,20 @@
+name: Build print interior
+on:
+  push:
+    paths:
+      - 'book1/print/build_print_interior.py'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install reportlab
+      - run: python book1/print/build_print_interior.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: empty-origin-6x9-print-interior
+          path: book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
