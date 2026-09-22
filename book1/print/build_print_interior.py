@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3\n# Production rebuild after pagination/font preflight
 import re, glob, os, html
 from reportlab.lib.pagesizes import inch
 from reportlab.lib.enums import TA_JUSTIFY, TA_CENTER
