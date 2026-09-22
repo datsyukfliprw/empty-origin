@@ -66,3 +66,16 @@ The approved reference is the visual target, not merely inspiration.
 - No content edits are introduced by typesetting.
 - The frozen manuscript remains the textual authority.
 - Final PDF must be rendered and visually inspected before release.
+
+
+## Pagination and narrative-unit rules
+These are hard production rules, not optional polish.
+
+- **System/status blocks are indivisible.** Consecutive bracketed System lines must never split across pages.
+- Keep a System notification/status block with the **immediate prose reaction** that follows it whenever the combined unit fits on a page.
+- Never strand a scene-break ornament at the bottom of a page.
+- Keep every scene-break ornament with the **first paragraph of the new scene**.
+- Keep the complete chapter-opening stack together: aperture, chapter heading, LOCATION, RUN, and opening paragraph.
+- Do not leave a one-line dramatic setup or transition at the foot of a page when its payoff is forced onto the next page.
+- Prefer intentional white space at the bottom of a page over splitting a dramatic or System unit.
+- A page turn may be used deliberately for suspense, but never as an accidental consequence of line filling.
