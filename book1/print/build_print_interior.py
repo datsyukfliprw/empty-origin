@@ -8,7 +8,7 @@ from reportlab.pdfbase.pdfmetrics import stringWidth
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-SERIF="/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+SERIF="/usr/share/fonts/truetype/dejavu/DejaVuSerifCondensed.ttf"
 SANS="/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf"
 pdfmetrics.registerFont(TTFont("BookSerif",SERIF))
 pdfmetrics.registerFont(TTFont("BookSans",SANS))
@@ -130,9 +130,17 @@ def chapter(path,n):
                 if is_system(cur):
                     unit.append(Paragraph(esc(clean(cur)),system)); seen_system=True; j+=1; continue
                 words=len(cur.replace("\n"," ").split())
-                # If a short prose bridge is followed by more System output, keep bridging.
-                if words<=28 and j+1<len(parts) and is_system(parts[j+1]):
-                    unit.append(make_prose(cur,False)); j+=1; continue
+                # Keep short prose bridges when more System output follows within
+                # the next few blocks. This preserves multi-stage level-up reveals.
+                look=[]; total=0; k=j
+                while k<len(parts) and parts[k]!="---" and len(look)<4 and not is_system(parts[k]):
+                    w=len(parts[k].replace("\n"," ").split())
+                    if w>32 or total+w>60: break
+                    look.append(parts[k]); total+=w; k+=1
+                if look and k<len(parts) and is_system(parts[k]):
+                    for bridge in look:
+                        unit.append(make_prose(bridge,False))
+                    j=k; continue
                 # Keep the immediate reaction after the final System line.
                 if seen_system:
                     unit.append(make_prose(cur,False)); j+=1
