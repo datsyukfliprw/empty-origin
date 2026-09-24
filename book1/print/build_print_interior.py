@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Build the frozen book with the Scribus kit typography, without GUI or network.
-Whole paragraphs are pagination units: sentences never cross page turns.
+"""Build the frozen book with the supplied reference artwork, without GUI or network.
+Long paragraphs may continue at sentence boundaries: sentences never cross page turns.
 """
 from __future__ import annotations
 import argparse, hashlib, html, json, re
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 from reportlab.pdfgen.canvas import Canvas
 from reportlab.pdfbase import pdfmetrics
@@ -12,7 +12,7 @@ from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib import colors
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_LEFT
-from reportlab.platypus import Paragraph
+from reportlab.platypus import Flowable, Paragraph
 from reportlab.graphics import renderPDF
 from svglib.svglib import svg2rlg
 
@@ -20,13 +20,13 @@ HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
 MASTER = ROOT / 'book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md'
 OUTPUT = HERE / 'EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf'
-RING = HERE / 'EMPTY_ORIGIN_SCRIBUS_MASTER_KIT/assets/aperture_ring.svg'
+RING = HERE / 'assets/aperture_from_reference.svg'
 FONTS = HERE / 'assets/fonts'
 WIDTH, HEIGHT = 432., 648.
 INSIDE, OUTSIDE, TOP, BOTTOM = 54.72, 44.64, 38.88, 44.64
 TEXT_WIDTH = WIDTH - INSIDE - OUTSIDE
 FLOOR = HEIGHT - BOTTOM
-OPENING_TOP = 270.
+OPENING_TOP = 300.
 WORDS = ('ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN ELEVEN TWELVE '
          'THIRTEEN FOURTEEN FIFTEEN SIXTEEN SEVENTEEN EIGHTEEN NINETEEN TWENTY '
          'TWENTY-ONE TWENTY-TWO TWENTY-THREE TWENTY-FOUR TWENTY-FIVE '
@@ -55,6 +55,12 @@ def is_system(text):
     t = plain(text).strip()
     return ((t.startswith('[') and t.endswith(']')) or
             bool(re.fullmatch(r'\*\*[\d /→]+\*\*', text)))
+
+def paragraph_markup(text, system=False):
+    content = inline(plain(text) if system else text)
+    if not system:
+        content = re.sub(r'(\[[^\[\]]+\])', r'<font name="System" size="9.15">\1</font>', content)
+    return content.replace('→', '<font name="Body">→</font>')
 
 def load_chapters():
     raw = MASTER.read_text(encoding='utf-8')
@@ -95,7 +101,8 @@ def styles():
     return {
         'body': body,
         'first': ParagraphStyle('First', parent=body, firstLineIndent=0),
-        'opening': ParagraphStyle('Opening', parent=body, firstLineIndent=0, autoLeading='max'),
+        'continuation': ParagraphStyle('Continuation', parent=body, firstLineIndent=0),
+        'opening': ParagraphStyle('Opening', parent=body, firstLineIndent=0),
         'system': ParagraphStyle('System', parent=body, fontName='System', fontSize=9.15,
                                 leading=10.9, firstLineIndent=0, alignment=TA_CENTER,
                                 hyphenationLang=None),
@@ -104,16 +111,56 @@ def styles():
                               alignment=TA_LEFT, hyphenationLang=None),
     }
 
+class RaisedOpening(Flowable):
+    """A raised initial with ordinary baseline spacing beneath it.
+
+    An oversized inline font makes Paragraph reserve oversized leading both
+    above and below the line. Draw the initial separately so it rises only.
+    """
+    def __init__(self, content, style):
+        super().__init__()
+        match = re.match(r'^([“‘\"\s]*)([A-Za-z])(.*)$', content, re.S)
+        if not match:
+            raise ValueError('Opening paragraph needs an alphabetic initial')
+        self.prefix, self.initial, remainder = match.groups()
+        self.style = style
+        self.initial_size = 31
+        self.prefix_width = pdfmetrics.stringWidth(self.prefix, 'Body', style.fontSize)
+        indent = self.prefix_width + pdfmetrics.stringWidth(self.initial, 'Body', self.initial_size) + .2
+        self.rise = pdfmetrics.getAscent('Body', self.initial_size) - style.fontSize
+        paragraph_style = ParagraphStyle('Raised opening text', parent=style, firstLineIndent=indent)
+        self.paragraph = Paragraph(remainder, paragraph_style)
+
+    def wrap(self, width, height):
+        self.width, self.text_height = self.paragraph.wrap(width, height)
+        self.height = self.rise + self.text_height
+        return self.width, self.height
+
+    def draw(self):
+        c = self.canv
+        baseline = self.text_height - self.style.fontSize
+        c.saveState()
+        c.setFillColor(self.style.textColor)
+        c.setFont('Body', self.style.fontSize)
+        c.drawString(0, baseline, self.prefix)
+        c.setFont('Body', self.initial_size)
+        c.drawString(self.prefix_width, baseline, self.initial)
+        self.paragraph.drawOn(c, 0, 0)
+        c.restoreState()
+
+
 @dataclass
 class Block:
     chapter: int
     index: int
     text: str
     kind: str
-    paragraph: Paragraph | None
+    paragraph: Flowable | None
     height: float
     before: float = 0
     after: float = 0
+    source_start: int = 0
+    source_end: int = 0
     @property
     def extent(self):
         return self.before + self.height + self.after
@@ -126,24 +173,24 @@ def make_blocks(n, parts, sty):
             fresh = True
             continue
         kind = 'system' if is_system(text) else 'chat' if CHAT.match(text) else 'body'
-        before, after = (3, 3) if kind == 'system' else (0, 0)
-        content = inline(plain(text) if kind == 'system' else text)
-        if kind != 'system':
-            content = re.sub(r'(\[[^\[\]]+\])', r'<font name="System" size="9.15">\1</font>', content)
+        before, after = 0, 0
         if kind == 'system':
-            content = content.replace('→', '<font name="Body">→</font>')
+            before = 5 if index == 0 or not is_system(parts[index-1]) else 0
+            after = 5 if index == len(parts)-1 or not is_system(parts[index+1]) else 0
+        elif kind == 'chat':
+            before = 3 if index == 0 or not CHAT.match(parts[index-1]) else 0
+            after = 3 if index == len(parts)-1 or not CHAT.match(parts[index+1]) else 0
+        content = paragraph_markup(text, kind == 'system')
         if kind == 'body' and fresh:
             kind = 'opening' if index == 0 else 'first'
-            if kind == 'opening':
-                # Raised initial matching the sample, with a small opening quote.
-                content = re.sub(r'^([“‘\"\s]*)([A-Za-z])',
-                                 r'\1<font size="31">\2</font>', content, count=1)
-        paragraph = Paragraph(content, sty[kind])
+        paragraph = RaisedOpening(content, sty[kind]) if kind == 'opening' else Paragraph(content, sty[kind])
         _, height = paragraph.wrap(TEXT_WIDTH, HEIGHT)
         if height > FLOOR-TOP:
             raise ValueError(f'Chapter {n} block {index} exceeds one page')
-        result.append(Block(n, index, text, kind, paragraph, height, before, after))
-        fresh = False
+        result.append(Block(n, index, text, kind, paragraph, height, before, after,
+                            source_end=len(text)))
+        if kind != 'system':
+            fresh = False
     return result
 
 def units(blocks):
@@ -181,7 +228,7 @@ def units(blocks):
         if (i < len(blocks) and blocks[i].kind not in ('scene', 'system', 'chat')
                 and group[-1].text not in BREAK_AFTER.get(group[-1].chapter, set())
                 and len(plain(group[-1].text).split()) <= 8
-                and sum(b.extent for b in group) + blocks[i].extent <= 180):
+                and sum(b.extent for b in group) + blocks[i].extent <= 95):
             group.append(blocks[i]); i += 1
         if sum(b.extent for b in group) > FLOOR-TOP:
             raise ValueError('Narrative unit exceeds a full page')
@@ -198,11 +245,49 @@ def units(blocks):
                      or (group[0].kind == 'system' and len(tail.split()) <= 32))
             if (setup and group[0].kind != 'scene'
                     and previous[-1].text not in BREAK_AFTER.get(previous[-1].chapter, set())
-                    and sum(b.extent for b in previous+group) <= 240):
+                    and sum(b.extent for b in previous+group) <= 110):
                 previous.extend(group)
                 continue
         merged.append(group)
     return merged
+
+def sentence_split(block, available, sty):
+    """Fit complete sentences here and continue the same paragraph flush left.
+
+    Protected reveals, scene starts, dialogue groups, and openers are handled
+    outside this function. At least two lines remain on each side of a break.
+    """
+    if block.kind not in ('body', 'first') or available < 2*sty['body'].leading:
+        return None
+    best = None
+    for match in re.finditer(r'[.!?][”’"*]*\s+(?=[“‘"*A-Z])', block.text):
+        prefix = block.text[:match.end()]
+        if re.search(r'\b(?:Mr|Mrs|Ms|Dr|St|Jr|Sr|Lv|vs|etc)\.[”’"*]*\s*$', prefix):
+            continue
+        if re.search(r'\b[A-Z]\.[”’"*]*\s*$', prefix):
+            continue
+        # Reopen any emphasis that crosses the page boundary, without changing
+        # the original paragraph or introducing visible punctuation.
+        active = []
+        for marker in re.findall(r'\*\*|\*', prefix):
+            if active and active[-1] == marker:
+                active.pop()
+            else:
+                active.append(marker)
+        head_text = prefix.rstrip()+''.join(reversed(active))
+        tail_text = ''.join(active)+block.text[match.end():].lstrip()
+        head = Paragraph(paragraph_markup(head_text), sty[block.kind])
+        tail = Paragraph(paragraph_markup(tail_text), sty['continuation'])
+        _, head_height = head.wrap(TEXT_WIDTH, HEIGHT)
+        _, tail_height = tail.wrap(TEXT_WIDTH, HEIGHT)
+        if (head_height+block.before <= available+.001
+                and min(head_height,tail_height) >= 2*sty['body'].leading-.001):
+            boundary = block.source_start+match.end()
+            best = (replace(block, text=head_text, paragraph=head, height=head_height,
+                            after=0, source_end=boundary),
+                    replace(block, text=tail_text, kind='continuation', paragraph=tail,
+                            height=tail_height, before=0, source_start=boundary))
+    return best
 
 def tracked(c, text, cx, baseline, font, size, tracking):
     c.saveState()
@@ -225,14 +310,19 @@ class Interior:
         self.canvas.setSubject('6 × 9 inch interior — frozen September 20, 2026 master')
         self.ring = svg2rlg(str(RING))
         self.ring.initialFontName = 'Body'
+        # Reuse the exact traced artwork as a PDF form on every page.
+        self.canvas.beginForm('EOReferenceRing', 0, 0, self.ring.width, self.ring.height)
+        renderPDF.draw(self.ring, self.canvas, 0, 0)
+        self.canvas.endForm()
         self.pages, self.active, self.y = [], False, TOP
 
     def ring_at(self, cx, top, size):
         c = self.canvas
         c.saveState()
-        c.translate(cx-size/2, HEIGHT-top-size)
-        c.scale(size/self.ring.width, size/self.ring.height)
-        renderPDF.draw(self.ring, c, 0, 0)
+        scale = size/self.ring.width
+        c.translate(cx-size/2, HEIGHT-top-self.ring.height*scale)
+        c.scale(scale, scale)
+        c.doForm('EOReferenceRing')
         c.restoreState()
 
     def new_page(self, chapter=None, opening=False, front=None):
@@ -256,13 +346,13 @@ class Interior:
             center = self.left+TEXT_WIDTH/2
             c.bookmarkPage(f'chapter-{chapter}')
             c.addOutlineEntry(f'Chapter {WORDS[chapter-1].title()}', f'chapter-{chapter}', 0)
-            self.ring_at(center, 40, 128.16)
-            c.setFont('Numeral', 30)
-            c.drawCentredString(center, HEIGHT-115, str(chapter))
-            tracked(c, 'CHAPTER '+WORDS[chapter-1], center, HEIGHT-190, 'Body', 15, 2.6)
-            tracked(c, '[ LOCATION: '+LOCATIONS[chapter]+' ]', center, HEIGHT-222, 'System', 9.15, .7)
+            self.ring_at(center, 23, 190)
+            c.setFont('Numeral', 52)
+            c.drawCentredString(center, HEIGHT-138, str(chapter))
+            tracked(c, 'CHAPTER '+WORDS[chapter-1], center, HEIGHT-225, 'Body', 20, 8)
+            tracked(c, '[ LOCATION: '+LOCATIONS[chapter]+' ]', center, HEIGHT-259, 'System', 9.15, 2)
             run = 'UNSET' if chapter <= 10 else 'WARDER'
-            tracked(c, '[ RUN: '+run+' ]', center, HEIGHT-241, 'System', 9.15, .7)
+            tracked(c, '[ RUN: '+run+' ]', center, HEIGHT-279, 'System', 9.15, 2)
 
     def draw_group(self, group):
         self.page['units'].append([b.index for b in group])
@@ -274,7 +364,8 @@ class Interior:
                 b.paragraph.drawOn(self.canvas, self.left, HEIGHT-self.y-b.height)
             self.page['blocks'].append({'index': b.index, 'kind': b.kind,
                                         'top': round(self.y, 3), 'height': round(b.height, 3),
-                                        'left': self.left})
+                                        'left': self.left, 'source_start': b.source_start,
+                                        'source_end': b.source_end})
             self.y += b.height + b.after
 
     def build(self, chapters, sty):
@@ -290,6 +381,14 @@ class Interior:
             break_next = False
             for group in groups:
                 extent = sum(b.extent for b in group)
+                if not break_next and self.y+extent > FLOOR and len(group) == 1:
+                    split = sentence_split(group[0], FLOOR-self.y, sty)
+                    if split:
+                        head, tail = split
+                        self.draw_group([head])
+                        self.new_page(n)
+                        group = [tail]
+                        extent = tail.extent
                 if break_next or self.y+extent > FLOOR+.001:
                     if not self.page['blocks']:
                         raise ValueError(f'Chapter {n}: opener and first narrative unit do not fit')
@@ -316,7 +415,12 @@ def main():
                 'pdf': args.output.name, 'pdf_sha256': digest(args.output),
                 'trim_points': [WIDTH, HEIGHT],
                 'fonts': {filename: digest(FONTS/filename) for filename in names.values()},
-                'ring_sha256': digest(RING), 'pages': book.pages}
+                'ring_source': str(RING.relative_to(ROOT)), 'ring_sha256': digest(RING),
+                'opener_geometry': {'ring_top': 23, 'ring_width': 190,
+                                    'chapter_title_baseline': 225,
+                                    'location_baseline': 259, 'run_baseline': 279,
+                                    'opening_flow_top': OPENING_TOP},
+                'pages': book.pages}
     args.output.with_suffix('.manifest.json').write_text(json.dumps(manifest, indent=2)+'\n')
     print(f'{args.output}: {len(book.pages)} pages; {len(chapters)} chapters')
 

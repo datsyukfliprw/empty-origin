@@ -1,12 +1,13 @@
 # Empty Origin — Print Interior Style Guide
 
 **Production update (September 24, 2026):** The complete automated interior and
-review files are documented in [README.md](README.md). Use the newer
-[Scribus kit specifications](EMPTY_ORIGIN_SCRIBUS_MASTER_KIT/STYLE_GUIDE.md)
-for exact fonts, sizes, and page geometry where they differ from this earlier
-guide. Its supplied vector ring is the current production asset. The screenshot
-at `../../layout_sample.jpeg` remains a visual reference; its illustrative prose
-and location labels do not override the frozen manuscript.
+review files are documented in [README.md](README.md). The author's subsequent
+artwork correction makes `../../layout_sample.jpeg` authoritative for the ring
+and opener proportions. The ring is now traced from that image, replacing the
+rejected simplified substitute. Use the [production README](README.md) for corrected
+opener measurements and the [Scribus kit](EMPTY_ORIGIN_SCRIBUS_MASTER_KIT/STYLE_GUIDE.md)
+for body typography and margins. Illustrative prose and location labels in the
+sample do not override the frozen manuscript.
 
 **Reference authority:** `Empty_Origin_Chapter_Opener_6x9.pdf` approved September 22, 2026.
 

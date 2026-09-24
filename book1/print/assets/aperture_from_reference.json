@@ -1,0 +1,19 @@
+{
+  "source": "layout_sample.jpeg",
+  "source_sha256": "60d1cfab32a70f05b9961742bd07b7991bbd4dcb8f7d168b1d2b6c6a9de4b07a",
+  "crop_pixels": [
+    197,
+    325,
+    510,
+    620
+  ],
+  "circle_center_pixels": [
+    353,
+    483
+  ],
+  "numeral_exclusion_radius_pixels": 76,
+  "source_ink_pixels_preserved": 7852,
+  "output_sha256": "51427a0e6e6a97db23af8b4318243adc9417c042f905fbd8ca74f000973d07cd",
+  "method": "Direct native-resolution ink trace, eight gray levels; no generated strokes",
+  "limitation": "The screenshot is the available source; vector paths preserve its pixel detail, not unavailable original detail."
+}

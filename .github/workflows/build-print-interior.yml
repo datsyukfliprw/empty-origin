@@ -5,6 +5,7 @@ on:
       - 'book1/print/**'
       - 'book1/frozen/**'
       - 'book1/chapters/**'
+      - 'layout_sample.jpeg'
       - '.github/workflows/build-print-interior.yml'
   workflow_dispatch:
 permissions:
@@ -33,3 +34,4 @@ jobs:
             book1/print/proofs/contact-*.jpg
             book1/print/proofs/*-opener.png
             book1/print/proofs/body-page.png
+            book1/print/proofs/EMPTY_ORIGIN_APERTURE_RING.png

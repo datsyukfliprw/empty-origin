@@ -6,7 +6,7 @@
   "chapters": 32,
   "source_words": 96693,
   "source_sha256": "a617154ff0f9984c6eee5ff65f124734bc3f71716d93deebc53e93c6a716e373",
-  "pdf_sha256": "30987a8f69a67f80691f3fd0db79f1a23ffed270ae7b4aeb27adfd60fbc10d46",
+  "pdf_sha256": "f2f4c42d1bcb5285b6319cae53e42c999ab45293d77a2684a66123604ff9c31d",
   "text_comparison": "NFKC, excluding whitespace and discretionary/literal hyphens; all other characters compared in order",
   "matching_normalized_characters": 424890,
   "fonts_embedded": [
@@ -16,6 +16,13 @@
     "AAAAAA+EBGaramond-Italic"
   ],
   "all_pages_rendered": true,
+  "artwork_source": "layout_sample.jpeg",
+  "spacing": {
+    "mean_unused_bottom_points_ordinary_pages": 27.63,
+    "largest_unused_bottom_points_ordinary_pages": 91.33,
+    "ordinary_pages_with_more_than_60pt_unused": 28,
+    "excludes": "chapter openers, chapter endings, and specified Chapter 1 page turns"
+  },
   "checks": [
     "trim",
     "mirrored margins",
@@ -24,31 +31,38 @@
     "32 chapter bookmarks",
     "source and PDF hashes",
     "complete ordered manuscript text",
-    "whole paragraphs",
+    "sentence-boundary continuations",
     "scene ornaments with prose",
     "System blocks and immediate reactions",
     "Chapter 1 intentional page turns",
-    "neutral ink",
+    "neutral ink including artwork forms",
+    "reference artwork provenance",
+    "System line spacing",
+    "raised initial baseline spacing",
     "no raster images",
     "embedded fonts"
   ],
   "sparse_pages_for_visual_review": [
     10,
+    19,
     24,
     31,
     38,
+    48,
+    71,
     82,
+    95,
     116,
     125,
     134,
     146,
     158,
-    170,
     193,
     220,
     229,
     241,
-    302,
+    266,
+    303,
     331
   ],
   "chapter_openers": [
@@ -189,13 +203,13 @@
     },
     {
       "chapter": 28,
-      "pdf_page": 266,
-      "folio": 264
+      "pdf_page": 267,
+      "folio": 265
     },
     {
       "chapter": 29,
-      "pdf_page": 276,
-      "folio": 274
+      "pdf_page": 277,
+      "folio": 275
     },
     {
       "chapter": 30,
