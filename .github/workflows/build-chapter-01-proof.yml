@@ -24,4 +24,5 @@ jobs:
           git add book1/print/proofs/EMPTY_ORIGIN_CHAPTER_01_LAYOUT_PROOF.pdf book1/print/proofs/EMPTY_ORIGIN_APERTURE_RING.png
           git diff --cached --quiet && exit 0
           git commit -m "Build Chapter 1 layout proof"
+          git pull --rebase origin main
           git push
