@@ -2,7 +2,7 @@
 # proof build trigger
 import os,re,html,math,random
 from pathlib import Path
-from PIL import Image,ImageDraw
+from PIL import Image as PILImage, ImageDraw
 from reportlab.platypus import *
 from reportlab.lib.pagesizes import inch
 from reportlab.lib.styles import ParagraphStyle
@@ -20,7 +20,7 @@ CH=ROOT/"book1/chapters/chapter-01.md"
 
 # High-resolution reusable aperture asset, no numeral.
 S=1400
-im=Image.new("RGBA",(S,S),(255,255,255,0)); d=ImageDraw.Draw(im)
+im=PILImage.new("RGBA",(S,S),(255,255,255,0)); d=ImageDraw.Draw(im)
 random.seed(101)
 cx=cy=S//2
 for k in range(8):
