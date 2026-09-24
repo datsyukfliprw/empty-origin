@@ -1,0 +1,75 @@
+[
+  {
+    "file": "EBGaramond-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond%5Bwght%5D.ttf",
+    "source_sha256": "ef9512f92f6d579e5dc75af59a5a4b1b8b47d2eda89e00b954d44520e5369027",
+    "axes": {
+      "wght": 400
+    },
+    "sha256": "cd75f310f316940c0bbcb5051316f79c6a05737e66e8d7276bb517850342d84e",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "EBGaramond-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond%5Bwght%5D.ttf",
+    "source_sha256": "ef9512f92f6d579e5dc75af59a5a4b1b8b47d2eda89e00b954d44520e5369027",
+    "axes": {
+      "wght": 700
+    },
+    "sha256": "df0421c6a57fae2bf5d6c5806bc575ffcd4da8d7db2054e49aa2d3b3a9261806",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "EBGaramond-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond-Italic%5Bwght%5D.ttf",
+    "source_sha256": "bba2c4499c93c9612b90b9825d32b07da52fce2fe57562a1eb6b833553f93c4e",
+    "axes": {
+      "wght": 400
+    },
+    "sha256": "ec513630c59930ec699ade4e7ee2b91d736b90d595f66992b76010e45c67cd64",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "EBGaramond-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/ebgaramond/EBGaramond-Italic%5Bwght%5D.ttf",
+    "source_sha256": "bba2c4499c93c9612b90b9825d32b07da52fce2fe57562a1eb6b833553f93c4e",
+    "axes": {
+      "wght": 700
+    },
+    "sha256": "04802909ea2d40bb31d8c3c320600f74b5713257f542a9ac80306d3ee1796790",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "NotoSansCondensed-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf",
+    "source_sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+    "axes": {
+      "wdth": 75,
+      "wght": 400
+    },
+    "sha256": "48d70960a8090f776e5c36c5a3705352303d7296caec3ed38513bcb21dec100b",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "NotoSansCondensed-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notosans/NotoSans%5Bwdth,wght%5D.ttf",
+    "source_sha256": "bfb7bb691513f12e734dc346c03a03f784912432d7e3fa8e56efcf906fe86b3d",
+    "axes": {
+      "wdth": 75,
+      "wght": 500
+    },
+    "sha256": "dad004a7d80efb1ad322b2fa319c62353e0969e1be45e6bf0e9e45ea3bdd7470",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  },
+  {
+    "file": "NotoSerif-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserif/NotoSerif%5Bwdth,wght%5D.ttf",
+    "source_sha256": "4d8e6761424656867019081a1a01336f3cb086982682698714054fc33f782713",
+    "axes": {
+      "wdth": 100,
+      "wght": 400
+    },
+    "sha256": "4757ba8d8705f10771b0c5567d053c24a845688450883b446e9909dc53bc0ef2",
+    "naming": "Static instance names set to family and selected style to avoid PDF font collisions"
+  }
+]

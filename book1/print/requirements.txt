@@ -1,0 +1,5 @@
+reportlab==5.0.1
+svglib==2.2.0
+pyphen==0.18.1
+PyMuPDF==1.28.2
+Pillow==12.3.0

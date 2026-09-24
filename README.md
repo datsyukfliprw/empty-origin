@@ -2,6 +2,8 @@
 
 **Book One title: Empty Origin.** See the [title and pitch](book1/TITLE.md). The linked review files are dated historical snapshots of earlier manuscript states. The canonical path from the current manuscript to publication is the [publication roadmap](book1/PUBLICATION_ROADMAP.md).
 
+**Print layout (September 24, 2026):** The complete [6×9 interior PDF](book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf) has been rebuilt from the frozen master using the supplied layout kit. See the [layout README](book1/print/README.md) for proofs, validation results, and the repeatable build commands.
+
 **Current-version notice (September 20, 2026):** The latest compiled [WORKING_DRAFT.md](book1/WORKING_DRAFT.md) totals **96,693 words across 32 chapters** after the focused post–cold-read revisions, technical/copyedit pass, and subsequent rebuild. The individual chapter files remain canonical, and the compiled draft has now been rebuilt directly from all 32 current chapter files. **The final proof is complete and the manuscript is frozen as the beta/ARC master. The next editorial step is the beta/ARC round.** Dated reviews and ARC reports retain only the counts and findings from the manuscript versions they actually reviewed.
 
 Read **[book1/WORKING_DRAFT.md](book1/WORKING_DRAFT.md)** for the active complete Book One manuscript through Chapter Thirty-Two. The frozen beta/ARC baseline is **[book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md](book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md)**; freeze metadata and change-control rules are in **[book1/MANUSCRIPT_FREEZE.md](book1/MANUSCRIPT_FREEZE.md)**. Individual chapters are in [book1/chapters](book1/chapters).

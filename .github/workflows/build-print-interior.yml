@@ -2,10 +2,13 @@ name: Build print interior
 on:
   push:
     paths:
-      - 'book1/print/build_print_interior.py'
+      - 'book1/print/**'
+      - 'book1/frozen/**'
+      - 'book1/chapters/**'
+      - '.github/workflows/build-print-interior.yml'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,17 +17,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install reportlab
+          cache: pip
+          cache-dependency-path: book1/print/requirements.txt
+      - run: pip install -r book1/print/requirements.txt
       - run: python book1/print/build_print_interior.py
+      - run: python book1/print/validate_print_interior.py
       - uses: actions/upload-artifact@v4
         with:
           name: empty-origin-6x9-print-interior
-          path: book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
-      - name: Commit generated interior
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
-          if git diff --cached --quiet; then exit 0; fi
-          git commit -m "Build 6x9 Empty Origin print interior"
-          git push
+          path: |
+            book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
+            book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.manifest.json
+            book1/print/PRINT_VALIDATION.json
+            book1/print/proofs/*.pdf
+            book1/print/proofs/contact-*.jpg
+            book1/print/proofs/*-opener.png
+            book1/print/proofs/body-page.png
