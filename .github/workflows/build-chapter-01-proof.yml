@@ -1,0 +1,27 @@
+name: Build Chapter 1 layout proof
+on:
+  push:
+    paths:
+      - 'book1/print/proofs/build_chapter_01_proof.py'
+      - 'book1/chapters/chapter-01.md'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install reportlab pillow
+      - run: python book1/print/proofs/build_chapter_01_proof.py
+      - name: Commit proof and aperture asset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add book1/print/proofs/EMPTY_ORIGIN_CHAPTER_01_LAYOUT_PROOF.pdf book1/print/proofs/EMPTY_ORIGIN_APERTURE_RING.png
+          git diff --cached --quiet && exit 0
+          git commit -m "Build Chapter 1 layout proof"
+          git push
