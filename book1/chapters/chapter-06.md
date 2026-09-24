@@ -138,11 +138,13 @@ Does the level make her stronger? Or is Hand more than a label? I look at my pal
 
 I do not know. The gray-bearded man catches me watching and points away from the plank. I move before he has to say it.
 
-So I put that where I put everything, and I go back into the market to sell my brain instead.
+Back in the market, I stop beside a woman trying to serve three people at once. One has money ready. Another is still choosing. She turns to him, and the first customer starts looking down the row for somewhere else to spend it.
+
+I have watched that happen over an espresso machine while my manager sent the second barista to mop. My arms are still shaking. I tuck my hands under them and start walking the stalls.
 
 ---
 
-The market has two rows of stalls with customers crowded between them. I walk the whole length of it once, and by the end of the row I have stopped looking at goods and started looking at queues.
+The market has two rows of stalls with customers crowded between them. I walk the whole length once, looking for a seller who needs help badly enough to let a stranger try.
 
 Halfway down the row, a customer puts something back and leaves before the seller can reach him. I stop there.
 

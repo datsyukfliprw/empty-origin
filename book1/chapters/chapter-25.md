@@ -444,7 +444,9 @@ Harra does not even look up from the line. “You are done walking.”
 
 “I had reached a similar conclusion.”
 
-Tolliver crosses last. By the time he reaches us, Sella has my boot loosened and the wrap half off. He looks once at the ankle, jaw tight, and turns to help Harra secure the trolley.
+Harra takes the return line around a far-side iron post and draws it tight. Tolliver eases the capstan brake until the line carries the empty trolley. It holds. Only then does he leave the capstan and climb aboard, while Harra and Sella control his crossing from our side.
+
+By the time he reaches us, my boot is loosened and the wrap half off. He looks once at the ankle, jaw tight, and turns to help Harra secure the trolley.
 
 I am grateful enough not to make a joke about it.
 

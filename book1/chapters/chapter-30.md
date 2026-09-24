@@ -318,7 +318,7 @@ She bends and kisses my forehead. Then my mouth. One last time.
 
 “Tomorrow too.”
 
-The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. Our stupid signal from the East Relief safe room. Still here. I raise two fingers back. The wagon passes through the gate. Gone. The yard looks larger.
+The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. She holds them there until I raise two fingers back. Still here. The wagon passes through the gate. Gone. The yard looks larger.
 
 I sit on the wall until the sound of wheels disappears. Then longer. Tolliver does not come over. Nobody does. Good. For once, everyone lets something hurt without trying to fix it.
 
@@ -472,7 +472,7 @@ I put the tie in the top drawer beside my Earth shirt. Then I leave the drawer o
 
 ---
 
-On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof.
+On the seventh evening, after the mender clears the short ladder, I take bread to the pantry roof.
 
 The onions are still there.
 
@@ -562,7 +562,7 @@ She would hate that.
 
 ---
 
-On the ninth night after Sella leaves, I find Tolliver in the yard splitting kindling.
+On the eighth night after Sella leaves, I find Tolliver in the yard splitting kindling.
 
 His shirt sleeves are rolled. His forearms are doing deeply unnecessary things.
 

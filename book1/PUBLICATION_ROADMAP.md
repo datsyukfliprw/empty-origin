@@ -1,5 +1,8 @@
 # Empty Origin — Publication Roadmap
 
+**September 24 working-revision update:** The active manuscript now has **97,048 words across 32 chapters** and differs from the frozen master. Focused revisions are recorded in [REVISION_2026-09-24.md](REVISION_2026-09-24.md). The new alternate-beginning reviews must be supplied and reviewed before that requested pass can close. The September 20 stage/completion record below remains historical; no new freeze or print rebuild has been issued.
+
+
 **Status date:** September 20, 2026  
 **Current position:** **Manuscript frozen — beta/ARC round next**  
 **Current manuscript:** 32 chapters. `WORKING_DRAFT.md` has been rebuilt directly from all canonical chapter files and contains **96,693 whitespace-counted words**.

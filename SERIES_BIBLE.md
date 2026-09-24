@@ -4,7 +4,7 @@
 
 The author has explicitly chosen a **longer ongoing series** and established that **Maya never returns to Earth. This world is her new life.** These are binding directions. A trilogy, an eventual homecoming, or repeated near-homecomings would contradict them.
 
-Everything below that describes unwritten events is an editorial plan, not manuscript canon. The chapter files govern what has happened. **Book One, *Empty Origin*, is complete through Chapter Thirty-Two at 96,894 whitespace-counted words.** Read [project notes](book1/PROJECT_NOTES.md), the [chapter ledger](book1/CHAPTER_LEDGER.md), and the [publication roadmap](book1/PUBLICATION_ROADMAP.md) for the exact current state. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) is now a historical planning record rather than an unwritten horizon.
+Everything below that describes unwritten events is an editorial plan, not manuscript canon. The chapter files govern what has happened. **Book One, *Empty Origin*, is complete through Chapter Thirty-Two at 97,048 whitespace-counted words in the September 24 active working revision.** Read [project notes](book1/PROJECT_NOTES.md), the [chapter ledger](book1/CHAPTER_LEDGER.md), and the [publication roadmap](book1/PUBLICATION_ROADMAP.md) for the exact current state. The [Book One completion plan](book1/BOOK_ONE_PLAN.md) is now a historical planning record rather than an unwritten horizon.
 
 ## The promise that can sustain the series
 

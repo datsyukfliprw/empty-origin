@@ -114,13 +114,13 @@ She sighs. “So. Holes and occupants.”
 
 It takes less time than I expect to understand the corridor.
 
-Movement makes the things below curious. Weight makes them test a plate. Repeated impact gathers them. Harra marks a route along the wall, testing each stone enough to know which ones shift and which ones stay put. We do not need a taxonomy. A chalk circle means a person has crossed it safely. An X means nobody steps there.
+Movement makes the things below curious. Weight makes them test a plate. Repeated impact gathers them. Harra marks a route along the wall. A slash means a stone passed her light test; Tolliver has to ease his weight onto it before she closes the mark into a circle. An X means nobody steps there.
 
 Tolliver goes first, Harra second, me third, Sella last.
 
 Six plates hold.
 
-On the seventh, Tolliver eases one foot forward and the stone lowers beneath him by the width of a finger.
+The seventh still has a slash. Tolliver eases one foot forward and the stone lowers beneath him by the width of a finger.
 
 “Stop.”
 

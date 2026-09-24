@@ -1,13 +1,13 @@
 # Chapter ledger
 
-**Current manuscript:** *Empty Origin*, 32 chapters, **96,693 whitespace-counted words**, synchronized September 20, 2026. Canonical chapter text governs if an older checkpoint note conflicts with a later chapter entry.
+**Current manuscript:** *Empty Origin*, 32 chapters, **97,048 whitespace-counted words**, synchronized September 24, 2026 (active working revision; September 20 frozen master preserved). Canonical chapter text governs if an older checkpoint note conflicts with a later chapter entry.
 
 This ledger originated with the September 19 cold-review revision and now includes the completed manuscript through Chapter Thirty-Two. Earlier checkpoint language is historical where later chapter entries supersede it. Chapters remain the authority. Entries distinguish observed events from testimony and proposals.
 
 ## Chapter 01
 
 **Opening state:**
-- Maya Szczepaniak, nineteen, lives alone in Kansas City, attends community college, works at Brewed Awakening, and streams as NyxLive to a small audience.
+- Maya Szczepaniak, nineteen, lives alone in an unnamed Missouri city, attends community college, works at Brewed Awakening, and streams as NyxLive to a small audience.
 
 **Major movement:**
 - Maya times a gap in the boss's fire and calls the raid's movement, asking Liam to stay back until she can return to healing range. Twelve-player raid defeats Vharos the Undying in 06:42; eleven viewers watch. Maya rolls 98 for Vharos's Emberglass Saber and equips it on Nyx.
@@ -15,7 +15,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 
 **Character / relationship changes:**
 - Liam knows and uses her real name during the emergency. Her parents are affectionate and had offered her a return home.
-- Maya's pride in independence gives way to panic and longing for her father. Their actual response on Earth is unknown.
+- Maya's pride in independence gives way to panic and longing for home and her parents. Their actual response on Earth is unknown.
 
 **System / progression / resources:**
 - Nyx is her silver-haired elf spellblade avatar, not Maya's transported body.
@@ -264,7 +264,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 - Vey says Elena stayed approximately nine months, surveyed water/culverts/roads with Rook's keeper of records, disputed closure of the south sluice, and left alive on foot with a pack four years ago. Claims her chest remained. Her whereabouts are unknown.
 - Maya comprehends local written script; the three locals indicate inability to read her English. Scope and cause of translation remain unknown.
 - Tolliver admits fabricating Maya's connection to Skell's; his claim that Skell's itself suffered fever remains unverified. Pays 2-piece fine; entry-witness standing suspended pending Hale's review.
-- Bertran records Maya's account of Kansas City/Missouri/United States as unverified. Seven-day independent provisional stay allows work; she must register departure or seek extension. It does not confer origin.
+- Bertran records Maya's account of Missouri/United States as unverified. Seven-day independent provisional stay allows work; she must register departure or seek extension. It does not confer origin.
 - Rejected service: one year, 2 pieces/week plus board, chargeable extras, house-selected initial training, notice and settled accounts needed to leave, house ownership of work/recoveries.
 - Signed reading hire: 6 workdays after arrival, 1 piece/day paid that evening, no advance; travel/board/bed and return wait covered, return cart within 3 days of finishing/leaving, no clawback or service bond, may stop. No training course. Work limited to named notebook/labels; no mechanism operation or entry into closed works; personal possessions protected; Maya may keep translation/Elena-note copies but not original objects. Elena's entry/departure records before work; access to Elena if currently present. No finding fee under this contract.
 
@@ -829,7 +829,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 
 **Opening state:** Maya is LV. 5 with reserve 3/7 at the previous close and a worsened left ankle under three days of no stairs, rough ground, shield work, Stepguard or powered loading. Sella's accepted eastbound job leaves on the fourth day after acceptance.
 
-**Major movement:** Maya contributes from enforced rest, identifies that leaving the full rescue frame loaded in the chamber could itself transmit dangerous cycling, and helps Harra refine the far spring shoe using Iven's new landing measurements. The full frame is built and dry-tested; a compressible wooden near shim is discovered and replaced with an iron-backed wedge. Captain Rusk returns with three crew and a district preservation notice covering disputed recovered inner iron, forcing Pell/Vey to negotiate witness and hold terms without granting custody or lower-chamber control.
+**Major movement:** Maya contributes from enforced rest, identifies that leaving the full rescue frame loaded in the chamber could itself transmit dangerous cycling, and helps Harra refine the far spring shoe using Iven's new landing measurements. The full frame is built and dry-tested; a compressible wooden near shim is discovered and replaced with an iron-backed wedge. Before rescue day, Mara replaces the first test’s blanket no-retry rule with cause/repair, full loaded-part and stone inspection, renewed unoccupied tests, and Iven’s decision about whether to retry. Captain Rusk returns with three crew and a district preservation notice covering disputed recovered inner iron, forcing Pell/Vey to negotiate witness and hold terms without granting custody or lower-chamber control.
 
 **Character / relationship changes:** Maya tells Sella to take the eastbound job even if the rescue schedule slips. Sella states that she wants both movement and Maya and does not want Maya to mutilate her own future merely to provide emotional safety. Tolliver continues to respect explicit decision roles. Maya's attraction responds to his obedience to her calls rather than to him overriding them.
 
@@ -851,7 +851,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 
 ## Chapter 29
 
-**Opening state:** Revised frame has a floating near sleeve, two-finger far spring shoe and sacrificial far board joint. Six dry cycles after redesign remain within limits. Rusk advises delaying for joint inspection but does not gain authority to stop the rescue.
+**Opening state:** Harra inspects all recovered loaded components; Dain and Oret check the supports and settling vibration. Iven checks his landing and agrees to retry if testing passes. Revised frame has a floating near sleeve, two-finger far spring shoe and sacrificial far board joint. Six dry cycles after redesign remain within limits. Rusk advises delaying for joint inspection but does not gain authority to stop the rescue.
 
 **Major movement:** Maya and Sella explicitly say they love each other while preserving Sella's planned eastbound departure and acknowledging Maya's unresolved attachment to Tolliver. On the second crossing, an independent pressure-driven activation of the old isolation mechanism consumes both support travel limits. Maya orders Iven forward, then has Harra shear the sacrificial far board joint after his rear foot clears it. Maya Braces through forearm contact with the near anchor shoe and feet on its sound stone bed, keeping the shoe seated only long enough to permit near-sleeve release, then deliberately releases rather than preserve the structure. Sella and Tolliver haul Iven himself while the boundary severs only empty rescue-board material.
 
@@ -873,7 +873,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 - Maya and Sella finally discuss the future without an active rescue crisis. Maya admits she nearly asked Sella to stay but deliberately refused to ask while circumstances could pressure the answer.
 - Sella departs east as planned.
 - Iven thanks Maya for prioritizing his life over disputed iron and possible Earth answers. Rusk's claim remains pending.
-- The house mender imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard. The pantry-roof memory is on the eighth evening after departure, after explicit ladder clearance; the Tolliver encounter remains on the ninth night.
+- The house mender imposes six additional days of ankle restriction, followed by gradual clearance for walking, light shield work, stairs, and Stepguard. The pantry-roof memory is on the seventh evening after departure, after explicit ladder clearance; the yard question occurs on the eighth night and the Chapter 31 encounter on the ninth.
 
 **Character / relationship changes:**
 - Maya and Sella remain in love but do not promise exclusivity, indefinite waiting, or a false clean breakup.
@@ -881,7 +881,7 @@ This ledger originated with the September 19 cold-review revision and now includ
 - Tolliver stays out of Sella's goodbye and does not exploit the departure.
 
 **Ending state:**
-- Nine days after Sella leaves, Maya is medically cleared and approaches Tolliver by choice, asking him to change his evening plans.
+- On the eighth night after Sella leaves, Maya asks why Tolliver has not touched her. He asks whether she would still want him if Sella returned. Maya goes to bed without answering; she returns with her answer the following night in Chapter 31.
 
 ## Chapter 31
 

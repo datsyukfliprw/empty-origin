@@ -28,6 +28,7 @@ def validate(pdf):
     check(len(doc) == len(manifest['pages']), 'Manifest page count mismatch')
     check(len(doc) % 2 == 0, 'Odd physical page count')
     check(len(doc.get_toc()) == 32, 'Missing chapter bookmarks')
+    check(manifest['trim_points'] == [book.WIDTH,book.HEIGHT], 'Manifest trim mismatch')
     texts, positions, used_fonts, font_refs = [], {}, set(), {}
     last_positions, source_ranges = {}, {}
     checked_forms = set()
@@ -35,7 +36,7 @@ def validate(pdf):
     low_fill, ordinary_gaps = [], []
     for page, record in zip(doc, manifest['pages']):
         number = page.number+1
-        check(tuple(page.rect) == (0,0,432,648), f'Incorrect trim on page {number}')
+        check(tuple(page.rect) == (0,0,book.WIDTH,book.HEIGHT), f'Incorrect trim on page {number}')
         check(not page.get_images(), f'Unexpected raster image on page {number}')
         if record['chapter']:
             n = record['chapter']
@@ -77,12 +78,12 @@ def validate(pdf):
                 for span in line['spans']:
                     used_fonts.add(span['font'])
                     x0,y0,x1,y1=span['bbox']
-                    check(x0 >= 0 and y0 >= 0 and x1 <= 432 and y1 <= 648,
+                    check(x0 >= 0 and y0 >= 0 and x1 <= book.WIDTH and y1 <= book.HEIGHT,
                           f'Text outside trim page {number}: {span["text"]}')
                 if not record['chapter']:
                     continue
                 y0=line['bbox'][1]
-                if y0 < (book.OPENING_TOP-6 if record['opening'] else book.TOP-9) or y0 > 605:
+                if y0 < (book.OPENING_TOP-6 if record['opening'] else book.TOP-9) or y0 > book.FLOOR+1.64:
                     continue
                 for span in line['spans']:
                     texts.append(span['text'])
@@ -91,7 +92,7 @@ def validate(pdf):
                         if baseline not in opening_baselines:
                             opening_baselines.append(baseline)
                     x0,y0,x1,y1=span['bbox']
-                    check(x0>=expected_left-2 and x1<=expected_left+book.TEXT_WIDTH+2 and y1<=606,
+                    check(x0>=expected_left-2 and x1<=expected_left+book.TEXT_WIDTH+2 and y1<=book.FLOOR+2.64,
                           f'Text outside type area page {number}: {span["text"]}')
         if record['opening'] and len(opening_baselines) >= 2:
             check(abs(opening_baselines[1]-opening_baselines[0]-13.55)<.02,
@@ -140,6 +141,7 @@ def validate(pdf):
     report={'passed':not errors,'errors':errors,'physical_pages':len(doc),
             'story_pages':sum(bool(p['chapter']) for p in manifest['pages']),
             'chapters':32,'source_words':manifest['source_words'],
+            'source':manifest['source'],'pdf':pdf.name,'trim_points':[book.WIDTH,book.HEIGHT],
             'source_sha256':manifest['source_sha256'],'pdf_sha256':book.digest(pdf),
             'text_comparison':'NFKC, excluding whitespace and discretionary/literal hyphens; all other characters compared in order',
             'matching_normalized_characters':len(a) if a==b else None,
@@ -175,7 +177,15 @@ def validate(pdf):
             sheet.paste(thumb,(x,y));draw.text((x,y+325),f'PDF {start+offset+1}',fill='black')
         sheet.save(proof_dir/f'contact-{start//48+1:02d}.jpg',quality=85)
     # A focused packet, not a substitute for the complete PDF.
-    selected={0,2,3,4,len(doc)-2}
+    selected={0,2,3,4,len(doc)-2,len(doc)-1}
+    densest_system_page=max(manifest['pages'],
+                            key=lambda p:sum(b['kind']=='system' for b in p['blocks']))
+    selected.add(densest_system_page['pdf_page']-1)
+    chapter_endings=[p for p,following in zip(manifest['pages'],manifest['pages'][1:])
+                    if p['chapter'] and p['chapter'] != following['chapter']]
+    shortest_ending=min(chapter_endings,
+                        key=lambda p:p['blocks'][-1]['top']+p['blocks'][-1]['height'])
+    selected.add(shortest_ending['pdf_page']-1)
     for p in manifest['pages']:
         if p['opening'] and p['chapter'] in (9,10,11,12,24,30,32):
             selected.update((p['pdf_page']-1,p['pdf_page']))

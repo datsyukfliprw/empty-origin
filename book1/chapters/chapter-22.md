@@ -290,7 +290,7 @@ At night I open the measure.
 
 Fifteen. Three to go. I sit with it for a while, and the word under the run has stopped feeling like a label somebody stuck on me while I was unconscious.
 
-Warder. Whatever the System means by it, what it has cost me so far is a shield with a bite out of it, an ankle I cannot trust on uneven ground, and the specific knowledge of what happens when I hold something one second longer than I should. Today I let go of a sleeve I badly wanted to keep hold of, and the frame is in two pieces in two worlds, and Iven is still behind a wall.
+Warder. Whatever the System means by it, what it has cost me so far is a shield with a bite out of it, an ankle I cannot trust on uneven ground, and the specific knowledge of what happens when I hold something one second longer than I should. Today I let go of a sleeve I badly wanted to keep hold of, and the frame is in two pieces on opposite sides of the boundary, and Iven is still behind a wall.
 
 Tomorrow we do not rescue him. Tomorrow we find out why we failed.
 

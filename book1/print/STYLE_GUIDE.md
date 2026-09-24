@@ -1,21 +1,22 @@
 # Empty Origin — Print Interior Style Guide
 
-**Production update (September 24, 2026):** The complete automated interior and
-review files are documented in [README.md](README.md). The author's subsequent
-artwork correction makes `../../layout_sample.jpeg` authoritative for the ring
-and opener proportions. The ring is now traced from that image, replacing the
-rejected simplified substitute. Use the [production README](README.md) for corrected
-opener measurements and the [Scribus kit](EMPTY_ORIGIN_SCRIBUS_MASTER_KIT/STYLE_GUIDE.md)
-for body typography and margins. Illustrative prose and location labels in the
-sample do not override the frozen manuscript.
+**Production update (September 24, 2026):** The author selected **5.5 × 8.5 in**.
+The complete 366-page interior and regenerated proofs are documented in
+[README.md](README.md). The ring remains traced from `../../layout_sample.jpeg`;
+the opener has been recomposed for the smaller trim. The approved September 24
+print snapshot supplies the prose and metadata. The Scribus kit is a historical
+6 × 9 starter; the Python builder is the current complete editable layout.
 
-**Reference authority:** `Empty_Origin_Chapter_Opener_6x9.pdf` approved September 22, 2026.
+**Visual authority:** `layout_sample.jpeg`, supplied for the September 24 ring
+correction. Dimensions below govern its adaptation to the selected trim.
 
 ## Format
-- Trim: **6 × 9 in**
+- Trim: **5.5 × 8.5 in** (396 × 612 pt)
 - Interior: black-and-white, designed for cream stock
 - Fiction body: traditional serif, justified
-- Body target: **10.5–10.75 pt**, approximately **13–13.5 pt leading**
+- Body: **EB Garamond 11.35 pt / 13.55 pt leading**
+- Mirrored margins: 0.76 in inside, 0.62 in outside; 0.54 in top, 0.62 in bottom
+- Text column: 4.12 in; paragraph indent: 14.5 pt
 - First paragraph after a chapter opener or scene break: flush left
 - Subsequent paragraphs: first-line indent, no extra paragraph spacing
 - Page number: small serif, centered in footer
@@ -25,28 +26,31 @@ sample do not override the frozen manuscript.
 The approved reference is the visual target, not merely inspiration.
 
 1. **Distressed aperture ring**
-   - Large, centered, approximately **1.5–1.65 in** across in print.
+   - Centered over the text column, **170 pt** overall width including splatter;
+     top at **20 pt** from the page edge.
    - Organic broken/inked perimeter with small radial fractures and splatter.
    - Must retain substantially more visual weight than the simplified circle used in the rejected full-book build.
 2. **Chapter numeral**
    - Tall, elegant serif numeral centered inside the ring.
-   - Approximately **32–38 pt** depending on numeral width.
+   - **Noto Serif 47 pt**, centered; baseline **123 pt** from the top.
 3. **Chapter heading**
    - `CHAPTER TWELVE` style, serif capitals with deliberate tracking.
    - Centered.
-   - Approximately **14–16 pt**.
+   - **18 pt EB Garamond**, with up to 7 pt tracking reduced to fit long headings;
+     baseline **201 pt** from the top.
 4. **Metadata**
    - Two centered lines beneath the heading:
-     `[ LOCATION: GREYWARD ]`
+     `[ LOCATION: ROOK ]`
      `[ RUN: WARDER ]`
-   - Narrow/condensed sans or restrained monospaced treatment.
-   - Approximately **8–9 pt**, with generous tracking.
+   - Noto Sans Condensed.
+   - **9.15 pt**, 2 pt tracking; baselines **231 pt** and **249 pt** from the top.
    - Metadata is quiet secondary information, not a HUD box.
 5. **Sink**
-   - Opening prose begins around the upper-middle of the page, matching the reference.
+   - Opening paragraph flow begins **264 pt** from the top, retaining the reference’s generous sink.
    - Preserve white space. Do not compress the opener into the top quarter of the page.
 6. **Opening paragraph**
-   - Modest drop cap on the first letter, matching the reference.
+   - **31 pt raised initial**, including quoted openings, with ordinary baseline
+     spacing below the first line.
    - First paragraph otherwise flush left.
 
 ## System typography
@@ -73,7 +77,9 @@ The approved reference is the visual target, not merely inspiration.
 - Preserve widows/orphans where practical.
 - Avoid loose justification and rivers; hyphenation/line-breaking should be tuned in final preflight.
 - No content edits are introduced by typesetting.
-- The frozen manuscript remains the textual authority.
+- The September 24 print snapshot is the textual authority for this layout;
+  it must match the active chapters and working draft. The September 20 frozen
+  beta/ARC master remains a separate historical release.
 - Final PDF must be rendered and visually inspected before release.
 
 

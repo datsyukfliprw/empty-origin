@@ -1,11 +1,13 @@
 # Rescue mechanics — writer's working model
 
-## Completed-book ARC clarifications (September 19, 2026)
+## Current mechanics clarifications (updated September 24, 2026)
 
 - **Brace remains contact-based.** Chapter 24 loads the stopped sweep arm through Maya’s forearms, body and feet on a fixed sill. Chapter 25 uses the reachable diagonal stay of the track bracket. Chapter 29 uses the near anchor shoe with both feet on its stone bed. No remote holding, wall-penetrating target acquisition, healing, refill, or ability that freezes the boundary has been added.
 - **Contact is visual until Chapter 28.** Chapters 26–27 use mirror/slate and runner relay from the upper gallery; Maya remains at the ground-floor kitchen table. At the start of Chapter 28, Dain verifies ordinary audible exchange from the unobstructed lower ledge. Slates remain necessary for the upper gallery and narrowing intervals.
 - **Floor marks are not interchangeable.** A slash only passes a light-object test; a circle records a plate holding a person. Tolliver’s seventh plate was provisional. The circled plates used to retreat remain seated. No certified-stable plate fails and is ignored during the continuation into the upper route.
 - **Trolley sequence:** empty trolley is brought near; Harra carries the table rails and salvage; it catches short of the far landing; contact Brace and release let the bracket settle and clear the damaged joint; Harra arrives once and completes footing; passengers cross singly; the final brake load is transferred to the far-side return line before Tolliver rides.
+
+- **Retry rules are revised before rescue day.** Chapter 27 replaces the first test’s blanket no-retry condition with failure diagnosis/repair, inspection of every loaded part and the supports, fresh unoccupied testing, and Iven’s choice. Chapters 28–29 apply those conditions before the second human attempt. This does not establish a universal safe interval.
 
 The historical sections below describe earlier checkpoints and proposals. The completed chapter files and the clarifications above govern later continuation.
 

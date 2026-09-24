@@ -744,7 +744,7 @@ I put my hand up over my own head. Nothing. Of course nothing. I did this at daw
 
 “Because I set it.”
 
-Cold climbs my chest and it has nothing to do with the water or the shirt. I have been in this world since yesterday afternoon. I crouched in a rotted trunk and bled into the mud and stood in a clearing screaming for help, and every second of it happened underneath my own name, hung in the air over my head in letters bright enough to read across a clearing, in a place where every living person learned to cover theirs before they learned to read them.
+Cold climbs my chest and it has nothing to do with the water or the shirt. I have been in this world since yesterday afternoon. I crouched in a rotted trunk and bled into the mud and stood in a clearing screaming for my father, and every second of it happened underneath my own name, hung in the air over my head in letters bright enough to read across a clearing, in a place where every living person learned to cover theirs before they learned to read them.
 
 “How far away can you see it?”
 
@@ -1044,9 +1044,7 @@ That is the part I will remember. He puts me on a stool in a room off the market
 
 “I know,” I say.
 
-Tolliver counts small metal into her palm. She names another amount, and his thumb stops against the mouth of his purse. His eyes come to me. I start to draw my foot under the stool, but the new skin pulls and I leave it where it is.
-
-He puts down the rest. The mender counts it back.
+Tolliver counts small metal into her palm. Not a lot. Enough that she counts it back.
 
 Then a stall for boots, and he pays. Then a woman with a chest of secondhand clothes, and he pays, and a skirt and a shift and a woolen thing with sleeves come out of it, none of which fit, all of which are dry. Then bread, and something hot in a folded leaf, and he pays for that too, and I eat it standing up in the street with tears going down my face and I do not care in the slightest who is watching.
 
@@ -1220,13 +1218,11 @@ Does the level make her stronger? Or is Hand more than a label? I look at my pal
 
 I do not know. The gray-bearded man catches me watching and points away from the plank. I move before he has to say it.
 
-Back in the market, I stop beside a woman trying to serve three people at once. One has money ready. Another is still choosing. She turns to him, and the first customer starts looking down the row for somewhere else to spend it.
-
-I have watched that happen over an espresso machine while my manager sent the second barista to mop. My arms are still shaking. I tuck my hands under them and start walking the stalls.
+So I put that where I put everything, and I go back into the market to sell my brain instead.
 
 ---
 
-The market has two rows of stalls with customers crowded between them. I walk the whole length once, looking for a seller who needs help badly enough to let a stranger try.
+The market has two rows of stalls with customers crowded between them. I walk the whole length of it once, and by the end of the row I have stopped looking at goods and started looking at queues.
 
 Halfway down the row, a customer puts something back and leaves before the seller can reach him. I stop there.
 
@@ -2800,7 +2796,7 @@ Tolliver goes. There is a window above Bertran’s shoulder, too narrow to climb
 
 “Where are you from?”
 
-“Missouri.”
+“Kansas City.”
 
 “Whose territory?”
 
@@ -2808,7 +2804,7 @@ Tolliver goes. There is a window above Bertran’s shoulder, too narrow to climb
 
 “That wasn’t the question.”
 
-I swallow. “The United States.”
+I swallow. “Missouri. In the United States.”
 
 Ordway says nothing. No little noise, no helpful interruption. I am grateful enough to hurt.
 
@@ -3740,7 +3736,7 @@ She could fix this sack in five minutes. She’d turn it inside out first and as
 
 I put my wrapped hand over my mouth.
 
-On Earth someone may be trying to find me. Liam heard me fall. He knows my first and last name. He knows what city I live in. I cannot remember whether I ever gave him my apartment number.
+On Earth someone may be trying to find me. Liam heard me fall. He knows my first and last name. He knows Kansas City. I cannot remember whether I ever gave him my apartment number.
 
 I try to reconstruct every conversation we’ve had about food delivery until it does something ugly to my breathing.
 
@@ -8742,7 +8738,7 @@ At night I open the measure.
 
 Fifteen. Three to go. I sit with it for a while, and the word under the run has stopped feeling like a label somebody stuck on me while I was unconscious.
 
-Warder. Whatever the System means by it, what it has cost me so far is a shield with a bite out of it, an ankle I cannot trust on uneven ground, and the specific knowledge of what happens when I hold something one second longer than I should. Today I let go of a sleeve I badly wanted to keep hold of, and the frame is in two pieces on opposite sides of the boundary, and Iven is still behind a wall.
+Warder. Whatever the System means by it, what it has cost me so far is a shield with a bite out of it, an ankle I cannot trust on uneven ground, and the specific knowledge of what happens when I hold something one second longer than I should. Today I let go of a sleeve I badly wanted to keep hold of, and the frame is in two pieces in two worlds, and Iven is still behind a wall.
 
 Tomorrow we do not rescue him. Tomorrow we find out why we failed.
 
@@ -9254,13 +9250,13 @@ She sighs. “So. Holes and occupants.”
 
 It takes less time than I expect to understand the corridor.
 
-Movement makes the things below curious. Weight makes them test a plate. Repeated impact gathers them. Harra marks a route along the wall. A slash means a stone passed her light test; Tolliver has to ease his weight onto it before she closes the mark into a circle. An X means nobody steps there.
+Movement makes the things below curious. Weight makes them test a plate. Repeated impact gathers them. Harra marks a route along the wall, testing each stone enough to know which ones shift and which ones stay put. We do not need a taxonomy. A chalk circle means a person has crossed it safely. An X means nobody steps there.
 
 Tolliver goes first, Harra second, me third, Sella last.
 
 Six plates hold.
 
-The seventh still has a slash. Tolliver eases one foot forward and the stone lowers beneath him by the width of a finger.
+On the seventh, Tolliver eases one foot forward and the stone lowers beneath him by the width of a finger.
 
 “Stop.”
 
@@ -10030,9 +10026,7 @@ Harra does not even look up from the line. “You are done walking.”
 
 “I had reached a similar conclusion.”
 
-Harra takes the return line around a far-side iron post and draws it tight. Tolliver eases the capstan brake until the line carries the empty trolley. It holds. Only then does he leave the capstan and climb aboard, while Harra and Sella control his crossing from our side.
-
-By the time he reaches us, my boot is loosened and the wrap half off. He looks once at the ankle, jaw tight, and turns to help Harra secure the trolley.
+Tolliver crosses last. By the time he reaches us, Sella has my boot loosened and the wrap half off. He looks once at the ankle, jaw tight, and turns to help Harra secure the trolley.
 
 I am grateful enough not to make a joke about it.
 
@@ -11400,25 +11394,11 @@ Outside, under canvas, the full rescue frame is finally assembled: longer than t
 
 I am allowed to watch the dry tests from the doorway, in the chair again with my foot up while everyone else gets to touch the machinery.
 
-Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the rescue belt and tether. I call hold or release.
+Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the person crossing. I call hold or release.
 
 That last line makes my stomach feel hollow.
 
 Nobody comments.
-
-Mara lays the first test’s rules beside the new board. Her no-second-try line is still there.
-
-“And if we lose another part?” she asks.
-
-“We stop,” Harra says. “I inspect every piece that took load. Dain checks the stone. If we can’t find the cause and repair it, we’re done.”
-
-“Even if the opening stays wide.”
-
-“Yes. Any changed frame starts its tests again without a person on it.”
-
-Mara writes that beneath the old rule, then crosses the old line through. “Iven decides whether he tries again. Not his tank. Not our clock.”
-
-Dain takes the amended sheet upstairs to show him before we test anything else.
 
 ---
 
@@ -12332,7 +12312,7 @@ Harra studies the damaged brace.
 
 “I have it.”
 
-Mara says, “The rule still holds. Every loaded part. The stone. Then the tests.”
+Mara says, “No second human attempt without full inspection.”
 
 “Yes,” I say.
 
@@ -12386,19 +12366,13 @@ But I get the board.
 
 CHAPTER TWENTY-NINE
 
-Harra lays the recovered pieces on cloth while Dain and Oret check the supports and wait for the vibration pointer to settle. She examines the spring housing, both latches, the chain and every pin that took load. The housing is scored where the lip bound; she dresses it and checks it again before setting it with the usable pieces. The cut crossbrace goes on a separate cloth.
-
-Dain comes back from the wall. “No fresh movement at the supports. Pointer’s stayed quiet.”
-
-Iven has checked his landing too. When Mara asks whether he wants another attempt if the rebuilt frame passes, he says yes.
-
 The second frame is less of a frame.
 
 That is progress.
 
 Harra replaces the rigid near clamp with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free without a deliberate release. Oret replaces the cut crossbrace while Dain watches the stone for any answer from below.
 
-The first unloaded pass is ugly. The near sleeve slides too fast, so Harra adds friction leather. After the adjustment, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They repeat the loaded cycle five more times.
+The first dry cycle is ugly. The near sleeve slides too fast, so Harra adds friction leather. By the fourth, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They run it twice more.
 
 No knock comes from below.
 
@@ -13608,7 +13582,7 @@ She bends and kisses my forehead. Then my mouth. One last time.
 
 “Tomorrow too.”
 
-The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. She holds them there until I raise two fingers back. Still here. The wagon passes through the gate. Gone. The yard looks larger.
+The driver calls again. Sella turns. Walks to the wagon. Climbs in. She does not look back immediately. I am grateful. If she did, I might ask. The wagon starts toward the gate. At the last turn, she twists around and finds me. Two fingers touch her mouth and lift. Not exactly a kiss. Our stupid signal from the East Relief safe room. Still here. I raise two fingers back. The wagon passes through the gate. Gone. The yard looks larger.
 
 I sit on the wall until the sound of wheels disappears. Then longer. Tolliver does not come over. Nobody does. Good. For once, everyone lets something hurt without trying to fix it.
 
@@ -13762,7 +13736,7 @@ I put the tie in the top drawer beside my Earth shirt. Then I leave the drawer o
 
 ---
 
-On the seventh evening, after the mender clears the short ladder, I take bread to the pantry roof.
+On the eighth evening, after the mender clears the short ladder, I take bread to the pantry roof.
 
 The onions are still there.
 
@@ -13852,7 +13826,7 @@ She would hate that.
 
 ---
 
-On the eighth night after Sella leaves, I find Tolliver in the yard splitting kindling.
+On the ninth night after Sella leaves, I find Tolliver in the yard splitting kindling.
 
 His shirt sleeves are rolled. His forearms are doing deeply unnecessary things.
 
@@ -15072,7 +15046,7 @@ She nods. She knows exactly why. I slide three pieces and four bits back across 
 
 “Now the card.”
 
-Everything in me sharpens. Vey stops smiling. We have been reading Elena Ruth Mercer’s words in this room for weeks. Missouri. Independence. A face on flexible plastic. Proof that I was not the first person from Earth to end up somewhere impossible. Mara sets the card on the table inside a folded square of clean linen. I do not reach for it. I have learned at least one thing about disputed property.
+Everything in me sharpens. Vey stops smiling. Elena Ruth Mercer has been in this room for months without ever physically being here. Missouri. Independence. A face on flexible plastic. Proof that I was not the first person from Earth to end up somewhere impossible. Mara sets the card on the table inside a folded square of clean linen. I do not reach for it. I have learned at least one thing about disputed property.
 
 “The local review is complete,” Pell says.
 
@@ -15242,11 +15216,11 @@ Tolliver finally speaks.
 
 “She knows you now.”
 
-Vey looks wounded. I feel nothing. We work through the rest. No automatic claim to personal finds. No entry into sealed lower works without a separate agreement. No exclusivity on route knowledge. Food and lodging covered. Return allowance can become cash. Assigned-work injuries covered. I can stop if the road becomes materially different from what the contract describes. The questions come easily now. When I reached Greyward, I would not have known to ask half of them. The System has never given me progress for reading a contract twice.
+Vey looks wounded. I feel nothing. We work through the rest. No automatic claim to personal finds. No entry into sealed lower works without a separate agreement. No exclusivity on route knowledge. Food and lodging covered. Return allowance can become cash. Assigned-work injuries covered. I can stop if the road becomes materially different from what the contract describes. The questions come easily now. Months ago, I would not have known to ask half of them. The System has never given me progress for reading a contract twice.
 
 Probably for the best.
 
-“I’m taking this away to read first.”
+“I’m not signing today.”
 
 Vey looks almost proud.
 

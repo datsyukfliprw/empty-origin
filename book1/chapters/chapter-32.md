@@ -112,7 +112,7 @@ She nods. She knows exactly why. I slide three pieces and four bits back across 
 
 “Now the card.”
 
-Everything in me sharpens. Vey stops smiling. Elena Ruth Mercer has been in this room for months without ever physically being here. Missouri. Independence. A face on flexible plastic. Proof that I was not the first person from Earth to end up somewhere impossible. Mara sets the card on the table inside a folded square of clean linen. I do not reach for it. I have learned at least one thing about disputed property.
+Everything in me sharpens. Vey stops smiling. We have been reading Elena Ruth Mercer’s words in this room for weeks. Missouri. Independence. A face on flexible plastic. Proof that I was not the first person from Earth to end up somewhere impossible. Mara sets the card on the table inside a folded square of clean linen. I do not reach for it. I have learned at least one thing about disputed property.
 
 “The local review is complete,” Pell says.
 
@@ -282,11 +282,11 @@ Tolliver finally speaks.
 
 “She knows you now.”
 
-Vey looks wounded. I feel nothing. We work through the rest. No automatic claim to personal finds. No entry into sealed lower works without a separate agreement. No exclusivity on route knowledge. Food and lodging covered. Return allowance can become cash. Assigned-work injuries covered. I can stop if the road becomes materially different from what the contract describes. The questions come easily now. Months ago, I would not have known to ask half of them. The System has never given me progress for reading a contract twice.
+Vey looks wounded. I feel nothing. We work through the rest. No automatic claim to personal finds. No entry into sealed lower works without a separate agreement. No exclusivity on route knowledge. Food and lodging covered. Return allowance can become cash. Assigned-work injuries covered. I can stop if the road becomes materially different from what the contract describes. The questions come easily now. When I reached Greyward, I would not have known to ask half of them. The System has never given me progress for reading a contract twice.
 
 Probably for the best.
 
-“I’m not signing today.”
+“I’m taking this away to read first.”
 
 Vey looks almost proud.
 

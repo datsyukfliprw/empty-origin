@@ -6,6 +6,21 @@
 **Chapters:** 32  
 **Whitespace-counted words:** 96,693  
 
+## Active working revision — September 24, 2026
+
+The author-selected `alternates/chapter-01-alt.md` remains the active Chapter One.
+A subsequent manuscript review, followed by the available September 24 cold
+review, produced focused changes in Chapters 4–6, 9, 11, 22, 24–25, 27–30 and 32.
+See [the revision record](REVISION_2026-09-24.md) for changes and review coverage.
+The requested new alternate-beginning reviews are still unavailable.
+
+The active working draft contains **97,048 words across 32 chapters**. It is not
+a new frozen release candidate. The September 20 master below remains unchanged.
+
+`print/sources/EMPTY_ORIGIN_PRINT_MASTER_2026-09-24.md` preserves the earlier
+96,691-word snapshot with the accepted Chapter One and no later chapter changes.
+The existing print interiors do not include this subsequent editorial pass.
+
 ## Frozen manuscript
 
 **Master file:** `book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md`  

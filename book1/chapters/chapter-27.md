@@ -296,11 +296,25 @@ Outside, under canvas, the full rescue frame is finally assembled: longer than t
 
 I am allowed to watch the dry tests from the doorway, in the chair again with my foot up while everyone else gets to touch the machinery.
 
-Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the person crossing. I call hold or release.
+Harra has written the roles on a board. Iven controls the far catch. Harra the near release. Tolliver the haul line. Sella the rescue belt and tether. I call hold or release.
 
 That last line makes my stomach feel hollow.
 
 Nobody comments.
+
+Mara lays the first test’s rules beside the new board. Her no-second-try line is still there.
+
+“And if we lose another part?” she asks.
+
+“We stop,” Harra says. “I inspect every piece that took load. Dain checks the stone. If we can’t find the cause and repair it, we’re done.”
+
+“Even if the opening stays wide.”
+
+“Yes. Any changed frame starts its tests again without a person on it.”
+
+Mara writes that beneath the old rule, then crosses the old line through. “Iven decides whether he tries again. Not his tank. Not our clock.”
+
+Dain takes the amended sheet upstairs to show him before we test anything else.
 
 ---
 

@@ -164,7 +164,9 @@ That is the part I will remember. He puts me on a stool in a room off the market
 
 “I know,” I say.
 
-Tolliver counts small metal into her palm. Not a lot. Enough that she counts it back.
+Tolliver counts small metal into her palm. She names another amount, and his thumb stops against the mouth of his purse. His eyes come to me. I start to draw my foot under the stool, but the new skin pulls and I leave it where it is.
+
+He puts down the rest. The mender counts it back.
 
 Then a stall for boots, and he pays. Then a woman with a chest of secondhand clothes, and he pays, and a skirt and a shift and a woolen thing with sleeves come out of it, none of which fit, all of which are dry. Then bread, and something hot in a folded leaf, and he pays for that too, and I eat it standing up in the street with tears going down my face and I do not care in the slightest who is watching.
 

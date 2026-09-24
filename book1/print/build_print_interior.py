@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the frozen book with the supplied reference artwork, without GUI or network.
+"""Build the 5.5 × 8.5 book from the approved print snapshot, without GUI or network.
 Long paragraphs may continue at sentence boundaries: sentences never cross page turns.
 """
 from __future__ import annotations
@@ -18,15 +18,19 @@ from svglib.svglib import svg2rlg
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parents[1]
-MASTER = ROOT / 'book1/frozen/EMPTY_ORIGIN_BETA_ARC_MASTER_2026-09-20.md'
-OUTPUT = HERE / 'EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf'
+MASTER = HERE / 'sources/EMPTY_ORIGIN_PRINT_MASTER_2026-09-24.md'
+OUTPUT = HERE / 'EMPTY_ORIGIN_5.5x8.5_PRINT_INTERIOR.pdf'
 RING = HERE / 'assets/aperture_from_reference.svg'
 FONTS = HERE / 'assets/fonts'
-WIDTH, HEIGHT = 432., 648.
+WIDTH, HEIGHT = 396., 612.
 INSIDE, OUTSIDE, TOP, BOTTOM = 54.72, 44.64, 38.88, 44.64
 TEXT_WIDTH = WIDTH - INSIDE - OUTSIDE
 FLOOR = HEIGHT - BOTTOM
-OPENING_TOP = 300.
+OPENING_TOP = 264.
+OPENER = {'ring_top': 20., 'ring_width': 170., 'numeral_baseline': 123.,
+          'numeral_size': 47., 'chapter_title_baseline': 201.,
+          'chapter_title_size': 18., 'location_baseline': 231.,
+          'run_baseline': 249., 'opening_flow_top': OPENING_TOP}
 WORDS = ('ONE TWO THREE FOUR FIVE SIX SEVEN EIGHT NINE TEN ELEVEN TWELVE '
          'THIRTEEN FOURTEEN FIFTEEN SIXTEEN SEVENTEEN EIGHTEEN NINETEEN TWENTY '
          'TWENTY-ONE TWENTY-TWO TWENTY-THREE TWENTY-FOUR TWENTY-FIVE '
@@ -66,7 +70,7 @@ def load_chapters():
     raw = MASTER.read_text(encoding='utf-8')
     chunks = re.split(r'(?m)^CHAPTER ([A-Z -]+)\n', raw)
     if chunks[0].strip() or len(chunks) != 65:
-        raise ValueError('Expected exactly 32 chapters in frozen master')
+        raise ValueError('Expected exactly 32 chapters in print master')
     chapters = []
     for n in range(1, 33):
         heading, text = chunks[2*n-1:2*n+1]
@@ -76,7 +80,9 @@ def load_chapters():
     current = '\n\n'.join(p.read_text().strip() for p in
                            sorted((ROOT/'book1/chapters').glob('chapter-*.md')))
     if raw.split() != current.split():
-        raise ValueError('Active chapters differ from frozen master; select a new approved master explicitly')
+        raise ValueError('Active chapters differ from print master; select a new approved master explicitly')
+    if raw.split() != (ROOT/'book1/WORKING_DRAFT.md').read_text().split():
+        raise ValueError('Working draft differs from print master')
     return chapters
 
 def setup_fonts():
@@ -307,7 +313,7 @@ class Interior:
                              initialFontName='Body')
         self.canvas.setTitle('Empty Origin')
         self.canvas.setAuthor('Nora Whitcomb')
-        self.canvas.setSubject('6 × 9 inch interior — frozen September 20, 2026 master')
+        self.canvas.setSubject('5.5 × 8.5 inch interior — September 24, 2026 print master')
         self.ring = svg2rlg(str(RING))
         self.ring.initialFontName = 'Body'
         # Reuse the exact traced artwork as a PDF form on every page.
@@ -346,13 +352,15 @@ class Interior:
             center = self.left+TEXT_WIDTH/2
             c.bookmarkPage(f'chapter-{chapter}')
             c.addOutlineEntry(f'Chapter {WORDS[chapter-1].title()}', f'chapter-{chapter}', 0)
-            self.ring_at(center, 23, 190)
-            c.setFont('Numeral', 52)
-            c.drawCentredString(center, HEIGHT-138, str(chapter))
-            tracked(c, 'CHAPTER '+WORDS[chapter-1], center, HEIGHT-225, 'Body', 20, 8)
-            tracked(c, '[ LOCATION: '+LOCATIONS[chapter]+' ]', center, HEIGHT-259, 'System', 9.15, 2)
+            self.ring_at(center, OPENER['ring_top'], OPENER['ring_width'])
+            c.setFont('Numeral', OPENER['numeral_size'])
+            c.drawCentredString(center, HEIGHT-OPENER['numeral_baseline'], str(chapter))
+            tracked(c, 'CHAPTER '+WORDS[chapter-1], center,
+                    HEIGHT-OPENER['chapter_title_baseline'], 'Body', OPENER['chapter_title_size'], 7)
+            tracked(c, '[ LOCATION: '+LOCATIONS[chapter]+' ]', center,
+                    HEIGHT-OPENER['location_baseline'], 'System', 9.15, 2)
             run = 'UNSET' if chapter <= 10 else 'WARDER'
-            tracked(c, '[ RUN: '+run+' ]', center, HEIGHT-279, 'System', 9.15, 2)
+            tracked(c, '[ RUN: '+run+' ]', center, HEIGHT-OPENER['run_baseline'], 'System', 9.15, 2)
 
     def draw_group(self, group):
         self.page['units'].append([b.index for b in group])
@@ -371,9 +379,9 @@ class Interior:
     def build(self, chapters, sty):
         self.new_page(front='title')
         c = self.canvas
-        self.ring_at(WIDTH/2, 150, 78)
-        tracked(c, 'EMPTY ORIGIN', WIDTH/2, 350, 'Body', 29, 1.5)
-        tracked(c, 'NORA WHITCOMB', WIDTH/2, 307, 'Body', 13, 1.4)
+        self.ring_at(WIDTH/2, 140, 74)
+        tracked(c, 'EMPTY ORIGIN', WIDTH/2, HEIGHT-282, 'Body', 29, 1.5)
+        tracked(c, 'NORA WHITCOMB', WIDTH/2, HEIGHT-325, 'Body', 13, 1.4)
         self.new_page(front='blank verso')
         for n, parts in enumerate(chapters, 1):
             self.new_page(n, opening=True)
@@ -416,10 +424,9 @@ def main():
                 'trim_points': [WIDTH, HEIGHT],
                 'fonts': {filename: digest(FONTS/filename) for filename in names.values()},
                 'ring_source': str(RING.relative_to(ROOT)), 'ring_sha256': digest(RING),
-                'opener_geometry': {'ring_top': 23, 'ring_width': 190,
-                                    'chapter_title_baseline': 225,
-                                    'location_baseline': 259, 'run_baseline': 279,
-                                    'opening_flow_top': OPENING_TOP},
+                'margins_points': {'inside': INSIDE, 'outside': OUTSIDE,
+                                   'top': TOP, 'bottom': BOTTOM},
+                'opener_geometry': OPENER,
                 'pages': book.pages}
     args.output.with_suffix('.manifest.json').write_text(json.dumps(manifest, indent=2)+'\n')
     print(f'{args.output}: {len(book.pages)} pages; {len(chapters)} chapters')

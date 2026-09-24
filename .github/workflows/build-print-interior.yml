@@ -5,6 +5,7 @@ on:
       - 'book1/print/**'
       - 'book1/frozen/**'
       - 'book1/chapters/**'
+      - 'book1/WORKING_DRAFT.md'
       - 'layout_sample.jpeg'
       - '.github/workflows/build-print-interior.yml'
   workflow_dispatch:
@@ -25,10 +26,10 @@ jobs:
       - run: python book1/print/validate_print_interior.py
       - uses: actions/upload-artifact@v4
         with:
-          name: empty-origin-6x9-print-interior
+          name: empty-origin-5.5x8.5-print-interior
           path: |
-            book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.pdf
-            book1/print/EMPTY_ORIGIN_6x9_PRINT_INTERIOR.manifest.json
+            book1/print/EMPTY_ORIGIN_5.5x8.5_PRINT_INTERIOR.pdf
+            book1/print/EMPTY_ORIGIN_5.5x8.5_PRINT_INTERIOR.manifest.json
             book1/print/PRINT_VALIDATION.json
             book1/print/proofs/*.pdf
             book1/print/proofs/contact-*.jpg

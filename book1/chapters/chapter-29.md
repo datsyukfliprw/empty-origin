@@ -1,12 +1,18 @@
 CHAPTER TWENTY-NINE
 
+Harra lays the recovered pieces on cloth while Dain and Oret check the supports and wait for the vibration pointer to settle. She examines the spring housing, both latches, the chain and every pin that took load. The housing is scored where the lip bound; she dresses it and checks it again before setting it with the usable pieces. The cut crossbrace goes on a separate cloth.
+
+Dain comes back from the wall. “No fresh movement at the supports. Pointer’s stayed quiet.”
+
+Iven has checked his landing too. When Mara asks whether he wants another attempt if the rebuilt frame passes, he says yes.
+
 The second frame is less of a frame.
 
 That is progress.
 
 Harra replaces the rigid near clamp with a captured sleeve that can travel one finger along the anchor bar. The far shoe still has two. Both ends can move; neither can come free without a deliberate release. Oret replaces the cut crossbrace while Dain watches the stone for any answer from below.
 
-The first dry cycle is ugly. The near sleeve slides too fast, so Harra adds friction leather. By the fourth, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They run it twice more.
+The first unloaded pass is ugly. The near sleeve slides too fast, so Harra adds friction leather. After the adjustment, a deliberately skewed load settles instead of twisting and the vibration falls on its own. They repeat the loaded cycle five more times.
 
 No knock comes from below.
 

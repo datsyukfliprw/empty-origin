@@ -140,7 +140,7 @@ I stop breathing.
 
 My fingers stay pressed to my throat. I read the name again, all the way through, before I remember to let the air out.
 
-Szczepaniak. Spelled right. At work my manager wrote SHEP on my cup. Here, in a script I could not have read yesterday, every letter of my father’s name is accounted for.
+Szczepaniak. Spelled right. At work my manager wrote SHEP on my cup. Here, in a script I could not have read yesterday, every letter is accounted for.
 
 Something has been keeping track of me.
 
@@ -168,7 +168,7 @@ Underneath the level there is a colon and then a clean pale gap where a word sho
 
 “I know.”
 
-He does not ask why, which is its own small mercy, and he does not make a performance of it either. He just reads it out. Maya Szczepaniak. Chef who lost the F, then pan, then the hairy cow, every consonant landing where my father lands them, the whole ridiculous machine of it running clean off the tongue of a man who has never heard of any of those things.
+He does not ask why, which is its own small mercy, and he does not make a performance of it either. He just reads it out. Maya Szczepaniak. No pause, no run at it, no chef or hairy cow required. It comes off his tongue like he’s been saying it all his life.
 
 Nobody gets it the first time. In nineteen years, nobody has ever once gotten it the first time.
 

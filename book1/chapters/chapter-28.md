@@ -600,7 +600,7 @@ Harra studies the damaged brace.
 
 “I have it.”
 
-Mara says, “No second human attempt without full inspection.”
+Mara says, “The rule still holds. Every loaded part. The stone. Then the tests.”
 
 “Yes,” I say.
 
